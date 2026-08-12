@@ -36,6 +36,23 @@ def test_verified_marketplace_triage_is_attached_to_matching_listing():
     assert row["risk_flags"] == ["accessories_unconfirmed"]
 
 
+def test_listing_triage_can_supply_an_authoritative_best_fit_score():
+    payload = build_site_payload(
+        facebook={"as_of": "2026-08-12T00:00:00Z", "listings": [{
+            "listing_id": "reviewed", "title": "Focusrite Scarlett 4i4", "price_text": "$99"
+        }]},
+        craigslist={"accepted": []}, shortlist={"scored": []}, sold={"listings": []},
+        marketplace_triage={"listings": {"reviewed": {
+            "model": "Focusrite Scarlett 4i4 (3rd Gen)", "score": 91, "fit_rank": 1,
+            "recommendation": "buy",
+        }}},
+    )
+    row = payload["listings"][0]
+    assert row["score"] == 91.0
+    assert row["fit_rank"] == 1
+    assert row["recommendation"] == "buy"
+
+
 def test_categorize_title_prefers_audio_interface_over_generic_recording_terms():
     assert categorize_title("Native Instruments Komplete Audio 2 USB Audio Interface") == "interfaces"
 

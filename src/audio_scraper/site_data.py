@@ -277,8 +277,6 @@ def _attach_marketplace_triage(
 ) -> None:
     by_id = triage.get("listings", {})
     for record in records:
-        if record.get("source") != "facebook":
-            continue
         finding = by_id.get(record.get("listing_id"))
         if not finding:
             continue
@@ -294,6 +292,14 @@ def _attach_marketplace_triage(
                 "recommendation": finding.get("recommendation"),
             }
         )
+        # Listing-level triage can supersede an older shortlist score when a
+        # fresh Marketplace inspection has identified the exact unit and its
+        # compatibility/value evidence.  This prevents an unreviewed legacy
+        # listing from floating above newly reviewed modern alternatives.
+        if "score" in finding:
+            record["score"] = _score_value(finding.get("score"))
+        if "fit_rank" in finding:
+            record["fit_rank"] = finding.get("fit_rank")
 
 
 def _remove_price_dependent_guidance(records: Iterable[dict[str, Any]]) -> None:

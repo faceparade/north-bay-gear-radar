@@ -1,66 +1,65 @@
 {
   "as_of": "2026-08-12",
-  "method": "Read-only inspection of the authenticated listing pages and product photos. Asking prices remain separate from third-party used-value evidence.",
+  "method": "Read-only inspection of active Marketplace item pages, listing photos where available, and model-specific used-market/support evidence. `fit_rank` is category-specific for active audio interfaces; higher `score` is the dashboard's Best Fit sort value. Prices remain separate from third-party used-value evidence.",
   "listings": {
+    "1793308288687102": {
+      "model": "Focusrite Scarlett 4i4 (3rd Gen)",
+      "condition": "Exact generation appears in the listing title; functional condition and included cable/accessories remain to be verified at pickup.",
+      "accessories": "Not specified; verify USB cable and confirm all inputs, outputs, knob encoders, and headphone jack work.",
+      "windows_status": "Modern Focusrite USB interface with current Windows support; two mic preamps, four line inputs, balanced outputs, and MIDI make it a flexible recording foundation.",
+      "market": {"used_low": 109, "used_high": 165, "source": "Current Reverb used-market range", "url": "https://reverb.com/p/focusrite-scarlett-4i4-3rd-gen"},
+      "research_notes": "Best overall active interface value: $99 is below the reviewed $109–$165 used range and the 3rd Gen platform is a practical modern Windows choice. Test both preamps, all line I/O, headphones, USB connection, and MIDI before buying.",
+      "risk_flags": ["test_before_buy", "accessories_unconfirmed"], "recommendation": "buy", "fit_rank": 1, "score": 91.0
+    },
     "1624342312093126": {
       "model": "Steinberg UR22mkII",
       "condition": "Seller describes it as used-like-new and barely used; photos show light surface dust/wear but no obvious impact damage.",
       "accessories": "No USB cable, box, or power supply is shown or promised. It normally works over USB bus power; verify a USB-A-to-USB-B cable is included or budget for one.",
-      "windows_status": "Official Steinberg specifications include Windows 11 64-bit. Two D-PRE mic preamps, two combo inputs, direct monitoring, MIDI I/O, and 24-bit/192 kHz make it the best fit of these interface listings for simultaneous jam recording.",
-      "market": {
-        "used_low": 38,
-        "used_high": 69,
-        "source": "Reverb price guide",
-        "url": "https://reverb.com/p/steinberg-ur22mkii-2x2-usb-2-dot-0-audio-interface"
-      },
-      "research_notes": "Exact model confirmed from the front-panel UR22mkII marking and rear USB 2.0/MIDI layout. At $30 it is below the current $38–$69 Reverb used estimate. Strong buy only after testing both inputs, headphone output, monitor outputs, MIDI, gain knobs, and USB connection.",
-      "risk_flags": ["accessories_unconfirmed", "test_before_buy"],
-      "recommendation": "buy"
+      "windows_status": "Official Steinberg specifications include Windows 11 64-bit. Two D-PRE mic preamps, two combo inputs, direct monitoring, MIDI I/O, and 24-bit/192 kHz make it an excellent low-cost two-input foundation.",
+      "market": {"used_low": 38, "used_high": 69, "source": "Reverb price guide", "url": "https://reverb.com/p/steinberg-ur22mkii-2x2-usb-2-dot-0-audio-interface"},
+      "research_notes": "Exact model confirmed from the front-panel UR22mkII marking and rear USB 2.0/MIDI layout. At $30 it is below the current $38–$69 Reverb used estimate. Strong budget buy only after testing both inputs, headphone output, monitor outputs, MIDI, gain knobs, and USB connection.",
+      "risk_flags": ["accessories_unconfirmed", "test_before_buy"], "recommendation": "buy", "fit_rank": 2, "score": 89.0
     },
-    "1605979580884957": {
-      "model": "MOTU UltraLite (original / Mk1, FireWire only)",
-      "condition": "Seller marks it fair and discloses damage to the main volume knob while claiming the unit still works. Photos show a heavily worn/dusty enclosure and visible control-area wear.",
-      "accessories": "No power adapter or FireWire cable is shown or promised. The rear photo shows FireWire ports and no USB port.",
-      "windows_status": "This is the original 24-bit/96 kHz FireWire-only UltraLite, not the later Mk3 Hybrid. MOTU's current Windows 11 installer support cited for the Mk3 Hybrid does not establish support for this original model. A modern Windows laptop would also need a compatible FireWire host/adapter chain.",
-      "market": {
-        "used_low": 65,
-        "used_high": 144,
-        "source": "Current eBay ask and archived Reverb listing context; not an exact sold range",
-        "url": "https://www.ebay.com/b/MOTU-FireWire-Audio-Interface-Audio-MIDI-Interfaces/123445/bn_7438252"
-      },
-      "research_notes": "The $50 price is explained by the original FireWire-only generation, fair condition, and damaged volume control. It is not a practical Windows 11 foundation for this setup; pass unless buying as a repair/legacy-computer experiment.",
-      "risk_flags": ["firewire_only", "seller_disclosed_defect", "power_supply_unconfirmed", "windows_11_support_unconfirmed"],
-      "recommendation": "pass"
+    "2929178584094192": {
+      "model": "Focusrite Scarlett 8i6 (3rd Gen)",
+      "condition": "Generation is stated in the listing title; test all front and rear I/O before purchase.",
+      "accessories": "Not specified; verify USB cable and power/connection setup as applicable.",
+      "windows_status": "Modern Focusrite USB platform with two mic preamps, expanded line I/O, balanced outputs, and MIDI; well suited to adding hardware instruments.",
+      "market": {"used_low": 117, "used_high": 185, "source": "Current Reverb used-market range", "url": "https://reverb.com/p/focusrite-scarlett-8i6-3rd-gen"},
+      "research_notes": "Good capability buy at $150, within the reviewed $117–$185 used range. Choose it over the 4i4 only if its expanded routing/line I/O will be useful soon.",
+      "risk_flags": ["test_before_buy", "accessories_unconfirmed"], "recommendation": "buy", "fit_rank": 3, "score": 82.0
     },
-    "911094842057293": {
-      "model": "Focusrite Scarlett Solo 2nd Gen",
-      "condition": "Seller describes it as used-good but explicitly says the headphone jack is finicky/broken and direct headphone monitoring may be unreliable. Photos show cosmetic scratches on the red shell.",
-      "accessories": "Original USB cable and box are included.",
-      "windows_status": "Focusrite currently provides a Windows 10/11 driver for Scarlett Solo 2nd Gen. It has one microphone preamp plus one instrument/line input, so it cannot record two microphones at once.",
-      "market": {
-        "used_low": 54,
-        "used_high": 75,
-        "source": "Current used listing/market context for working units",
-        "url": "https://equipboard.com/items/focusrite-scarlett-solo-2nd-gen"
-      },
-      "research_notes": "Photos identify the 2nd Gen layout (no Air control and older USB-B generation), not a 3rd Gen. A working unit around $50 would be reasonable, but $50 with a broken headphone jack is poor value. Pass unless it tests perfectly through monitor outputs and the price falls near $20–$25.",
-      "risk_flags": ["seller_disclosed_defect", "one_mic_preamp", "not_third_gen"],
-      "recommendation": "pass"
+    "1558017365599197": {
+      "model": "Behringer UMC204HD",
+      "condition": "Seller condition not independently verified.", "accessories": "Shipped listing; confirm power/USB cable and return terms.",
+      "windows_status": "Two-input USB interface with balanced outputs and MIDI; a usable basic modern option.",
+      "market": {"used_low": 70, "used_high": 100, "source": "Current used-market context", "url": "https://reverb.com/p/behringer-u-phoria-umc204hd"},
+      "research_notes": "Fair at $80, but not compelling beside the local $30 UR22mkII or $99 Scarlett 4i4. Prefer a local, testable modern interface.",
+      "risk_flags": ["shipped_listing", "test_before_buy"], "recommendation": "consider", "fit_rank": 4, "score": 68.0
     },
     "2021195761823060": {
       "model": "Native Instruments Komplete Audio 2",
       "condition": "Seller describes it as used-like-new, excellent working order, and minimally worn. The listing includes a short demo video and multiple photos.",
       "accessories": "USB cable/box inclusion is not clearly promised in the description; confirm before buying.",
-      "windows_status": "Native Instruments lists PC compatibility through ASIO/DirectSound/WASAPI. The official page names Windows 10 rather than Windows 11, so current Windows 11 operation should be confirmed with the seller or NI support. It provides two mic/line/instrument inputs and balanced monitor outputs.",
-      "market": {
-        "used_low": 55.99,
-        "used_high": 60,
-        "source": "Recent Reverb final-price examples (June–July 2026)",
-        "url": "https://reverb.com/item/98423924-native-instruments-komplete-audio-2-usb-audio-interface-2019-present-black"
-      },
-      "research_notes": "The $70 firm ask plus $7.60 shipping is above the two recent Reverb sale examples. Good two-preamp design, but not compelling beside the local $30 UR22mkII. Offer about $55–$60 delivered, otherwise pass.",
-      "risk_flags": ["windows_11_not_explicit_on_product_page", "accessories_unconfirmed", "shipped_listing"],
-      "recommendation": "offer"
-    }
+      "windows_status": "Native Instruments lists PC compatibility through ASIO/DirectSound/WASAPI. It provides two mic/line/instrument inputs and balanced monitor outputs.",
+      "market": {"used_low": 55.99, "used_high": 60, "source": "Recent Reverb final-price examples", "url": "https://reverb.com/item/98423924-native-instruments-komplete-audio-2-usb-audio-interface-2019-present-black"},
+      "research_notes": "The $70 firm ask plus shipping is above the recent $55.99–$60 sale examples. Offer about $55–$60 delivered; otherwise the local Steinberg is better value.",
+      "risk_flags": ["accessories_unconfirmed", "shipped_listing"], "recommendation": "offer", "fit_rank": 5, "score": 60.0
+    },
+    "1305395904996695": {"model": "Audio interface (exact model unknown)", "condition": "Not established from the generic listing title.", "accessories": "Unknown.", "windows_status": "Cannot assess ports, driver support, or number of inputs without an exact model.", "market": {}, "research_notes": "Do not buy or rank as a deal until the model, photos, working status, and included cables are confirmed.", "risk_flags": ["exact_revision_unknown", "model_unidentified"], "recommendation": "investigate", "fit_rank": 6, "score": 45.0},
+    "1697433904660307": {"model": "M-Audio M-Track (generation unknown)", "condition": "Not established.", "accessories": "Unknown.", "windows_status": "M-Track support and features vary substantially by generation; inspect the exact model and Windows support before purchase.", "market": {}, "research_notes": "Generic M-Track title is insufficient for value guidance. Identify the exact revision first.", "risk_flags": ["exact_revision_unknown"], "recommendation": "investigate", "fit_rank": 7, "score": 43.0},
+    "2819336135088729": {"model": "Audio Interface (exact model unknown)", "condition": "Not established.", "accessories": "Unknown.", "windows_status": "Cannot assess without an exact model.", "market": {}, "research_notes": "Generic title; do not treat the $30 ask as a deal until the model and working condition are shown.", "risk_flags": ["exact_revision_unknown", "model_unidentified"], "recommendation": "investigate", "fit_rank": 8, "score": 42.0},
+    "898514272596180": {"model": "USB audio interface (exact model unknown)", "condition": "Not established.", "accessories": "Unknown.", "windows_status": "USB alone does not establish driver compatibility or useful I/O.", "market": {}, "research_notes": "Identify model and test first; generic listing cannot outrank identified current interfaces.", "risk_flags": ["exact_revision_unknown", "model_unidentified"], "recommendation": "investigate", "fit_rank": 9, "score": 41.0},
+    "27686535021013177": {"model": "Blue microphone + boom + PreSonus interface bundle (interface model unknown)", "condition": "Bundle condition not established.", "accessories": "Bundle components are named but the PreSonus interface model is not.", "windows_status": "Cannot assess interface drivers or I/O without the exact PreSonus model.", "market": {}, "research_notes": "Potentially useful bundle, but not comparable to an interface alone until component models, working status, and value are verified.", "risk_flags": ["bundle_value_unverified", "exact_revision_unknown"], "recommendation": "investigate", "fit_rank": 10, "score": 40.0},
+    "1766694044305093": {"model": "Yamaha MG10XU USB mixer", "condition": "Not independently verified.", "accessories": "Unknown.", "windows_status": "USB mixer with stereo USB recording rather than a direct replacement for a multi-channel interface workflow.", "market": {}, "research_notes": "Useful mixer only if live/jam mixing is the goal; $200 does not make it the best first interface purchase.", "risk_flags": ["not_direct_interface_equivalent"], "recommendation": "consider", "fit_rank": 11, "score": 38.0},
+    "1360356092258784": {"model": "Steinberg CI1", "condition": "Not established.", "accessories": "Unknown.", "windows_status": "Older entry-level single-preamp USB interface.", "market": {}, "research_notes": "At $60 it is outclassed by the $30 UR22mkII, which has two preamps and MIDI. Pass unless price drops materially and it tests cleanly.", "risk_flags": ["one_mic_preamp", "older_platform"], "recommendation": "pass", "fit_rank": 12, "score": 30.0},
+    "1553733909780016": {"model": "Icon Pro Audio Duo 22 Live", "condition": "Not independently verified.", "accessories": "Unknown.", "windows_status": "Listing identifies one mic preamp, so it cannot support two microphones at once.", "market": {}, "research_notes": "A one-preamp streaming interface is not a best-fit two-input recording foundation at $49.", "risk_flags": ["one_mic_preamp"], "recommendation": "pass", "fit_rank": 13, "score": 28.0},
+    "p7AM2pygzjzJpjgborjiET": {"model": "Line 6 POD Studio UX2", "condition": "Listing says it works and includes USB cable; verify all inputs/outputs.", "accessories": "USB cable included.", "windows_status": "Legacy device/driver ecosystem; it is a cheap temporary bridge, not a modern long-horizon Windows interface.", "market": {"used_low": 32, "used_high": 52, "source": "Used-market context", "url": "https://reverb.com/p/line-6-pod-studio-ux2"}, "research_notes": "$25 is cheap, but the old score overstated its fit. Consider only as a deliberately temporary bargain; it should not outrank modern, supported interfaces.", "risk_flags": ["legacy_driver_risk", "test_before_buy"], "recommendation": "temporary_only", "fit_rank": 14, "score": 26.0},
+    "1348846237464173": {"model": "Digidesign Mbox 2 Mini", "condition": "Not independently verified.", "accessories": "Unknown.", "windows_status": "Legacy Pro Tools-era USB hardware; unsuitable as a default current Windows foundation.", "market": {}, "research_notes": "Pass for normal use despite the low ask; buy only for a specific legacy setup.", "risk_flags": ["legacy_driver_risk", "one_mic_preamp"], "recommendation": "pass", "fit_rank": 15, "score": 20.0},
+    "1538433204451812": {"model": "MOTU 896 (FireWire generation unspecified)", "condition": "Not independently verified.", "accessories": "FireWire adapter/cable and power status unconfirmed.", "windows_status": "Legacy FireWire workflow is not a practical modern Windows default.", "market": {}, "research_notes": "Pass unless you intentionally maintain compatible FireWire hardware and a legacy system.", "risk_flags": ["firewire_only", "legacy_driver_risk", "exact_revision_unknown"], "recommendation": "pass", "fit_rank": 16, "score": 15.0},
+    "1605979580884957": {"model": "MOTU UltraLite (original / Mk1, FireWire only)", "condition": "Seller marks it fair and discloses damage to the main volume knob; photos show a heavily worn/dusty enclosure.", "accessories": "No power adapter or FireWire cable is shown or promised.", "windows_status": "Original FireWire-only UltraLite; modern Windows laptop use requires a compatible FireWire host/adapter chain and legacy support is unconfirmed.", "market": {"used_low": 65, "used_high": 144, "source": "Current eBay ask and archived Reverb context; not exact sold range", "url": "https://www.ebay.com/b/MOTU-FireWire-Audio-Interface-Audio-MIDI-Interfaces/123445/bn_7438252"}, "research_notes": "The $50 price is explained by FireWire-only hardware, fair condition, and damaged volume control. Not a practical current Windows foundation.", "risk_flags": ["firewire_only", "seller_disclosed_defect", "power_supply_unconfirmed", "windows_11_support_unconfirmed"], "recommendation": "pass", "fit_rank": 17, "score": 12.0},
+    "2108284690571811": {"model": "Digidesign Pro Tools 002 Rack", "condition": "Not independently verified.", "accessories": "FireWire cable and operating condition unknown.", "windows_status": "Legacy FireWire Pro Tools hardware, not a current Windows interface recommendation.", "market": {}, "research_notes": "Pass unless buying specifically for an old compatible Pro Tools/FireWire system.", "risk_flags": ["firewire_only", "legacy_driver_risk"], "recommendation": "pass", "fit_rank": 18, "score": 10.0},
+    "1346900707386652": {"model": "Antelope Zen Go Synergy Core", "condition": "Shipped listing; confirm license transfer, USB cable, and return terms.", "accessories": "Software/license transfer status unconfirmed.", "windows_status": "Modern USB interface, but bundled software/registration is relevant to its value.", "market": {"used_low": 174, "used_high": 274, "source": "Reviewed current used-market range", "url": "https://reverb.com/p/antelope-audio-zen-go-synergy-core"}, "research_notes": "$300 is above the reviewed used range and license-transfer uncertainty further weakens it. Pass at this price.", "risk_flags": ["above_market", "shipped_listing", "license_transfer_unconfirmed"], "recommendation": "pass", "fit_rank": 19, "score": 8.0},
+    "1324632733203306": {"model": "Focusrite Scarlett 18i20 (generation unknown)", "condition": "Shipped listing; condition and generation unverified.", "accessories": "Rack ears, USB cable, and power status unconfirmed.", "windows_status": "A current generation can be capable, but support/value depend materially on the exact revision.", "market": {}, "research_notes": "$400 cannot be evaluated responsibly without the generation, working proof, and included accessories. It should not appear as a best-fit recommendation until identified.", "risk_flags": ["exact_revision_unknown", "shipped_listing"], "recommendation": "investigate", "fit_rank": 20, "score": 5.0}
   }
 }
