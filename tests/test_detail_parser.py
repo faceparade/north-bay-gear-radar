@@ -13,6 +13,7 @@ HTML = '''
 <time class="date timeago" datetime="2026-08-10T10:58:09-0700">updated</time>
 <div id="map" data-latitude="38.214688" data-longitude="-122.629652"></div>
 <p class="attrgroup"><span>condition: excellent</span></p>
+<div class="gallery"><a href="https://images.craigslist.org/abc_1200x900.jpg"><img src="https://images.craigslist.org/abc_300x300.jpg"></a></div>
 </body></html>
 '''
 
@@ -26,6 +27,7 @@ def test_parse_craigslist_detail_extracts_structured_fields_and_distance():
     assert detail.posted_at.isoformat().startswith("2026-08-07")
     assert detail.updated_at.isoformat().startswith("2026-08-10")
     assert detail.condition == "excellent"
+    assert detail.image_url.endswith("abc_1200x900.jpg")
     assert 7 < detail.distance_miles < 9
 
 

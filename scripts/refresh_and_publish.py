@@ -14,6 +14,26 @@ PYTHON = ROOT / ".venv" / "Scripts" / "python.exe"
 UV = shutil.which("uv") or "uv"
 
 
+def snapshot_thumbnails(source: str) -> Path:
+    directory = ROOT / "site" / "images" / "listings"
+    backup = ROOT / "data" / f".{source}-thumbnail-backup"
+    shutil.rmtree(backup, ignore_errors=True)
+    backup.mkdir(parents=True, exist_ok=True)
+    if directory.exists():
+        for image in directory.glob(f"{source}-*.webp"):
+            shutil.copy2(image, backup / image.name)
+    return backup
+
+
+def restore_thumbnails(source: str, backup: Path) -> None:
+    directory = ROOT / "site" / "images" / "listings"
+    directory.mkdir(parents=True, exist_ok=True)
+    for image in directory.glob(f"{source}-*.webp"):
+        image.unlink()
+    for image in backup.glob("*.webp"):
+        shutil.copy2(image, directory / image.name)
+
+
 def run(command: list[str], *, check: bool = True) -> subprocess.CompletedProcess[str]:
     print("+", subprocess.list2cmdline(command), flush=True)
     return subprocess.run(command, cwd=ROOT, text=True, check=check)
@@ -32,6 +52,7 @@ def refresh_craigslist() -> None:
     normalized = ROOT / "data" / "normalized" / "craigslist.json"
     raw_backup = raw.with_suffix(".json.previous")
     normalized_backup = normalized.with_suffix(".json.previous")
+    thumbnail_backup = snapshot_thumbnails("craigslist")
     for source, backup in ((raw, raw_backup), (normalized, normalized_backup)):
         if source.exists():
             shutil.copy2(source, backup)
@@ -51,15 +72,18 @@ def refresh_craigslist() -> None:
         for target, backup in ((raw, raw_backup), (normalized, normalized_backup)):
             if backup.exists():
                 shutil.copy2(backup, target)
+        restore_thumbnails("craigslist", thumbnail_backup)
         raise
     finally:
         raw_backup.unlink(missing_ok=True)
         normalized_backup.unlink(missing_ok=True)
+        shutil.rmtree(thumbnail_backup, ignore_errors=True)
 
 
 def refresh_facebook() -> None:
     target = ROOT / "data" / "checkpoints" / "facebook_expanded_discovery.json"
     backup = target.with_suffix(".json.previous")
+    thumbnail_backup = snapshot_thumbnails("facebook")
     if target.exists():
         shutil.copy2(target, backup)
     try:
@@ -69,9 +93,11 @@ def refresh_facebook() -> None:
     except Exception:
         if backup.exists():
             shutil.copy2(backup, target)
+        restore_thumbnails("facebook", thumbnail_backup)
         raise
     finally:
         backup.unlink(missing_ok=True)
+        shutil.rmtree(thumbnail_backup, ignore_errors=True)
 
 
 def refresh_ebay() -> None:
@@ -91,6 +117,26 @@ def refresh_ebay() -> None:
         backup.unlink(missing_ok=True)
 
 
+def prune_unreferenced_public_thumbnails() -> int:
+    """Remove generated images that are not referenced by the public site payload."""
+    payload_path = ROOT / "site" / "data" / "listings.json"
+    directory = ROOT / "site" / "images" / "listings"
+    payload = json.loads(payload_path.read_text(encoding="utf-8"))
+    referenced = {
+        Path(str(row["thumbnail_url"])).name
+        for row in payload.get("listings", [])
+        if str(row.get("thumbnail_url", "")).startswith("images/listings/")
+        and Path(str(row["thumbnail_url"])).suffix.lower() == ".webp"
+    }
+    removed = 0
+    if directory.exists():
+        for image in directory.glob("*.webp"):
+            if image.name not in referenced:
+                image.unlink()
+                removed += 1
+    return removed
+
+
 def publish_if_changed() -> None:
     paths = [
         "data/raw/craigslist.json",
@@ -101,6 +147,7 @@ def publish_if_changed() -> None:
         "data/normalized/scored_shortlist.json",
         "data/normalized/listings.json",
         "site/data/listings.json",
+        "site/images/listings",
     ]
     run(["git", "add", *paths])
     changed = subprocess.run(
@@ -132,6 +179,8 @@ def main() -> int:
         refresh_ebay()
     run([str(PYTHON), "scripts/score_shortlist.py"])
     run([str(PYTHON), "scripts/build_site_data.py"])
+    removed = prune_unreferenced_public_thumbnails()
+    print(f"Pruned {removed} unreferenced public thumbnails.")
     run([str(PYTHON), "-m", "pytest"])
     if args.publish:
         publish_if_changed()

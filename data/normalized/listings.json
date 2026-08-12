@@ -1,83 +1,41 @@
 {
-  "generated_at": "2026-08-12T19:02:55.124576+00:00",
+  "generated_at": "2026-08-12T19:29:55.547794+00:00",
   "source_as_of": {
-    "facebook": "2026-08-12T11:25:27.805444-07:00",
+    "facebook": "2026-08-12T12:29:45.643523-07:00",
     "ebay_sold": "2026-08-12T11:26:16.740994-07:00"
   },
   "stats": {
-    "active": 219,
+    "active": 208,
     "sold": 154,
-    "new_discoveries": 77,
+    "new_discoveries": 73,
     "scored": 11,
-    "excluded_facebook": 96,
-    "total": 373
+    "excluded_facebook": 109,
+    "total": 362
   },
   "categories": {
     "bundles": 3,
-    "dj-gear": 5,
-    "drums-percussion": 20,
-    "electronic-drums": 6,
+    "dj-gear": 6,
+    "drums-percussion": 19,
+    "electronic-drums": 5,
     "guitars-acoustic": 9,
     "interfaces": 28,
-    "keyboards-controllers": 18,
+    "keyboards-controllers": 17,
     "loopers-effects": 14,
-    "microphones-preamps": 10,
-    "mixers": 51,
-    "monitors": 73,
-    "other-audio": 78,
-    "pa-headphones-utilities": 14,
+    "microphones-preamps": 11,
+    "mixers": 53,
+    "monitors": 72,
+    "other-audio": 71,
+    "pa-headphones-utilities": 11,
     "recorders-samplers": 1,
-    "samplers-drum-machines": 12,
+    "samplers-drum-machines": 11,
     "synths-modules": 31
   },
   "sources": {
     "craigslist": 33,
     "ebay": 154,
-    "facebook": 186
+    "facebook": 175
   },
   "listings": [
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "4283796638554181",
-      "url": "https://www.facebook.com/marketplace/item/4283796638554181/",
-      "title": "$1$1,234Tons of DRUMS, CYMBALS, Gibraltar Rack’s!!Woodacre, CA",
-      "category": "drums-percussion",
-      "asking_price": 1.0,
-      "price_text": "$1",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "discovery_queries": [
-        "drum machine"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "827269056970244",
-      "url": "https://www.facebook.com/marketplace/item/827269056970244/",
-      "title": "$1$1,500Alesis Strike Multi Pad with 3 speakers, and stands. Opened box but still new.Woodacre, CA",
-      "category": "other-audio",
-      "asking_price": 1.0,
-      "price_text": "$1",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "electronic drum kit",
-        "drum mashine"
-      ]
-    },
     {
       "source": "facebook",
       "listing_type": "active",
@@ -88,7 +46,8 @@
       "asking_price": 1.0,
       "price_text": "$1",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1650087186094312.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "bundles_and_lots"
@@ -107,7 +66,8 @@
       "asking_price": 1.0,
       "price_text": "$1",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-888093423789381.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -128,7 +88,8 @@
       "asking_price": 1.0,
       "price_text": "$1",
       "location_text": "Sonoma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-829020013597889.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -142,31 +103,13 @@
       "listing_type": "active",
       "listing_id": "1744844020299910",
       "url": "https://www.facebook.com/marketplace/item/1744844020299910/",
-      "title": "$10Fiio a1 portable headphone amplifierPetaluma, CA",
+      "title": "Fiio a1 portable headphone amplifier",
       "category": "pa-headphones-utilities",
       "asking_price": 10.0,
       "price_text": "$10",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1563131665485086",
-      "url": "https://www.facebook.com/marketplace/item/1563131665485086/",
-      "title": "$10HeadphonesNovato, CA",
-      "category": "other-audio",
-      "asking_price": 10.0,
-      "price_text": "$10",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1744844020299910.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
@@ -185,7 +128,8 @@
       "asking_price": 15.0,
       "price_text": "$15",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-986226324125488.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -197,61 +141,21 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "4551230851832754",
-      "url": "https://www.facebook.com/marketplace/item/4551230851832754/",
-      "title": "$20$40Sound Research wired speakersMill Valley, CA",
-      "category": "other-audio",
+      "listing_id": "1387379500239409",
+      "url": "https://www.facebook.com/marketplace/item/1387379500239409/",
+      "title": "$20JVC T-X200 quartz synthesizer stereo tunerPetaluma, CA",
+      "category": "synths-modules",
       "asking_price": 20.0,
       "price_text": "$20",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
+      "thumbnail_url": "images/listings/facebook-1387379500239409.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
       "discovery_groups": [
-        "recording_foundation"
+        "creative_instruments"
       ],
       "discovery_queries": [
-        "powered monitor speakers"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1838143644224491",
-      "url": "https://www.facebook.com/marketplace/item/1838143644224491/",
-      "title": "$20Extron mini power amplifierPetaluma, CA",
-      "category": "other-audio",
-      "asking_price": 20.0,
-      "price_text": "$20",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "872196115309063",
-      "url": "https://www.facebook.com/marketplace/item/872196115309063/",
-      "title": "$20Random recording equipmentSan Anselmo, CA",
-      "category": "bundles",
-      "asking_price": 20.0,
-      "price_text": "$20",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots"
-      ],
-      "discovery_queries": [
-        "recording mixer USB",
-        "recording equipment lot",
-        "DJ equipment lot"
+        "desktop synthesizer"
       ]
     },
     {
@@ -268,6 +172,7 @@
       "posted_at": "2026-07-17T20:16:51-07:00",
       "updated_at": "2026-07-17T20:17:21-07:00",
       "distance_miles": 10.08405631925445,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 6,
       "score": 73.99,
@@ -285,34 +190,16 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1387379500239409",
-      "url": "https://www.facebook.com/marketplace/item/1387379500239409/",
-      "title": "JVC T-X200 quartz synthesizer stereo tuner",
-      "category": "synths-modules",
+      "listing_id": "1838143644224491",
+      "url": "https://www.facebook.com/marketplace/item/1838143644224491/",
+      "title": "Extron mini power amplifier",
+      "category": "other-audio",
       "asking_price": 20.0,
       "price_text": "$20",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "discovery_queries": [
-        "desktop synthesizer"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2549109782200647",
-      "url": "https://www.facebook.com/marketplace/item/2549109782200647/",
-      "title": "$22$25Behringer MicroAMP HA400 Headphone AmplifierShips to you",
-      "category": "pa-headphones-utilities",
-      "asking_price": 22.0,
-      "price_text": "$22",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
+      "thumbnail_url": "images/listings/facebook-1838143644224491.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
@@ -323,39 +210,25 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1433373475470941",
-      "url": "https://www.facebook.com/marketplace/item/1433373475470941/",
-      "title": "$25Miscellaneous drum hardwareSonoma, CA",
-      "category": "drums-percussion",
-      "asking_price": 25.0,
-      "price_text": "$25",
+      "listing_id": "872196115309063",
+      "url": "https://www.facebook.com/marketplace/item/872196115309063/",
+      "title": "Random recording equipment",
+      "category": "bundles",
+      "asking_price": 20.0,
+      "price_text": "$20",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
+      "thumbnail_url": "images/listings/facebook-872196115309063.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
       "discovery_groups": [
-        "seller_language_and_misspellings"
+        "recording_foundation",
+        "bundles_and_lots"
       ],
       "discovery_queries": [
-        "drum mashine"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "981646568256023",
-      "url": "https://www.facebook.com/marketplace/item/981646568256023/",
-      "title": "$25Yamaha drum pedalPetaluma, CA",
-      "category": "drums-percussion",
-      "asking_price": 25.0,
-      "price_text": "$25",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum mashine"
+        "recording mixer USB",
+        "home recording studio",
+        "recording equipment lot",
+        "DJ equipment lot"
       ]
     },
     {
@@ -372,6 +245,7 @@
       "posted_at": "2026-08-07T10:58:09-07:00",
       "updated_at": null,
       "distance_miles": 8.096848991164558,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 2,
       "score": 90.33,
@@ -402,6 +276,7 @@
       "posted_at": "2026-07-11T14:12:07-07:00",
       "updated_at": "2026-08-12T07:09:21-07:00",
       "distance_miles": 5.362092806010973,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 9,
       "score": 66.55,
@@ -419,6 +294,26 @@
     {
       "source": "facebook",
       "listing_type": "active",
+      "listing_id": "1433373475470941",
+      "url": "https://www.facebook.com/marketplace/item/1433373475470941/",
+      "title": "Miscellaneous drum hardware",
+      "category": "drums-percussion",
+      "asking_price": 25.0,
+      "price_text": "$25",
+      "location_text": "Sonoma, CA",
+      "thumbnail_url": "images/listings/facebook-1433373475470941.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "drum machine"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
       "listing_id": "4090345797932369",
       "url": "https://www.facebook.com/marketplace/item/4090345797932369/",
       "title": "Musician's Gear brand microphone stand",
@@ -426,15 +321,14 @@
       "asking_price": 25.0,
       "price_text": "$25",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-4090345797932369.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "recording_foundation",
         "creative_instruments",
         "bundles_and_lots"
       ],
       "discovery_queries": [
-        "microphone preamp",
         "sampler music",
         "music gear bundle"
       ]
@@ -442,39 +336,21 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "4590785117820024",
-      "url": "https://www.facebook.com/marketplace/item/4590785117820024/",
-      "title": "Melonare MB-1S Wireless Audio XLR Receiver",
-      "category": "other-audio",
-      "asking_price": 28.0,
-      "price_text": "$28",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "listing_id": "981646568256023",
+      "url": "https://www.facebook.com/marketplace/item/981646568256023/",
+      "title": "Yamaha drum pedal",
+      "category": "drums-percussion",
+      "asking_price": 25.0,
+      "price_text": "$25",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-981646568256023.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
-        "audio interphase"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1865819844399419",
-      "url": "https://www.facebook.com/marketplace/item/1865819844399419/",
-      "title": "Creative Sound Blaster Sb1350 Sound Card 7.1 Digital Out",
-      "category": "other-audio",
-      "asking_price": 29.0,
-      "price_text": "$29",
-      "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "audio interphase"
+        "drum mashine"
       ]
     },
     {
@@ -487,7 +363,8 @@
       "asking_price": 30.0,
       "price_text": "$30",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1624342312093126.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
@@ -523,7 +400,8 @@
       "asking_price": 30.0,
       "price_text": "$30",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-930978036646931.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -542,7 +420,8 @@
       "asking_price": 30.0,
       "price_text": "$30",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1700210434425354.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
@@ -554,167 +433,41 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "2275745109896671",
-      "url": "https://www.facebook.com/marketplace/item/2275745109896671/",
-      "title": "$35$100ART X-15 Midi Foot ControllerSan Rafael, CA",
+      "listing_id": "1568195221496360",
+      "url": "https://www.facebook.com/marketplace/item/1568195221496360/",
+      "title": "Sonos Amp Digital Music System - Set of 6",
       "category": "other-audio",
-      "asking_price": 35.0,
-      "price_text": "$35",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "asking_price": 30.0,
+      "price_text": "$30",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1568195221496360.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "creative_instruments"
+        "seller_language_and_misspellings"
       ],
       "discovery_queries": [
-        "MIDI sound module"
+        "audio interphase"
       ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "26084454427896652",
-      "url": "https://www.facebook.com/marketplace/item/26084454427896652/",
-      "title": "$35Amp. Pyle PFA300 Hi-Fi Power AmplifierPetaluma, CA",
+      "listing_id": "2126820381202561",
+      "url": "https://www.facebook.com/marketplace/item/2126820381202561/",
+      "title": "Yamaha Outdoor Speakers",
       "category": "other-audio",
-      "asking_price": 35.0,
-      "price_text": "$35",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1314346573736670",
-      "url": "https://www.facebook.com/marketplace/item/1314346573736670/",
-      "title": "$35Samson QH4 4-Channel Headphone AmplifierShips to you",
-      "category": "pa-headphones-utilities",
-      "asking_price": 35.0,
-      "price_text": "$35",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1755880715446913",
-      "url": "https://www.facebook.com/marketplace/item/1755880715446913/",
-      "title": "$35Sennheiser HDR 120 Wireless HeadphonesShips to you",
-      "category": "other-audio",
-      "asking_price": 35.0,
-      "price_text": "$35",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1778113303991122",
-      "url": "https://www.facebook.com/marketplace/item/1778113303991122/",
-      "title": "Speaker",
-      "category": "other-audio",
-      "asking_price": 35.0,
-      "price_text": "$35",
+      "asking_price": 30.0,
+      "price_text": "$30",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2126820381202561.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
         "studio moniter speakers"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2547463382341075",
-      "url": "https://www.facebook.com/marketplace/item/2547463382341075/",
-      "title": "$40$75Avid Mbox Mini USB Audio Recording InterfaceShips to you",
-      "category": "other-audio",
-      "asking_price": 40.0,
-      "price_text": "$40",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "recording mixer USB"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1567214128465203",
-      "url": "https://www.facebook.com/marketplace/item/1567214128465203/",
-      "title": "$40Drum ThroneNovato, CA",
-      "category": "drums-percussion",
-      "asking_price": 40.0,
-      "price_text": "$40",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "drum mashine"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1047148001334224",
-      "url": "https://www.facebook.com/marketplace/item/1047148001334224/",
-      "title": "$40M-Audio USB MIDI Encoder KeyboardPetaluma, CA",
-      "category": "keyboards-controllers",
-      "asking_price": 40.0,
-      "price_text": "$40",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "USB audio interface",
-        "recording mixer USB",
-        "sampler music",
-        "synth module",
-        "desktop synthesizer",
-        "MIDI sound module",
-        "digital piano keyboard",
-        "vintage electronic keyboard",
-        "synthasizer keyboard",
-        "mezcladora audio"
       ]
     },
     {
@@ -727,7 +480,8 @@
       "asking_price": 40.0,
       "price_text": "$40",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1538433204451812.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -749,7 +503,8 @@
       "asking_price": 40.0,
       "price_text": "$40",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-4515411762035359.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -760,6 +515,7 @@
         "2 input audio interface",
         "recording mixer USB",
         "compact audio mixer",
+        "headphone amplifier",
         "microphone preamp",
         "sampler music",
         "home recording studio",
@@ -777,7 +533,8 @@
       "asking_price": 40.0,
       "price_text": "$40",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1470668657866208.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -789,38 +546,50 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1300631648816946",
-      "url": "https://www.facebook.com/marketplace/item/1300631648816946/",
-      "title": "$45$65Steel drum and bagSonoma, CA",
-      "category": "other-audio",
-      "asking_price": 45.0,
-      "price_text": "$45",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
+      "listing_id": "1567214128465203",
+      "url": "https://www.facebook.com/marketplace/item/1567214128465203/",
+      "title": "Drum Throne",
+      "category": "drums-percussion",
+      "asking_price": 40.0,
+      "price_text": "$40",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1567214128465203.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
       "discovery_groups": [
+        "creative_instruments",
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
+        "drum machine",
         "drum mashine"
       ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1981005612561238",
-      "url": "https://www.facebook.com/marketplace/item/1981005612561238/",
-      "title": "Casio keyboard Casiotone MT-31 Musical Synthesiser 1980’s | Untested",
-      "category": "synths-modules",
-      "asking_price": 45.0,
-      "price_text": "$45",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "listing_id": "1047148001334224",
+      "url": "https://www.facebook.com/marketplace/item/1047148001334224/",
+      "title": "M-Audio USB MIDI Encoder Keyboard",
+      "category": "keyboards-controllers",
+      "asking_price": 40.0,
+      "price_text": "$40",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1047148001334224.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments",
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
+        "sampler music",
+        "synth module",
+        "desktop synthesizer",
+        "MIDI sound module",
+        "digital piano keyboard",
+        "vintage electronic keyboard",
         "synthasizer keyboard"
       ]
     },
@@ -829,12 +598,13 @@
       "listing_type": "active",
       "listing_id": "2221909011982068",
       "url": "https://www.facebook.com/marketplace/item/2221909011982068/",
-      "title": "Feedback Destroyer, Behringer",
+      "title": "$45Feedback Destroyer, BehringerNovato, CA",
       "category": "pa-headphones-utilities",
       "asking_price": 45.0,
       "price_text": "$45",
-      "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-2221909011982068.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -852,6 +622,28 @@
     {
       "source": "facebook",
       "listing_type": "active",
+      "listing_id": "1078304105154632",
+      "url": "https://www.facebook.com/marketplace/item/1078304105154632/",
+      "title": "Just listed$45Numark Performance Series DM1260X DJ MixerSan Rafael, CA",
+      "category": "mixers",
+      "asking_price": 45.0,
+      "price_text": "$45",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1078304105154632.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation",
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "compact audio mixer",
+        "mezcladora audio"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
       "listing_id": "1364758381742717",
       "url": "https://www.facebook.com/marketplace/item/1364758381742717/",
       "title": "$50$75AMC H/E/C Control Center PRO7Sonoma, CA",
@@ -859,137 +651,16 @@
       "asking_price": 50.0,
       "price_text": "$50",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1364758381742717.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
-        "bundles_and_lots",
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
         "USB audio interface",
-        "recording equipment lot",
         "audio interphase"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2764893200556033",
-      "url": "https://www.facebook.com/marketplace/item/2764893200556033/",
-      "title": "$50$75Sonic M15/SCF400 Stage Monitor SpeakerShips to you",
-      "category": "monitors",
-      "asking_price": 50.0,
-      "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "powered monitor speakers"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1576540413913511",
-      "url": "https://www.facebook.com/marketplace/item/1576540413913511/",
-      "title": "$50$75Williams Allegro Digital Piano and StandLarkspur, CA",
-      "category": "keyboards-controllers",
-      "asking_price": 50.0,
-      "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "discovery_queries": [
-        "digital piano keyboard"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "896426193245202",
-      "url": "https://www.facebook.com/marketplace/item/896426193245202/",
-      "title": "$50Avantone pro headphonesPetaluma, CA",
-      "category": "other-audio",
-      "asking_price": 50.0,
-      "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1077994327998454",
-      "url": "https://www.facebook.com/marketplace/item/1077994327998454/",
-      "title": "$50Bass drum pedals/snarePetaluma, CA",
-      "category": "drums-percussion",
-      "asking_price": 50.0,
-      "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum mashine"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1524931581974713",
-      "url": "https://www.facebook.com/marketplace/item/1524931581974713/",
-      "title": "$50Bass Synth PedalNovato, CA",
-      "category": "loopers-effects",
-      "asking_price": 50.0,
-      "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments",
-        "bundles_and_lots"
-      ],
-      "discovery_queries": [
-        "sampler music",
-        "synth module",
-        "music gear bundle"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1065520826209664",
-      "url": "https://www.facebook.com/marketplace/item/1065520826209664/",
-      "title": "$50Behringer Xenyx 802 mixerSonoma, CA",
-      "category": "mixers",
-      "asking_price": 50.0,
-      "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "mezcladora audio"
       ]
     },
     {
@@ -1002,11 +673,11 @@
       "asking_price": 50.0,
       "price_text": "$50",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-911094842057293.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
-        "creative_instruments",
         "bundles_and_lots",
         "seller_language_and_misspellings"
       ],
@@ -1015,10 +686,6 @@
         "2 input audio interface",
         "recording mixer USB",
         "compact audio mixer",
-        "microphone preamp",
-        "desktop synthesizer",
-        "MIDI sound module",
-        "music multi effects",
         "home recording studio",
         "audio interphase",
         "mezcladora audio"
@@ -1044,27 +711,6 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "2075431843050785",
-      "url": "https://www.facebook.com/marketplace/item/2075431843050785/",
-      "title": "$50Pedal LotPetaluma, CA",
-      "category": "bundles",
-      "asking_price": 50.0,
-      "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments",
-        "bundles_and_lots"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "music gear bundle"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
       "listing_id": "2108284690571811",
       "url": "https://www.facebook.com/marketplace/item/2108284690571811/",
       "title": "$50Pro Tools 002 rackNicasio, California",
@@ -1072,7 +718,8 @@
       "asking_price": 50.0,
       "price_text": "$50",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2108284690571811.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -1087,14 +734,55 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1715746383078368",
-      "url": "https://www.facebook.com/marketplace/item/1715746383078368/",
-      "title": "$50R.E. Stage bug active 48v phantom powered DISan Rafael, CA",
-      "category": "microphones-preamps",
+      "listing_id": "896426193245202",
+      "url": "https://www.facebook.com/marketplace/item/896426193245202/",
+      "title": "Avantone pro headphones",
+      "category": "other-audio",
       "asking_price": 50.0,
       "price_text": "$50",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-896426193245202.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "headphone amplifier"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1077994327998454",
+      "url": "https://www.facebook.com/marketplace/item/1077994327998454/",
+      "title": "Bass drum pedals/snare",
+      "category": "drums-percussion",
+      "asking_price": 50.0,
+      "price_text": "$50",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1077994327998454.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "drum mashine"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1524931581974713",
+      "url": "https://www.facebook.com/marketplace/item/1524931581974713/",
+      "title": "Bass Synth Pedal",
+      "category": "loopers-effects",
+      "asking_price": 50.0,
+      "price_text": "$50",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1524931581974713.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments",
@@ -1103,8 +791,31 @@
       "discovery_queries": [
         "sampler music",
         "synth module",
-        "MIDI sound module",
+        "music multi effects",
         "music gear bundle"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1065520826209664",
+      "url": "https://www.facebook.com/marketplace/item/1065520826209664/",
+      "title": "Behringer Xenyx 802 mixer",
+      "category": "mixers",
+      "asking_price": 50.0,
+      "price_text": "$50",
+      "location_text": "Sonoma, CA",
+      "thumbnail_url": "images/listings/facebook-1065520826209664.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation",
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer",
+        "mezcladora audio"
       ]
     },
     {
@@ -1117,7 +828,8 @@
       "asking_price": 50.0,
       "price_text": "$50",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1605979580884957.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
@@ -1147,6 +859,50 @@
     {
       "source": "facebook",
       "listing_type": "active",
+      "listing_id": "2075431843050785",
+      "url": "https://www.facebook.com/marketplace/item/2075431843050785/",
+      "title": "Pedal Lot",
+      "category": "bundles",
+      "asking_price": 50.0,
+      "price_text": "$50",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-2075431843050785.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "discovery_queries": [
+        "music gear bundle"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1715746383078368",
+      "url": "https://www.facebook.com/marketplace/item/1715746383078368/",
+      "title": "R.E. Stage bug active 48v phantom powered DI",
+      "category": "microphones-preamps",
+      "asking_price": 50.0,
+      "price_text": "$50",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-1715746383078368.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments",
+        "bundles_and_lots"
+      ],
+      "discovery_queries": [
+        "sampler music",
+        "synth module",
+        "MIDI sound module",
+        "music gear bundle"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
       "listing_id": "1975052476469555",
       "url": "https://www.facebook.com/marketplace/item/1975052476469555/",
       "title": "Samson MediaOne M30 Powered Studio Monitors (Pair)",
@@ -1154,7 +910,8 @@
       "asking_price": 50.0,
       "price_text": "$50",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1975052476469555.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
@@ -1168,19 +925,18 @@
       "listing_type": "active",
       "listing_id": "943084075483834",
       "url": "https://www.facebook.com/marketplace/item/943084075483834/",
-      "title": "$52Mackie MR5 Active Studio MonitorShips to you",
+      "title": "Mackie MR5 Active Studio Monitor",
       "category": "monitors",
       "asking_price": 52.0,
       "price_text": "$52",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-943084075483834.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
-        "recording_foundation",
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
-        "powered monitor speakers",
         "studio moniter speakers"
       ]
     },
@@ -1189,51 +945,14 @@
       "listing_type": "active",
       "listing_id": "1704147450896096",
       "url": "https://www.facebook.com/marketplace/item/1704147450896096/",
-      "title": "$55PreSonus HP4 4-Channel Headphone AmplifierShips to you",
+      "title": "PreSonus HP4 4-Channel Headphone Amplifier",
       "category": "pa-headphones-utilities",
       "asking_price": 55.0,
       "price_text": "$55",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1704147450896096.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1355183746110342",
-      "url": "https://www.facebook.com/marketplace/item/1355183746110342/",
-      "title": "$59$95Niles SSVC-6San Anselmo, CA",
-      "category": "other-audio",
-      "asking_price": 59.0,
-      "price_text": "$59",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1585352126658596",
-      "url": "https://www.facebook.com/marketplace/item/1585352126658596/",
-      "title": "$60Behringer Powerplay Pro HA4800 4 Channel Headphone AmplifierSan Rafael, CA",
-      "category": "pa-headphones-utilities",
-      "asking_price": 60.0,
-      "price_text": "$60",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
@@ -1251,7 +970,8 @@
       "asking_price": 60.0,
       "price_text": "$60",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1360356092258784.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -1275,7 +995,8 @@
       "asking_price": 60.0,
       "price_text": "$60",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-898514272596180.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -1293,6 +1014,46 @@
       ]
     },
     {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1627374081838393",
+      "url": "https://www.facebook.com/marketplace/item/1627374081838393/",
+      "title": "Avantree Wireless Transmitter, and Headphones and Cables Set",
+      "category": "other-audio",
+      "asking_price": 60.0,
+      "price_text": "$60",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1627374081838393.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "headphone amplifier"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1585352126658596",
+      "url": "https://www.facebook.com/marketplace/item/1585352126658596/",
+      "title": "Behringer Powerplay Pro HA4800 4 Channel Headphone Amplifier",
+      "category": "pa-headphones-utilities",
+      "asking_price": 60.0,
+      "price_text": "$60",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-1585352126658596.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "headphone amplifier"
+      ]
+    },
+    {
       "source": "craigslist",
       "listing_type": "active",
       "listing_id": "qFZzCTqu5k7kTP62DCL64R",
@@ -1306,6 +1067,7 @@
       "posted_at": "2026-08-12T08:41:15-07:00",
       "updated_at": null,
       "distance_miles": 17.61255894948518,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -1322,6 +1084,7 @@
       "posted_at": "2026-07-14T11:05:08-07:00",
       "updated_at": null,
       "distance_miles": 15.77719627467718,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -1334,7 +1097,8 @@
       "asking_price": 60.0,
       "price_text": "$60",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1595740828808865.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
@@ -1353,7 +1117,8 @@
       "asking_price": 60.0,
       "price_text": "$60",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1520177352782589.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "bundles_and_lots"
@@ -1366,20 +1131,41 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1580638100309526",
-      "url": "https://www.facebook.com/marketplace/item/1580638100309526/",
-      "title": "Surly Moloko Adjunct Personal Effects Receptacle",
+      "listing_id": "1379283674254601",
+      "url": "https://www.facebook.com/marketplace/item/1379283674254601/",
+      "title": "$63$100Line 6 M13 Multi-FX Pedal BoardSan Rafael, CA",
       "category": "other-audio",
-      "asking_price": 60.0,
-      "price_text": "$60",
-      "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
+      "asking_price": 63.0,
+      "price_text": "$63",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1379283674254601.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
       ],
       "discovery_queries": [
-        "loop station"
+        "desktop synthesizer"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "963209086748450",
+      "url": "https://www.facebook.com/marketplace/item/963209086748450/",
+      "title": "$64Yamaha KX49 USB Keyboard StudioShips to you",
+      "category": "keyboards-controllers",
+      "asking_price": 64.0,
+      "price_text": "$64",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-963209086748450.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "synthasizer keyboard"
       ]
     },
     {
@@ -1387,12 +1173,13 @@
       "listing_type": "active",
       "listing_id": "1489085408854878",
       "url": "https://www.facebook.com/marketplace/item/1489085408854878/",
-      "title": "$65Arturia Keystep MIDI ControllerPetaluma, CA",
+      "title": "Arturia Keystep MIDI Controller",
       "category": "keyboards-controllers",
       "asking_price": 65.0,
       "price_text": "$65",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1489085408854878.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -1411,7 +1198,8 @@
       "asking_price": 65.0,
       "price_text": "$65",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-4545425455778522.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "playable_instruments",
@@ -1432,32 +1220,14 @@
       "asking_price": 65.0,
       "price_text": "$65",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-744695535370409.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
       ],
       "discovery_queries": [
         "percussion instrument"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2533008540483132",
-      "url": "https://www.facebook.com/marketplace/item/2533008540483132/",
-      "title": "$70$80SMSL M3 Headphone Amplifier DAC USB Optical Coaxial With Monster USB CableShips to you",
-      "category": "pa-headphones-utilities",
-      "asking_price": 70.0,
-      "price_text": "$70",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
       ]
     },
     {
@@ -1470,7 +1240,8 @@
       "asking_price": 70.0,
       "price_text": "$70",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-26331733753143218.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
@@ -1489,7 +1260,8 @@
       "asking_price": 70.0,
       "price_text": "$70",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1537424878114152.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
@@ -1508,7 +1280,8 @@
       "asking_price": 70.0,
       "price_text": "$70",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1010265155187199.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -1527,7 +1300,8 @@
       "asking_price": 70.0,
       "price_text": "$70",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2021195761823060.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
@@ -1567,6 +1341,7 @@
       "posted_at": "2026-08-02T07:40:58-07:00",
       "updated_at": "2026-08-11T09:39:50-07:00",
       "distance_miles": 18.04574562955664,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -1579,7 +1354,8 @@
       "asking_price": 75.0,
       "price_text": "$75",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2086568048603497.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
@@ -1591,69 +1367,22 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1042451341471278",
-      "url": "https://www.facebook.com/marketplace/item/1042451341471278/",
-      "title": "$80Casio SA-81 KeyboardNovato, CA",
-      "category": "keyboards-controllers",
+      "listing_id": "918701630640276",
+      "url": "https://www.facebook.com/marketplace/item/918701630640276/",
+      "title": "$80$100Samson S-Phone Headphone Mixer / AmplifierLarkspur, CA",
+      "category": "mixers",
       "asking_price": 80.0,
       "price_text": "$80",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-918701630640276.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "playable_instruments",
-        "seller_language_and_misspellings"
+        "recording_foundation"
       ],
       "discovery_queries": [
-        "digital piano keyboard",
-        "vintage electronic keyboard",
-        "synthasizer keyboard"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1534243414282284",
-      "url": "https://www.facebook.com/marketplace/item/1534243414282284/",
-      "title": "$80Novation Impulse 25 MIDI ControllerPetaluma, CA",
-      "category": "keyboards-controllers",
-      "asking_price": 80.0,
-      "price_text": "$80",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "sampler music",
-        "MIDI sound module",
-        "music multi effects",
-        "digital piano keyboard",
-        "percussion instrument",
-        "synthasizer keyboard"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2558382441242489",
-      "url": "https://www.facebook.com/marketplace/item/2558382441242489/",
-      "title": "$80Yamaha piano with charger and stand good condition $80Petaluma, CA",
-      "category": "other-audio",
-      "asking_price": 80.0,
-      "price_text": "$80",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "discovery_queries": [
-        "digital piano keyboard"
+        "compact audio mixer",
+        "headphone amplifier"
       ]
     },
     {
@@ -1666,7 +1395,8 @@
       "asking_price": 80.0,
       "price_text": "$80",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1066130829169048.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -1685,7 +1415,8 @@
       "asking_price": 80.0,
       "price_text": "$80",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-28783125194623930.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -1704,7 +1435,8 @@
       "asking_price": 80.0,
       "price_text": "$80",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1335171362109451.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments",
@@ -1721,33 +1453,68 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1560165605505699",
-      "url": "https://www.facebook.com/marketplace/item/1560165605505699/",
-      "title": "$85$100Mackie home studio monitorsShips to you",
-      "category": "monitors",
-      "asking_price": 85.0,
-      "price_text": "$85",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
+      "listing_id": "1042451341471278",
+      "url": "https://www.facebook.com/marketplace/item/1042451341471278/",
+      "title": "Casio SA-81 Keyboard",
+      "category": "keyboards-controllers",
+      "asking_price": 80.0,
+      "price_text": "$80",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1042451341471278.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
       "discovery_groups": [
-        "recording_foundation"
+        "playable_instruments",
+        "seller_language_and_misspellings"
       ],
       "discovery_queries": [
-        "powered monitor speakers"
+        "digital piano keyboard",
+        "vintage electronic keyboard",
+        "synthasizer keyboard"
       ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1004946368669379",
-      "url": "https://www.facebook.com/marketplace/item/1004946368669379/",
-      "title": "$89Yamaha psr-29 292Novato, CA",
+      "listing_id": "1534243414282284",
+      "url": "https://www.facebook.com/marketplace/item/1534243414282284/",
+      "title": "Novation Impulse 25 MIDI Controller",
       "category": "keyboards-controllers",
-      "asking_price": 89.0,
-      "price_text": "$89",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "asking_price": 80.0,
+      "price_text": "$80",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1534243414282284.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments",
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "drum machine",
+        "sampler music",
+        "synth module",
+        "MIDI sound module",
+        "music multi effects",
+        "digital piano keyboard",
+        "percussion instrument",
+        "synthasizer keyboard",
+        "equipo de grabacion"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2558382441242489",
+      "url": "https://www.facebook.com/marketplace/item/2558382441242489/",
+      "title": "Yamaha piano with charger and stand good condition $80",
+      "category": "other-audio",
+      "asking_price": 80.0,
+      "price_text": "$80",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-2558382441242489.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
@@ -1766,7 +1533,8 @@
       "asking_price": 89.0,
       "price_text": "$89",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1672894263782928.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -1782,6 +1550,46 @@
     {
       "source": "facebook",
       "listing_type": "active",
+      "listing_id": "1004946368669379",
+      "url": "https://www.facebook.com/marketplace/item/1004946368669379/",
+      "title": "Yamaha psr-29 292",
+      "category": "keyboards-controllers",
+      "asking_price": 89.0,
+      "price_text": "$89",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1004946368669379.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "discovery_queries": [
+        "digital piano keyboard"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "4547900682198586",
+      "url": "https://www.facebook.com/marketplace/item/4547900682198586/",
+      "title": "Mackie CR3 Studio Monitor Speakers Pair with Bluetooth – Tested - Great Condition",
+      "category": "monitors",
+      "asking_price": 90.0,
+      "price_text": "$90",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-4547900682198586.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "powered monitor speakers"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
       "listing_id": "903686542789860",
       "url": "https://www.facebook.com/marketplace/item/903686542789860/",
       "title": "Shiit Audio Modi 3",
@@ -1789,7 +1597,8 @@
       "asking_price": 90.0,
       "price_text": "$90",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-903686542789860.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
@@ -1808,7 +1617,8 @@
       "asking_price": 90.0,
       "price_text": "$90",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-907088099096321.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -1820,14 +1630,35 @@
     {
       "source": "facebook",
       "listing_type": "active",
+      "listing_id": "1069172072437454",
+      "url": "https://www.facebook.com/marketplace/item/1069172072437454/",
+      "title": "Pioneer DJ DDJ-200 Smart DJ Controller",
+      "category": "dj-gear",
+      "asking_price": 95.0,
+      "price_text": "$95",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1069172072437454.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "discovery_queries": [
+        "DJ equipment lot"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
       "listing_id": "897637210069041",
       "url": "https://www.facebook.com/marketplace/item/897637210069041/",
-      "title": "$99Behringer MS16 Monitor SpeakersShips to you",
+      "title": "Behringer MS16 Monitor Speakers",
       "category": "monitors",
       "asking_price": 99.0,
       "price_text": "$99",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-897637210069041.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
@@ -1839,99 +1670,27 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1395238182450102",
-      "url": "https://www.facebook.com/marketplace/item/1395238182450102/",
-      "title": "$100$120Beyerdynamic DT 990 Pro HeadphonesPetaluma, CA",
-      "category": "other-audio",
-      "asking_price": 100.0,
-      "price_text": "$100",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1707800926890539",
-      "url": "https://www.facebook.com/marketplace/item/1707800926890539/",
-      "title": "$100CR3-X multimedia monitors speakersShips to you",
-      "category": "other-audio",
-      "asking_price": 100.0,
-      "price_text": "$100",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "powered monitor speakers"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1579504226961828",
-      "url": "https://www.facebook.com/marketplace/item/1579504226961828/",
-      "title": "$100Digidesign Digi 002 Mixer/ControllerFairfax, CA",
-      "category": "mixers",
-      "asking_price": 100.0,
-      "price_text": "$100",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments"
-      ],
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "sampler music"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1559399609165506",
-      "url": "https://www.facebook.com/marketplace/item/1559399609165506/",
-      "title": "$100iRig KEYS PRO 37-Key MIDI Keyboard ControllerNovato, CA",
+      "listing_id": "1001242149557418",
+      "url": "https://www.facebook.com/marketplace/item/1001242149557418/",
+      "title": "$100Numark MixMeister Control USB DJ MIDI Controller — used good condition.Novato, CA",
       "category": "keyboards-controllers",
       "asking_price": 100.0,
       "price_text": "$100",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "$100Numark MixMeister Control USB DJ MIDI Controller — used good condition.Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1001242149557418.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "creative_instruments"
+        "recording_foundation",
+        "creative_instruments",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
       ],
       "discovery_queries": [
-        "sampler music"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2140911846467193",
-      "url": "https://www.facebook.com/marketplace/item/2140911846467193/",
-      "title": "$100JBL MR905 Speaker Cabinet Monitor.San Rafael, CA",
-      "category": "other-audio",
-      "asking_price": 100.0,
-      "price_text": "$100",
-      "location_text": "$100JBL MR905 Speaker Cabinet Monitor.San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "powered monitor speakers"
+        "compact audio mixer",
+        "MIDI sound module",
+        "DJ equipment lot",
+        "mezcladora audio"
       ]
     },
     {
@@ -1944,10 +1703,12 @@
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1335978678698399.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
+        "creative_instruments",
         "bundles_and_lots",
         "seller_language_and_misspellings"
       ],
@@ -1956,8 +1717,10 @@
         "recording mixer USB",
         "studio monitor pair",
         "powered monitor speakers",
+        "music multi effects",
         "home recording studio",
         "recording equipment lot",
+        "audio interphase",
         "studio moniter speakers"
       ]
     },
@@ -1971,7 +1734,8 @@
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2211855049646697.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
@@ -1983,20 +1747,24 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "2138007183442032",
-      "url": "https://www.facebook.com/marketplace/item/2138007183442032/",
-      "title": "$100Volca BeatsSan Rafael, CA",
-      "category": "samplers-drum-machines",
+      "listing_id": "1579504226961828",
+      "url": "https://www.facebook.com/marketplace/item/1579504226961828/",
+      "title": "Digidesign Digi 002 Mixer/Controller",
+      "category": "mixers",
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1579504226961828.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
+        "recording_foundation",
         "creative_instruments"
       ],
       "discovery_queries": [
-        "drum machine"
+        "recording mixer USB",
+        "compact audio mixer",
+        "sampler music"
       ]
     },
     {
@@ -2013,6 +1781,7 @@
       "posted_at": "2026-07-13T06:37:22-07:00",
       "updated_at": "2026-08-09T15:35:14-07:00",
       "distance_miles": 3.530679307870853,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -2025,13 +1794,54 @@
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1025653623338592.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "bundles_and_lots"
       ],
       "discovery_queries": [
         "music gear bundle"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1559399609165506",
+      "url": "https://www.facebook.com/marketplace/item/1559399609165506/",
+      "title": "iRig KEYS PRO 37-Key MIDI Keyboard Controller",
+      "category": "keyboards-controllers",
+      "asking_price": 100.0,
+      "price_text": "$100",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1559399609165506.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "sampler music"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2140911846467193",
+      "url": "https://www.facebook.com/marketplace/item/2140911846467193/",
+      "title": "JBL MR905 Speaker Cabinet Monitor.",
+      "category": "other-audio",
+      "asking_price": 100.0,
+      "price_text": "$100",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-2140911846467193.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "powered monitor speakers"
       ]
     },
     {
@@ -2044,7 +1854,8 @@
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1070109149038146.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
@@ -2065,7 +1876,8 @@
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1014817284687448.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "playable_instruments"
@@ -2088,32 +1900,8 @@
       "posted_at": "2026-08-11T10:35:05-07:00",
       "updated_at": null,
       "distance_miles": 16.975038549189737,
+      "thumbnail_url": "",
       "new_discovery": false
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1001242149557418",
-      "url": "https://www.facebook.com/marketplace/item/1001242149557418/",
-      "title": "Numark MixMeister Control USB DJ MIDI Controller — used good condition.",
-      "category": "keyboards-controllers",
-      "asking_price": 100.0,
-      "price_text": "$100",
-      "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "compact audio mixer",
-        "MIDI sound module",
-        "DJ equipment lot",
-        "mezcladora audio"
-      ]
     },
     {
       "source": "facebook",
@@ -2125,12 +1913,14 @@
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1587456639378272.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
+        "headphone amplifier",
         "microphone preamp"
       ]
     },
@@ -2148,6 +1938,7 @@
       "posted_at": "2026-07-27T09:16:42-07:00",
       "updated_at": "2026-08-07T08:15:34-07:00",
       "distance_miles": 9.981074576802524,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 5,
       "score": 76.43,
@@ -2176,6 +1967,7 @@
       "posted_at": "2026-07-27T14:13:45-07:00",
       "updated_at": "2026-08-07T12:48:10-07:00",
       "distance_miles": 17.904055314474657,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 7,
       "score": 72.42,
@@ -2193,6 +1985,26 @@
     {
       "source": "facebook",
       "listing_type": "active",
+      "listing_id": "1588345212647035",
+      "url": "https://www.facebook.com/marketplace/item/1588345212647035/",
+      "title": "Schiit Vali 2 Headphone Amp",
+      "category": "pa-headphones-utilities",
+      "asking_price": 100.0,
+      "price_text": "$100",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1588345212647035.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "headphone amplifier"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
       "listing_id": "839358415811446",
       "url": "https://www.facebook.com/marketplace/item/839358415811446/",
       "title": "SM Pro Audio PR8 Mark 2 Preamp",
@@ -2200,7 +2012,8 @@
       "asking_price": 100.0,
       "price_text": "$100",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-839358415811446.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -2215,39 +2028,61 @@
     {
       "source": "facebook",
       "listing_type": "active",
+      "listing_id": "1457222289771098",
+      "url": "https://www.facebook.com/marketplace/item/1457222289771098/",
+      "title": "Vintage Analog Audio",
+      "category": "other-audio",
+      "asking_price": 100.0,
+      "price_text": "$100",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1457222289771098.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "discovery_queries": [
+        "music gear bundle"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2138007183442032",
+      "url": "https://www.facebook.com/marketplace/item/2138007183442032/",
+      "title": "Volca Beats",
+      "category": "samplers-drum-machines",
+      "asking_price": 100.0,
+      "price_text": "$100",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-2138007183442032.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "drum machine"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
       "listing_id": "26865422616432473",
       "url": "https://www.facebook.com/marketplace/item/26865422616432473/",
-      "title": "$110Ludwig Atlas Pro Bass Drum pedalNovato, CA",
+      "title": "Ludwig Atlas Pro Bass Drum pedal",
       "category": "drums-percussion",
       "asking_price": 110.0,
       "price_text": "$110",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-26865422616432473.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
         "drum mashine"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1995624388492321",
-      "url": "https://www.facebook.com/marketplace/item/1995624388492321/",
-      "title": "PreSonus Monitor Station Desktop Studio Control Center Working Tested",
-      "category": "other-audio",
-      "asking_price": 110.0,
-      "price_text": "$110",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "studio moniter speakers"
       ]
     },
     {
@@ -2260,32 +2095,14 @@
       "asking_price": 111.0,
       "price_text": "$111",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1734283694682645.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
         "audio interphase"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "964325329573325",
-      "url": "https://www.facebook.com/marketplace/item/964325329573325/",
-      "title": "Trades for Pedals or Cool Guitars",
-      "category": "other-audio",
-      "asking_price": 111.0,
-      "price_text": "$111",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "discovery_queries": [
-        "percussion instrument"
       ]
     },
     {
@@ -2298,7 +2115,8 @@
       "asking_price": 115.0,
       "price_text": "$115",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1333447815263888.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments",
@@ -2306,96 +2124,27 @@
       ],
       "discovery_queries": [
         "loop station",
-        "electronic drum kit",
-        "percussion instrument"
+        "electronic drum kit"
       ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "2068778463721575",
-      "url": "https://www.facebook.com/marketplace/item/2068778463721575/",
-      "title": "$120Casio Casiotone CT-S200 61-Key Keyboard Bundle (with Stand & Chair)Novato, CA",
-      "category": "keyboards-controllers",
+      "listing_id": "1474533924699540",
+      "url": "https://www.facebook.com/marketplace/item/1474533924699540/",
+      "title": "$120$1,206SPL Kicker Pro 5-Piece Drum Kit – Silver Sparkle – Like NewPetaluma, CA",
+      "category": "drums-percussion",
       "asking_price": 120.0,
       "price_text": "$120",
-      "location_text": "$120Casio Casiotone CT-S200 61-Key Keyboard Bundle (with Stand & Chair)Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1474533924699540.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
       ],
       "discovery_queries": [
-        "digital piano keyboard",
-        "vintage electronic keyboard"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1357841009812536",
-      "url": "https://www.facebook.com/marketplace/item/1357841009812536/",
-      "title": "$120DJ Tech Tools Midi Fighter controllerSan Rafael, CA",
-      "category": "other-audio",
-      "asking_price": 120.0,
-      "price_text": "$120",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "discovery_queries": [
-        "MIDI sound module"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1085863420552992",
-      "url": "https://www.facebook.com/marketplace/item/1085863420552992/",
-      "title": "$120PHONIC PowerPod 820 Powered 8 Channel Audio Mixer.      Used good condition.Novato, CA",
-      "category": "mixers",
-      "asking_price": 120.0,
-      "price_text": "$120",
-      "location_text": "$120PHONIC PowerPod 820 Powered 8 Channel Audio Mixer.      Used good condition.Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "music gear bundle",
-        "audio interphase",
-        "mezcladora audio"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1355083293180600",
-      "url": "https://www.facebook.com/marketplace/item/1355083293180600/",
-      "title": "$120Yamaha Pro Mic 01 audio mixerSan Rafael, CA",
-      "category": "mixers",
-      "asking_price": 120.0,
-      "price_text": "$120",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "recording equipment lot",
-        "mezcladora audio"
+        "electronic drum kit"
       ]
     },
     {
@@ -2412,6 +2161,7 @@
       "posted_at": "2026-07-04T08:31:42-07:00",
       "updated_at": "2026-07-24T10:12:43-07:00",
       "distance_miles": 19.198544110888786,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -2424,13 +2174,101 @@
       "asking_price": 120.0,
       "price_text": "$120",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1006954298698015.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
       ],
       "discovery_queries": [
         "music multi effects"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2068778463721575",
+      "url": "https://www.facebook.com/marketplace/item/2068778463721575/",
+      "title": "Casio Casiotone CT-S200 61-Key Keyboard Bundle (with Stand & Chair)",
+      "category": "keyboards-controllers",
+      "asking_price": 120.0,
+      "price_text": "$120",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-2068778463721575.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "discovery_queries": [
+        "digital piano keyboard",
+        "vintage electronic keyboard"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1357841009812536",
+      "url": "https://www.facebook.com/marketplace/item/1357841009812536/",
+      "title": "DJ Tech Tools Midi Fighter controller",
+      "category": "other-audio",
+      "asking_price": 120.0,
+      "price_text": "$120",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-1357841009812536.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "MIDI sound module"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1085863420552992",
+      "url": "https://www.facebook.com/marketplace/item/1085863420552992/",
+      "title": "PHONIC PowerPod 820 Powered 8 Channel Audio Mixer. Used good condition.",
+      "category": "mixers",
+      "asking_price": 120.0,
+      "price_text": "$120",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1085863420552992.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation",
+        "creative_instruments",
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer",
+        "headphone amplifier",
+        "sampler music",
+        "mezcladora audio"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1744885096477298",
+      "url": "https://www.facebook.com/marketplace/item/1744885096477298/",
+      "title": "PreSonus STUDIO 26c audio interface",
+      "category": "interfaces",
+      "asking_price": 120.0,
+      "price_text": "$120",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1744885096477298.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "studio moniter speakers"
       ]
     },
     {
@@ -2447,26 +2285,53 @@
       "posted_at": "2026-07-30T14:59:25-07:00",
       "updated_at": null,
       "distance_miles": 19.30509557054066,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "2096433927640779",
-      "url": "https://www.facebook.com/marketplace/item/2096433927640779/",
-      "title": "$125Yamaha integrated mixer EM series model 150 II.Novato, CA",
+      "listing_id": "1355083293180600",
+      "url": "https://www.facebook.com/marketplace/item/1355083293180600/",
+      "title": "Yamaha Pro Mic 01 audio mixer",
       "category": "mixers",
-      "asking_price": 125.0,
-      "price_text": "$125",
-      "location_text": "$125Yamaha integrated mixer EM series model 150 II.Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "asking_price": 120.0,
+      "price_text": "$120",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-1355083293180600.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "recording_foundation"
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
       ],
       "discovery_queries": [
         "recording mixer USB",
-        "compact audio mixer"
+        "compact audio mixer",
+        "headphone amplifier",
+        "recording equipment lot",
+        "mezcladora audio"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "28215760261445701",
+      "url": "https://www.facebook.com/marketplace/item/28215760261445701/",
+      "title": "$125Dell XPS 8700 Desktop PC – Intel Core i7San Rafael, CA",
+      "category": "other-audio",
+      "asking_price": 125.0,
+      "price_text": "$125",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-28215760261445701.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "desktop synthesizer"
       ]
     },
     {
@@ -2479,7 +2344,8 @@
       "asking_price": 125.0,
       "price_text": "$125",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-829898043390031.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "bundles_and_lots"
@@ -2498,7 +2364,8 @@
       "asking_price": 125.0,
       "price_text": "$125",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1587603802951715.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
@@ -2521,19 +2388,42 @@
       "posted_at": "2026-07-30T22:10:42-07:00",
       "updated_at": "2026-08-08T16:09:07-07:00",
       "distance_miles": 17.22323765262498,
+      "thumbnail_url": "",
       "new_discovery": false
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2096433927640779",
+      "url": "https://www.facebook.com/marketplace/item/2096433927640779/",
+      "title": "Yamaha integrated mixer EM series model 150 II.",
+      "category": "mixers",
+      "asking_price": 125.0,
+      "price_text": "$125",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-2096433927640779.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer"
+      ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
       "listing_id": "1714042519810605",
       "url": "https://www.facebook.com/marketplace/item/1714042519810605/",
-      "title": "$130Behringer HA8000 V2 8-channel Headphone Mixing/Distribution AmplifierShips to you",
+      "title": "Behringer HA8000 V2 8-channel Headphone Mixing/Distribution Amplifier",
       "category": "other-audio",
       "asking_price": 130.0,
       "price_text": "$130",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1714042519810605.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
@@ -2547,12 +2437,13 @@
       "listing_type": "active",
       "listing_id": "1542078001042652",
       "url": "https://www.facebook.com/marketplace/item/1542078001042652/",
-      "title": "$140Zildjian 16” dark S crashShips to you",
+      "title": "Zildjian 16” dark S crash",
       "category": "drums-percussion",
       "asking_price": 140.0,
       "price_text": "$140",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1542078001042652.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
@@ -2564,41 +2455,21 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1811843113527055",
-      "url": "https://www.facebook.com/marketplace/item/1811843113527055/",
-      "title": "$150B&W 601 s3 speakersPetaluma, CA",
-      "category": "other-audio",
-      "asking_price": 150.0,
-      "price_text": "$150",
+      "listing_id": "2150137452213072",
+      "url": "https://www.facebook.com/marketplace/item/2150137452213072/",
+      "title": "$145$270Mackie 1402VLZ4, 14-channel Compact Mixer with High Quality Onyx PreampsShips to you",
+      "category": "mixers",
+      "asking_price": 145.0,
+      "price_text": "$145",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
+      "thumbnail_url": "images/listings/facebook-2150137452213072.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
-        "powered monitor speakers"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "907666915477400",
-      "url": "https://www.facebook.com/marketplace/item/907666915477400/",
-      "title": "$150Electronic Drum Kit - Alesis DM6Petaluma, CA",
-      "category": "electronic-drums",
-      "asking_price": 150.0,
-      "price_text": "$150",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "electronic drum kit"
+        "compact audio mixer"
       ]
     },
     {
@@ -2611,7 +2482,8 @@
       "asking_price": 150.0,
       "price_text": "$150",
       "location_text": "Sonoma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1362635962485291.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
@@ -2630,13 +2502,36 @@
       "asking_price": 150.0,
       "price_text": "$150",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1490755668904603.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
       ],
       "discovery_queries": [
         "loop station"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "907666915477400",
+      "url": "https://www.facebook.com/marketplace/item/907666915477400/",
+      "title": "Electronic Drum Kit - Alesis DM6",
+      "category": "electronic-drums",
+      "asking_price": 150.0,
+      "price_text": "$150",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-907666915477400.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments"
+      ],
+      "discovery_queries": [
+        "drum machine",
+        "electronic drum kit"
       ]
     },
     {
@@ -2649,13 +2544,15 @@
       "asking_price": 150.0,
       "price_text": "$150",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1370537987784185.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
-        "studio monitor pair"
+        "studio monitor pair",
+        "powered monitor speakers"
       ]
     },
     {
@@ -2668,7 +2565,8 @@
       "asking_price": 150.0,
       "price_text": "$150",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1782766999565484.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -2677,8 +2575,7 @@
       "discovery_queries": [
         "microphone preamp",
         "drum machine",
-        "MIDI sound module",
-        "music multi effects"
+        "MIDI sound module"
       ]
     },
     {
@@ -2691,32 +2588,14 @@
       "asking_price": 150.0,
       "price_text": "$150",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-965061876513876.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "bundles_and_lots"
       ],
       "discovery_queries": [
         "DJ equipment lot"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2444610569366030",
-      "url": "https://www.facebook.com/marketplace/item/2444610569366030/",
-      "title": "Alesis BRC Master Controller and ADAT Type II 20 Bit Audio Recorder",
-      "category": "other-audio",
-      "asking_price": 160.0,
-      "price_text": "$160",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "mezcladora audio"
       ]
     },
     {
@@ -2729,7 +2608,8 @@
       "asking_price": 175.0,
       "price_text": "$175",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1360980265863619.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -2748,7 +2628,8 @@
       "asking_price": 175.0,
       "price_text": "$175",
       "location_text": "Sonoma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1283454000615950.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -2763,37 +2644,41 @@
       "listing_type": "active",
       "listing_id": "1494279182380456",
       "url": "https://www.facebook.com/marketplace/item/1494279182380456/",
-      "title": "Mackie 1402-VLZ PRO 14-channel mixer",
+      "title": "$176Mackie 1402-VLZ PRO 14-channel mixerSan Anselmo, CA",
       "category": "mixers",
       "asking_price": 176.0,
       "price_text": "$176",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1494279182380456.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
+        "recording_foundation",
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
+        "compact audio mixer",
         "mezcladora audio"
       ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1999942834063566",
-      "url": "https://www.facebook.com/marketplace/item/1999942834063566/",
-      "title": "$180Yamaha BR15 SpeakerNovato, CA",
-      "category": "other-audio",
+      "listing_id": "1532059421847170",
+      "url": "https://www.facebook.com/marketplace/item/1532059421847170/",
+      "title": "$180NU:TEKT KORG synthesizerPetaluma, CA",
+      "category": "synths-modules",
       "asking_price": 180.0,
       "price_text": "$180",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1532059421847170.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "recording_foundation"
+        "creative_instruments"
       ],
       "discovery_queries": [
-        "powered monitor speakers"
+        "desktop synthesizer"
       ]
     },
     {
@@ -2810,6 +2695,7 @@
       "posted_at": "2026-07-29T16:06:42-07:00",
       "updated_at": "2026-07-29T16:07:24-07:00",
       "distance_miles": 19.47748435010106,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 11,
       "score": 57.22,
@@ -2827,20 +2713,21 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1532059421847170",
-      "url": "https://www.facebook.com/marketplace/item/1532059421847170/",
-      "title": "NU:TEKT KORG synthesizer",
-      "category": "synths-modules",
+      "listing_id": "1999942834063566",
+      "url": "https://www.facebook.com/marketplace/item/1999942834063566/",
+      "title": "Yamaha BR15 Speaker",
+      "category": "other-audio",
       "asking_price": 180.0,
       "price_text": "$180",
-      "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1999942834063566.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "creative_instruments"
+        "recording_foundation"
       ],
       "discovery_queries": [
-        "desktop synthesizer"
+        "powered monitor speakers"
       ]
     },
     {
@@ -2857,6 +2744,7 @@
       "posted_at": "2026-07-21T10:35:34-07:00",
       "updated_at": null,
       "distance_miles": 19.436060627452896,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 4,
       "score": 89.89,
@@ -2881,7 +2769,8 @@
       "asking_price": 199.0,
       "price_text": "$199",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1404816891519408.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -2890,73 +2779,34 @@
       ],
       "discovery_queries": [
         "USB audio interface",
+        "2 input audio interface",
         "studio monitor pair",
         "powered monitor speakers",
         "home recording studio",
-        "audio interphase",
-        "studio moniter speakers"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1032711415783247",
-      "url": "https://www.facebook.com/marketplace/item/1032711415783247/",
-      "title": "$200$250Vintage 70s Yamaha EM-90 Mixer, Drum MachineSan Rafael, CA",
-      "category": "mixers",
-      "asking_price": 200.0,
-      "price_text": "$200",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "creative_instruments",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum machine",
         "recording equipment lot",
-        "drum mashine"
+        "audio interphase",
+        "studio moniter speakers",
+        "mezcladora audio"
       ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1251433240292575",
-      "url": "https://www.facebook.com/marketplace/item/1251433240292575/",
-      "title": "$200Antique Sound Lab Tube Headphone Amp with 6BQ5 12AX7San Rafael, CA",
-      "category": "pa-headphones-utilities",
+      "listing_id": "1593810002269979",
+      "url": "https://www.facebook.com/marketplace/item/1593810002269979/",
+      "title": "$200Roland TD-1 VDRUM Electric Drum SetCorte Madera, CA",
+      "category": "electronic-drums",
       "asking_price": 200.0,
       "price_text": "$200",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "4571627396455146",
-      "url": "https://www.facebook.com/marketplace/item/4571627396455146/",
-      "title": "$200Carvin 6 Channel MixerNovato, CA",
-      "category": "mixers",
-      "asking_price": 200.0,
-      "price_text": "$200",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1593810002269979.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "recording_foundation"
+        "playable_instruments"
       ],
       "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer"
+        "electronic drum kit"
       ]
     },
     {
@@ -2969,12 +2819,14 @@
       "asking_price": 200.0,
       "price_text": "$200",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1621007482766926.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
+        "USB audio interface",
         "headphone amplifier"
       ]
     },
@@ -2988,7 +2840,8 @@
       "asking_price": 200.0,
       "price_text": "$200",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-27686535021013177.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -3015,7 +2868,29 @@
       "posted_at": "2026-08-08T12:31:00-07:00",
       "updated_at": null,
       "distance_miles": 6.724450778202067,
+      "thumbnail_url": "",
       "new_discovery": false
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "4571627396455146",
+      "url": "https://www.facebook.com/marketplace/item/4571627396455146/",
+      "title": "Carvin 6 Channel Mixer",
+      "category": "mixers",
+      "asking_price": 200.0,
+      "price_text": "$200",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-4571627396455146.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer"
+      ]
     },
     {
       "source": "facebook",
@@ -3027,7 +2902,8 @@
       "asking_price": 200.0,
       "price_text": "$200",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-952894703736139.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "bundles_and_lots"
@@ -3046,32 +2922,14 @@
       "asking_price": 200.0,
       "price_text": "$200",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1483268529855455.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
         "microphone preamp"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1025017176606245",
-      "url": "https://www.facebook.com/marketplace/item/1025017176606245/",
-      "title": "LUMI Keys MIDI Keyboard with Snapcase",
-      "category": "keyboards-controllers",
-      "asking_price": 200.0,
-      "price_text": "$200",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "discovery_queries": [
-        "synth module"
       ]
     },
     {
@@ -3084,32 +2942,14 @@
       "asking_price": 200.0,
       "price_text": "$200",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-914183457994479.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
       ],
       "discovery_queries": [
         "percussion instrument"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1593810002269979",
-      "url": "https://www.facebook.com/marketplace/item/1593810002269979/",
-      "title": "Roland TD-1 VDRUM Electric Drum Set",
-      "category": "electronic-drums",
-      "asking_price": 200.0,
-      "price_text": "$200",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "discovery_queries": [
-        "electronic drum kit"
       ]
     },
     {
@@ -3126,40 +2966,21 @@
       "posted_at": "2026-07-31T15:39:40-07:00",
       "updated_at": "2026-08-09T11:00:39-07:00",
       "distance_miles": 6.66240405420948,
+      "thumbnail_url": "",
       "new_discovery": false
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1359177519688420",
-      "url": "https://www.facebook.com/marketplace/item/1359177519688420/",
-      "title": "$215$250Roland Cube Sound SystemFairfax, CA",
-      "category": "other-audio",
-      "asking_price": 215.0,
-      "price_text": "$215",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments",
-        "bundles_and_lots"
-      ],
-      "discovery_queries": [
-        "MIDI sound module",
-        "recording equipment lot"
-      ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
       "listing_id": "1351028543807775",
       "url": "https://www.facebook.com/marketplace/item/1351028543807775/",
-      "title": "Arturia MicroBrute Creation Edition",
+      "title": "$220Arturia MicroBrute Creation EditionSan Rafael, CA",
       "category": "synths-modules",
       "asking_price": 220.0,
       "price_text": "$220",
-      "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1351028543807775.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -3182,6 +3003,7 @@
       "posted_at": "2026-08-02T15:57:58-07:00",
       "updated_at": null,
       "distance_miles": 17.569446012457465,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 1,
       "score": 93.24,
@@ -3210,44 +3032,21 @@
       "posted_at": "2026-07-30T22:07:22-07:00",
       "updated_at": "2026-08-08T16:09:00-07:00",
       "distance_miles": 17.22323765262498,
+      "thumbnail_url": "",
       "new_discovery": false
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1608519980623657",
-      "url": "https://www.facebook.com/marketplace/item/1608519980623657/",
-      "title": "$240$260Roland AIRA TR-8 Drum MachinePetaluma, CA",
-      "category": "samplers-drum-machines",
-      "asking_price": 240.0,
-      "price_text": "$240",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "desktop synthesizer",
-        "music multi effects",
-        "electronic drum kit",
-        "drum mashine"
-      ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
       "listing_id": "3199794820209575",
       "url": "https://www.facebook.com/marketplace/item/3199794820209575/",
-      "title": "$240Behringer RD-8 Rhythm Designer Mk.1Ships to you",
+      "title": "Behringer RD-8 Rhythm Designer Mk.1",
       "category": "samplers-drum-machines",
       "asking_price": 240.0,
       "price_text": "$240",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-3199794820209575.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -3266,7 +3065,8 @@
       "asking_price": 240.0,
       "price_text": "$240",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-972626552328695.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -3289,6 +3089,7 @@
       "posted_at": "2026-08-02T13:42:30-07:00",
       "updated_at": "2026-08-12T08:50:26-07:00",
       "distance_miles": 9.007158173378409,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 10,
       "score": 64.92,
@@ -3308,43 +3109,44 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1821642932550368",
-      "url": "https://www.facebook.com/marketplace/item/1821642932550368/",
-      "title": "$250$350Roland RD-1K-V Drum Kit Electric Drum Kit and Tama Drum ThroneSan Rafael, CA",
-      "category": "drums-percussion",
-      "asking_price": 250.0,
-      "price_text": "$250",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "electronic drum kit",
-        "drum mashine"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
       "listing_id": "2111191752828074",
       "url": "https://www.facebook.com/marketplace/item/2111191752828074/",
-      "title": "$250AKAI DPS16 SALE!!! $250Ships to you",
+      "title": "AKAI DPS16 SALE!!! $250",
       "category": "recorders-samplers",
       "asking_price": 250.0,
       "price_text": "$250",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2111191752828074.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
       ],
       "discovery_queries": [
         "MIDI sound module"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1946661526041861",
+      "url": "https://www.facebook.com/marketplace/item/1946661526041861/",
+      "title": "Mackie SRM 350 2-way Active Loudspeaker (one)",
+      "category": "pa-headphones-utilities",
+      "asking_price": 250.0,
+      "price_text": "$250",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1946661526041861.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots"
+      ],
+      "discovery_queries": [
+        "powered monitor speakers",
+        "recording equipment lot",
+        "DJ equipment lot"
       ]
     },
     {
@@ -3357,7 +3159,8 @@
       "asking_price": 250.0,
       "price_text": "$250",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1590248469810189.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
@@ -3376,7 +3179,8 @@
       "asking_price": 250.0,
       "price_text": "$250",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1782680182896100.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "bundles_and_lots"
@@ -3395,13 +3199,15 @@
       "asking_price": 250.0,
       "price_text": "$250",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-925509123243361.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
       ],
       "discovery_queries": [
-        "synth module"
+        "synth module",
+        "MIDI sound module"
       ]
     },
     {
@@ -3418,6 +3224,7 @@
       "posted_at": "2026-08-08T16:44:16-07:00",
       "updated_at": null,
       "distance_miles": 0.6218373175163586,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -3430,7 +3237,8 @@
       "asking_price": 275.0,
       "price_text": "$275",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1496535865334631.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -3458,7 +3266,8 @@
       "asking_price": 275.0,
       "price_text": "$275",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1012531221231701.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
@@ -3470,61 +3279,63 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1709737213613836",
-      "url": "https://www.facebook.com/marketplace/item/1709737213613836/",
-      "title": "$300$400Mackie D8B Digital Mixing Table Console Local pickup OnlySan Rafael, CA",
-      "category": "other-audio",
+      "listing_id": "990719060540668",
+      "url": "https://www.facebook.com/marketplace/item/990719060540668/",
+      "title": "$300$400Yamaha MM6 61-Key Music Synthesizer Workstation w/ Power Supply – Tested & WorkingSonoma, CA",
+      "category": "synths-modules",
       "asking_price": 300.0,
       "price_text": "$300",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-990719060540668.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots"
+        "creative_instruments",
+        "seller_language_and_misspellings"
       ],
       "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "recording equipment lot"
+        "desktop synthesizer",
+        "synthasizer keyboard"
       ]
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "2003281003612795",
-      "url": "https://www.facebook.com/marketplace/item/2003281003612795/",
-      "title": "$300$500Rupert Neve Designs RNHP Precision Headphone AmplifierShips to you",
-      "category": "pa-headphones-utilities",
-      "asking_price": 300.0,
-      "price_text": "$300",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1011326954827770",
-      "url": "https://www.facebook.com/marketplace/item/1011326954827770/",
-      "title": "$300Yamaha Piano Digital P-45Novato, CA",
+      "listing_id": "1383369436609371",
+      "url": "https://www.facebook.com/marketplace/item/1383369436609371/",
+      "title": "$300$450Roland drum set. TD02 + speakersSan Rafael, CA",
       "category": "other-audio",
       "asking_price": 300.0,
       "price_text": "$300",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1383369436609371.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
       ],
       "discovery_queries": [
-        "digital piano keyboard"
+        "electronic drum kit"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1446605023921336",
+      "url": "https://www.facebook.com/marketplace/item/1446605023921336/",
+      "title": "$300Roland JD-XI Crossover SynthesizerGreenbrae, CA",
+      "category": "synths-modules",
+      "asking_price": 300.0,
+      "price_text": "$300",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1446605023921336.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "desktop synthesizer"
       ]
     },
     {
@@ -3537,7 +3348,8 @@
       "asking_price": 300.0,
       "price_text": "$300",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1562103548932856.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -3557,32 +3369,14 @@
       "asking_price": 300.0,
       "price_text": "$300",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2113057612891548.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
         "studio monitor pair"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "1446605023921336",
-      "url": "https://www.facebook.com/marketplace/item/1446605023921336/",
-      "title": "Roland JD-XI Crossover Synthesizer",
-      "category": "synths-modules",
-      "asking_price": 300.0,
-      "price_text": "$300",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "discovery_queries": [
-        "desktop synthesizer"
       ]
     },
     {
@@ -3599,6 +3393,7 @@
       "posted_at": "2026-08-07T00:05:29-07:00",
       "updated_at": "2026-08-11T15:17:34-07:00",
       "distance_miles": 15.73174035475519,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -3611,13 +3406,34 @@
       "asking_price": 300.0,
       "price_text": "$300",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-27730248339961337.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
-        "compact audio mixer"
+        "recording mixer USB"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1011326954827770",
+      "url": "https://www.facebook.com/marketplace/item/1011326954827770/",
+      "title": "Yamaha Piano Digital P-45",
+      "category": "other-audio",
+      "asking_price": 300.0,
+      "price_text": "$300",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1011326954827770.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "discovery_queries": [
+        "digital piano keyboard"
       ]
     },
     {
@@ -3634,6 +3450,7 @@
       "posted_at": "2026-07-19T09:28:18-07:00",
       "updated_at": "2026-08-08T07:36:29-07:00",
       "distance_miles": 17.523174614080673,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 8,
       "score": 69.91,
@@ -3658,20 +3475,17 @@
       "asking_price": 325.0,
       "price_text": "$325",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1834226491359078.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
-        "creative_instruments",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
+        "bundles_and_lots"
       ],
       "discovery_queries": [
         "studio monitor pair",
         "powered monitor speakers",
-        "music multi effects",
-        "home recording studio",
-        "studio moniter speakers"
+        "home recording studio"
       ]
     },
     {
@@ -3684,7 +3498,8 @@
       "asking_price": 330.0,
       "price_text": "$330",
       "location_text": "Sonoma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-890464827054099.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -3707,27 +3522,27 @@
       "posted_at": "2026-07-15T13:30:31-07:00",
       "updated_at": "2026-08-12T06:35:03-07:00",
       "distance_miles": 17.569446012457465,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1391532906199580",
-      "url": "https://www.facebook.com/marketplace/item/1391532906199580/",
-      "title": "$350Kat KT-150 Electronic DrumsPetaluma, CA",
-      "category": "electronic-drums",
+      "listing_id": "1360960825362507",
+      "url": "https://www.facebook.com/marketplace/item/1360960825362507/",
+      "title": "$350$400Korg karmaSan Rafael, CA",
+      "category": "other-audio",
       "asking_price": 350.0,
       "price_text": "$350",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1360960825362507.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments"
+        "seller_language_and_misspellings"
       ],
       "discovery_queries": [
-        "drum machine",
-        "electronic drum kit"
+        "synthasizer keyboard"
       ]
     },
     {
@@ -3744,7 +3559,30 @@
       "posted_at": "2026-08-02T18:06:33-07:00",
       "updated_at": "2026-08-11T17:26:16-07:00",
       "distance_miles": 15.73174035475519,
+      "thumbnail_url": "",
       "new_discovery": false
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1391532906199580",
+      "url": "https://www.facebook.com/marketplace/item/1391532906199580/",
+      "title": "Kat KT-150 Electronic Drums",
+      "category": "electronic-drums",
+      "asking_price": 350.0,
+      "price_text": "$350",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1391532906199580.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments"
+      ],
+      "discovery_queries": [
+        "drum machine",
+        "electronic drum kit"
+      ]
     },
     {
       "source": "facebook",
@@ -3756,7 +3594,8 @@
       "asking_price": 395.0,
       "price_text": "$395",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-849948741208733.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -3777,25 +3616,6 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "965046959730510",
-      "url": "https://www.facebook.com/marketplace/item/965046959730510/",
-      "title": "$400Drum Kit- Sonar 503 SeriesPetaluma, CA",
-      "category": "drums-percussion",
-      "asking_price": 400.0,
-      "price_text": "$400",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "discovery_queries": [
-        "drum mashine"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
       "listing_id": "1010328598175550",
       "url": "https://www.facebook.com/marketplace/item/1010328598175550/",
       "title": "$400Roland Groovebox Mc-101Petaluma, CA",
@@ -3803,16 +3623,34 @@
       "asking_price": 400.0,
       "price_text": "$400",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1010328598175550.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "creative_instruments",
-        "seller_language_and_misspellings"
+        "creative_instruments"
       ],
       "discovery_queries": [
-        "groovebox",
-        "sampler music",
-        "synthasizer keyboard"
+        "groovebox"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "5338648856359666",
+      "url": "https://www.facebook.com/marketplace/item/5338648856359666/",
+      "title": "$400ROLAND Plug out synthesizer system 1mPetaluma, CA",
+      "category": "synths-modules",
+      "asking_price": 400.0,
+      "price_text": "$400",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-5338648856359666.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "desktop synthesizer"
       ]
     },
     {
@@ -3829,6 +3667,7 @@
       "posted_at": "2026-07-07T14:06:32-07:00",
       "updated_at": "2026-07-25T21:04:29-07:00",
       "distance_miles": 14.749522686624422,
+      "thumbnail_url": "",
       "new_discovery": false,
       "rank": 3,
       "score": 89.95,
@@ -3853,7 +3692,8 @@
       "asking_price": 400.0,
       "price_text": "$400",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1949442376012676.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -3876,6 +3716,7 @@
       "posted_at": "2026-08-10T16:21:25-07:00",
       "updated_at": null,
       "distance_miles": 17.61255894948518,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -3892,66 +3733,8 @@
       "posted_at": "2026-07-15T17:43:02-07:00",
       "updated_at": "2026-08-10T14:19:26-07:00",
       "distance_miles": 16.928859247841984,
+      "thumbnail_url": "",
       "new_discovery": false
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "5338648856359666",
-      "url": "https://www.facebook.com/marketplace/item/5338648856359666/",
-      "title": "ROLAND Plug out synthesizer system 1m",
-      "category": "synths-modules",
-      "asking_price": 400.0,
-      "price_text": "$400",
-      "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "discovery_queries": [
-        "desktop synthesizer"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2101268174604866",
-      "url": "https://www.facebook.com/marketplace/item/2101268174604866/",
-      "title": "$450$500Donner DED-200 MAX Electronic Drum SetNovato, CA",
-      "category": "electronic-drums",
-      "asking_price": 450.0,
-      "price_text": "$450",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": true,
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments"
-      ],
-      "discovery_queries": [
-        "drum machine",
-        "electronic drum kit"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "2201121553999544",
-      "url": "https://www.facebook.com/marketplace/item/2201121553999544/",
-      "title": "$450Little Labs Monotor Pro Headphone AmpNovato, CA",
-      "category": "pa-headphones-utilities",
-      "asking_price": 450.0,
-      "price_text": "$450",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "discovery_queries": [
-        "headphone amplifier"
-      ]
     },
     {
       "source": "facebook",
@@ -3963,13 +3746,34 @@
       "asking_price": 450.0,
       "price_text": "$450",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1191250423175876.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
       ],
       "discovery_queries": [
         "loop station"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2201121553999544",
+      "url": "https://www.facebook.com/marketplace/item/2201121553999544/",
+      "title": "Little Labs Monotor Pro Headphone Amp",
+      "category": "pa-headphones-utilities",
+      "asking_price": 450.0,
+      "price_text": "$450",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-2201121553999544.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "headphone amplifier"
       ]
     },
     {
@@ -3986,6 +3790,7 @@
       "posted_at": "2026-08-03T01:39:06-07:00",
       "updated_at": null,
       "distance_miles": 17.523174614080673,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -3993,12 +3798,13 @@
       "listing_type": "active",
       "listing_id": "2532260373900113",
       "url": "https://www.facebook.com/marketplace/item/2532260373900113/",
-      "title": "$500E-MU B-3 Midi Sound ModuleShips to you",
+      "title": "E-MU B-3 Midi Sound Module",
       "category": "synths-modules",
       "asking_price": 500.0,
       "price_text": "$500",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2532260373900113.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -4012,12 +3818,13 @@
       "listing_type": "active",
       "listing_id": "1387626363311631",
       "url": "https://www.facebook.com/marketplace/item/1387626363311631/",
-      "title": "$500Ensoniq EPS Performance Sampler Vintage SynthFairfax, CA",
+      "title": "Ensoniq EPS Performance Sampler Vintage Synth",
       "category": "samplers-drum-machines",
       "asking_price": 500.0,
       "price_text": "$500",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1387626363311631.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -4032,21 +3839,21 @@
       "listing_type": "active",
       "listing_id": "1322843872965387",
       "url": "https://www.facebook.com/marketplace/item/1322843872965387/",
-      "title": "$500Korg i30 EX 61-Key Interactive Music Workstation / Synthesizer with Padded Gig BagNovato, CA",
+      "title": "Korg i30 EX 61-Key Interactive Music Workstation / Synthesizer with Padded Gig Bag",
       "category": "synths-modules",
       "asking_price": 500.0,
       "price_text": "$500",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1322843872965387.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
-        "creative_instruments",
-        "seller_language_and_misspellings"
+        "creative_instruments"
       ],
       "discovery_queries": [
         "sampler music",
-        "desktop synthesizer",
-        "synthasizer keyboard"
+        "synth module",
+        "desktop synthesizer"
       ]
     },
     {
@@ -4054,12 +3861,13 @@
       "listing_type": "active",
       "listing_id": "1026636933585292",
       "url": "https://www.facebook.com/marketplace/item/1026636933585292/",
-      "title": "$500Some Music Gear - Synths, Bugbrand, Drum MachinesShips to you",
+      "title": "Some Music Gear - Synths, Bugbrand, Drum Machines",
       "category": "samplers-drum-machines",
       "asking_price": 500.0,
       "price_text": "$500",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1026636933585292.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -4082,6 +3890,7 @@
       "posted_at": "2026-07-14T11:34:59-07:00",
       "updated_at": "2026-08-08T07:36:34-07:00",
       "distance_miles": 17.523174614080673,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4094,7 +3903,8 @@
       "asking_price": 525.0,
       "price_text": "$525",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1757470525600747.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -4113,7 +3923,8 @@
       "asking_price": 550.0,
       "price_text": "$550",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2167384970723195.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -4132,7 +3943,8 @@
       "asking_price": 550.0,
       "price_text": "$550",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1484875909396186.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -4151,7 +3963,8 @@
       "asking_price": 600.0,
       "price_text": "$600",
       "location_text": "Sonoma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-927652920106268.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -4174,7 +3987,28 @@
       "posted_at": "2026-07-23T14:12:09-07:00",
       "updated_at": null,
       "distance_miles": 17.571884105836602,
+      "thumbnail_url": "",
       "new_discovery": false
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "3985648108396593",
+      "url": "https://www.facebook.com/marketplace/item/3985648108396593/",
+      "title": "Black Lion Audio Bluey 1176 Compressor",
+      "category": "other-audio",
+      "asking_price": 650.0,
+      "price_text": "$650",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-3985648108396593.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "discovery_queries": [
+        "2 input audio interface"
+      ]
     },
     {
       "source": "facebook",
@@ -4186,7 +4020,8 @@
       "asking_price": 650.0,
       "price_text": "$650",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1418781356822777.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
@@ -4205,7 +4040,8 @@
       "asking_price": 700.0,
       "price_text": "$700",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1596289378659595.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "seller_language_and_misspellings"
@@ -4224,34 +4060,14 @@
       "asking_price": 700.0,
       "price_text": "$700",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-2840565636323245.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
       "discovery_queries": [
         "equipo de grabacion"
-      ]
-    },
-    {
-      "source": "facebook",
-      "listing_type": "active",
-      "listing_id": "928956000233564",
-      "url": "https://www.facebook.com/marketplace/item/928956000233564/",
-      "title": "$750✅✅Alto Pro TS412 12\" 2-Way Powered Active DJ PA Speaker w Bluetooth Pair & BagsNovato, CA",
-      "category": "pa-headphones-utilities",
-      "asking_price": 750.0,
-      "price_text": "$750",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
-      "new_discovery": false,
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots"
-      ],
-      "discovery_queries": [
-        "powered monitor speakers",
-        "DJ equipment lot"
       ]
     },
     {
@@ -4264,13 +4080,38 @@
       "asking_price": 750.0,
       "price_text": "$750",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1062976822760046.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
       ],
       "discovery_queries": [
         "microphone preamp"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "928956000233564",
+      "url": "https://www.facebook.com/marketplace/item/928956000233564/",
+      "title": "✅✅Alto Pro TS412 12\" 2-Way Powered Active DJ PA Speaker w Bluetooth Pair & Bags",
+      "category": "pa-headphones-utilities",
+      "asking_price": 750.0,
+      "price_text": "$750",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-928956000233564.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": false,
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "powered monitor speakers",
+        "DJ equipment lot",
+        "studio moniter speakers"
       ]
     },
     {
@@ -4287,7 +4128,28 @@
       "posted_at": "2026-08-08T16:43:35-07:00",
       "updated_at": null,
       "distance_miles": 0.6218373175163586,
+      "thumbnail_url": "",
       "new_discovery": false
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1631430154839460",
+      "url": "https://www.facebook.com/marketplace/item/1631430154839460/",
+      "title": "Sound system with klipsch speakers",
+      "category": "other-audio",
+      "asking_price": 800.0,
+      "price_text": "$800",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1631430154839460.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "discovery_queries": [
+        "MIDI sound module"
+      ]
     },
     {
       "source": "craigslist",
@@ -4303,6 +4165,7 @@
       "posted_at": "2026-07-15T17:40:34-07:00",
       "updated_at": "2026-08-03T15:22:27-07:00",
       "distance_miles": 8.230006473153775,
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4310,12 +4173,13 @@
       "listing_type": "active",
       "listing_id": "1011156771821244",
       "url": "https://www.facebook.com/marketplace/item/1011156771821244/",
-      "title": "$899Native Instruments Maschine+ HWPetaluma, CA",
+      "title": "Native Instruments Maschine+ HW",
       "category": "samplers-drum-machines",
       "asking_price": 899.0,
       "price_text": "$899",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1011156771821244.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -4329,12 +4193,13 @@
       "listing_type": "active",
       "listing_id": "1354104706855162",
       "url": "https://www.facebook.com/marketplace/item/1354104706855162/",
-      "title": "$950DW Design series limited edition titanium satin/DW performance series 14x8 snareNovato, CA",
+      "title": "DW Design series limited edition titanium satin/DW performance series 14x8 snare",
       "category": "drums-percussion",
       "asking_price": 950.0,
       "price_text": "$950",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1354104706855162.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "seller_language_and_misspellings"
@@ -4353,7 +4218,8 @@
       "asking_price": 1200.0,
       "price_text": "$1,200",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1021801677315080.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "bundles_and_lots",
@@ -4374,7 +4240,8 @@
       "asking_price": 1500.0,
       "price_text": "$1,500",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-893338299994710.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments"
@@ -4388,12 +4255,13 @@
       "listing_type": "active",
       "listing_id": "1006623198794917",
       "url": "https://www.facebook.com/marketplace/item/1006623198794917/",
-      "title": "Alesis Strike Pro Special Edition Electronic Drum Kit",
+      "title": "$1,800Alesis Strike Pro Special Edition Electronic Drum KitSan Rafael, CA",
       "category": "electronic-drums",
       "asking_price": 1800.0,
       "price_text": "$1,800",
-      "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1006623198794917.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments",
@@ -4414,7 +4282,8 @@
       "asking_price": 2000.0,
       "price_text": "$2,000",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-28628862663367037.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "creative_instruments",
@@ -4428,22 +4297,83 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1353064283580519",
-      "url": "https://www.facebook.com/marketplace/item/1353064283580519/",
-      "title": "Universal Audio Apollo x16 Thunderbolt 3 Audio Interface – HEXA Core DSP (Gen 1)",
-      "category": "interfaces",
-      "asking_price": 2200.0,
-      "price_text": "$2,200",
+      "listing_id": "1678618139954287",
+      "url": "https://www.facebook.com/marketplace/item/1678618139954287/",
+      "title": "Canopus Ash Drum Kit",
+      "category": "drums-percussion",
+      "asking_price": 2000.0,
+      "price_text": "$2,000",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-1678618139954287.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "drum mashine"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1715527399721213",
+      "url": "https://www.facebook.com/marketplace/item/1715527399721213/",
+      "title": "Handpan, B Ursa, Isthmus Instruments, 8 notes, deep blue patina, nitrided steel",
+      "category": "other-audio",
+      "asking_price": 2000.0,
+      "price_text": "$2,000",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-1715527399721213.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "discovery_queries": [
+        "percussion instrument"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1029775083274374",
+      "url": "https://www.facebook.com/marketplace/item/1029775083274374/",
+      "title": "Phoenix Audio DRS-8 Mk2 8-Channel Mic Preamp",
+      "category": "microphones-preamps",
+      "asking_price": 2750.0,
+      "price_text": "$2,750",
       "location_text": "Petaluma, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1029775083274374.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
         "creative_instruments"
       ],
       "discovery_queries": [
-        "2 input audio interface",
-        "sampler music"
+        "microphone preamp",
+        "music multi effects"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2193097121251822",
+      "url": "https://www.facebook.com/marketplace/item/2193097121251822/",
+      "title": "Handpan, E Integral, Æther by Xenith, 11 notes, nitrided steel",
+      "category": "other-audio",
+      "asking_price": 3000.0,
+      "price_text": "$3,000",
+      "location_text": "San Rafael, CA",
+      "thumbnail_url": "images/listings/facebook-2193097121251822.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "discovery_queries": [
+        "percussion instrument"
       ]
     },
     {
@@ -4456,7 +4386,8 @@
       "asking_price": 11495.0,
       "price_text": "$11,495",
       "location_text": "San Rafael, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-988393640684710.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation"
@@ -4470,12 +4401,13 @@
       "listing_type": "active",
       "listing_id": "1350904093908112",
       "url": "https://www.facebook.com/marketplace/item/1350904093908112/",
-      "title": "$12,345DJ equipmentNovato, CA",
+      "title": "DJ equipment",
       "category": "dj-gear",
       "asking_price": 12345.0,
       "price_text": "$12,345",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-1350904093908112.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": false,
       "discovery_groups": [
         "recording_foundation",
@@ -4509,13 +4441,34 @@
       "asking_price": 15012.0,
       "price_text": "$15012",
       "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1035690185998538.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "creative_instruments"
       ],
       "discovery_queries": [
         "groovebox"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "2050190489203432",
+      "url": "https://www.facebook.com/marketplace/item/2050190489203432/",
+      "title": "$80050 keyboard yamahaNovato, CA",
+      "category": "other-audio",
+      "asking_price": 80050.0,
+      "price_text": "$80050",
+      "location_text": "",
+      "thumbnail_url": "images/listings/facebook-2050190489203432.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "synthasizer keyboard"
       ]
     },
     {
@@ -4528,7 +4481,8 @@
       "asking_price": null,
       "price_text": "",
       "location_text": "Novato, CA",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "thumbnail_url": "images/listings/facebook-1467697608114778.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "recording_foundation",
@@ -4537,7 +4491,6 @@
       ],
       "discovery_queries": [
         "studio monitor pair",
-        "headphone amplifier",
         "home recording studio",
         "audio interphase",
         "studio moniter speakers"
@@ -4546,14 +4499,37 @@
     {
       "source": "facebook",
       "listing_type": "active",
-      "listing_id": "1967266993947921",
-      "url": "https://www.facebook.com/marketplace/item/1967266993947921/",
-      "title": "FreeUpright Piano Kohler & Chase vertical grand French repeating actionPetaluma, CA",
+      "listing_id": "2137563733770447",
+      "url": "https://www.facebook.com/marketplace/item/2137563733770447/",
+      "title": "Free",
       "category": "other-audio",
       "asking_price": null,
       "price_text": "",
-      "location_text": "",
-      "observed_at": "2026-08-12T11:25:27.805444-07:00",
+      "location_text": "Novato, CA",
+      "thumbnail_url": "images/listings/facebook-2137563733770447.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
+      "new_discovery": true,
+      "discovery_groups": [
+        "playable_instruments",
+        "seller_language_and_misspellings"
+      ],
+      "discovery_queries": [
+        "vintage electronic keyboard",
+        "synthasizer keyboard"
+      ]
+    },
+    {
+      "source": "facebook",
+      "listing_type": "active",
+      "listing_id": "1967266993947921",
+      "url": "https://www.facebook.com/marketplace/item/1967266993947921/",
+      "title": "Free",
+      "category": "other-audio",
+      "asking_price": null,
+      "price_text": "",
+      "location_text": "Petaluma, CA",
+      "thumbnail_url": "images/listings/facebook-1967266993947921.webp",
+      "observed_at": "2026-08-12T12:29:45.643523-07:00",
       "new_discovery": true,
       "discovery_groups": [
         "playable_instruments"
@@ -4574,6 +4550,7 @@
       "price_text": "$11.31",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4588,6 +4565,7 @@
       "price_text": "$24.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4602,6 +4580,7 @@
       "price_text": "$29.69",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4616,6 +4595,7 @@
       "price_text": "$29.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4630,6 +4610,7 @@
       "price_text": "$35.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4644,6 +4625,7 @@
       "price_text": "$38.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4658,6 +4640,7 @@
       "price_text": "$39.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4672,6 +4655,7 @@
       "price_text": "$40.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4686,6 +4670,7 @@
       "price_text": "$40.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4700,6 +4685,7 @@
       "price_text": "$44.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4714,6 +4700,7 @@
       "price_text": "$44.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4728,6 +4715,7 @@
       "price_text": "$45.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4742,6 +4730,7 @@
       "price_text": "$48.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4756,6 +4745,7 @@
       "price_text": "$49.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4770,6 +4760,7 @@
       "price_text": "$49.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4784,6 +4775,7 @@
       "price_text": "$49.97",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4798,6 +4790,7 @@
       "price_text": "$49.97",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4812,6 +4805,7 @@
       "price_text": "$49.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4826,6 +4820,7 @@
       "price_text": "$49.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4840,6 +4835,7 @@
       "price_text": "$49.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4854,6 +4850,7 @@
       "price_text": "$49.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4868,6 +4865,7 @@
       "price_text": "$49.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4882,6 +4880,7 @@
       "price_text": "$50.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4896,6 +4895,7 @@
       "price_text": "$50.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4910,6 +4910,7 @@
       "price_text": "$50.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4924,6 +4925,7 @@
       "price_text": "$52.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4938,6 +4940,7 @@
       "price_text": "$54.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4952,6 +4955,7 @@
       "price_text": "$59.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4966,6 +4970,7 @@
       "price_text": "$59.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4980,6 +4985,7 @@
       "price_text": "$60.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -4994,6 +5000,7 @@
       "price_text": "$60.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5008,6 +5015,7 @@
       "price_text": "$64.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5022,6 +5030,7 @@
       "price_text": "$65.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5036,6 +5045,7 @@
       "price_text": "$65.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5050,6 +5060,7 @@
       "price_text": "$67.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5064,6 +5075,7 @@
       "price_text": "$68.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5078,6 +5090,7 @@
       "price_text": "$68.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5092,6 +5105,7 @@
       "price_text": "$69.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5106,6 +5120,7 @@
       "price_text": "$69.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5120,6 +5135,7 @@
       "price_text": "$69.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5134,6 +5150,7 @@
       "price_text": "$69.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5148,6 +5165,7 @@
       "price_text": "$70.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5162,6 +5180,7 @@
       "price_text": "$71.24",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5176,6 +5195,7 @@
       "price_text": "$71.60",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5190,6 +5210,7 @@
       "price_text": "$74.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5204,6 +5225,7 @@
       "price_text": "$74.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5218,6 +5240,7 @@
       "price_text": "$74.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5232,6 +5255,7 @@
       "price_text": "$77.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5246,6 +5270,7 @@
       "price_text": "$79.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5260,6 +5285,7 @@
       "price_text": "$79.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5274,6 +5300,7 @@
       "price_text": "$79.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5288,6 +5315,7 @@
       "price_text": "$80.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5302,6 +5330,7 @@
       "price_text": "$80.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5316,6 +5345,7 @@
       "price_text": "$89.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5330,6 +5360,7 @@
       "price_text": "$93.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5344,6 +5375,7 @@
       "price_text": "$95.44",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5358,6 +5390,7 @@
       "price_text": "$99.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5372,6 +5405,7 @@
       "price_text": "$99.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5386,6 +5420,7 @@
       "price_text": "$99.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5400,6 +5435,7 @@
       "price_text": "$99.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5414,6 +5450,7 @@
       "price_text": "$99.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5428,6 +5465,7 @@
       "price_text": "$99.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5442,6 +5480,7 @@
       "price_text": "$99.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5456,6 +5495,7 @@
       "price_text": "$102.98",
       "location_text": "Located in United Kingdom",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5470,6 +5510,7 @@
       "price_text": "$103.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5484,6 +5525,7 @@
       "price_text": "$105.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5498,6 +5540,7 @@
       "price_text": "$110.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5512,6 +5555,7 @@
       "price_text": "$112.35",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5526,6 +5570,7 @@
       "price_text": "$114.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5540,6 +5585,7 @@
       "price_text": "$119.28",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5554,6 +5600,7 @@
       "price_text": "$119.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5568,6 +5615,7 @@
       "price_text": "$120.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5582,6 +5630,7 @@
       "price_text": "$120.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5596,6 +5645,7 @@
       "price_text": "$123.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5610,6 +5660,7 @@
       "price_text": "$125.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5624,6 +5675,7 @@
       "price_text": "$125.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5638,6 +5690,7 @@
       "price_text": "$128.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5652,6 +5705,7 @@
       "price_text": "$134.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5666,6 +5720,7 @@
       "price_text": "$135.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5680,6 +5735,7 @@
       "price_text": "$135.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5694,6 +5750,7 @@
       "price_text": "$138.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5708,6 +5765,7 @@
       "price_text": "$149.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5722,6 +5780,7 @@
       "price_text": "$149.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5736,6 +5795,7 @@
       "price_text": "$150.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5750,6 +5810,7 @@
       "price_text": "$152.12",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5764,6 +5825,7 @@
       "price_text": "$154.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5778,6 +5840,7 @@
       "price_text": "$155.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5792,6 +5855,7 @@
       "price_text": "$159.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5806,6 +5870,7 @@
       "price_text": "$159.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5820,6 +5885,7 @@
       "price_text": "$159.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5834,6 +5900,7 @@
       "price_text": "$159.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5848,6 +5915,7 @@
       "price_text": "$160.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5862,6 +5930,7 @@
       "price_text": "$160.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5876,6 +5945,7 @@
       "price_text": "$160.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5890,6 +5960,7 @@
       "price_text": "$165.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5904,6 +5975,7 @@
       "price_text": "$166.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5918,6 +5990,7 @@
       "price_text": "$169.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5932,6 +6005,7 @@
       "price_text": "$172.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5946,6 +6020,7 @@
       "price_text": "$175.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5960,6 +6035,7 @@
       "price_text": "$175.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5974,6 +6050,7 @@
       "price_text": "$177.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -5988,6 +6065,7 @@
       "price_text": "$179.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6002,6 +6080,7 @@
       "price_text": "$180.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6016,6 +6095,7 @@
       "price_text": "$183.35",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6030,6 +6110,7 @@
       "price_text": "$183.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6044,6 +6125,7 @@
       "price_text": "$185.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6058,6 +6140,7 @@
       "price_text": "$185.24",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6072,6 +6155,7 @@
       "price_text": "$189.10",
       "location_text": "Located in United Kingdom",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6086,6 +6170,7 @@
       "price_text": "$189.90",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6100,6 +6185,7 @@
       "price_text": "$189.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6114,6 +6200,7 @@
       "price_text": "$189.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6128,6 +6215,7 @@
       "price_text": "$190.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6142,6 +6230,7 @@
       "price_text": "$194.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6156,6 +6245,7 @@
       "price_text": "$199.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6170,6 +6260,7 @@
       "price_text": "$209.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6184,6 +6275,7 @@
       "price_text": "$209.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6198,6 +6290,7 @@
       "price_text": "$211.19",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6212,6 +6305,7 @@
       "price_text": "$219.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6226,6 +6320,7 @@
       "price_text": "$224.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6240,6 +6335,7 @@
       "price_text": "$225.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6254,6 +6350,7 @@
       "price_text": "$232.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6268,6 +6365,7 @@
       "price_text": "$236.36",
       "location_text": "Located in United Kingdom",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6282,6 +6380,7 @@
       "price_text": "$239.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6296,6 +6395,7 @@
       "price_text": "$249.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6310,6 +6410,7 @@
       "price_text": "$254.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6324,6 +6425,7 @@
       "price_text": "$269.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6338,6 +6440,7 @@
       "price_text": "$269.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6352,6 +6455,7 @@
       "price_text": "$269.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6366,6 +6470,7 @@
       "price_text": "$270.14",
       "location_text": "Located in United Kingdom",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6380,6 +6485,7 @@
       "price_text": "$299.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6394,6 +6500,7 @@
       "price_text": "$300.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6408,6 +6515,7 @@
       "price_text": "$304.30",
       "location_text": "Located in United Kingdom",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6422,6 +6530,7 @@
       "price_text": "$320.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6436,6 +6545,7 @@
       "price_text": "$320.00",
       "location_text": "Located in Puerto Rico",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6450,6 +6560,7 @@
       "price_text": "$325.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6464,6 +6575,7 @@
       "price_text": "$332.50",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6478,6 +6590,7 @@
       "price_text": "$334.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6492,6 +6605,7 @@
       "price_text": "$343.25",
       "location_text": "Located in United Kingdom",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6506,6 +6620,7 @@
       "price_text": "$365.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6520,6 +6635,7 @@
       "price_text": "$370.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6534,6 +6650,7 @@
       "price_text": "$379.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6548,6 +6665,7 @@
       "price_text": "$379.99",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6562,6 +6680,7 @@
       "price_text": "$389.95",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6576,6 +6695,7 @@
       "price_text": "$400.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6590,6 +6710,7 @@
       "price_text": "$400.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6604,6 +6725,7 @@
       "price_text": "$400.00",
       "location_text": "Located in Canada",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6618,6 +6740,7 @@
       "price_text": "$405.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6632,6 +6755,7 @@
       "price_text": "$415.99",
       "location_text": "Located in Japan",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6646,6 +6770,7 @@
       "price_text": "$425.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6660,6 +6785,7 @@
       "price_text": "$461.68",
       "location_text": "Located in Germany",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6674,6 +6800,7 @@
       "price_text": "$499.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6688,6 +6815,7 @@
       "price_text": "$550.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6702,6 +6830,7 @@
       "price_text": "$661.84",
       "location_text": "Located in United Kingdom",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     },
     {
@@ -6716,6 +6845,7 @@
       "price_text": "$699.00",
       "location_text": "Located in United States",
       "observed_at": "2026-08-12T11:26:16.740994-07:00",
+      "thumbnail_url": "",
       "new_discovery": false
     }
   ]

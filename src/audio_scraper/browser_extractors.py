@@ -43,6 +43,7 @@ def parse_browser_payload(source: str, payload: Mapping[str, Any]) -> tuple[Pars
             title=title,
             price_text=str(raw.get("price", "")).strip(),
             location_text=str(raw.get("location", "")).strip(),
+            image_url=str(raw.get("image_url", "")).strip(),
         ))
         observed_ids.add(listing_id)
 

@@ -27,6 +27,15 @@
   <main>
     <section id="stats" class="stats" aria-label="Collection statistics"></section>
 
+    <section class="reality-check" aria-label="Decision quality note">
+      <div>
+        <span class="eyebrow dark">WHAT THIS IS GOOD FOR</span>
+        <h2>A bargain radar, not an autopilot.</h2>
+      </div>
+      <p id="coverageNote">Loading evidence coverage…</p>
+      <p>Use the ranking to decide what deserves a closer look. Photos, exact model, condition, included parts, seller responsiveness, and an in-person test still decide whether to buy.</p>
+    </section>
+
     <section class="workspace">
       <aside class="filters" aria-label="Listing filters">
         <div class="filter-heading">
@@ -63,6 +72,17 @@
 
         <label class="toggle"><input id="newOnly" type="checkbox"> New expanded-pass finds only</label>
         <label class="toggle"><input id="scoredOnly" type="checkbox"> Scored shortlist only</label>
+        <label class="toggle"><input id="savedOnly" type="checkbox"> Saved listings only</label>
+
+        <section class="saved-panel" aria-labelledby="savedHeading">
+          <div class="saved-heading">
+            <div><span class="eyebrow dark">PRIVATE SHORTLIST</span><h3 id="savedHeading"><span id="savedCount">0</span> saved</h3></div>
+            <button id="clearSaved" class="text-button" type="button">Clear</button>
+          </div>
+          <p class="saved-total">Combined asking price: <strong id="savedTotal">$0</strong></p>
+          <div id="savedItems" class="saved-items"></div>
+          <small>Stored only in this browser. No account, checkout, or seller contact.</small>
+        </section>
       </aside>
 
       <section class="results" aria-live="polite">
@@ -114,6 +134,7 @@
         <span class="source-badge"></span>
         <span class="category-label"></span>
       </div>
+      <a class="thumbnail-link" target="_blank" rel="noopener noreferrer" hidden><img class="listing-thumbnail" loading="lazy" decoding="async" alt=""></a>
       <h3></h3>
       <p class="model-line"></p>
       <div class="price-block">
@@ -127,6 +148,7 @@
       <dl class="facts"></dl>
       <p class="notes"></p>
       <div class="risk-flags"></div>
+      <button class="save-button" type="button" aria-pressed="false">☆ Save</button>
       <a class="listing-link" target="_blank" rel="noopener noreferrer">Open original listing <span aria-hidden="true">↗</span></a>
     </article>
   </template>

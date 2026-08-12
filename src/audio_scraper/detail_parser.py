@@ -58,6 +58,11 @@ def parse_craigslist_detail(html: str, lead: ListingLead, *, origin: tuple[float
         description,
         flags=re.I,
     ))))
+    image_anchor = soup.select_one('.gallery a[href*="craigslist"], a.thumb[href*="craigslist"]')
+    image_node = soup.select_one('img[src*="craigslist"]')
+    image_url = str(
+        image_anchor.get("href") if image_anchor else image_node.get("src") if image_node else ""
+    )
     return ListingDetail(
         source=lead.source,
         listing_id=lead.listing_id,
@@ -74,4 +79,5 @@ def parse_craigslist_detail(html: str, lead: ListingLead, *, origin: tuple[float
         longitude=longitude,
         distance_miles=distance,
         included_items=included,
+        image_url=image_url,
     )

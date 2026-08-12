@@ -20,6 +20,7 @@ class ListingLead:
     title: str
     price_text: str = ""
     location_text: str = ""
+    image_url: str = ""
 
 
 @dataclass(frozen=True, slots=True)
@@ -39,6 +40,7 @@ class ListingDetail:
     longitude: float | None = None
     distance_miles: float | None = None
     included_items: tuple[str, ...] = ()
+    image_url: str = ""
 
     @property
     def price(self) -> float | None:

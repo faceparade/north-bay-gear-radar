@@ -73,6 +73,7 @@ def test_normalize_facebook_listing_preserves_link_and_marks_discovery_state():
             "new_vs_exact_checkpoint": True,
             "discovery_groups": ["recording_foundation"],
             "discovery_queries": ["audio interface"],
+            "thumbnail_path": "images/listings/facebook-123.webp",
         },
         "2026-08-12T12:00:00-07:00",
     )
@@ -81,6 +82,7 @@ def test_normalize_facebook_listing_preserves_link_and_marks_discovery_state():
     assert record["category"] == "interfaces"
     assert record["asking_price"] == 120.0
     assert record["url"].endswith("/123/")
+    assert record["thumbnail_url"] == "images/listings/facebook-123.webp"
     assert record["new_discovery"] is True
 
 

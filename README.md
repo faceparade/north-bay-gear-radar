@@ -11,6 +11,8 @@ The static dashboard is generated into `site/` and is designed for GitHub Pages.
 - Category and source filters
 - Price filters
 - Setup-fit scores and exact-model market ranges
+- Low-resolution, metadata-stripped listing thumbnails when the source exposes a usable photo
+- A browser-local private shortlist with saved-only filtering and a combined asking-price total
 - Direct links to original listings
 - Responsive desktop/mobile layout
 

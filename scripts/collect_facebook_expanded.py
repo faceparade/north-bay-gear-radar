@@ -9,6 +9,8 @@ from pathlib import Path
 from urllib.parse import quote_plus
 
 from audio_scraper.cdp_browser import CdpPage, cdp_targets, choose_page_target, collect_search
+from audio_scraper.site_data import categorize_title
+from audio_scraper.thumbnails import sync_listing_thumbnails
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -119,6 +121,10 @@ def main() -> None:
             row["title"].lower(),
         ),
     )
+    photo_rows = [row for row in rows if categorize_title(row["title"]) != "excluded"]
+    thumbnail_summary = sync_listing_thumbnails(photo_rows, site_root=ROOT / "site")
+    for row in rows:
+        row.pop("image_url", None)
     payload = {
         "as_of": datetime.now().astimezone().isoformat(),
         "source": "facebook",
@@ -130,6 +136,7 @@ def main() -> None:
         "searches": searches,
         "unique_listings": len(rows),
         "new_listings": sum(bool(row["new_vs_exact_checkpoint"]) for row in rows),
+        "thumbnails": thumbnail_summary,
         "listings": rows,
     }
     output = ROOT / "data" / "checkpoints" / "facebook_expanded_discovery.json"

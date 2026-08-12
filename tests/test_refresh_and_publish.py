@@ -6,6 +6,7 @@ import pytest
 from scripts.refresh_and_publish import (
     collection_is_healthy,
     publish_if_changed,
+    prune_unreferenced_public_thumbnails,
     refresh_craigslist,
     refresh_facebook,
 )
@@ -58,15 +59,48 @@ def test_facebook_refresh_restores_previous_data_on_failed_health_check(tmp_path
     original = {"listings": [{"listing_id": "good"}] * 50, "failures": []}
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(json.dumps(original), encoding="utf-8")
+    image_dir = tmp_path / "site" / "images" / "listings"
+    image_dir.mkdir(parents=True)
+    original_image = image_dir / "facebook-good.webp"
+    original_image.write_bytes(b"original")
 
     def bad_run(_command):
         write_payload(target, 2)
+        original_image.unlink()
+        (image_dir / "facebook-bad.webp").write_bytes(b"bad")
 
     monkeypatch.setattr(module, "run", bad_run)
     with pytest.raises(RuntimeError, match="health checks"):
         refresh_facebook()
     assert json.loads(target.read_text(encoding="utf-8")) == original
+    assert original_image.read_bytes() == b"original"
+    assert not (image_dir / "facebook-bad.webp").exists()
     assert not target.with_suffix(".json.previous").exists()
+
+
+def test_public_thumbnail_pruning_keeps_only_site_references(tmp_path, monkeypatch):
+    import scripts.refresh_and_publish as module
+
+    monkeypatch.setattr(module, "ROOT", tmp_path)
+    data = tmp_path / "site" / "data"
+    images = tmp_path / "site" / "images" / "listings"
+    data.mkdir(parents=True)
+    images.mkdir(parents=True)
+    (data / "listings.json").write_text(
+        json.dumps({"listings": [
+            {"thumbnail_url": "images/listings/facebook-keep.webp"},
+            {"thumbnail_url": "https://example.test/not-local.webp"},
+        ]}),
+        encoding="utf-8",
+    )
+    (images / "facebook-keep.webp").write_bytes(b"keep")
+    (images / "facebook-stale.webp").write_bytes(b"stale")
+    (images / "notes.txt").write_text("leave non-generated files alone", encoding="utf-8")
+
+    assert prune_unreferenced_public_thumbnails() == 1
+    assert (images / "facebook-keep.webp").read_bytes() == b"keep"
+    assert not (images / "facebook-stale.webp").exists()
+    assert (images / "notes.txt").exists()
 
 
 def test_publish_stages_catalog_and_scored_shortlist(monkeypatch, tmp_path):
@@ -88,3 +122,4 @@ def test_publish_stages_catalog_and_scored_shortlist(monkeypatch, tmp_path):
     assert add[:2] == ["git", "add"]
     assert "data/research/catalog.json" in add
     assert "data/normalized/scored_shortlist.json" in add
+    assert "site/images/listings" in add

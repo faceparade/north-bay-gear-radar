@@ -84,6 +84,7 @@ def normalize_facebook_listing(row: dict[str, Any], as_of: str | None) -> dict[s
         "asking_price": parse_price(row.get("price_text")),
         "price_text": _text(row.get("price_text")),
         "location_text": _text(row.get("location_text")),
+        "thumbnail_url": _text(row.get("thumbnail_path")),
         "observed_at": as_of,
         "new_discovery": bool(row.get("new_vs_exact_checkpoint")),
         "discovery_groups": list(row.get("discovery_groups") or []),
@@ -108,6 +109,7 @@ def normalize_craigslist_listing(row: dict[str, Any]) -> dict[str, Any]:
         "posted_at": row.get("posted_at"),
         "updated_at": row.get("updated_at"),
         "distance_miles": row.get("distance_miles"),
+        "thumbnail_url": _text(row.get("thumbnail_path")),
         "new_discovery": False,
     }
 
@@ -126,6 +128,7 @@ def normalize_sold_listing(row: dict[str, Any], as_of: str | None) -> dict[str, 
         "price_text": _text(row.get("price_text")),
         "location_text": _text(row.get("location_text")),
         "observed_at": as_of,
+        "thumbnail_url": _text(row.get("thumbnail_path")),
         "new_discovery": False,
     }
 

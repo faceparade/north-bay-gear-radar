@@ -14,7 +14,9 @@ _FACEBOOK = r'''(()=>{
     const price=(text.match(/\$[\d,.]+/)||[])[0]||'';
     const title=lines.filter(x=>x!==price)[0]||text;
     const location=lines.find(x=>/\b(mi|miles|Novato|San Rafael|Petaluma|Sonoma|Marin)\b/i.test(x))||'';
-    listings.push({id:m[1],url:a.href,title,price,location});
+    const image=a.querySelector('img');
+    const image_url=image?.currentSrc||image?.src||'';
+    listings.push({id:m[1],url:a.href,title,price,location,image_url});
   }
   return {listings,listing_ids:[...seen],has_next:false,next_url:null,
     has_numbered_pages:false,
@@ -38,7 +40,9 @@ _EBAY = r'''(()=>{
     seen.add(m[1]);
     const price=(text.match(/\$[\d,]+(?:\.\d{2})?(?:\s+to\s+\$[\d,]+(?:\.\d{2})?)?/)||[])[0]||'';
     const location=(text.match(/Located in[^\n]*/i)||[])[0]||'';
-    listings.push({id:m[1],url:a.href,title,price,location});
+    const image=scope?.querySelector('img');
+    const image_url=image?.currentSrc||image?.src||'';
+    listings.push({id:m[1],url:a.href,title,price,location,image_url});
   }
   const next=document.querySelector('a.pagination__next');
   return {listings,listing_ids:[...seen],

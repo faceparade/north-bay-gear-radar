@@ -10,6 +10,7 @@ from .detail_parser import parse_craigslist_detail
 from .filters import FilterPolicy, filter_details, prefilter_leads
 from .http_collectors import HttpFetcher
 from .models import ListingLead
+from .thumbnails import sync_listing_thumbnails
 
 
 def _serializable(item):
@@ -47,13 +48,17 @@ def inspect_craigslist(
         policy=policy or FilterPolicy(),
         now=now or datetime.now(timezone.utc),
     )
+    accepted_rows = [_serializable(item) for item in accepted]
+    root = Path(output_path).resolve().parents[2]
+    thumbnail_summary = sync_listing_thumbnails(accepted_rows, site_root=root / "site")
     payload = {
         "source": "craigslist",
         "read_only": True,
         "origin": {"latitude": origin[0], "longitude": origin[1]},
         "prefiltered": len(candidates),
         "inspected": len(details),
-        "accepted": [_serializable(item) for item in accepted],
+        "accepted": accepted_rows,
+        "thumbnails": thumbnail_summary,
         "rejected": [{"reason": item.reason, "detail": _serializable(item.detail)} for item in rejected],
         "failures": failures,
     }

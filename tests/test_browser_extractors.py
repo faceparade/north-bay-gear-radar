@@ -6,7 +6,7 @@ def test_facebook_browser_payload_normalizes_and_deduplicates():
     payload = {
         "listing_ids": ["123", "123", "456"],
         "listings": [
-            {"id": "123", "url": "https://www.facebook.com/marketplace/item/123/?ref=x", "title": "$80 Focusrite 2i2 Novato", "price": "$80", "location": "Novato"},
+            {"id": "123", "url": "https://www.facebook.com/marketplace/item/123/?ref=x", "title": "$80 Focusrite 2i2 Novato", "price": "$80", "location": "Novato", "image_url": "https://scontent.example.fbcdn.net/photo.jpg?temporary=1"},
             {"id": "123", "url": "https://www.facebook.com/marketplace/item/123/", "title": "$80 Focusrite 2i2 Novato", "price": "$80", "location": "Novato"},
         ],
         "has_next": False,
@@ -17,6 +17,7 @@ def test_facebook_browser_payload_normalizes_and_deduplicates():
     page, observation = parse_browser_payload("facebook", payload)
     assert len(page.listings) == 1
     assert page.listings[0].listing_id == "123"
+    assert page.listings[0].image_url.endswith("photo.jpg?temporary=1")
     assert observation.listing_ids == frozenset({"123", "456"})
 
 
