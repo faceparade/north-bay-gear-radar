@@ -1,0 +1,558 @@
+{
+  "as_of": "2026-08-12T11:20:25.785811-07:00",
+  "scored": [
+    {
+      "rank": 1,
+      "model": "PreSonus Eris 3.5 + Eris Sub 8BT",
+      "role": "studio_monitor_system",
+      "asking_price": 225.0,
+      "listing_url": "https://www.craigslist.org/view/d/sausalito-persons-eris-35-and-sub-8bt/4hcETVjcFkd5fN1vdnNt1H",
+      "distance_miles": 17.569446012457465,
+      "posted_at": "2026-08-02T15:57:58-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 199.95,
+        "used_high": 283.16,
+        "confidence": 0.95,
+        "sample_size": 59
+      },
+      "score_inputs": {
+        "gap_fit": 25,
+        "condition": 13,
+        "compatibility": 10,
+        "completeness": 7,
+        "freshness_proximity": 8,
+        "fun_factor": 8,
+        "resale_safety": 8,
+        "asking_price": 225.0,
+        "pricing": {
+          "used_low": 199.95,
+          "used_high": 283.16,
+          "confidence": 0.95
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 93.8,
+        "value_points": 14.8,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Compact 2.1 system. Official current prices are $114.99 for Eris 3.5 pair and $209.99 for Sub 8BT. Confirm the ad really includes two 3.5 speakers, subwoofer, all power leads, and interconnects.",
+      "windows_status": "Analog monitoring system; no operating-system driver dependency.",
+      "sources": [
+        "https://www.presonus.com/products/eris-35-2nd-gen-pair",
+        "https://www.presonus.com/products/eris-sub-8bt",
+        "https://applink.reverb.com/item/74443453-presonus-eris-sub-8bt-compact-8-powered-studio-subwoofer-active-sub-w-bluetooth"
+      ]
+    },
+    {
+      "rank": 2,
+      "model": "Elektron Digitone (original)",
+      "role": "standalone_synth",
+      "asking_price": 400.0,
+      "listing_url": "https://www.craigslist.org/view/d/mill-valley-elektron-digitone-voice-fm/btgsmrCzpgenW5Cb3wiEBq",
+      "distance_miles": 14.749522686624422,
+      "posted_at": "2026-07-07T14:06:32-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 400.0,
+        "used_high": 539.8,
+        "confidence": 0.8,
+        "sample_size": 12
+      },
+      "score_inputs": {
+        "gap_fit": 12,
+        "condition": 12,
+        "compatibility": 10,
+        "completeness": 6,
+        "freshness_proximity": 5,
+        "fun_factor": 15,
+        "resale_safety": 10,
+        "asking_price": 400.0,
+        "pricing": {
+          "used_low": 400.0,
+          "used_high": 539.8,
+          "confidence": 0.8
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 89.95,
+        "value_points": 19.95,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Eight-voice FM synth with four synth tracks, four MIDI tracks, sequencer and effects. Best self-contained creative instrument in this shortlist, but foundation comes first.",
+      "windows_status": "Standalone synth/sequencer with class-specific Elektron software support; analog audio works independently. Test USB/Overbridge only if that workflow matters.",
+      "sources": [
+        "https://www.elektron.se/support-downloads/digitone",
+        "https://macprovideo.com/article/audio-hardware/elektron-releases-759-digitone-polyphonic-digital-synthesizer",
+        "https://reverb.com/news/video-the-best-synths-to-buy-this-year"
+      ]
+    },
+    {
+      "rank": 3,
+      "model": "Mackie ProFX10v3",
+      "role": "usb_mixer",
+      "asking_price": 190.0,
+      "listing_url": "https://www.craigslist.org/view/d/vallejo-mackie-profx10v3-professional/4DRtwaeZR9BS2jrqkWfV7F",
+      "distance_miles": 19.436060627452896,
+      "posted_at": "2026-07-21T10:35:34-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 138.5,
+        "used_high": 224.99,
+        "confidence": 0.95,
+        "sample_size": 36
+      },
+      "score_inputs": {
+        "gap_fit": 27,
+        "condition": 13,
+        "compatibility": 9,
+        "completeness": 6,
+        "freshness_proximity": 6,
+        "fun_factor": 9,
+        "resale_safety": 8,
+        "asking_price": 190.0,
+        "pricing": {
+          "used_low": 138.5,
+          "used_high": 224.99,
+          "confidence": 0.95
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 89.89,
+        "value_points": 11.89,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Four Onyx mic preamps, phantom power, direct monitoring, effects, and 2x4 USB I/O. Excellent jam hub; USB records a stereo mix rather than every channel independently.",
+      "windows_status": "Official product page provides a Windows ASIO driver and documents high-resolution USB recording; verify driver installation and round-trip recording on Windows 11.",
+      "sources": [
+        "https://mackie.com/en/products/mixers/profxv3-series/ProFX10v3.html",
+        "https://reverb.com/item/97064142?show_sold=true",
+        "https://applink.reverb.com/item/91228900-mackie-profx10v3-10-channel-mixer-used"
+      ]
+    },
+    {
+      "rank": 4,
+      "model": "Line 6 POD Studio UX2",
+      "role": "audio_interface",
+      "asking_price": 25.0,
+      "listing_url": "https://www.craigslist.org/view/d/petaluma-line-ux2-usb-audio-interface/p7AM2pygzjzJpjgborjiET",
+      "distance_miles": 8.096848991164558,
+      "posted_at": "2026-08-07T10:58:09-07:00",
+      "risk_flags": [
+        "legacy_driver_risk"
+      ],
+      "market": {
+        "used_low": 21.99,
+        "used_high": 39.99,
+        "confidence": 0.95,
+        "sample_size": 24
+      },
+      "score_inputs": {
+        "gap_fit": 30,
+        "condition": 10,
+        "compatibility": 6,
+        "completeness": 8,
+        "freshness_proximity": 9,
+        "fun_factor": 6,
+        "resale_safety": 6,
+        "asking_price": 25.0,
+        "pricing": {
+          "used_low": 21.99,
+          "used_high": 39.99,
+          "confidence": 0.95
+        },
+        "risk_flags": [
+          "legacy_driver_risk"
+        ]
+      },
+      "score": {
+        "total": 85.12,
+        "value_points": 16.12,
+        "penalty_points": 6.0,
+        "notes": []
+      },
+      "research_notes": "Two XLR mic preamps, +48 V phantom power, instrument inputs, direct/ToneDirect monitoring. Cheap functional bridge, not a modern long-horizon interface.",
+      "windows_status": "Official download selector lists POD Studio UX2 and Windows 11; verify the current driver on the buyer's exact machine because owner reports still describe legacy-driver friction.",
+      "sources": [
+        "https://line6.com/software/index.html?hardware",
+        "https://reverb.com/p/line-6-pod-studio-ux2",
+        "https://applink.reverb.com/item/90606891-line-6-pod-studio-ux2-usb-audio-interface-2010s-black?show_sold",
+        "https://line6.com/data/l/0a060b4ddf5e4bb4c0e1e7d68/application/pdf/POD_Farm_2_Basic_User_Guide.pdf"
+      ]
+    },
+    {
+      "rank": 5,
+      "model": "Rockville RPG12",
+      "role": "powered_pa_speaker",
+      "asking_price": 100.0,
+      "listing_url": "https://www.craigslist.org/view/d/petaluma-rockville-power-gig-rpg12-12/3eXKsKAVdQDff9ZK9JfxyP",
+      "distance_miles": 9.981074576802524,
+      "posted_at": "2026-07-27T09:16:42-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 115.12,
+        "used_high": 164.68,
+        "confidence": 0.6100000000000001,
+        "sample_size": 3
+      },
+      "score_inputs": {
+        "gap_fit": 8,
+        "condition": 12,
+        "compatibility": 10,
+        "completeness": 10,
+        "freshness_proximity": 6,
+        "fun_factor": 7,
+        "resale_safety": 4,
+        "asking_price": 100.0,
+        "pricing": {
+          "used_low": 115.12,
+          "used_high": 164.68,
+          "confidence": 0.6100000000000001
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 76.43,
+        "value_points": 19.43,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "200 W RMS / 800 W peak single powered PA. Useful for rehearsal/live reinforcement, but one PA box is not a neutral stereo studio-monitor solution.",
+      "windows_status": "Analog powered PA speaker; no operating-system driver dependency.",
+      "sources": [
+        "https://rockvilleaudio.com/products/rpg12",
+        "https://reverb.com/item/2395480-pair-rockville-power-gig-rpg12-12-powered-active-1600-watt-2-way-dj-pa-speakers",
+        "https://www.guitarcenter.com/Used/Rockville/PA-Speakers.gc"
+      ]
+    },
+    {
+      "rank": 6,
+      "model": "Casio CTK-1000",
+      "role": "arranger_keyboard",
+      "asking_price": 20.0,
+      "listing_url": "https://www.craigslist.org/view/d/san-rafael-casio-ctk-1000-electronic/vyJLBrkm8etokncMWfcGo3",
+      "distance_miles": 10.08405631925445,
+      "posted_at": "2026-07-17T20:16:51-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 141.19,
+        "used_high": 204.79,
+        "confidence": 0.6,
+        "sample_size": 2
+      },
+      "score_inputs": {
+        "gap_fit": 5,
+        "condition": 7,
+        "compatibility": 7,
+        "completeness": 10,
+        "freshness_proximity": 5,
+        "fun_factor": 11,
+        "resale_safety": 7,
+        "asking_price": 20.0,
+        "pricing": {
+          "used_low": 141.19,
+          "used_high": 204.79,
+          "confidence": 0.6
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 73.99,
+        "value_points": 21.99,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Unusual first-generation CTK with editable IXA sounds. $20 is far below sparse collector comps, but test every key, speaker, button, pitch wheel, MIDI and battery compartment.",
+      "windows_status": "Standalone vintage keyboard; MIDI DIN can be used without a model-specific Windows driver.",
+      "sources": [
+        "https://sonicstate.com/news/2025/02/25/the-weirdest-casio-ctk-1000/",
+        "https://reverb.com/item/72443749-casio-ctk-1000-with-adapter",
+        "https://reverb.com/item/69332919-casio-ctk-1000"
+      ]
+    },
+    {
+      "rank": 7,
+      "model": "Roland MS-1 Sampler",
+      "role": "sampler",
+      "asking_price": 100.0,
+      "listing_url": "https://www.craigslist.org/view/d/richmond-roland-ms-sampler/vKitRhaoxTGxs1cvsV9Pvj",
+      "distance_miles": 17.904055314474657,
+      "posted_at": "2026-07-27T14:13:45-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 90.79,
+        "used_high": 125.99,
+        "confidence": 0.75,
+        "sample_size": 4
+      },
+      "score_inputs": {
+        "gap_fit": 7,
+        "condition": 10,
+        "compatibility": 8,
+        "completeness": 8,
+        "freshness_proximity": 6,
+        "fun_factor": 12,
+        "resale_safety": 7,
+        "asking_price": 100.0,
+        "pricing": {
+          "used_low": 90.79,
+          "used_high": 125.99,
+          "confidence": 0.75
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 72.42,
+        "value_points": 14.42,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Characterful lo-fi phrase sampler with short memory and optional PCMCIA expansion. Case adds value; verify pads, recording, memory retention and card slot.",
+      "windows_status": "Standalone 1994 phrase sampler; no modern driver dependency for analog use.",
+      "sources": [
+        "https://articles.roland.com/a-history-of-roland-samplers/",
+        "https://www.soundonsound.com/reviews/roland-ms1",
+        "https://reverb.com/item/97301456?show_sold=true"
+      ]
+    },
+    {
+      "rank": 8,
+      "model": "AudioThingies MicroMonsta 1",
+      "role": "standalone_synth",
+      "asking_price": 320.0,
+      "listing_url": "https://www.craigslist.org/view/d/vallejo-audiothingies-micromonsta-poly/4jy4aodqV772GUsZkXePJH",
+      "distance_miles": 17.523174614080673,
+      "posted_at": "2026-07-19T09:28:18-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 300.0,
+        "used_high": 300.0,
+        "confidence": 0.7,
+        "sample_size": 1
+      },
+      "score_inputs": {
+        "gap_fit": 8,
+        "condition": 11,
+        "compatibility": 10,
+        "completeness": 5,
+        "freshness_proximity": 6,
+        "fun_factor": 15,
+        "resale_safety": 8,
+        "asking_price": 320.0,
+        "pricing": {
+          "used_low": 300.0,
+          "used_high": 300.0,
+          "confidence": 0.7
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 69.91,
+        "value_points": 6.91,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Compact eight-voice polyphonic desktop synth. Creative and scarce, but requires the Akai controller and does not close the recording/monitoring gap.",
+      "windows_status": "Standalone MIDI synth; audio is analog and editor dependence is not required for normal use.",
+      "sources": [
+        "https://www.audiothingies.com/micromonsta/",
+        "https://reverb.com/item/82719453-audiothingies-micromonsta"
+      ]
+    },
+    {
+      "rank": 9,
+      "model": "Makala MK-TE",
+      "role": "acoustic_instrument",
+      "asking_price": 25.0,
+      "listing_url": "https://www.craigslist.org/view/d/san-rafael-makala-ukulele-model-mk-te/mX42qbvU8hTauQgdtiF28k",
+      "distance_miles": 5.362092806010973,
+      "posted_at": "2026-07-11T14:12:07-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 101.35,
+        "used_high": 119.09,
+        "confidence": 0.5900000000000001,
+        "sample_size": 2
+      },
+      "score_inputs": {
+        "gap_fit": 2,
+        "condition": 11,
+        "compatibility": 10,
+        "completeness": 7,
+        "freshness_proximity": 5,
+        "fun_factor": 5,
+        "resale_safety": 5,
+        "asking_price": 25.0,
+        "pricing": {
+          "used_low": 101.35,
+          "used_high": 119.09,
+          "confidence": 0.5900000000000001
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 66.55,
+        "value_points": 21.55,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Very cheap tenor acoustic-electric. Because a ukulele is already owned, buy only for the tenor size/pickup after checking neck, bridge, tuners and output jack.",
+      "windows_status": "Acoustic-electric instrument; no driver dependency.",
+      "sources": [
+        "https://kalabrand.com/products/mk-te",
+        "https://www.ebay.com/p/3049060902"
+      ]
+    },
+    {
+      "rank": 10,
+      "model": "Roland AIRA TR-8",
+      "role": "drum_machine",
+      "asking_price": 240.0,
+      "listing_url": "https://www.craigslist.org/view/d/petaluma-roland-aira-tr-drum-machine/hTjBzoeRWf6NS362SP6xWd",
+      "distance_miles": 9.007158173378409,
+      "posted_at": "2026-08-02T13:42:30-07:00",
+      "risk_flags": [
+        "seller_disclosed_defect"
+      ],
+      "market": {
+        "used_low": 294.02,
+        "used_high": 367.8,
+        "confidence": 0.8500000000000001,
+        "sample_size": 15
+      },
+      "score_inputs": {
+        "gap_fit": 6,
+        "condition": 4,
+        "compatibility": 10,
+        "completeness": 10,
+        "freshness_proximity": 8,
+        "fun_factor": 13,
+        "resale_safety": 5,
+        "asking_price": 240.0,
+        "pricing": {
+          "used_low": 294.02,
+          "used_high": 367.8,
+          "confidence": 0.8500000000000001
+        },
+        "risk_flags": [
+          "seller_disclosed_defect"
+        ]
+      },
+      "score": {
+        "total": 64.92,
+        "value_points": 20.92,
+        "penalty_points": 12.0,
+        "notes": []
+      },
+      "research_notes": "Strong hands-on 808/909 performer, but this unit has a repaired kick fader, non-working closed-hat decay, and non-original volume knob. Defects overwhelm the modest discount.",
+      "windows_status": "Roland publishes TR-8 driver 1.5.1 for Windows 10/11.",
+      "sources": [
+        "https://www.roland.com/us/products/tr-8/",
+        "https://www.roland.com/us/support/by_product/tr-8/updates_drivers/28aa060d-69f8-42c3-9296-220cbda7d653/",
+        "https://reverb.com/item/98276886?show_sold=true",
+        "https://reverb.com/item/97666464?show_sold=true"
+      ]
+    },
+    {
+      "rank": 11,
+      "model": "Casio CT-X700",
+      "role": "arranger_keyboard",
+      "asking_price": 180.0,
+      "listing_url": "https://www.craigslist.org/view/d/vallejo-casio-ct-x700-keyboard/7DdNfuCm92LZeuNMamFGLJ",
+      "distance_miles": 19.47748435010106,
+      "posted_at": "2026-07-29T16:06:42-07:00",
+      "risk_flags": [],
+      "market": {
+        "used_low": 120.4,
+        "used_high": 202.71,
+        "confidence": 0.8,
+        "sample_size": 8
+      },
+      "score_inputs": {
+        "gap_fit": 4,
+        "condition": 11,
+        "compatibility": 8,
+        "completeness": 4,
+        "freshness_proximity": 7,
+        "fun_factor": 7,
+        "resale_safety": 6,
+        "asking_price": 180.0,
+        "pricing": {
+          "used_low": 120.4,
+          "used_high": 202.71,
+          "confidence": 0.8
+        },
+        "risk_flags": []
+      },
+      "score": {
+        "total": 57.22,
+        "value_points": 10.22,
+        "penalty_points": 0.0,
+        "notes": []
+      },
+      "research_notes": "Modern 61-key touch-sensitive arranger with AiX sounds. Asking price is at/above common used retailer asks and duplicates the Akai keyboard role.",
+      "windows_status": "Class-compliant-style USB-MIDI use is secondary; normal keyboard/audio operation is standalone.",
+      "sources": [
+        "https://www.casio.com/ca-en/electronic-musical-instruments/product.CT-X700/",
+        "https://www.guitarcenter.com/Used/Casio/Used-Casio-CTX700-Digital-Piano-122553781.gc",
+        "https://www.guitarcenter.com/Used/Casio/Used-Casio-CT-X700-122352563.gc"
+      ]
+    },
+    {
+      "rank": 12,
+      "model": "Apogee ONE (generation unspecified) bundle",
+      "role": "audio_interface",
+      "asking_price": 100.0,
+      "listing_url": "https://www.craigslist.org/view/d/san-anselmo-apogee-one-apogee-groove-ua/mwYEAqUBp5XijRcNu67P11",
+      "distance_miles": 8.485013810533712,
+      "posted_at": "2026-06-30T19:48:42-07:00",
+      "risk_flags": [
+        "exact_revision_unknown"
+      ],
+      "market": {
+        "used_low": 29.93,
+        "used_high": 61.99,
+        "confidence": 0.8500000000000001,
+        "sample_size": 15
+      },
+      "score_inputs": {
+        "gap_fit": 12,
+        "condition": 8,
+        "compatibility": 1,
+        "completeness": 4,
+        "freshness_proximity": 4,
+        "fun_factor": 5,
+        "resale_safety": 7,
+        "asking_price": 100.0,
+        "pricing": {
+          "used_low": 29.93,
+          "used_high": 61.99,
+          "confidence": 0.8500000000000001
+        },
+        "risk_flags": [
+          "exact_revision_unknown"
+        ]
+      },
+      "score": {
+        "total": 38.98,
+        "value_points": 2.98,
+        "penalty_points": 5.0,
+        "notes": []
+      },
+      "research_notes": "Only one simultaneous mic/instrument input path; the mixed bundle does not solve the preferred two-preamp foundation. Groove/UA/camera mic value depends on exact models and included cables.",
+      "windows_status": "Generation-critical: original 2009 ONE is not Windows 10 compatible; later iPad/Mac/PC ONE has a Windows guide. Treat as incompatible until rear label/generation and breakout cable are verified.",
+      "sources": [
+        "https://knowledge.apogeedigital.com/legacy-products",
+        "https://apogeedigital.com/pdf/Windows-ONE-User-Guide-Nov-2017.pdf",
+        "https://www.production-expert.com/home-page/2017/10/11/apogee-announce-windows-10-compatibility-for-one-duet-and-quartet-audio-interfaces",
+        "https://reverb.com/item/93472448?show_sold=true"
+      ]
+    }
+  ]
+}

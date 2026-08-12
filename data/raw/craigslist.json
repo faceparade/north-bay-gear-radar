@@ -1,0 +1,3468 @@
+{
+  "source": "craigslist",
+  "read_only": true,
+  "searches_completed": 11,
+  "metadata": {
+    "postal_code": "94945",
+    "radius_miles": 20,
+    "failures": []
+  },
+  "listings": [
+    {
+      "source": "craigslist",
+      "listing_id": "nw3VKmtz84sfFyg4ZUKhoS",
+      "url": "https://www.craigslist.org/view/d/san-rafael-eastman-strings-vl-student/nw3VKmtz84sfFyg4ZUKhoS",
+      "title": "Eastman Strings VL80 4/4 student Violin with case and bow",
+      "price_text": "$299",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3yhgknt54JLQRfKD6zRFmi",
+      "url": "https://www.craigslist.org/view/d/novato-2011-gibson-sg-junior/3yhgknt54JLQRfKD6zRFmi",
+      "title": "2011 GIBSON SG JUNIOR",
+      "price_text": "$1,000",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1U3Z79ZPrBG31yYC921G1K",
+      "url": "https://www.craigslist.org/view/d/vallejo-wren-and-cuff-black-violet/1U3Z79ZPrBG31yYC921G1K",
+      "title": "Wren and Cuff Black-Violet Caprid OG 2021 - Present",
+      "price_text": "$210",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bDmnk1LCJvK8tnTg45unac",
+      "url": "https://www.craigslist.org/view/d/vallejo-source-audio-true-spring-reverb/bDmnk1LCJvK8tnTg45unac",
+      "title": "Source Audio True Spring Reverb with SA167 Tap Tempo",
+      "price_text": "$175",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "75cxguwDv6P6YEigRbFaMo",
+      "url": "https://www.craigslist.org/view/d/vallejo-pigtronix-polysaturator/75cxguwDv6P6YEigRbFaMo",
+      "title": "Pigtronix Polysaturator",
+      "price_text": "$50",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jCNT33Fkf3UUtAWjQJ1zea",
+      "url": "https://www.craigslist.org/view/d/petaluma-wylde-audio-blood-eagle/jCNT33Fkf3UUtAWjQJ1zea",
+      "title": "Wylde Audio Blood Eagle Mahogany Blackout Electric Guitar",
+      "price_text": "$1,400",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5NDjqf5JosSuQTgp1k82Gx",
+      "url": "https://www.craigslist.org/view/d/petaluma-string-ibanez-rg-series-emg/5NDjqf5JosSuQTgp1k82Gx",
+      "title": "7 string Ibanez Rg series emg 81, 85 whammy custom w case",
+      "price_text": "$600",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3UXgWzt93GVEZgWb8BX7ze",
+      "url": "https://www.craigslist.org/view/d/petaluma-1969-olds-ambassador-tenor/3UXgWzt93GVEZgWb8BX7ze",
+      "title": "1969 Olds Ambassador Tenor Trombone",
+      "price_text": "$400",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mwJmZFQDXV3PVHKg38VaFT",
+      "url": "https://www.craigslist.org/view/d/petaluma-sterling-audio-php1-phantom/mwJmZFQDXV3PVHKg38VaFT",
+      "title": "Sterling Audio PHP1 Phantom Power Supply [USED]",
+      "price_text": "$30",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mwYEAqUBp5XijRcNu67P11",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-apogee-one-apogee-groove-ua/mwYEAqUBp5XijRcNu67P11",
+      "title": "Apogee One Apogee Groove UA Canon Camera Mic",
+      "price_text": "$100",
+      "location_text": "North Bay Marin Fairfax"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8C8qhmTJF2DdsBqVoFF2Dx",
+      "url": "https://www.craigslist.org/view/d/sausalito-alesis-nanoverb-effects-unit/8C8qhmTJF2DdsBqVoFF2Dx",
+      "title": "ALESIS NANOVERB EFFECTS UNIT",
+      "price_text": "$48",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fNcjkYKeoZ1FWGwWgbED2Q",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-line-guitar-amp-spider-i4/fNcjkYKeoZ1FWGwWgbED2Q",
+      "title": "Line 6 Guitar Amp Spider I4 15",
+      "price_text": "$75",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rNzcP8U9grb6GNHdwiBmBx",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-rogue-amp-so-069-s10/rNzcP8U9grb6GNHdwiBmBx",
+      "title": "Rogue Amp SO-069-S10",
+      "price_text": "$45",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "i6GyqQ5aFzQgDPjjXAVHoG",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-manhasset-model-no-48/i6GyqQ5aFzQgDPjjXAVHoG",
+      "title": "Manhasset Model No. 48 Symphony Music Stand in Pink",
+      "price_text": "$50",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8Rj3mMCjTJwyYQk8C8eST1",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-fender-fm-15-dsp-frontman/8Rj3mMCjTJwyYQk8C8eST1",
+      "title": "Fender FM 15 DSP Frontman Combo Amplifier - Guitar Amp",
+      "price_text": "$75",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pMj8bh2ziFzCexiffTgM7Y",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-allora-clarinet-outfit/pMj8bh2ziFzCexiffTgM7Y",
+      "title": "Allora Clarinet Outfit w Case and Mouthpiece Like New",
+      "price_text": "$85",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6T6rX2PkgfWp9YCD6nN5kB",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-hamilton-chrome-foldable/6T6rX2PkgfWp9YCD6nN5kB",
+      "title": "Hamilton Chrome Foldable Music Stand With Case",
+      "price_text": "$15",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "evyFonstEScR9mV2my7qm2",
+      "url": "https://www.craigslist.org/view/d/sausalito-roland-jv-880-expanded-synth/evyFonstEScR9mV2my7qm2",
+      "title": "ROLAND JV-880 EXPANDED SYNTH MODULE",
+      "price_text": "$345",
+      "location_text": "Marin County"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gadx2FDt6WRfZQRMaXZyWM",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-cello-case-soft-padding/gadx2FDt6WRfZQRMaXZyWM",
+      "title": "Cello Case Soft Padding Full Size 4/4 Size EC",
+      "price_text": "$35",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3NiV9GRTjceG9tdMGr7bdr",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-pearl-blx-16x16-10x12/3NiV9GRTjceG9tdMGr7bdr",
+      "title": "Pearl BLX 16x16, 10x12 Solid Birch Toms",
+      "price_text": "$125",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pNN6Ebth9z9Vgv6sepKzyR",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-pearl-blx-bop-drum-kit/pNN6Ebth9z9Vgv6sepKzyR",
+      "title": "Pearl BLX BOP Drum kit",
+      "price_text": "$300",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bwdFhfAUR5E88QFRZYW6gv",
+      "url": "https://www.craigslist.org/view/d/richmond-yamaha-iii/bwdFhfAUR5E88QFRZYW6gv",
+      "title": "Yamaha g100 212iii",
+      "price_text": "$150",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uY7s1Jj8EHFv8snnbmQdAk",
+      "url": "https://www.craigslist.org/view/d/richmond-mini-yamaha-guitar/uY7s1Jj8EHFv8snnbmQdAk",
+      "title": "Mini Yamaha guitar",
+      "price_text": "$60",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6EL9nrrHNZd2k5rF19iVHG",
+      "url": "https://www.craigslist.org/view/d/richmond-fender-blues-jr-guitar-amp/6EL9nrrHNZd2k5rF19iVHG",
+      "title": "Fender blues Jr guitar amp",
+      "price_text": "$425",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sbuDwmRCC1DZpACDwY4iE1",
+      "url": "https://www.craigslist.org/view/d/san-rafael-looking-for-mu-modular/sbuDwmRCC1DZpACDwY4iE1",
+      "title": "Looking For E-MU Modular Synthesizer",
+      "price_text": "$100",
+      "location_text": "San Rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bovJWocK7Q91AuF3ZWEy1X",
+      "url": "https://www.craigslist.org/view/d/san-rafael-1983-fender-elite-precision/bovJWocK7Q91AuF3ZWEy1X",
+      "title": "1983 Fender Elite Precision Sunburst",
+      "price_text": "$2,150",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4CSFDzVKfp5yGB2LHkzBMZ",
+      "url": "https://www.craigslist.org/view/d/san-rafael-1972-fender-jazz-bass-in/4CSFDzVKfp5yGB2LHkzBMZ",
+      "title": "1972 Fender Jazz Bass in Coral/Salmon - Spectacular",
+      "price_text": "$3,960",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oLsxK8s3TvyQk1rJ6oj28u",
+      "url": "https://www.craigslist.org/view/d/napa-custom-hybrid-strat-body-relic/oLsxK8s3TvyQk1rJ6oj28u",
+      "title": "Custom/Hybrid Strat Body, Relic, Blue Ice Metallic",
+      "price_text": "$160",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2ng5AonYkLiGxTYWG5Bn6E",
+      "url": "https://www.craigslist.org/view/d/richmond-elektron-within-the-music/2ng5AonYkLiGxTYWG5Bn6E",
+      "title": "Elektron Within The Music commute bag",
+      "price_text": "$110",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1NuRMoNkFa7xdqV9cq2VnE",
+      "url": "https://www.craigslist.org/view/d/san-rafael-hudson-broadcast-ap-preamp/1NuRMoNkFa7xdqV9cq2VnE",
+      "title": "Hudson Broadcast AP Preamp, Excellent Condition",
+      "price_text": "$210",
+      "location_text": "San Rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hZF5k4HRkTWP2R6KM1Lgqm",
+      "url": "https://www.craigslist.org/view/d/san-rafael-strymon-sunset-dual/hZF5k4HRkTWP2R6KM1Lgqm",
+      "title": "Strymon Sunset Dual Overdrive - Excellent Condition",
+      "price_text": "$200",
+      "location_text": "San Rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1YzPHCAGkjYDbAinAPwzuq",
+      "url": "https://www.craigslist.org/view/d/san-pablo-vostok-sena-analog-vco/1YzPHCAGkjYDbAinAPwzuq",
+      "title": "Vostok Sena Analog VCO",
+      "price_text": "$300",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2zhJkfcUatHrofQWPpHfCx",
+      "url": "https://www.craigslist.org/view/d/san-pablo-qu-bit-surface/2zhJkfcUatHrofQWPpHfCx",
+      "title": "Qu-Bit Surface",
+      "price_text": "$250",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "maPUgy814sNsUkGDNXf6m2",
+      "url": "https://www.craigslist.org/view/d/san-pablo-glasgow-synth-guild-oct-tone/maPUgy814sNsUkGDNXf6m2",
+      "title": "Glasgow Synth Guild Oct Tone Sequencer",
+      "price_text": "$350",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "cTv8JMVEvEXV4R1jqd84oK",
+      "url": "https://www.craigslist.org/view/d/san-pablo-rabid-elephant-natural-gate/cTv8JMVEvEXV4R1jqd84oK",
+      "title": "Rabid Elephant - Natural Gate",
+      "price_text": "$550",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "peD8oGiy4Q5AGrS6VX5FsX",
+      "url": "https://www.craigslist.org/view/d/san-pablo-neuzeit-instruments-warp/peD8oGiy4Q5AGrS6VX5FsX",
+      "title": "Neuzeit Instruments Warp Additive + Wavetable Synth Voice",
+      "price_text": "$650",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dLQsY4sdDYsF16yM4zUwUy",
+      "url": "https://www.craigslist.org/view/d/novato-ashdown-engineering-five-fifteen/dLQsY4sdDYsF16yM4zUwUy",
+      "title": "Ashdown Engineering Five-Fifteen 100w Bass Amp",
+      "price_text": "$200",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rswqHWD58Z5Sq6PdivEHVP",
+      "url": "https://www.craigslist.org/view/d/novato-schecter-j5-jazz-bass-gig-bag/rswqHWD58Z5Sq6PdivEHVP",
+      "title": "Schecter J5 Jazz Bass w/Gig Bag",
+      "price_text": "$600",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "45ymEv4Vp8ijAjvb8MsrTi",
+      "url": "https://www.craigslist.org/view/d/petaluma-shuttle-keyboard-bag-by-third/45ymEv4Vp8ijAjvb8MsrTi",
+      "title": "Shuttle Keyboard Bag by Third Planet",
+      "price_text": "$30",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nRYX9csN4ejw9DtFjrA9e7",
+      "url": "https://www.craigslist.org/view/d/lagunitas-pearl-piece-complete-drumset/nRYX9csN4ejw9DtFjrA9e7",
+      "title": "Pearl 5 Piece complete Drumset",
+      "price_text": "$600",
+      "location_text": "west marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mX42qbvU8hTauQgdtiF28k",
+      "url": "https://www.craigslist.org/view/d/san-rafael-makala-ukulele-model-mk-te/mX42qbvU8hTauQgdtiF28k",
+      "title": "Makala Ukulele, Model: MK-TE",
+      "price_text": "$25",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ijVE6ni6piaJWf55PKNoX5",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-pepers-pedals-humongous/ijVE6ni6piaJWf55PKNoX5",
+      "title": "Pepers pedals humongous fuzz",
+      "price_text": "$300",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rVEcK46ZZ8ZuuHxU8Hb6da",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-mesa-boogie-1x12-road/rVEcK46ZZ8ZuuHxU8Hb6da",
+      "title": "Mesa boogie 1x12 road ready cab",
+      "price_text": "$400",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "tnx8i21whWwDHr99oUb1bs",
+      "url": "https://www.craigslist.org/view/d/novato-assorted-guitar-cords-and-straps/tnx8i21whWwDHr99oUb1bs",
+      "title": "Assorted Guitar cords and straps.",
+      "price_text": "$200",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "tVGDq4Coryz1PnXgtuHVtH",
+      "url": "https://www.craigslist.org/view/d/san-pablo-vintage-electric-guitar/tVGDq4Coryz1PnXgtuHVtH",
+      "title": "Vintage electric guitar",
+      "price_text": "$300",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uaTDSwFTqHxxD9fbzXK1Bi",
+      "url": "https://www.craigslist.org/view/d/napa-carvin-sx-200-usa-made-100w-2x12/uaTDSwFTqHxxD9fbzXK1Bi",
+      "title": "Carvin SX-200 USA Made 100W 2x12 Guitar Amp - Loud & Great Pedal Platf",
+      "price_text": "$275",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "wUnZCFHGZWqwL5PqZWrFeb",
+      "url": "https://www.craigslist.org/view/d/petaluma-fender-351-studio-seat-stand/wUnZCFHGZWqwL5PqZWrFeb",
+      "title": "Fender 351 Studio Seat/Stand Combo",
+      "price_text": "$75",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "wtXD3gbg6tomQ2EK3RgxBC",
+      "url": "https://www.craigslist.org/view/d/richmond-roland-jupiter-vintage/wtXD3gbg6tomQ2EK3RgxBC",
+      "title": "Roland Jupiter 4, Vintage Synthesizer w/MIDI Kit, New Power Supply",
+      "price_text": "$7,000",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "r138nUnujzgTbtM5wcawtU",
+      "url": "https://www.craigslist.org/view/d/san-pablo-musonics-5u-vanilla/r138nUnujzgTbtM5wcawtU",
+      "title": "Musonics 5U Vanilla Synthesizer",
+      "price_text": "$2,600",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kgjgMEWpNXUdEBK9aeEHXM",
+      "url": "https://www.craigslist.org/view/d/sausalito-fender-frontman-25r-amp-for/kgjgMEWpNXUdEBK9aeEHXM",
+      "title": "FENDER FRONTMAN 25R AMP. 2 FOR SALE ($150.00 both)",
+      "price_text": "$85",
+      "location_text": "Southern Marin County"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bSyTZGQd1gs4PgbHCs7rDN",
+      "url": "https://www.craigslist.org/view/d/el-verano-qsc-la108-line-array-speakers/bSyTZGQd1gs4PgbHCs7rDN",
+      "title": "6 QSC LA108 Line Array Speakers with Fly Bars. Brand New",
+      "price_text": "$14,500",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qQfNSPsxPXY635Lvcc9Umy",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-backstage-service-amp/qQfNSPsxPXY635Lvcc9Umy",
+      "title": "Backstage Service, amp, keyboard and guitar/bass repair",
+      "price_text": "$0",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oNsqUp6DMG2xKfgzNZQXaH",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-dw-toms/oNsqUp6DMG2xKfgzNZQXaH",
+      "title": "DW TOMS",
+      "price_text": "$600",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fcFHXT5Qb8hGoxwaVD9CH3",
+      "url": "https://www.craigslist.org/view/d/el-verano-george-lynch-1968-marshall/fcFHXT5Qb8hGoxwaVD9CH3",
+      "title": "George Lynch 1968 Marshall basketweave slant 4x12 1960A",
+      "price_text": "$0",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nHdQG6KNZRHdboPjmqPiaA",
+      "url": "https://www.craigslist.org/view/d/petaluma-marshal-jcm900-combo/nHdQG6KNZRHdboPjmqPiaA",
+      "title": "Marshal JCM900 combo",
+      "price_text": "$600",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6cB9azhb52ucXnkVS5xJeF",
+      "url": "https://www.craigslist.org/view/d/petaluma-agop-traditional-jazz-ride-20/6cB9azhb52ucXnkVS5xJeF",
+      "title": "Agop traditional jazz ride 20”",
+      "price_text": "$400",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "scBPorR2sPwjLVpT97p8kG",
+      "url": "https://www.craigslist.org/view/d/petaluma-vox-ac30-vr/scBPorR2sPwjLVpT97p8kG",
+      "title": "Vox AC30 vr",
+      "price_text": "$300",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "v3128y7ZnyNPeUhrZqc5Mc",
+      "url": "https://www.craigslist.org/view/d/petaluma-fender-hot-rod-deville-212-iii/v3128y7ZnyNPeUhrZqc5Mc",
+      "title": "Fender Hot Rod DeVille 212 III",
+      "price_text": "$500",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pEBJwAvwVK6bKavbqZ5T2T",
+      "url": "https://www.craigslist.org/view/d/petaluma-vintage-premier-drums/pEBJwAvwVK6bKavbqZ5T2T",
+      "title": "Vintage premier drums",
+      "price_text": "$1,000",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3S5zGBaK2ZsS3Y3fe5UxTf",
+      "url": "https://www.craigslist.org/view/d/petaluma-vintage-60s-premier-drums/3S5zGBaK2ZsS3Y3fe5UxTf",
+      "title": "Vintage 60s premier drums",
+      "price_text": "$1,200",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8ZAPTNoahT5oTpfxU845cV",
+      "url": "https://www.craigslist.org/view/d/petaluma-clearsonic-drum-shield-10ft/8ZAPTNoahT5oTpfxU845cV",
+      "title": "ClearSonic drum shield 5 1/2 X 10ft",
+      "price_text": "$400",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ts4zGMwT5L8wFpZ3WuGYLw",
+      "url": "https://www.craigslist.org/view/d/petaluma-vintage-zildjian-50s-hi-hats/ts4zGMwT5L8wFpZ3WuGYLw",
+      "title": "Vintage Zildjian 50s hi hats",
+      "price_text": "$300",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "17Rq9Qc1PL4fzrU4xhrtv5",
+      "url": "https://www.craigslist.org/view/d/vallejo-keyboard-roland-jv-35/17Rq9Qc1PL4fzrU4xhrtv5",
+      "title": "Keyboard Roland JV-35",
+      "price_text": "$200",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "47tWJrdDWceeAq4h5uuPzb",
+      "url": "https://www.craigslist.org/view/d/petaluma-guitar-stuff/47tWJrdDWceeAq4h5uuPzb",
+      "title": "Guitar stuff",
+      "price_text": "$1",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "wji3wxcx67uATLFTtr1Z3o",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-2005-gibson-les-paul/wji3wxcx67uATLFTtr1Z3o",
+      "title": "2005 gibson les paul limited color ebony fretboard MINT",
+      "price_text": "$3,200",
+      "location_text": "san anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "tYxfHwimUXvtZHkFysMPGv",
+      "url": "https://www.craigslist.org/view/d/fairfax-evh-12ax7-ecc83-premium-vacuum/tYxfHwimUXvtZHkFysMPGv",
+      "title": "EVH 12ax7 ecc83 premium vacuum tubes (2) NEW!",
+      "price_text": "$70",
+      "location_text": "fairfax"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7diLKAB5Nsr5cTQE1Q4pML",
+      "url": "https://www.craigslist.org/view/d/san-rafael-gibson-les-paul-tribute-wine/7diLKAB5Nsr5cTQE1Q4pML",
+      "title": "Gibson Les Paul tribute wine red",
+      "price_text": "$950",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gs21yWhqhdQAUQbLNoZbEh",
+      "url": "https://www.craigslist.org/view/d/belvedere-tiburon-2010-recording-king/gs21yWhqhdQAUQbLNoZbEh",
+      "title": "2010 Recording King RO-327",
+      "price_text": "$0",
+      "location_text": "tiburon / belvedere"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3x7wRM1ayFepsg24F4d39V",
+      "url": "https://www.craigslist.org/view/d/richmond-fishman-loudbox-mini-amplifier/3x7wRM1ayFepsg24F4d39V",
+      "title": "Fishman LoudBox Mini Amplifier",
+      "price_text": "$120",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "c9K3sCGXUHv1GooJBQipzQ",
+      "url": "https://www.craigslist.org/view/d/novato-vintage-organ-roller-pianos/c9K3sCGXUHv1GooJBQipzQ",
+      "title": "VINTAGE ORGAN ROLLER PIANOS",
+      "price_text": "$4,000",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fCfHy75uYHtLhaTiECaESZ",
+      "url": "https://www.craigslist.org/view/d/petaluma-custom-shop-pick-ups/fCfHy75uYHtLhaTiECaESZ",
+      "title": "custom shop 57/62 pick ups",
+      "price_text": "$275",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rH2PVw6PQg7GnkJBzbkZ2g",
+      "url": "https://www.craigslist.org/view/d/richmond-roland-ac-33-amplifier/rH2PVw6PQg7GnkJBzbkZ2g",
+      "title": "Roland AC-33 Amplifier",
+      "price_text": "$275",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sfXEZerhRsgn7HoH7kuoL5",
+      "url": "https://www.craigslist.org/view/d/san-pablo-moog-memorymoog/sfXEZerhRsgn7HoH7kuoL5",
+      "title": "Moog Memorymoog",
+      "price_text": "$8,000",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mnsDd8yjfwyfeysK5WDDMa",
+      "url": "https://www.craigslist.org/view/d/richmond-mackie-series-1200-mixer/mnsDd8yjfwyfeysK5WDDMa",
+      "title": "Mackie Series 1200 Mixer",
+      "price_text": "$100",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8bDK8GdetSnX4bxVwhXCKZ",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-yamaha-thirty-115b-combo/8bDK8GdetSnX4bxVwhXCKZ",
+      "title": "YAMAHA B30-115 THIRTY 115B COMBO BASS AMPLIFIER",
+      "price_text": "$150",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fFyM3Fb8KqHBeiCksWFvDE",
+      "url": "https://www.craigslist.org/view/d/petaluma-pair-of-bose-301-ii-speakers/fFyM3Fb8KqHBeiCksWFvDE",
+      "title": "PAIR OF BOSE 301 II SPEAKERS ( LIKE NEW CONDITION )",
+      "price_text": "$120",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "heHUCevuKQAbzD9Bxvq27F",
+      "url": "https://www.craigslist.org/view/d/petaluma-1996-marshall-jtm-60-guitar/heHUCevuKQAbzD9Bxvq27F",
+      "title": "1996 Marshall JTM-60 Guitar Combo Amplifier",
+      "price_text": "$600",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qh8m6BVR1CAMankJy1pBGF",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-wanted-vintage-guitar/qh8m6BVR1CAMankJy1pBGF",
+      "title": "Wanted Vintage guitar, amplifiers, pedals, mics",
+      "price_text": "$101,010",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rb6qFesW7hV9wZQAzYp6Bn",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1964-original-strat-pickup/rb6qFesW7hV9wZQAzYp6Bn",
+      "title": "1964 Original Strat Pickup 6.24 ohms Vintage Fender Stratocaster",
+      "price_text": "$1,100",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6poSNE1qFRBzwNWqcELh5b",
+      "url": "https://www.craigslist.org/view/d/san-pablo-kita-pantam-master-collection/6poSNE1qFRBzwNWqcELh5b",
+      "title": "KITA Pantam Master Collection – G Akebono Handpan",
+      "price_text": "$2,000",
+      "location_text": "San Pablo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kF21YFMyyNirdsh36EeAmK",
+      "url": "https://www.craigslist.org/view/d/napa-fender-telecaster-bridge-wilkinson/kF21YFMyyNirdsh36EeAmK",
+      "title": "Fender Telecaster Bridge w/Wilkinson saddles, Relic",
+      "price_text": "$55",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fny7ztaUKqzWsk6cZY13Yz",
+      "url": "https://www.craigslist.org/view/d/napa-custom-hybrid-strat-body-relic/fny7ztaUKqzWsk6cZY13Yz",
+      "title": "Custom/Hybrid Strat body, Relic, Blue Holographic Sparkle Flake",
+      "price_text": "$145",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "iBra6KVXZSNH86YS5dYuvy",
+      "url": "https://www.craigslist.org/view/d/napa-boss-ce-chorus-ensemble-guitar/iBra6KVXZSNH86YS5dYuvy",
+      "title": "Boss CE-5 Chorus Ensemble guitar pedal",
+      "price_text": "$80",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5evAg4N7xhBmydenWDKcsJ",
+      "url": "https://www.craigslist.org/view/d/napa-custom-shop-guitar-neck-plate-aged/5evAg4N7xhBmydenWDKcsJ",
+      "title": "Custom Shop Guitar Neck Plate, Aged",
+      "price_text": "$40",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "k2L8jp5g1rm8SWujUSBFUx",
+      "url": "https://www.craigslist.org/view/d/novato-fender-bassman-400-bass/k2L8jp5g1rm8SWujUSBFUx",
+      "title": "Fender Bassman 400 Bass Amplifier Amp",
+      "price_text": "$399",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ij2WBASnndmFXwrcvykP78",
+      "url": "https://www.craigslist.org/view/d/hercules-audio-oxygen-61-mkiv-midi/ij2WBASnndmFXwrcvykP78",
+      "title": "M-Audio Oxygen 61 MKIV MIDI Controller Keyboard",
+      "price_text": "$75",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fAVnVb6j8x96fjqutQ23aJ",
+      "url": "https://www.craigslist.org/view/d/hercules-wfl-snare-drum-stand-fully/fAVnVb6j8x96fjqutQ23aJ",
+      "title": "WFL Snare Drum stand, fully adjustable and folding",
+      "price_text": "$30",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ivBT269iCzGeuibe1k8nri",
+      "url": "https://www.craigslist.org/view/d/san-pablo-yamaha-ez-220-portable-61-key/ivBT269iCzGeuibe1k8nri",
+      "title": "Yamaha EZ-220 Portable 61-Key Light-Up Electronic Keyboard",
+      "price_text": "$110",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7eDXDsaDCcFzm66ueWnKMz",
+      "url": "https://www.craigslist.org/view/d/penngrove-hotone-nano-series-collection/7eDXDsaDCcFzm66ueWnKMz",
+      "title": "Hotone Nano Series collection",
+      "price_text": "$130",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3nfAvn9BtfjoGALpH4Gtv9",
+      "url": "https://www.craigslist.org/view/d/penngrove-patch-cables/3nfAvn9BtfjoGALpH4Gtv9",
+      "title": "Patch cables",
+      "price_text": "$55",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "wkDkztWwrgaouBaXZDHAwe",
+      "url": "https://www.craigslist.org/view/d/penngrove-gibson-brand-p90-covers/wkDkztWwrgaouBaXZDHAwe",
+      "title": "Gibson brand P90 covers",
+      "price_text": "$12",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jTj6VWfPRjui5R4VxaYvTY",
+      "url": "https://www.craigslist.org/view/d/penngrove-boss-katana-mini/jTj6VWfPRjui5R4VxaYvTY",
+      "title": "Boss Katana Mini",
+      "price_text": "$82",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5CQyqFGQP1H1pnDPtupisW",
+      "url": "https://www.craigslist.org/view/d/penngrove-30-watt-acoustic-guitar/5CQyqFGQP1H1pnDPtupisW",
+      "title": "30 watt Acoustic guitar amplifier",
+      "price_text": "$110",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1gL8Vi4a8vkbjkHdP2Hf2R",
+      "url": "https://www.craigslist.org/view/d/petaluma-kat-kt-150-electronic-drums/1gL8Vi4a8vkbjkHdP2Hf2R",
+      "title": "KAT KT-150 Electronic Drums",
+      "price_text": "$350",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1aLTsXTi5VFByfcP7NorNj",
+      "url": "https://www.craigslist.org/view/d/vallejo-daisy-patch-eurorack/1aLTsXTi5VFByfcP7NorNj",
+      "title": "Daisy Patch Eurorack",
+      "price_text": "$1,000",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6xACQLWmekzs7bxeiWsxfh",
+      "url": "https://www.craigslist.org/view/d/vallejo-custom-aria-strat/6xACQLWmekzs7bxeiWsxfh",
+      "title": "Custom Aria Strat",
+      "price_text": "$260",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1QhJKxrFQ5R67DYCEAo4kE",
+      "url": "https://www.craigslist.org/view/d/vallejo-custom-telecaster/1QhJKxrFQ5R67DYCEAo4kE",
+      "title": "Custom Telecaster",
+      "price_text": "$300",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dGqdEvf4DB1rdhaRsAid18",
+      "url": "https://www.craigslist.org/view/d/el-cerrito-rare-1920s-regal-diamond/dGqdEvf4DB1rdhaRsAid18",
+      "title": "RARE 1920s Regal \"Diamond Head\" Parlor Guitar",
+      "price_text": "$2,800",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8YpEunxhCKGiAvfUuAcJhj",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-guardian-sm-030-bk/8YpEunxhCKGiAvfUuAcJhj",
+      "title": "Guardian SM-030-BK Collapsible Music Stand, Black",
+      "price_text": "$20",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hPW24u772dmdSLdwULHUe3",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-roland-dac-15-amp/hPW24u772dmdSLdwULHUe3",
+      "title": "Roland DAC-15 Amp Excellent Condition",
+      "price_text": "$70",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7TyCproHBsZCXxuPbx1Rnb",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-peavy-rage-158-amp-usa/7TyCproHBsZCXxuPbx1Rnb",
+      "title": "Peavy Rage 158 Amp USA",
+      "price_text": "$55",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8RJFvP6br5NXqC6oq83DEd",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-giardinelli-bb-trumpet/8RJFvP6br5NXqC6oq83DEd",
+      "title": "Giardinelli Bb Trumpet Outfit W Case and Mouthpiece Like New",
+      "price_text": "$250",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ibXrbgSBe8WbKyRrcs4Au5",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-trumpet-case/ibXrbgSBe8WbKyRrcs4Au5",
+      "title": "Trumpet Case",
+      "price_text": "$35",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "u3fauT758uaJzWtTJpoYL1",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-manhasset-model-48/u3fauT758uaJzWtTJpoYL1",
+      "title": "Manhasset Model 48 Symphony Music Stand - Black",
+      "price_text": "$30",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "vyE9wUMXr7zFpfX5K3RTe1",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-jupiter-600n-trumpet/vyE9wUMXr7zFpfX5K3RTe1",
+      "title": "Jupiter 600N Trumpet Outfit w Case and Mouthpiece EC",
+      "price_text": "$275",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fqCSjpQdQ5TUhcYPCprYET",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-dw-pdp-concept-maple-18x22/fqCSjpQdQ5TUhcYPCprYET",
+      "title": "DW/PDP Concept Maple 18x22 Bass Drum",
+      "price_text": "$195",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "a1QKSkgpHqMM5WCpMWaMU4",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-paiste-18-signature-dark/a1QKSkgpHqMM5WCpMWaMU4",
+      "title": "Paiste 18\" Signature Dark Energy Ride Mark 1 Crash Cymbal",
+      "price_text": "$375",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "j83VHwFZWx9AMKv4GZab2p",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-varus-morpheus-7x14/j83VHwFZWx9AMKv4GZab2p",
+      "title": "Varus Morpheus 7x14 Acrylic Snare Drum",
+      "price_text": "$400",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "apbUrWyMLPBvvvnvFMZmAi",
+      "url": "https://www.craigslist.org/view/d/vallejo-elektron-digitakt-mk1-very-good/apbUrWyMLPBvvvnvFMZmAi",
+      "title": "Elektron Digitakt (mk1), very good condition",
+      "price_text": "$450",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qcQuNNpvrRJkGWM8qzWMVK",
+      "url": "https://www.craigslist.org/view/d/hercules-1980s-takamine-400s-12-string/qcQuNNpvrRJkGWM8qzWMVK",
+      "title": "1980’s Takamine F-400s 12 string acoustic guitar",
+      "price_text": "$350",
+      "location_text": "Hercules"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sXTRTNQCYrjpfmSC76g3o1",
+      "url": "https://www.craigslist.org/view/d/pinole-1960s-vox-pacemaker-combo-amp/sXTRTNQCYrjpfmSC76g3o1",
+      "title": "1960’s VOX pacemaker combo amp V1021 1x10 solid state",
+      "price_text": "$400",
+      "location_text": "Pinole"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "btP9FoQX91VCrJoabHLoEK",
+      "url": "https://www.craigslist.org/view/d/hercules-1973-fender-super-reverb/btP9FoQX91VCrJoabHLoEK",
+      "title": "1973 Fender Super Reverb silverface trades",
+      "price_text": "$1,100",
+      "location_text": "Hercules"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "tq52uBi9HLnGD7mq9ZD1Nz",
+      "url": "https://www.craigslist.org/view/d/hercules-vox-grenadier-v1091-mid-60s/tq52uBi9HLnGD7mq9ZD1Nz",
+      "title": "VOX Grenadier V1091 mid 60’s vintage cab 4x10",
+      "price_text": "$600",
+      "location_text": "Hercules"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uHkJF48YUnye3C2WdETH9C",
+      "url": "https://www.craigslist.org/view/d/san-rafael-pedalboard-and-pedals-for/uHkJF48YUnye3C2WdETH9C",
+      "title": "Pedalboard and Pedals For Sale",
+      "price_text": "$100",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "33WwZqLPX6Zw6CpyW13m9E",
+      "url": "https://www.craigslist.org/view/d/petaluma-upgraded-roland-td-17kvx/33WwZqLPX6Zw6CpyW13m9E",
+      "title": "Upgraded Roland TD-17KVX Electronic Drum Kit",
+      "price_text": "$1,450",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5SG4VvPKXhytGtYUE5RGfS",
+      "url": "https://www.craigslist.org/view/d/san-pablo-sequential-prophet/5SG4VvPKXhytGtYUE5RGfS",
+      "title": "Sequential Prophet X Synthesizer / Sampler",
+      "price_text": "$2,100",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6tAfnCsMhMp5PNNq8Pp1Ls",
+      "url": "https://www.craigslist.org/view/d/san-rafael-violin-for-sale/6tAfnCsMhMp5PNNq8Pp1Ls",
+      "title": "Violin for sale",
+      "price_text": "$150",
+      "location_text": "San Rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9Du3xu7PtZvwmdm7d7J7Nq",
+      "url": "https://www.craigslist.org/view/d/mill-valley-wanted-vintage-guitar/9Du3xu7PtZvwmdm7d7J7Nq",
+      "title": "Wanted Vintage guitar, amplifiers, pedals, mics",
+      "price_text": "$1,000",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7t8PpCgfbeeRVJSHHJgNte",
+      "url": "https://www.craigslist.org/view/d/napa-custom-hybrid-strat-body-relic/7t8PpCgfbeeRVJSHHJgNte",
+      "title": "Custom/Hybrid Strat Body, Relic, Black",
+      "price_text": "$160",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kmuxuoRabYVNQe5g9fJfTf",
+      "url": "https://www.craigslist.org/view/d/napa-custom-hybrid-tele-body-oxide-red/kmuxuoRabYVNQe5g9fJfTf",
+      "title": "Custom/Hybrid Tele body, Oxide Red",
+      "price_text": "$160",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7Uv5ggMopdiXcbu4cTM1cy",
+      "url": "https://www.craigslist.org/view/d/novato-vintage-autoharp-by-oscar-schmidt/7Uv5ggMopdiXcbu4cTM1cy",
+      "title": "Vintage Autoharp by Oscar Schmidt",
+      "price_text": "$40",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rYDCY7XXkmUsKpttLN1bLz",
+      "url": "https://www.craigslist.org/view/d/san-pablo-mxr-drum-computer-185/rYDCY7XXkmUsKpttLN1bLz",
+      "title": "MXR Drum Computer 185",
+      "price_text": "$1,100",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "wdbfgytsZsBwntkoRkUktf",
+      "url": "https://www.craigslist.org/view/d/greenbrae-yamaha-modus-keyboard-mint/wdbfgytsZsBwntkoRkUktf",
+      "title": "Yamaha Modus Keyboard Mint condition beautiful.",
+      "price_text": "$4,200",
+      "location_text": "kentfield / ross"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fkqdvr4Y2or3r9y1uTLqHo",
+      "url": "https://www.craigslist.org/view/d/san-rafael-fretlight-400-series-guitar/fkqdvr4Y2or3r9y1uTLqHo",
+      "title": "Fretlight 400 Series guitar with amp and accessories.",
+      "price_text": "$300",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4HUDeMhEmnZnbBiJ9DBcVT",
+      "url": "https://www.craigslist.org/view/d/vallejo-jbl-control-28-speaker-works/4HUDeMhEmnZnbBiJ9DBcVT",
+      "title": "JBL Control 28 Speaker WORKS GREAT PRICE DROP!",
+      "price_text": "$40",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "m6mjLS3h3BXc3aUWCsqnXU",
+      "url": "https://www.craigslist.org/view/d/richmond-roland-hp101-digital-piano/m6mjLS3h3BXc3aUWCsqnXU",
+      "title": "Roland HP101 digital piano",
+      "price_text": "$400",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "cj2VteEPeDU91sgszDemGW",
+      "url": "https://www.craigslist.org/view/d/richmond-digitech-drop-polyphonic-drop/cj2VteEPeDU91sgszDemGW",
+      "title": "Digitech Drop Polyphonic Drop Tune Pedal",
+      "price_text": "$150",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "28GSY8pdD7WyfboY2qpEeF",
+      "url": "https://www.craigslist.org/view/d/richmond-way-huge-echo-puss-delay-pedal/28GSY8pdD7WyfboY2qpEeF",
+      "title": "Way Huge Echo Puss Delay pedal",
+      "price_text": "$130",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "r4fxD7XLrvpQc4DQDn1Gfu",
+      "url": "https://www.craigslist.org/view/d/richmond-jacques-meistersinger-bbd/r4fxD7XLrvpQc4DQDn1Gfu",
+      "title": "Jacques Meistersinger BBD Analog Chorus pedal",
+      "price_text": "$160",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xhPYdBZVV2cBzfkSkAhEB1",
+      "url": "https://www.craigslist.org/view/d/richmond-fender-mustang-limited-edition/xhPYdBZVV2cBzfkSkAhEB1",
+      "title": "Fender Mustang Limited Edition green with matching headstock",
+      "price_text": "$1,600",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gaiC6EVoRMouyx29zZMfx5",
+      "url": "https://www.craigslist.org/view/d/richmond-fender-monitor-speaker/gaiC6EVoRMouyx29zZMfx5",
+      "title": "Fender monitor speaker",
+      "price_text": "$20",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7NPXiwZoWtEQ5uuEReXYVH",
+      "url": "https://www.craigslist.org/view/d/richmond-drums-power-tomsbassessnares/7NPXiwZoWtEQ5uuEReXYVH",
+      "title": "Drums power toms,basses,snares",
+      "price_text": "$10",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gWkhQv6kQwe5UHpAE62URB",
+      "url": "https://www.craigslist.org/view/d/richmond-dreadnought-guitar-hard-case/gWkhQv6kQwe5UHpAE62URB",
+      "title": "Dreadnought guitar hard case",
+      "price_text": "$20",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4oqbPVqomVyPChiPnzNJ34",
+      "url": "https://www.craigslist.org/view/d/san-pablo-udo-dmno-polyphonic-hybrid/4oqbPVqomVyPChiPnzNJ34",
+      "title": "UDO DMNO Polyphonic Hybrid Keyboard Synthesizer",
+      "price_text": "$3,300",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fvKLfoFr5Fp1ExEKtKCGeQ",
+      "url": "https://www.craigslist.org/view/d/richmond-roland-md-midi-dcb-interface/fvKLfoFr5Fp1ExEKtKCGeQ",
+      "title": "Roland MD-8 MIDI - DCB Interface",
+      "price_text": "$400",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "aqzdgbTQx6mX4P6qP4ViEb",
+      "url": "https://www.craigslist.org/view/d/el-sobrante-soundcraft-lx7ii-32-channel/aqzdgbTQx6mX4P6qP4ViEb",
+      "title": "soundcraft lx7ii 32 channel mixer",
+      "price_text": "$600",
+      "location_text": "lafayette / orinda / moraga"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "w8aWwzVLr8HaE8qFpCiXKR",
+      "url": "https://www.craigslist.org/view/d/el-sobrante-podium-guitar-amp/w8aWwzVLr8HaE8qFpCiXKR",
+      "title": "Podium Guitar amp",
+      "price_text": "$40",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bFzL6eEmVc5Yf6N9fVS7nb",
+      "url": "https://www.craigslist.org/view/d/el-sobrante-digital-reference-dr-2600/bFzL6eEmVc5Yf6N9fVS7nb",
+      "title": "Digital Reference DR-2600",
+      "price_text": "$25",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5XnW4noEC9bYe8om3XU6cz",
+      "url": "https://www.craigslist.org/view/d/el-sobrante-hisonic-hsu482-hsu-482ht/5XnW4noEC9bYe8om3XU6cz",
+      "title": "Hisonic HSU482/HSU-482HT",
+      "price_text": "$35",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fru16YN9wBhLfDztpAwFVm",
+      "url": "https://www.craigslist.org/view/d/san-rafael-remo-weatherking/fru16YN9wBhLfDztpAwFVm",
+      "title": "Remo Weatherking C.S.(Controlled Sound) 22\" bass drum head Made in USA",
+      "price_text": "$25",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mSRtZY5M4rRQMVwyw14f1D",
+      "url": "https://www.craigslist.org/view/d/boyes-hot-springs-honer-guitar-case/mSRtZY5M4rRQMVwyw14f1D",
+      "title": "Honer guitar, case, stand and tuner",
+      "price_text": "$160",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "k1bMhJuc7DWy3EvXWy1bpc",
+      "url": "https://www.craigslist.org/view/d/ross-auralex-propad-monitor-isolation/k1bMhJuc7DWy3EvXWy1bpc",
+      "title": "Auralex ProPad monitor isolation pads",
+      "price_text": "$50",
+      "location_text": "kentfield / ross"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ok6yJGT39W8etk3gTTrKdQ",
+      "url": "https://www.craigslist.org/view/d/ross-rode-microphone-shock-mount/ok6yJGT39W8etk3gTTrKdQ",
+      "title": "Rode microphone shock mount",
+      "price_text": "$30",
+      "location_text": "kentfield / ross"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "986JYyBRHaoxDw6MySZrvg",
+      "url": "https://www.craigslist.org/view/d/ross-stedman-pro-xl-microphone-pop/986JYyBRHaoxDw6MySZrvg",
+      "title": "Stedman Pro XL microphone pop filter",
+      "price_text": "$50",
+      "location_text": "kentfield / ross"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "h7ywwe3mfNj8bPT1WMMYPT",
+      "url": "https://www.craigslist.org/view/d/el-sobrante-neotek-series-1e/h7ywwe3mfNj8bPT1WMMYPT",
+      "title": "Neotek Series 1/1E",
+      "price_text": "$4,500",
+      "location_text": "El Sobrante"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "wMZpFp5X1uo8qEkxPKLsx2",
+      "url": "https://www.craigslist.org/view/d/napa-fender-strat-tremolo-bridge-aged/wMZpFp5X1uo8qEkxPKLsx2",
+      "title": "Fender Strat Tremolo Bridge, Aged",
+      "price_text": "$65",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bbqZ9v3Lvp6Qhp3UQJaXML",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-2008-american-standard/bbqZ9v3Lvp6Qhp3UQJaXML",
+      "title": "2008 American standard fender stratocaster",
+      "price_text": "$1,100",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uXZGH9MX5EeF1C74kreVYS",
+      "url": "https://www.craigslist.org/view/d/olema-canopus-yaiba-maple-snare-drum/uXZGH9MX5EeF1C74kreVYS",
+      "title": "Canopus Yaiba Maple Snare Drum",
+      "price_text": "$375",
+      "location_text": "west marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pLKjBNHDmXo7D4JxXu32DD",
+      "url": "https://www.craigslist.org/view/d/cotati-hohner-chromonica-270/pLKjBNHDmXo7D4JxXu32DD",
+      "title": "Hohner Chromonica 270",
+      "price_text": "$85",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "n1z43u15A1a5egb3Mh3aDU",
+      "url": "https://www.craigslist.org/view/d/novato-epiphone-les-paul-standard-plus/n1z43u15A1a5egb3Mh3aDU",
+      "title": "Epiphone Les Paul Standard Plus Top Pro/FX 2010-2012 Honeyburst",
+      "price_text": "$625",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jBzfkaw2NTzvfE3AjsvpD6",
+      "url": "https://www.craigslist.org/view/d/larkspur-in-search-of-guitars-and/jBzfkaw2NTzvfE3AjsvpD6",
+      "title": "In search of guitars and guitar projects",
+      "price_text": "$6,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bgb1jmCki4p98KzDawBYWS",
+      "url": "https://www.craigslist.org/view/d/napa-fender-telecaster-bridge-threaded/bgb1jmCki4p98KzDawBYWS",
+      "title": "Fender Telecaster Bridge  w/Threaded saddles, Relic",
+      "price_text": "$55",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "836dgTJeZphDNgwzyULq6f",
+      "url": "https://www.craigslist.org/view/d/novato-xlr-patchbay-hosa-pdr-point/836dgTJeZphDNgwzyULq6f",
+      "title": "XLR Patchbay - Hosa PDR-369 12-point",
+      "price_text": "$100",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oxi6Kss4peo14y2sLJPdLG",
+      "url": "https://www.craigslist.org/view/d/novato-leslie-preamp-pedal/oxi6Kss4peo14y2sLJPdLG",
+      "title": "Leslie Preamp Pedal",
+      "price_text": "$400",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sJzemAa3KMnboNFeqcWC8f",
+      "url": "https://www.craigslist.org/view/d/novato-patchbay-pt/sJzemAa3KMnboNFeqcWC8f",
+      "title": "Patchbay 1/4”  (48 pt)",
+      "price_text": "$150",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bAADyxehjzAXEjMNwH1qub",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-jdk-audio-by-api-comp-r22/bAADyxehjzAXEjMNwH1qub",
+      "title": "JDK Audio by API COMP-R22 Dual Channel Stereo Compressor – Excellent – Rare",
+      "price_text": "$1,250",
+      "location_text": "San Anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dirz8S7YJwNMwa8U1uotL3",
+      "url": "https://www.craigslist.org/view/d/san-rafael-ocdp-usa-custom-90s-pc-drum/dirz8S7YJwNMwa8U1uotL3",
+      "title": "OCDP USA CUSTOM 90’s 3-PC DRUM KIT – Tony Williams Yellow– FRED ARMISEN",
+      "price_text": "$2,450",
+      "location_text": "San Rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "raCTjTQ6RWjwmop6aeQSD5",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-arbiter-england-treble/raCTjTQ6RWjwmop6aeQSD5",
+      "title": "Arbiter England-Treble Bass_Plus Face – Vintage UK Original Pedal-RARE",
+      "price_text": "$2,450",
+      "location_text": "San Anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "87zo3JKB5GMb1moe64qcm2",
+      "url": "https://www.craigslist.org/view/d/napa-oscar-schmidt-autoharp-vintage-1969/87zo3JKB5GMb1moe64qcm2",
+      "title": "Oscar Schmidt Autoharp, Vintage 1969",
+      "price_text": "$50",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ivuRZ3pmDryrXeFQAFHWo3",
+      "url": "https://www.craigslist.org/view/d/novato-amp-guitar-repair/ivuRZ3pmDryrXeFQAFHWo3",
+      "title": "Amp & Guitar Repair",
+      "price_text": "$0",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fKFTAPhh9jhPLc7zmXSzXc",
+      "url": "https://www.craigslist.org/view/d/petaluma-fender-american-professional/fKFTAPhh9jhPLc7zmXSzXc",
+      "title": "Fender American Professional Stratocaster With Case",
+      "price_text": "$1,100",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pRpr6C2MpKSQyfxDhBpFKr",
+      "url": "https://www.craigslist.org/view/d/petaluma-ibanez-prestige-az2402-tri/pRpr6C2MpKSQyfxDhBpFKr",
+      "title": "Ibanez Prestige AZ2402 Tri Burst Fade With Case",
+      "price_text": "$1,600",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "v7Z5ta9stizh2GkAFfCuXx",
+      "url": "https://www.craigslist.org/view/d/novato-amplifier-and-guitar-repair/v7Z5ta9stizh2GkAFfCuXx",
+      "title": "Amplifier and guitar repair",
+      "price_text": "$100",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jB6vAjJccLwxJ4Y5BuXi3B",
+      "url": "https://www.craigslist.org/view/d/napa-yamaha-fg-411s-acoustic-guitar/jB6vAjJccLwxJ4Y5BuXi3B",
+      "title": "Yamaha FG-411S Acoustic Guitar",
+      "price_text": "$300",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rDa24vv6eQ9WBvCU4QJfBp",
+      "url": "https://www.craigslist.org/view/d/petaluma-silvertone-40xl-solid-state-amp/rDa24vv6eQ9WBvCU4QJfBp",
+      "title": "Silvertone 40XL Solid State Amp",
+      "price_text": "$180",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bkov6UDxTLHT49qMyyyc49",
+      "url": "https://www.craigslist.org/view/d/petaluma-korg-dw-6000-hybrid-analog/bkov6UDxTLHT49qMyyyc49",
+      "title": "Korg DW-6000 Hybrid Analog Synthesizer",
+      "price_text": "$300",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hTjBzoeRWf6NS362SP6xWd",
+      "url": "https://www.craigslist.org/view/d/petaluma-roland-aira-tr-drum-machine/hTjBzoeRWf6NS362SP6xWd",
+      "title": "Roland AIRA TR-8 Drum Machine",
+      "price_text": "$240",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pbwfZqs6mwMtKimbfnHQVM",
+      "url": "https://www.craigslist.org/view/d/cotati-polk-home-audio-speakers/pbwfZqs6mwMtKimbfnHQVM",
+      "title": "Polk Home Audio Speakers",
+      "price_text": "$90",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6tAom6rRM1TgSY2ogVRqp2",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-jupiter-pocket-trumpet/6tAom6rRM1TgSY2ogVRqp2",
+      "title": "Jupiter Pocket Trumpet SILVER w HS Case and MP STP-416",
+      "price_text": "$375",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "moNFQPNhmDat758S8d9LbU",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-jupiter-pocket-trumpet/moNFQPNhmDat758S8d9LbU",
+      "title": "Jupiter Pocket Trumpet Black / Gold w HS Case and MP JPT-416",
+      "price_text": "$375",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "beYN9croQerfvEW4tUNRCf",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-crate-10xl-amp-usa/beYN9croQerfvEW4tUNRCf",
+      "title": "Crate G-10XL Amp USA",
+      "price_text": "$75",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7MgG4EJxWAgiu3WnvkAYhP",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-wenger-music-stand-heavy/7MgG4EJxWAgiu3WnvkAYhP",
+      "title": "Wenger Music Stand Heavy Duty Professional",
+      "price_text": "$25",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "cZLoVeYgmC6BKgzzrMp3dp",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-artist-trumpet-case-and/cZLoVeYgmC6BKgzzrMp3dp",
+      "title": "Artist Trumpet w Case and Mouthpiece",
+      "price_text": "$125",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1Vj5SVakBNTQNJnuGL2Mtf",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-bundy-trumpet-mouthpiece/1Vj5SVakBNTQNJnuGL2Mtf",
+      "title": "Bundy Trumpet w Mouthpiece and Case",
+      "price_text": "$150",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "n5QxTRZ46SNDqUhW9t2hGM",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-johnson-acoustic-guitar/n5QxTRZ46SNDqUhW9t2hGM",
+      "title": "Johnson Acoustic Guitar 10-610-R Like New",
+      "price_text": "$115",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xgujQy5NAZuSS9rzx4TC8P",
+      "url": "https://www.craigslist.org/view/d/el-sobrante-peavy-speaker-stands-cords/xgujQy5NAZuSS9rzx4TC8P",
+      "title": "Peavy Speaker Stands, Cords, Peavy Speakers",
+      "price_text": "$200",
+      "location_text": "El Sobrante"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "w5kHxZM7qBLJ45qWfBV67c",
+      "url": "https://www.craigslist.org/view/d/richmond-professional-recording/w5kHxZM7qBLJ45qWfBV67c",
+      "title": "Professional recording equipment",
+      "price_text": "$0",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "trvrFs1TyzJabs6fcRjEMq",
+      "url": "https://www.craigslist.org/view/d/novato-peavey-piranha-amp-head/trvrFs1TyzJabs6fcRjEMq",
+      "title": "Peavey Piranha Amp Head",
+      "price_text": "$150",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7wHwf9rhNikHLSmtxnEfRc",
+      "url": "https://www.craigslist.org/view/d/novato-tc-electronic-spark-clean-boost/7wHwf9rhNikHLSmtxnEfRc",
+      "title": "TC Electronic Spark - Clean Boost Pedal",
+      "price_text": "$35",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xi6g7p1ejSVvG94b5zdyH7",
+      "url": "https://www.craigslist.org/view/d/petaluma-vintage-shure-microphones-nady/xi6g7p1ejSVvG94b5zdyH7",
+      "title": "VINTAGE SHURE MICROPHONES / NADY WIRELESS SYSTEM",
+      "price_text": "$0",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bWypdjAB3Jv9YmGvGtsV6x",
+      "url": "https://www.craigslist.org/view/d/petaluma-sony-sqd-2020-decoder-amplifier/bWypdjAB3Jv9YmGvGtsV6x",
+      "title": "SONY -SQD 2020 DECODER AMPLIFIER",
+      "price_text": "$1",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gW2QnFmoKrvptyMAy5cSG9",
+      "url": "https://www.craigslist.org/view/d/el-verano-vintage-50s-60s-guitar-case/gW2QnFmoKrvptyMAy5cSG9",
+      "title": "Vintage 50s/60s Guitar Case  Airline / Kay / Harmony / Stella",
+      "price_text": "$40",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "r6vigWjqVqXParJBLKcsVY",
+      "url": "https://www.craigslist.org/view/d/el-verano-sets-elixir-strings-acoustic/r6vigWjqVqXParJBLKcsVY",
+      "title": "2 sets  ELIXIR Strings Acoustic Baritone Guitar Strings  BRAND NEW",
+      "price_text": "$20",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "aomoHTqLqanfKSed3Smyow",
+      "url": "https://www.craigslist.org/view/d/el-verano-gator-gig-bag/aomoHTqLqanfKSed3Smyow",
+      "title": "Gator Gig Bag",
+      "price_text": "$20",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kST3zJpJe2vRi6LwpcXrWC",
+      "url": "https://www.craigslist.org/view/d/el-verano-tonewood-amp/kST3zJpJe2vRi6LwpcXrWC",
+      "title": "TONEWOOD Amp",
+      "price_text": "$125",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "htaU9586ud541TvDtbrTEM",
+      "url": "https://www.craigslist.org/view/d/el-verano-vintage-lyle-650-classical/htaU9586ud541TvDtbrTEM",
+      "title": "Vintage Lyle C-650 Classical Guitar",
+      "price_text": "$400",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "eh9JVP4R2qHwUtvhg11xrE",
+      "url": "https://www.craigslist.org/view/d/petaluma-carlo-robelli-crb1955-peerless/eh9JVP4R2qHwUtvhg11xrE",
+      "title": "CARLO ROBELLI CRB1955 Peerless Gretsch style rockabilly Hollow Body",
+      "price_text": "$999",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qKWu4CL5pxvFKsbj62RVdQ",
+      "url": "https://www.craigslist.org/view/d/petaluma-bigsby-replica-tele-figured/qKWu4CL5pxvFKsbj62RVdQ",
+      "title": "Bigsby Replica Tele Figured Maple Strat Neck Hollow Body OBO",
+      "price_text": "$1,599",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "71DKzv2Fj8ruGTD5i62dL7",
+      "url": "https://www.craigslist.org/view/d/petaluma-boss-fs-footswitch-flanger/71DKzv2Fj8ruGTD5i62dL7",
+      "title": "Boss FS-6 Footswitch Flanger Digital Delay Mini Pedals",
+      "price_text": "$0",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "54Xg43XVugJhYgPTT97roz",
+      "url": "https://www.craigslist.org/view/d/san-rafael-acoustic-guitar-yamaha-cg/54Xg43XVugJhYgPTT97roz",
+      "title": "Acoustic Guitar /Yamaha CG-100A with free SKB case",
+      "price_text": "$70",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uLzJzdMXQqmcCciqZhhEJw",
+      "url": "https://www.craigslist.org/view/d/mill-valley-way-huge-electronics-whe301/uLzJzdMXQqmcCciqZhhEJw",
+      "title": "Way Huge Electronics WHE301 Fat Sandwich Harmonic Saturator Distortion",
+      "price_text": "$120",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "irbp3jd6a2UugQxqt7n8VE",
+      "url": "https://www.craigslist.org/view/d/mill-valley-peavey-bass-amplifier/irbp3jd6a2UugQxqt7n8VE",
+      "title": "PEAVEY Bass Amplifier",
+      "price_text": "$75",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "56KhzrFPDmzejoknSbU7s8",
+      "url": "https://www.craigslist.org/view/d/san-pablo-eurorack-sale-everything-must/56KhzrFPDmzejoknSbU7s8",
+      "title": "Eurorack Sale - Everything Must Go!",
+      "price_text": "$1",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7SwST42UXXtwBUz88Nk2yh",
+      "url": "https://www.craigslist.org/view/d/san-pablo-make-noise-7u-metal-cv-bus/7SwST42UXXtwBUz88Nk2yh",
+      "title": "Make Noise 7U Metal CV Bus Case",
+      "price_text": "$500",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "inEgphpbnFTEBFpXrhkB7Y",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-europa-pre-amp-by-dave-hill/inEgphpbnFTEBFpXrhkB7Y",
+      "title": "Europa 1 pre amp by Dave Hill",
+      "price_text": "$1,000",
+      "location_text": "Rohnert Park"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pgDTKjDRY2iqjZoCKWPGE3",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-gibson-echoplex-digital/pgDTKjDRY2iqjZoCKWPGE3",
+      "title": "Gibson Echoplex Digital Pro Loop Pedal",
+      "price_text": "$400",
+      "location_text": "Rohnert Park"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rBEfW1sSk5XdEyX1o8WMx3",
+      "url": "https://www.craigslist.org/view/d/cotati-new-heavy-duty-guitar-foot-stool/rBEfW1sSk5XdEyX1o8WMx3",
+      "title": "New! Heavy Duty Guitar Foot Stool Stand Rest Pedal Adjustable Collapsi",
+      "price_text": "$20",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "i7t17F1iXiA3zq1UQoyi6K",
+      "url": "https://www.craigslist.org/view/d/cotati-new-high-quality-4-full-size/i7t17F1iXiA3zq1UQoyi6K",
+      "title": "New High Quality 4/4 Full Size Violin Bow Brazilwood Fiddle Mongolian",
+      "price_text": "$30",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "psJuH9Zrmn2coe8boDL7zC",
+      "url": "https://www.craigslist.org/view/d/cotati-solid-wood-music-stand-brand-new/psJuH9Zrmn2coe8boDL7zC",
+      "title": "Solid Wood Music Stand Brand New",
+      "price_text": "$100",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "t9ieqQ6BhYu7RT8rw86v8W",
+      "url": "https://www.craigslist.org/view/d/novato-dangelico-premier-dc-semi-hollow/t9ieqQ6BhYu7RT8rw86v8W",
+      "title": "D'Angelico Premier DC Semi-Hollow Double Cutaway",
+      "price_text": "$350",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "42FQX1ngHcmxkpVNaS2ptF",
+      "url": "https://www.craigslist.org/view/d/novato-italia-rimini-12-string-electric/42FQX1ngHcmxkpVNaS2ptF",
+      "title": "Italia Rimini 12 String Electric. w/Upgrades!",
+      "price_text": "$600",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "g9WUdmExDf7HUy95Mzhhq9",
+      "url": "https://www.craigslist.org/view/d/novato-vertex-tone-secret-overdrive/g9WUdmExDf7HUy95Mzhhq9",
+      "title": "Vertex Tone Secret Overdrive Pedal",
+      "price_text": "$60",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6EVk8YqchD4Qo3LUAhZZ1i",
+      "url": "https://www.craigslist.org/view/d/novato-line-mm4-modulation/6EVk8YqchD4Qo3LUAhZZ1i",
+      "title": "Line 6 MM4 - Modulation",
+      "price_text": "$80",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xi5aLrrro1Qd4ksAAbVcKT",
+      "url": "https://www.craigslist.org/view/d/novato-seymour-duncan-andromeda-dynamic/xi5aLrrro1Qd4ksAAbVcKT",
+      "title": "Seymour Duncan Andromeda Dynamic Delay",
+      "price_text": "$125",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7Enc4QkHpRebUJ7FyZ5nTf",
+      "url": "https://www.craigslist.org/view/d/petaluma-gretsch-g9311-new-yorker/7Enc4QkHpRebUJ7FyZ5nTf",
+      "title": "Gretsch G9311 New Yorker \"Supreme\" Mandolin Acoustic Electric",
+      "price_text": "$300",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qz3yxXsZYjbSK1o5APG1cV",
+      "url": "https://www.craigslist.org/view/d/deering-banjo/qz3yxXsZYjbSK1o5APG1cV",
+      "title": "Deering Banjo",
+      "price_text": "$900",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fmnYXazaMDLryMpjDaHzfD",
+      "url": "https://www.craigslist.org/view/d/richmond-korg-volca-drum/fmnYXazaMDLryMpjDaHzfD",
+      "title": "Korg Volca Drum",
+      "price_text": "$80",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2ruoF6qWLKfsa6MAa6gVvW",
+      "url": "https://www.craigslist.org/view/d/richmond-ensoniq-asr10/2ruoF6qWLKfsa6MAa6gVvW",
+      "title": "Ensoniq ASR10",
+      "price_text": "$2,500",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xfT4T4yFEU1qh2ZrTJPdxY",
+      "url": "https://www.craigslist.org/view/d/richmond-roland-tr-707/xfT4T4yFEU1qh2ZrTJPdxY",
+      "title": "Roland TR-707",
+      "price_text": "$400",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oyTSLJZUiinNwp7YdMhdSE",
+      "url": "https://www.craigslist.org/view/d/novato-yamaha-ytr-734-trumpet/oyTSLJZUiinNwp7YdMhdSE",
+      "title": "Yamaha YTR 734 trumpet",
+      "price_text": "$999",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8xds26SpbTRSzimshdNdns",
+      "url": "https://www.craigslist.org/view/d/novato-gemeinhardt-piccolo/8xds26SpbTRSzimshdNdns",
+      "title": "Gemeinhardt Piccolo",
+      "price_text": "$300",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dCC93e4ooBH5C18fp3fgHC",
+      "url": "https://www.craigslist.org/view/d/novato-yamaha-piccolo/dCC93e4ooBH5C18fp3fgHC",
+      "title": "Yamaha Piccolo",
+      "price_text": "$300",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dLhWCyPbvvqGSjWAfWNWF5",
+      "url": "https://www.craigslist.org/view/d/novato-gemeinhardt-flute/dLhWCyPbvvqGSjWAfWNWF5",
+      "title": "Gemeinhardt Flute",
+      "price_text": "$500",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "99yahYeTXaupQWpvzJJTpc",
+      "url": "https://www.craigslist.org/view/d/napa-road-ready-12-space/99yahYeTXaupQWpvzJJTpc",
+      "title": "Road ready 12 space",
+      "price_text": "$100",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7d8e9cJ5GFX9Fr7dwc6MVL",
+      "url": "https://www.craigslist.org/view/d/napa-greenboy-fearless-f12-black-red/7d8e9cJ5GFX9Fr7dwc6MVL",
+      "title": "GREENBOY FEARLESS f12 & f15 2023 - Black / RED",
+      "price_text": "$2,100",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rB6m72PwueCdyAyt1GHsat",
+      "url": "https://www.craigslist.org/view/d/napa-fender-precision-bass-black-refin/rB6m72PwueCdyAyt1GHsat",
+      "title": "Fender Precision Bass 1954 - 1957 - Black Refin",
+      "price_text": "$11,875",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "iqQh4Uk7HWegW14jJPi3rs",
+      "url": "https://www.craigslist.org/view/d/napa-biesele-mt-magnetic-upright-bass/iqQh4Uk7HWegW14jJPi3rs",
+      "title": "Biesele MT magnetic upright bass pickup",
+      "price_text": "$500",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rPj7opAoauaWj5Tj8eBUkE",
+      "url": "https://www.craigslist.org/view/d/napa-1963-fender-precision-bass/rPj7opAoauaWj5Tj8eBUkE",
+      "title": "1963 Fender Precision Bass",
+      "price_text": "$9,500",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mKqbtyjDq3dYxSwZ6WNjxG",
+      "url": "https://www.craigslist.org/view/d/napa-fender-rumble-watt-2x10-bass-combo/mKqbtyjDq3dYxSwZ6WNjxG",
+      "title": "Fender Rumble 800 800-Watt 2x10\" Bass Combo",
+      "price_text": "$600",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "toyW3FuhCoU8Cs4cJbbGq4",
+      "url": "https://www.craigslist.org/view/d/napa-tc-electronic-rs210c-rh750/toyW3FuhCoU8Cs4cJbbGq4",
+      "title": "TC Electronic RS210C & RH750",
+      "price_text": "$1,100",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hQ1FubT5TPRNuCVcwNaKkN",
+      "url": "https://www.craigslist.org/view/d/mill-valley-pair-of-cad-vx2-microphone/hQ1FubT5TPRNuCVcwNaKkN",
+      "title": "Pair of Cad VX2 Microphone 1.5\" and 1.1\" capsules",
+      "price_text": "$4,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5ca4JUtEfD8NDgUTczzedo",
+      "url": "https://www.craigslist.org/view/d/san-rafael-1950s-allen-organ-company/5ca4JUtEfD8NDgUTczzedo",
+      "title": "1950s Allen Organ Company Tube Amp",
+      "price_text": "$300",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xspfMzzRierCmW5iRgA5Cy",
+      "url": "https://www.craigslist.org/view/d/mill-valley-boss-fbm-fender-59-bassman/xspfMzzRierCmW5iRgA5Cy",
+      "title": "Boss FBM-1 Fender '59 Bassman Pedal",
+      "price_text": "$170",
+      "location_text": "san anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "pANAqpoBxyc2KDCn8ihpvC",
+      "url": "https://www.craigslist.org/view/d/mill-valley-ibanez-ts9-tube-screamer/pANAqpoBxyc2KDCn8ihpvC",
+      "title": "Ibanez TS9 Tube Screamer reissue like new in box",
+      "price_text": "$80",
+      "location_text": "san anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ujYpBFCNNe7UH7j7718biK",
+      "url": "https://www.craigslist.org/view/d/novato-black-akai-dm13-dynamic-blues/ujYpBFCNNe7UH7j7718biK",
+      "title": "Black Akai DM13 Dynamic Blues Harp Microphones",
+      "price_text": "$50",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "r43sMWvEEDhaTBQZxUDQ4X",
+      "url": "https://www.craigslist.org/view/d/mill-valley-vintage-1965-gibson-melody/r43sMWvEEDhaTBQZxUDQ4X",
+      "title": "Vintage 1965 Gibson Melody Maker dual pickup with Vibrato & hardshell",
+      "price_text": "$2,400",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uPjyyAKh4bcz94w3nwkoJX",
+      "url": "https://www.craigslist.org/view/d/mill-valley-vintage-1964-martin-65/uPjyyAKh4bcz94w3nwkoJX",
+      "title": "Vintage 1964 Martin F-65 Electric Martin Bigsby Acrylic Bridge & Case",
+      "price_text": "$3,400",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "tMQ9o6gruz3HRy51bRbyN1",
+      "url": "https://www.craigslist.org/view/d/mill-valley-flight-case-for-drums/tMQ9o6gruz3HRy51bRbyN1",
+      "title": "flight case for drums (tablas) or (conga) or (djembe)",
+      "price_text": "$50",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jfrdxVQQZjDwE7Sn3RmrtN",
+      "url": "https://www.craigslist.org/view/d/mill-valley-vintage-1963-fender-made-in/jfrdxVQQZjDwE7Sn3RmrtN",
+      "title": "vintage 1963 fender (made in 1963) Stratocaster refinished paint",
+      "price_text": "$6,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3xQSnESMs2vLZvyiy52Zak",
+      "url": "https://www.craigslist.org/view/d/novato-earthquaker-devices-bit/3xQSnESMs2vLZvyiy52Zak",
+      "title": "EarthQuaker Devices Bit Commander Guitar Synthesizer",
+      "price_text": "$100",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rpCe4YGyRsZ9oFv4jo6L3p",
+      "url": "https://www.craigslist.org/view/d/novato-electro-voice-evm-12l-series-ii/rpCe4YGyRsZ9oFv4jo6L3p",
+      "title": "Electro-Voice EVM-12L Series II Speaker 1980s - Black",
+      "price_text": "$200",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qG1h3nADnyn1WSit4d9wzL",
+      "url": "https://www.craigslist.org/view/d/novato-new-custom-solid-wood-head-for/qG1h3nADnyn1WSit4d9wzL",
+      "title": "New custom solid wood head for Fender Deluxe Reverb amp",
+      "price_text": "$100",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "33KJe5KFF3mPW2LCbBun3R",
+      "url": "https://www.craigslist.org/view/d/novato-the-fisher-202-amplifier-fm200/33KJe5KFF3mPW2LCbBun3R",
+      "title": "The Fisher X-202-B amplifier & FM200-B Tuner/preamp & Garrard RP",
+      "price_text": "$1,100",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mgAF4PjGX9E552cGFkry4d",
+      "url": "https://www.craigslist.org/view/d/novato-vintage-sound-city-ltd-pa100w/mgAF4PjGX9E552cGFkry4d",
+      "title": "Vintage Sound City LTD PA100W converted Guitar Amp - Partridge Irons",
+      "price_text": "$1,000",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "chFJg6ndfSWdvNcFV53u8R",
+      "url": "https://www.craigslist.org/view/d/novato-shakuhachi-flute-18-advanced/chFJg6ndfSWdvNcFV53u8R",
+      "title": "Shakuhachi Flute 1.8’ Advanced Student model key of D Tiger Bamboo",
+      "price_text": "$350",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qvLPHk8fJLmttYXEvXNKLh",
+      "url": "https://www.craigslist.org/view/d/novato-pink-noise-generator-white/qvLPHk8fJLmttYXEvXNKLh",
+      "title": "PINK NOISE Generator WHITE INSTRUMENTS 155 PINK NOISE TUBE",
+      "price_text": "$80",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "71R1HQ8KSkt5fv2g1sjYWX",
+      "url": "https://www.craigslist.org/view/d/novato-vintage-fender-vibrolux-reverb/71R1HQ8KSkt5fv2g1sjYWX",
+      "title": "Vintage 1965 1966 Fender Vibrolux Reverb amp  100% original AA864",
+      "price_text": "$4,500",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xvLBxaVnJTru4vRns91jgN",
+      "url": "https://www.craigslist.org/view/d/novato-1964-vintage-fender-deluxe-amp/xvLBxaVnJTru4vRns91jgN",
+      "title": "1964 Vintage Fender Deluxe Amp Pre-CBS - Original Caps -Sounds Amazing",
+      "price_text": "$3,400",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rfBu6b1i6RjMH1YK1eTYqF",
+      "url": "https://www.craigslist.org/view/d/novato-kluson-deluxe-double-line-tulip/rfBu6b1i6RjMH1YK1eTYqF",
+      "title": "1964-1967 Kluson Deluxe double line tulip tuner double ring",
+      "price_text": "$50",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rVL7bxdTXjX23ADCm936yL",
+      "url": "https://www.craigslist.org/view/d/novato-vintage-single-line-deluxe/rVL7bxdTXjX23ADCm936yL",
+      "title": "Vintage 1959-1963 single line Deluxe Kluson metal tuners",
+      "price_text": "$60",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "d9gWY7xxzHdG5CqdYF4qc4",
+      "url": "https://www.craigslist.org/view/d/novato-buescher-bu4-alto-sax/d9gWY7xxzHdG5CqdYF4qc4",
+      "title": "Buescher BU4 Alto SAx",
+      "price_text": "$350",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ig4Bpd46PtJEVtAAxLu9YW",
+      "url": "https://www.craigslist.org/view/d/cotati-mxr-analog-chorus/ig4Bpd46PtJEVtAAxLu9YW",
+      "title": "MXR Analog Chorus",
+      "price_text": "$80",
+      "location_text": "Cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hToKediDbYRTg62zwh6ngN",
+      "url": "https://www.craigslist.org/view/d/cotati-2025-martin-jr/hToKediDbYRTg62zwh6ngN",
+      "title": "2025 Martin D Jr-E",
+      "price_text": "$500",
+      "location_text": "Cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sivQYLWZorc2BS9fsr4Qr8",
+      "url": "https://www.craigslist.org/view/d/cotati-mxr-uni-vibe/sivQYLWZorc2BS9fsr4Qr8",
+      "title": "MXR Uni-Vibe",
+      "price_text": "$60",
+      "location_text": "Cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9ViNPtFEe73BpYKFu8AafL",
+      "url": "https://www.craigslist.org/view/d/richmond-tama-drum-kit/9ViNPtFEe73BpYKFu8AafL",
+      "title": "Tama Drum kit",
+      "price_text": "$250",
+      "location_text": "Richmond"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ss5YxLqDf6o1t61TXCbSNh",
+      "url": "https://www.craigslist.org/view/d/vallejo-martin-guitar-1973-28-or-35/ss5YxLqDf6o1t61TXCbSNh",
+      "title": "Martin Guitar, 1973. D-28 or 35",
+      "price_text": "$4,000",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jGrssyvrp7jVbgebsmn3q4",
+      "url": "https://www.craigslist.org/view/d/san-pablo-mu-mp-command-station/jGrssyvrp7jVbgebsmn3q4",
+      "title": "E-MU MP-7 Command Station",
+      "price_text": "$600",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4L9mE9X7yMghuDkYXr6LJG",
+      "url": "https://www.craigslist.org/view/d/richmond-tama-imperialstarmeinel/4L9mE9X7yMghuDkYXr6LJG",
+      "title": "Tama imperialstar+Meinel cymbals+Tama hardwear",
+      "price_text": "$700",
+      "location_text": "Richmond"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sDqUE3mC5x8EFbZJW68WXJ",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-martin-28-authentic-aged/sDqUE3mC5x8EFbZJW68WXJ",
+      "title": "Martin D-28 Authentic Aged 1937",
+      "price_text": "$6,400",
+      "location_text": "San Anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ndFQykV6nnwuKAkZdHsxgQ",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-for-sale-2023-martin-18/ndFQykV6nnwuKAkZdHsxgQ",
+      "title": "For Sale: 2023 Martin D-18 Authentic 1937",
+      "price_text": "$4,600",
+      "location_text": "San Anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fBzrDdwXxp9PkVb1ANoNXH",
+      "url": "https://www.craigslist.org/view/d/novato-ibanez-ehb-1005sms-emm-medium/fBzrDdwXxp9PkVb1ANoNXH",
+      "title": "Ibanez EHB 1005SMS-EMM (MEDIUM SCALE!)",
+      "price_text": "$975",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "psnZ6qN6GWixCPRUk5oBq5",
+      "url": "https://www.craigslist.org/view/d/richmond-mpc-60-mki/psnZ6qN6GWixCPRUk5oBq5",
+      "title": "MPC 60 MKI",
+      "price_text": "$3,000",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "izZZw9ewxgGU43X9H7UPK6",
+      "url": "https://www.craigslist.org/view/d/mill-valley-shanti-td-20-ca-natural/izZZw9ewxgGU43X9H7UPK6",
+      "title": "Shanti TD-20 ca. 2004 - Natural acoustic guitar.",
+      "price_text": "$7,500",
+      "location_text": "Mill Valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "aAkP9LBkaqdksYP9QqEHFW",
+      "url": "https://www.craigslist.org/view/d/richmond-timbales-jcr/aAkP9LBkaqdksYP9QqEHFW",
+      "title": "timbales. Jcr",
+      "price_text": "$1,500",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "cS2MAvTCPuiKUAzNidXEBd",
+      "url": "https://www.craigslist.org/view/d/richmond-congas-for-sale/cS2MAvTCPuiKUAzNidXEBd",
+      "title": "congas. For. Sale.",
+      "price_text": "$2,000",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "h981HDSfbz7PjN7vX5nyFQ",
+      "url": "https://www.craigslist.org/view/d/richmond-ritmo-tumba-12/h981HDSfbz7PjN7vX5nyFQ",
+      "title": "Ritmo.  Tumba. 12",
+      "price_text": "$900",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "j1nY7KofYXuL8dfLgueDP1",
+      "url": "https://www.craigslist.org/view/d/novato-novation-bass-station-ii-factory/j1nY7KofYXuL8dfLgueDP1",
+      "title": "Novation Bass Station II w/ factory gig bag",
+      "price_text": "$400",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dgWqMzvn91S2Q73UQrkKEG",
+      "url": "https://www.craigslist.org/view/d/novato-vox-ac-30-amp-cover/dgWqMzvn91S2Q73UQrkKEG",
+      "title": "Vox AC-30 amp cover",
+      "price_text": "$30",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6cFGf9JCFbJPM8vowUHc51",
+      "url": "https://www.craigslist.org/view/d/novato-prices-reduced-amps-peavey/6cFGf9JCFbJPM8vowUHc51",
+      "title": "Prices reduced! Amps! Peavey & Epiphone",
+      "price_text": "$1",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bajnM8bmonkoBesCSyQGoC",
+      "url": "https://www.craigslist.org/view/d/petaluma-gallien-krueger-4x12-celestion/bajnM8bmonkoBesCSyQGoC",
+      "title": "Gallien-Krueger 4x12 Celestion 25W Greenbacks",
+      "price_text": "$550",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dhrRghWEEyQxod8rqYLEQb",
+      "url": "https://www.craigslist.org/view/d/san-rafael-vintage-70s-yamaha-em-90/dhrRghWEEyQxod8rqYLEQb",
+      "title": "Vintage 70s Yamaha EM-90 Mixer, Drum Machine",
+      "price_text": "$200",
+      "location_text": "San Rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qG7M9Gd9bDpBGuxuSoNUQZ",
+      "url": "https://www.craigslist.org/view/d/san-rafael-vintage-1970s-japanese-sg/qG7M9Gd9bDpBGuxuSoNUQZ",
+      "title": "Vintage 1970s Japanese SG Copy — Bigsby Vibrato, Switchcraft Jack, Plays Great",
+      "price_text": "$450",
+      "location_text": "San Rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "o3pr12NVPZM2ondQ7LyeRi",
+      "url": "https://www.craigslist.org/view/d/mill-valley-jean-paul-tenor-saxophone/o3pr12NVPZM2ondQ7LyeRi",
+      "title": "Jean Paul - Tenor Saxophone",
+      "price_text": "$750",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "i2Us7fWLuPisJtr3svMfJz",
+      "url": "https://www.craigslist.org/view/d/vallejo-mxl-990-condenser-microphone/i2Us7fWLuPisJtr3svMfJz",
+      "title": "MXL 990 Condenser Microphone with Shockmount & carrying Case",
+      "price_text": "$80",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "iPVYxELzQFuGBCrcNstHnr",
+      "url": "https://www.craigslist.org/view/d/petaluma-fretboard-journal-magazine-lot/iPVYxELzQFuGBCrcNstHnr",
+      "title": "Fretboard Journal magazine lot",
+      "price_text": "$140",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6c3bbhoAEDWg3PfTuSia6g",
+      "url": "https://www.craigslist.org/view/d/san-pablo-aguilar-db750/6c3bbhoAEDWg3PfTuSia6g",
+      "title": "Aguilar DB750",
+      "price_text": "$1,000",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kXULtmHyEpcpyV1FW87b5a",
+      "url": "https://www.craigslist.org/view/d/vallejo-pacific-drum-shellpack/kXULtmHyEpcpyV1FW87b5a",
+      "title": "Pacific Drum Shellpack",
+      "price_text": "$150",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oVgHJMDRHf2J8WJFasjDT6",
+      "url": "https://www.craigslist.org/view/d/vallejo-tama-skeleton-drum-set-complete/oVgHJMDRHf2J8WJFasjDT6",
+      "title": "Tama Skeleton Drum Set Complete",
+      "price_text": "$499",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "njNEJukzu9HdG3dUiaSrXz",
+      "url": "https://www.craigslist.org/view/d/vallejo-dw-3000-pedal/njNEJukzu9HdG3dUiaSrXz",
+      "title": "DW 3000 Pedal",
+      "price_text": "$140",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rwvgTxubqVnv3CSHnj6YTA",
+      "url": "https://www.craigslist.org/view/d/vallejo-gretsch-energy-drum-shellpack/rwvgTxubqVnv3CSHnj6YTA",
+      "title": "Gretsch Energy Drum Shellpack",
+      "price_text": "$499",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6DoEVBQmAXKRJX7aX2bx9C",
+      "url": "https://www.craigslist.org/view/d/vallejo-tama-rockstar-drum-set-complete/6DoEVBQmAXKRJX7aX2bx9C",
+      "title": "Tama Rockstar Drum Set Complete",
+      "price_text": "$799",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nVGrKn7DSLUvvsSZPruYqa",
+      "url": "https://www.craigslist.org/view/d/vallejo-ludwig-rare-sizes-element-set/nVGrKn7DSLUvvsSZPruYqa",
+      "title": "Ludwig RARE SIZES Element Set Complete",
+      "price_text": "$499",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "eWMedUXK6nGiLPd3bqr5fm",
+      "url": "https://www.craigslist.org/view/d/vallejo-drumset-with-amp-and-headphones/eWMedUXK6nGiLPd3bqr5fm",
+      "title": "E-Drumset with amp and headphones",
+      "price_text": "$349",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6jdNDenZW95ULi2HPeqXqC",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-tama-hh905d-iron-cobra/6jdNDenZW95ULi2HPeqXqC",
+      "title": "Tama HH905D Iron Cobra Lever Glide Hi-hat Stand - 2-leg",
+      "price_text": "$150",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "wdkGSRmx9GHoz43RLiQjMv",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-lp-tito-puente-tribute/wdkGSRmx9GHoz43RLiQjMv",
+      "title": "LP Tito Puente Tribute Timbales w/Stand",
+      "price_text": "$395",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3uvd5ysD8iDig4MZQjCU5M",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-gretsch-new-classic-drum/3uvd5ysD8iDig4MZQjCU5M",
+      "title": "Gretsch New Classic Drum Kit, Ocean Sparkle Burst",
+      "price_text": "$1,700",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8pL2qgaNe2BqcvYvUUVbqU",
+      "url": "https://www.craigslist.org/view/d/richmond-baritone-saxophone-mouthpiece/8pL2qgaNe2BqcvYvUUVbqU",
+      "title": "Baritone Saxophone Mouthpiece S80 C**",
+      "price_text": "$260",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kLnxwhYj9Tnke3gDG8sfMj",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-proline-professional/kLnxwhYj9Tnke3gDG8sfMj",
+      "title": "Proline Professional Orchestral Music Stand Black",
+      "price_text": "$30",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dKdr3PezoR7M47sdRgdDHT",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-frank-holton-co-collegiate/dKdr3PezoR7M47sdRgdDHT",
+      "title": "FRANK HOLTON & CO. Collegiate Trumpet + Case Mouthpiece USA 1968",
+      "price_text": "$325",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "c4qcUqEURVs2VLJRm3oFis",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-reunion-blues-double/c4qcUqEURVs2VLJRm3oFis",
+      "title": "Reunion Blues Double Trumpet Case",
+      "price_text": "$100",
+      "location_text": "santa rosa"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2KpYYzua2PCJ7DYZoUP2g7",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-vinci-guitar-signature/2KpYYzua2PCJ7DYZoUP2g7",
+      "title": "VINCI GUITAR SIGNATURE VA15B Amp",
+      "price_text": "$45",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sJdqTBeQxrURd5UWq97D1J",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-jupiter-pocket-trumpet-jpt/sJdqTBeQxrURd5UWq97D1J",
+      "title": "Jupiter Pocket Trumpet JPT-516 Black w Case and MPC",
+      "price_text": "$475",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qDb2ExjDwD9F8kEBsSqKLP",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-jupiter-jpt-416-pocket/qDb2ExjDwD9F8kEBsSqKLP",
+      "title": "Jupiter JPT-416 Pocket Trumpet Brass w Case and MPC",
+      "price_text": "$325",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8ARAZFxdsmHw8bHpfmuP57",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-besson-stradford-trumpet/8ARAZFxdsmHw8bHpfmuP57",
+      "title": "Besson Stradford Trumpet w Case and Mouthpiece Made in England",
+      "price_text": "$65",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fbZfHMg6Bru6VbkJ2ScNny",
+      "url": "https://www.craigslist.org/view/d/mill-valley-michael-kelly-telecaster/fbZfHMg6Bru6VbkJ2ScNny",
+      "title": "Michael Kelly telecaster",
+      "price_text": "$100",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9UgWRbbVEVnxzcuaMF48xQ",
+      "url": "https://www.craigslist.org/view/d/el-verano-suhr-gig-bag/9UgWRbbVEVnxzcuaMF48xQ",
+      "title": "Suhr Gig Bag",
+      "price_text": "$80",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rKouRfXApVFUVBgNz1owjV",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-gibson-les-paul-guitar/rKouRfXApVFUVBgNz1owjV",
+      "title": "Gibson Les Paul Guitar",
+      "price_text": "$1,700",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bQ793bPi3o4VRZ7KujM8UR",
+      "url": "https://www.craigslist.org/view/d/el-verano-epiphone-casino-peerless-cool/bQ793bPi3o4VRZ7KujM8UR",
+      "title": "Epiphone Casino (Peerless) Cool Color!",
+      "price_text": "$595",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8MDpNb9NsdgwKSf9cybrTb",
+      "url": "https://www.craigslist.org/view/d/el-verano-rickenbacker-360-sweet-trade/8MDpNb9NsdgwKSf9cybrTb",
+      "title": "Rickenbacker 360, sweet. TRADE?",
+      "price_text": "$2,395",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mU5476wknzHviHeWL6Dy6W",
+      "url": "https://www.craigslist.org/view/d/el-verano-guitar-boxes/mU5476wknzHviHeWL6Dy6W",
+      "title": "Guitar boxes",
+      "price_text": "$1",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mWKcqZxgnoVCnLp9R5EAYN",
+      "url": "https://www.craigslist.org/view/d/el-verano-mesa-boogie-california-tweed/mWKcqZxgnoVCnLp9R5EAYN",
+      "title": "Mesa Boogie California Tweed combo with extension",
+      "price_text": "$1,588",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "axfkFXkAMrLUSeKCzvGu88",
+      "url": "https://www.craigslist.org/view/d/el-verano-dearmond-mint-66/axfkFXkAMrLUSeKCzvGu88",
+      "title": "DeArmond MINT M-66",
+      "price_text": "$295",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9ejMNjcPePsy7Gjui9WfHP",
+      "url": "https://www.craigslist.org/view/d/el-verano-epiphone-riviera-peerless/9ejMNjcPePsy7Gjui9WfHP",
+      "title": "Epiphone Riviera, Peerless plant",
+      "price_text": "$995",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "55YGLoB1ND5wEvUMSWmBDV",
+      "url": "https://www.craigslist.org/view/d/el-verano-gretsch-g6193t/55YGLoB1ND5wEvUMSWmBDV",
+      "title": "Gretsch G6193T",
+      "price_text": "$2,395",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7jQAjuhyBpmiTAq4wKsZ1W",
+      "url": "https://www.craigslist.org/view/d/larkspur-klark-teknik-dn6000-audio/7jQAjuhyBpmiTAq4wKsZ1W",
+      "title": "Klark Teknik DN6000 Audio Analyzer",
+      "price_text": "$100",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "g6KCnNFT1LFXKYcFowvihQ",
+      "url": "https://www.craigslist.org/view/d/larkspur-ev-re92l-lavalier-lapel-video/g6KCnNFT1LFXKYcFowvihQ",
+      "title": "EV RE92L Lavalier Lapel Video Mics (Pair)",
+      "price_text": "$100",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "m5MFnim9NWBSJZsGkyDZ4z",
+      "url": "https://www.craigslist.org/view/d/larkspur-samson-phone-headphone-mixer/m5MFnim9NWBSJZsGkyDZ4z",
+      "title": "Samson S-Phone Headphone Mixer / Amplifier",
+      "price_text": "$80",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7VQYSnYh8cgVFfDxt3A6Gh",
+      "url": "https://www.craigslist.org/view/d/larkspur-mxr-74-vintage-phase-90-pedal/7VQYSnYh8cgVFfDxt3A6Gh",
+      "title": "MXR '74 Vintage Script Phase 90 Pedal",
+      "price_text": "$75",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uWoJDKfbbvqtwsmGebayuo",
+      "url": "https://www.craigslist.org/view/d/fairfax-2003-ernie-ball-music-man/uWoJDKfbbvqtwsmGebayuo",
+      "title": "2003 Ernie Ball Music Man StingRay Bass",
+      "price_text": "$1,500",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kangfxeJmE6sukAV6eTzHX",
+      "url": "https://www.craigslist.org/view/d/larkspur-middle-atlantic-rack-space/kangfxeJmE6sukAV6eTzHX",
+      "title": "Middle Atlantic 1 Rack Space Utility Shelf",
+      "price_text": "$20",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "edywABU3PT5rf5gFWxVHsW",
+      "url": "https://www.craigslist.org/view/d/larkspur-radial-engineering-extc-500/edywABU3PT5rf5gFWxVHsW",
+      "title": "RADIAL ENGINEERING EXTC 500 SERIES GUITAR PEDAL INTERFACE",
+      "price_text": "$260",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dQg37fQN8TR7czHWpoogvq",
+      "url": "https://www.craigslist.org/view/d/larkspur-whirlwind-sc48rj-pro-audio/dQg37fQN8TR7czHWpoogvq",
+      "title": "Whirlwind SC48RJ Pro Audio Cable Tester",
+      "price_text": "$50",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oijGTaf6GLmbqg3W7rtvCr",
+      "url": "https://www.craigslist.org/view/d/larkspur-universal-audio-ruby-63-top/oijGTaf6GLmbqg3W7rtvCr",
+      "title": "Universal Audio Ruby '63 Top Boost Amplifier Pedal",
+      "price_text": "$260",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8NGdopisiHCzrWNgB6WaAn",
+      "url": "https://www.craigslist.org/view/d/larkspur-acme-audio-opticom-xla-500/8NGdopisiHCzrWNgB6WaAn",
+      "title": "Acme Audio Opticom XLA-500 Series Tube Optical Limiter",
+      "price_text": "$700",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2Fi3mYvL9eiZoHQCLWjQWk",
+      "url": "https://www.craigslist.org/view/d/larkspur-alan-smart-smart-research-c2/2Fi3mYvL9eiZoHQCLWjQWk",
+      "title": "Alan Smart - Smart Research C2",
+      "price_text": "$1,700",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4CKWcC3UDLGBATK9Fn4S1f",
+      "url": "https://www.craigslist.org/view/d/larkspur-warm-audio-wa-84-condenser/4CKWcC3UDLGBATK9Fn4S1f",
+      "title": "Warm Audio WA-84 Condenser Microphone",
+      "price_text": "$250",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kjYDzKZDZGXLCexgSRPuJA",
+      "url": "https://www.craigslist.org/view/d/larkspur-universal-audio-uafx-lion-68/kjYDzKZDZGXLCexgSRPuJA",
+      "title": "Universal Audio UAFX Lion '68 Super Lead Amp Pedal",
+      "price_text": "$260",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nT4ZamgPZVGrg9bJ2mNsm3",
+      "url": "https://www.craigslist.org/view/d/fairfax-radial-j48-active-di-box/nT4ZamgPZVGrg9bJ2mNsm3",
+      "title": "Radial J48 Active DI Box",
+      "price_text": "$100",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "eJEm9DHUkEC42viGhrC8gg",
+      "url": "https://www.craigslist.org/view/d/cotati-oscar-schmidt-autoharp-12-chord/eJEm9DHUkEC42viGhrC8gg",
+      "title": "Oscar Schmidt Autoharp 12 Chord 36 String Music Instrument WORKS",
+      "price_text": "$100",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8n7Eqruje7BUbMzm6LJABX",
+      "url": "https://www.craigslist.org/view/d/petaluma-fender-starcaster-excellent/8n7Eqruje7BUbMzm6LJABX",
+      "title": "Fender STARCASTER (excellent condition)",
+      "price_text": "$50",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qGfQ2HCKL7ypqqW2SyH6kX",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-yamaha-upright-piano/qGfQ2HCKL7ypqqW2SyH6kX",
+      "title": "Yamaha Upright Piano",
+      "price_text": "$1,800",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "61eXWxQK21AqKfyBe6SEeZ",
+      "url": "https://www.craigslist.org/view/d/greenbrae-vintage-1959-kleenex-tissues/61eXWxQK21AqKfyBe6SEeZ",
+      "title": "Vintage 1959 Kleenex Tissues-Record Perry Como & Friends 45 EP(6 Hits)",
+      "price_text": "$15",
+      "location_text": "GREENBRAE, MARIN COUNTY"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "tmZGtZYaZWp6vuRxpZc8ig",
+      "url": "https://www.craigslist.org/view/d/novato-vintage-1960-guild-guitar-amp/tmZGtZYaZWp6vuRxpZc8ig",
+      "title": "Vintage 1960 Guild guitar amp",
+      "price_text": "$1,000",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "vyhCYKYQyQPVsUyT5QikB1",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1990-prs-ce-24-ohsc/vyhCYKYQyQPVsUyT5QikB1",
+      "title": "1990 PRS CE 24 (OHSC)",
+      "price_text": "$3,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qLE54NZn3Wq3dTPQhQA4Ng",
+      "url": "https://www.craigslist.org/view/d/mill-valley-line-pod-go-multi-effects/qLE54NZn3Wq3dTPQhQA4Ng",
+      "title": "Line 6 POD Go Multi-Effects Guitar Processor – Excellent Condition",
+      "price_text": "$400",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5HRT8uDi4yNCa7PFQnUhy3",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1971-gibson-sg-cherry/5HRT8uDi4yNCa7PFQnUhy3",
+      "title": "1971 Gibson SG – Cherry / Bigsby / OHSC – (USA)",
+      "price_text": "$3,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "c8BfnpjkX5TMCzrmdsQLzG",
+      "url": "https://www.craigslist.org/view/d/mill-valley-darbyn-gil-boutique/c8BfnpjkX5TMCzrmdsQLzG",
+      "title": "Darbyn Gil Boutique Stratocaster –  flight case and strap included",
+      "price_text": "$2,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8MhAVeupeky3GsWgA3Ye7V",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1983-joaqun-garca-classical/8MhAVeupeky3GsWgA3Ye7V",
+      "title": "1983 Joaquín García Classical Guitar (Spain)",
+      "price_text": "$5,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bpRgFKu9Zx1sud8op34ZBk",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1994-dominique-field/bpRgFKu9Zx1sud8op34ZBk",
+      "title": "1994 Dominique Field Concert Classical Guitar No. 103 –  (France)",
+      "price_text": "$18,999",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xqo4iH5HLUiPhaL2Hr8vVY",
+      "url": "https://www.craigslist.org/view/d/mill-valley-2005-kenny-hill-torres/xqo4iH5HLUiPhaL2Hr8vVY",
+      "title": "2005 Kenny Hill \"Torres\" Model Classical Guitar/OHSC –  (USA)",
+      "price_text": "$4,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sG7rBcH3LYQoR6De5YKBZT",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1990-paco-santiago-marn/sG7rBcH3LYQoR6De5YKBZT",
+      "title": "1990 Paco Santiago Marín Classical Guitar –  (Spain)",
+      "price_text": "$12,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fhoZYqNz9pzUfPxPYteDMc",
+      "url": "https://www.craigslist.org/view/d/mill-valley-2003-jeroen-hilhorst/fhoZYqNz9pzUfPxPYteDMc",
+      "title": "2003 Jeroen Hilhorst Concert Classical Guitar No. 50 – (Netherlands)",
+      "price_text": "$7,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4rsWxPeJ33im6tPLmSP3qG",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1978-william-cumpiano/4rsWxPeJ33im6tPLmSP3qG",
+      "title": "1978 William Cumpiano Stringfellow 12-String Built for John Abercrombi",
+      "price_text": "$7,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "83inLLYGfzbTdWvpziDWta",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1960-antonio-mateu-ramis/83inLLYGfzbTdWvpziDWta",
+      "title": "1960 Antonio Mateu Ramis Classical/Flamenco – Spruce and Cypress",
+      "price_text": "$4,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jUziVvfBnSDr3nURaT7nnb",
+      "url": "https://www.craigslist.org/view/d/mill-valley-2003-kenny-hill-fleta-model/jUziVvfBnSDr3nURaT7nnb",
+      "title": "2003 Kenny Hill Fleta Model Classical Guitar w case",
+      "price_text": "$4,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "moecPxH4amBYY7xrMCaZ33",
+      "url": "https://www.craigslist.org/view/d/mill-valley-2017-godin-multiac-nylon/moecPxH4amBYY7xrMCaZ33",
+      "title": "2017 Godin Multiac Nylon Encore —Brand new/ Mint + original gig bag",
+      "price_text": "$1,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "fFpd32o3rjaWPFUGvSMHt1",
+      "url": "https://www.craigslist.org/view/d/mill-valley-cuong-luthier-classical/fFpd32o3rjaWPFUGvSMHt1",
+      "title": "Cuong Luthier Classical Guitar w/ Barbera Pickup",
+      "price_text": "$3,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "k61THFDNwSiSn5BjxMLbuf",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1998-jess-bellido-flamenco/k61THFDNwSiSn5BjxMLbuf",
+      "title": "1998 Jesús Bellido Flamenco Blanca – $4,500 (Mill Valley)",
+      "price_text": "$4,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "apGVZXfnmSScGv5zHGqJxV",
+      "url": "https://www.craigslist.org/view/d/mill-valley-2003-dake-traphagen-concert/apGVZXfnmSScGv5zHGqJxV",
+      "title": "2003 Dake Traphagen Concert Classical Guitar",
+      "price_text": "$8,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4Wy9o1y9dYJkdvHYT3H49E",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1997-andrs-marvi-classical/4Wy9o1y9dYJkdvHYT3H49E",
+      "title": "1997 Andrés Marvi Classical Guitar Spruce/Brazilian",
+      "price_text": "$7,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6cQ8CqNXeE3nMHbA6Dw68g",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1973-jose-lopez-bellido/6cQ8CqNXeE3nMHbA6Dw68g",
+      "title": "1973 Jose Lopez Bellido Flamenco Blanca – Granada",
+      "price_text": "$4,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "56D1xKWS9VZEHBLRMgVLwA",
+      "url": "https://www.craigslist.org/view/d/mill-valley-josh-howell-steel-orchestra/56D1xKWS9VZEHBLRMgVLwA",
+      "title": "Josh Howell \"Steel Orchestra\" handmade guitar (2020)",
+      "price_text": "$5,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "k81ARyb7AFeSBEQrB3ra6c",
+      "url": "https://www.craigslist.org/view/d/mill-valley-2003-gary-zimnicki/k81ARyb7AFeSBEQrB3ra6c",
+      "title": "2003 Gary Zimnicki Classical Guitar – Figured Maple/Spruce – w/ Pickup",
+      "price_text": "$2,000",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1MSzGRd6QnGzpufGGWnEGb",
+      "url": "https://www.craigslist.org/view/d/novato-teisco-del-rey-electric-guitar/1MSzGRd6QnGzpufGGWnEGb",
+      "title": "Teisco Del Rey electric guitar",
+      "price_text": "$250",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gAX8HRPDEbq1woNQykwSY3",
+      "url": "https://www.craigslist.org/view/d/novato-1986-charvel-mdl-electric-guitar/gAX8HRPDEbq1woNQykwSY3",
+      "title": "1986 Charvel mdl 3 electric guitar with case",
+      "price_text": "$800",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4o6ymYUSe3oQVsbQhQPAqQ",
+      "url": "https://www.craigslist.org/view/d/novato-ash-fender-stratocaster/4o6ymYUSe3oQVsbQhQPAqQ",
+      "title": "2004/2005 ash Fender Stratocaster",
+      "price_text": "$650",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9WJht4fdrcLm2uHABvCY3E",
+      "url": "https://www.craigslist.org/view/d/cotati-beautiful-yamaha-12-string/9WJht4fdrcLm2uHABvCY3E",
+      "title": "Beautiful Yamaha 12 string !",
+      "price_text": "$500",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "j3jwC9bhccRP6zniXHZiRe",
+      "url": "https://www.craigslist.org/view/d/novato-guitaramp-tubesmicxlr-cables/j3jwC9bhccRP6zniXHZiRe",
+      "title": "GuitarAmp TUBES,Mic,XLR cables ,Pedalboard patch cables",
+      "price_text": "$1",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9WZELDs3p3n3vj5ncEGdYw",
+      "url": "https://www.craigslist.org/view/d/novato-60-watt-killer-amps-cant-beat-it/9WZELDs3p3n3vj5ncEGdYw",
+      "title": "2) 60 watt killer amps  cant beat it",
+      "price_text": "$150",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8VHvqZLkS9JJf44SfKAn8Z",
+      "url": "https://www.craigslist.org/view/d/novato-guitar-amp-tubes-xlr-cables-and/8VHvqZLkS9JJf44SfKAn8Z",
+      "title": "Guitar Amp Tubes XLR cables and guitar amp tube patch cables ECT",
+      "price_text": "$1",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7XnfjKPag1dqrjhC3X71xZ",
+      "url": "https://www.craigslist.org/view/d/novato-klon-ibanez-ts-dd-pedalboard/7XnfjKPag1dqrjhC3X71xZ",
+      "title": "KLON -Ibanez TS-9  DD-3 Pedalboard",
+      "price_text": "$350",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dPieoJrMDMxgsZ2P8Bbemo",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-yamaha-eg112c-electric/dPieoJrMDMxgsZ2P8Bbemo",
+      "title": "Yamaha EG112C Electric Guitar",
+      "price_text": "$125",
+      "location_text": "Rohnert Park"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5Se22r5kDmkyb4oREgESQg",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-tagima-woodstock-series-tg/5Se22r5kDmkyb4oREgESQg",
+      "title": "Tagima Woodstock Series TG-530 Electric Guitar",
+      "price_text": "$225",
+      "location_text": "Rohnert Park"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nQbiAz5zWzRVL99SeNbswe",
+      "url": "https://www.craigslist.org/view/d/cotati-yamaha-drum-kit-and-accessories/nQbiAz5zWzRVL99SeNbswe",
+      "title": "Yamaha Drum Kit and accessories",
+      "price_text": "$900",
+      "location_text": "Cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rj71FvzS1BCoB7QsvzHpmJ",
+      "url": "https://www.craigslist.org/view/d/fairfax-shure-psm200-in-ear-personal/rj71FvzS1BCoB7QsvzHpmJ",
+      "title": "SHURE PSM200 In-Ear Personal Monitoring System - H2 Band",
+      "price_text": "$250",
+      "location_text": "Fairfax"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9Jox8TMrDbPWztoe4Ujt4Y",
+      "url": "https://www.craigslist.org/view/d/fairfax-gretsch-brooklyn-drums-ebony/9Jox8TMrDbPWztoe4Ujt4Y",
+      "title": "GRETSCH BROOKLYN DRUMS - EBONY",
+      "price_text": "$2,200",
+      "location_text": "Fairfax"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gsQPRVaL9QDSoFQDDrYAps",
+      "url": "https://www.craigslist.org/view/d/fairfax-tama-ergo-rider-throne-with/gsQPRVaL9QDSoFQDDrYAps",
+      "title": "TAMA ERGO RIDER THRONE with BACKREST",
+      "price_text": "$250",
+      "location_text": "Fairfax"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "94bopPv5HfdbVJpXuAwBih",
+      "url": "https://www.craigslist.org/view/d/petaluma-peavey-20-watt-amp-microbass/94bopPv5HfdbVJpXuAwBih",
+      "title": "Peavey 20 watt  amp microbass",
+      "price_text": "$100",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "woajFNqN7XA3AbqKuosHat",
+      "url": "https://www.craigslist.org/view/d/vallejo-vox-guitar-amp-v9159-used-100/woajFNqN7XA3AbqKuosHat",
+      "title": "Vox Guitar Amp v9159 *USED* $100 or best offer",
+      "price_text": "$100",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "iCjX6oq3urMmABRLaaFfy4",
+      "url": "https://www.craigslist.org/view/d/vallejo-marshall-amp-mg15cfr-used-120/iCjX6oq3urMmABRLaaFfy4",
+      "title": "MARSHALL Amp MG15CFR Used $120 or best offer",
+      "price_text": "$120",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "edwgd3hRh8S4gYfELaVvAN",
+      "url": "https://www.craigslist.org/view/d/vallejo-mitchell-mm100-guitar-90-or/edwgd3hRh8S4gYfELaVvAN",
+      "title": "Mitchell MM100 guitar $90 or best offer",
+      "price_text": "$90",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kXEg1cpVVnHSgAivHDmZ1C",
+      "url": "https://www.craigslist.org/view/d/richmond-prs-se-custom/kXEg1cpVVnHSgAivHDmZ1C",
+      "title": "PRS SE Custom",
+      "price_text": "$450",
+      "location_text": "Richmond"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "u7dyVxxAkQhRiYeNsCFAvj",
+      "url": "https://www.craigslist.org/view/d/novato-visual-sound-route-66-v1/u7dyVxxAkQhRiYeNsCFAvj",
+      "title": "Visual Sound Route 66 V1 Overdrive + Compressor Pedal",
+      "price_text": "$65",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nCb9u154C3ut8gkh1M72g3",
+      "url": "https://www.craigslist.org/view/d/novato-1985-ibanez-stl-super-tube/nCb9u154C3ut8gkh1M72g3",
+      "title": "1985 Ibanez STL Super Tube Guitar Effect Pedal",
+      "price_text": "$199",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bFbWbjaAJwknLMh1tGgSSr",
+      "url": "https://www.craigslist.org/view/d/san-rafael-buchla-format-eurorack-500/bFbWbjaAJwknLMh1tGgSSr",
+      "title": "Buchla Format, Eurorack, 500 Series, Pedals, Mics, Synth Stuff",
+      "price_text": "$200",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4DvkMcaFg1qV3tWBXdH2tW",
+      "url": "https://www.craigslist.org/view/d/san-rafael-bunch-of-eurorack-synth/4DvkMcaFg1qV3tWBXdH2tW",
+      "title": "Bunch of Eurorack Synth Modules and a case",
+      "price_text": "$100",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nhcRiQyDL9jWwbfpfJqmZH",
+      "url": "https://www.craigslist.org/view/d/vallejo-benchmark-adc1-usb-stereo/nhcRiQyDL9jWwbfpfJqmZH",
+      "title": "Benchmark ADC1 USB Stereo Analogue to Digital Converter",
+      "price_text": "$680",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "p7AM2pygzjzJpjgborjiET",
+      "url": "https://www.craigslist.org/view/d/petaluma-line-ux2-usb-audio-interface/p7AM2pygzjzJpjgborjiET",
+      "title": "Line 6 UX2 USB Audio Interface",
+      "price_text": "$25",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1c1MZE7c9Aj9Pn7ZU7gfdm",
+      "url": "https://www.craigslist.org/view/d/san-quentin-motu-stage-b16-stage-box/1c1MZE7c9Aj9Pn7ZU7gfdm",
+      "title": "MOTU Stage-B16 Stage Box / 44.1 to 192 kHz, Digital Mixer-Rec-Preamps",
+      "price_text": "$1,280",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4DRtwaeZR9BS2jrqkWfV7F",
+      "url": "https://www.craigslist.org/view/d/vallejo-mackie-profx10v3-professional/4DRtwaeZR9BS2jrqkWfV7F",
+      "title": "Mackie ProFX10v3 Professional Mixer w/ USB",
+      "price_text": "$190",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bosT92aKuErip2V27eU8Pn",
+      "url": "https://www.craigslist.org/view/d/corte-madera-antelope-zen-go-synergy/bosT92aKuErip2V27eU8Pn",
+      "title": "Antelope Zen Go Synergy Core Audio Interface",
+      "price_text": "$300",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5QUZu7qizbr2UnxCSNwXCE",
+      "url": "https://www.craigslist.org/view/d/corte-madera-quilter-interblock-45/5QUZu7qizbr2UnxCSNwXCE",
+      "title": "QUILTER Interblock 45",
+      "price_text": "$175",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "o9mkoekZoGySLPw2bxWGXF",
+      "url": "https://www.craigslist.org/view/d/vallejo-avantone-active-mixcube-pair/o9mkoekZoGySLPw2bxWGXF",
+      "title": "Avantone Active MixCube pair",
+      "price_text": "$280",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4hcETVjcFkd5fN1vdnNt1H",
+      "url": "https://www.craigslist.org/view/d/sausalito-persons-eris-35-and-sub-8bt/4hcETVjcFkd5fN1vdnNt1H",
+      "title": "Persons Eris 3.5 and Sub 8BT studio monitor system",
+      "price_text": "$225",
+      "location_text": "sausalito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "foP2a2h3B7Kfj7jqoDCseJ",
+      "url": "https://www.craigslist.org/view/d/mill-valley-roland-stage-series-drum/foP2a2h3B7Kfj7jqoDCseJ",
+      "title": "Roland V-Stage Series Drum Kit Black zv09179",
+      "price_text": "$975",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5QhZUcWsj4r4KshMM72zox",
+      "url": "https://www.craigslist.org/view/d/vineburg-rab-audio-prorak-mk-88-music/5QhZUcWsj4r4KshMM72zox",
+      "title": "RAB Audio ProRak MK 88 Music Production Desk 2020's - Black",
+      "price_text": "$900",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sE4MoovwVcTfWkhvriPkhj",
+      "url": "https://www.craigslist.org/view/d/novato-bergantino-forte-hp2-bass-amp/sE4MoovwVcTfWkhvriPkhj",
+      "title": "Bergantino Forte HP2 Bass Amp Head",
+      "price_text": "$995",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bx919SYtbTGRgooY1hVhUS",
+      "url": "https://www.craigslist.org/view/d/el-sobrante-pa-mains-6x1-toa-head/bx919SYtbTGRgooY1hVhUS",
+      "title": "PA 2 mains, 1 6x1 TOA head",
+      "price_text": "$200",
+      "location_text": "hercules, pinole, san pablo, el sob"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jLXESh78u73bfoJjQ5aKFH",
+      "url": "https://www.craigslist.org/view/d/novato-fender-concert-amplifier-1x-all/jLXESh78u73bfoJjQ5aKFH",
+      "title": "Fender Concert Amplifier 1x12 1980s All Tube",
+      "price_text": "$725",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3eXKsKAVdQDff9ZK9JfxyP",
+      "url": "https://www.craigslist.org/view/d/petaluma-rockville-power-gig-rpg12-12/3eXKsKAVdQDff9ZK9JfxyP",
+      "title": "Rockville Power Gig RPG12-12\" powered monitor/speaker",
+      "price_text": "$100",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "iDMHLo5Ly9gwYJ2qNUVU2a",
+      "url": "https://www.craigslist.org/view/d/san-anselmo-speakers-cambridge-surround/iDMHLo5Ly9gwYJ2qNUVU2a",
+      "title": "SPEAKERS - Cambridge Surround, Turntales, Tuners",
+      "price_text": "$70",
+      "location_text": "san anselmo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9YsBbf8EWwzvcebLBuVmD7",
+      "url": "https://www.craigslist.org/view/d/novato-audio-and-music-gear-liquidation/9YsBbf8EWwzvcebLBuVmD7",
+      "title": "Audio and Music gear liquidation sale",
+      "price_text": "$199",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9kN2gK796pcFB7HZgqiVre",
+      "url": "https://www.craigslist.org/view/d/mill-valley-sound-gear-sale/9kN2gK796pcFB7HZgqiVre",
+      "title": "SOUND GEAR SALE",
+      "price_text": "$1",
+      "location_text": "Mill Valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9QcwLq2CAQY4uSF9Sgagxj",
+      "url": "https://www.craigslist.org/view/d/vallejo-yamaha-1000-watts-pa-dj-karaoke/9QcwLq2CAQY4uSF9Sgagxj",
+      "title": "Yamaha 1000 watts PA DJ Karaoke Live Band System",
+      "price_text": "$1,750",
+      "location_text": "Vacaville / Sacramento"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "xcXSXfXifAbreUVGqYFn5b",
+      "url": "https://www.craigslist.org/view/d/vallejo-perkons-hd-01-with-sd-card/xcXSXfXifAbreUVGqYFn5b",
+      "title": "Perkons HD-01 with SD Card",
+      "price_text": "$1,800",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4jy4aodqV772GUsZkXePJH",
+      "url": "https://www.craigslist.org/view/d/vallejo-audiothingies-micromonsta-poly/4jy4aodqV772GUsZkXePJH",
+      "title": "Audiothingies MicroMonsta 1 (poly synth module)",
+      "price_text": "$320",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "vKitRhaoxTGxs1cvsV9Pvj",
+      "url": "https://www.craigslist.org/view/d/richmond-roland-ms-sampler/vKitRhaoxTGxs1cvsV9Pvj",
+      "title": "Roland MS-1 Sampler",
+      "price_text": "$100",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "3xaLjSQtrmwWqNXArrWUCU",
+      "url": "https://www.craigslist.org/view/d/richmond-quasimidi-rave-lution-309/3xaLjSQtrmwWqNXArrWUCU",
+      "title": "Quasimidi Rave-O-Lution 309",
+      "price_text": "$1,300",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "a2jte84jDSGjNUr6dzQfkf",
+      "url": "https://www.craigslist.org/view/d/richmond-roland-js-30-lo-fi-8bit-sampler/a2jte84jDSGjNUr6dzQfkf",
+      "title": "Roland JS-30  Lo-Fi 8bit Sampler",
+      "price_text": "$200",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1aekjj4DeNvERHwcnAhLYx",
+      "url": "https://www.craigslist.org/view/d/richmond-emu-emulator-eiii/1aekjj4DeNvERHwcnAhLYx",
+      "title": "Emu Emulator EIII",
+      "price_text": "$5,000",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "gKs7XbwJGHd8GAdEs3jCgf",
+      "url": "https://www.craigslist.org/view/d/woodacre-synthesizer-dave-smith-mopho-x4/gKs7XbwJGHd8GAdEs3jCgf",
+      "title": "Synthesizer Dave Smith Mopho x4",
+      "price_text": "$850",
+      "location_text": "west marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6uJ7QoptQUf87cKX6DYBxf",
+      "url": "https://www.craigslist.org/view/d/vallejo-vintage-mu-ultraproteus-1994/6uJ7QoptQUf87cKX6DYBxf",
+      "title": "Vintage E-MU UltraProteus 1994 rack synth",
+      "price_text": "$450",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2du5G664yWtj3od5zWzhui",
+      "url": "https://www.craigslist.org/view/d/sausalito-conductive-labs-ndlr-midi/2du5G664yWtj3od5zWzhui",
+      "title": "Conductive Labs NDLR midi sequencer",
+      "price_text": "$250",
+      "location_text": "sausalito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "58Uv5gyfnunVuAZyVfNwQP",
+      "url": "https://www.craigslist.org/view/d/mill-valley-roland-gr55-guitar/58Uv5gyfnunVuAZyVfNwQP",
+      "title": "Roland GR55 Guitar Synthesizer",
+      "price_text": "$525",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5y8jWv3fbtkzWgtGosvDoQ",
+      "url": "https://www.craigslist.org/view/d/sausalito-jupiter-clone-black/5y8jWv3fbtkzWgtGosvDoQ",
+      "title": "Jupiter 8 clone: Black Corporation ISE NIN polyphonic synth",
+      "price_text": "$3,850",
+      "location_text": "sausalito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "mXPi1ZY9WrW3yPtPjtj4fT",
+      "url": "https://www.craigslist.org/view/d/sausalito-sequential-prophet-10-analog/mXPi1ZY9WrW3yPtPjtj4fT",
+      "title": "Sequential Prophet 10 analog poly synth",
+      "price_text": "$3,850",
+      "location_text": "sausalito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8sYV8A519rknMT6a8k9XT8",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-korg-triton-extreme-61/8sYV8A519rknMT6a8k9XT8",
+      "title": "Korg Triton Extreme 61 Music Workstation/Sampler",
+      "price_text": "$800",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1cT5JvhdXF48F9Z38MtuNh",
+      "url": "https://www.craigslist.org/view/d/vallejo-behringer-ub-xa/1cT5JvhdXF48F9Z38MtuNh",
+      "title": "Behringer UB-Xa",
+      "price_text": "$675",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "btgsmrCzpgenW5Cb3wiEBq",
+      "url": "https://www.craigslist.org/view/d/mill-valley-elektron-digitone-voice-fm/btgsmrCzpgenW5Cb3wiEBq",
+      "title": "Elektron Digitone 8-Voice FM Synth Polyphonic FM Synthesizer Excellent",
+      "price_text": "$400",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "sxBRMTv8yL8fY97WgN81VX",
+      "url": "https://www.craigslist.org/view/d/san-rafael-portable-dj-table-stand/sxBRMTv8yL8fY97WgN81VX",
+      "title": "Portable DJ Table Stand",
+      "price_text": "$50",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jyNDjW5FRRMusqWXXce2ab",
+      "url": "https://www.craigslist.org/view/d/olema-teenage-engineering-riddim-ting/jyNDjW5FRRMusqWXXce2ab",
+      "title": "Teenage Engineering Riddim & Ting",
+      "price_text": "$250",
+      "location_text": "west marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "89QspUR6NicuUNSvAjygAs",
+      "url": "https://www.craigslist.org/view/d/cotati-wanted-vintage-old-guitars/89QspUR6NicuUNSvAjygAs",
+      "title": "Wanted Vintage Old guitars, amplifiers, synthesizer , keyboard,guitar",
+      "price_text": "$500,000",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "vnTD2Qpz7KShppjiCSkbsG",
+      "url": "https://www.craigslist.org/view/d/petaluma-casio-cz-5000-synthesizer-with/vnTD2Qpz7KShppjiCSkbsG",
+      "title": "Casio CZ-5000 synthesizer with power cable and stand",
+      "price_text": "$600",
+      "location_text": "Petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "skNwH8oWuShQdjEJrKawQV",
+      "url": "https://www.craigslist.org/view/d/petaluma-wanted-vintage-old-guitars/skNwH8oWuShQdjEJrKawQV",
+      "title": "WANTED vintage old guitars ,amplifier, synthesizer, keyboard",
+      "price_text": "$100,000",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dcvPX5nJp9spSSuQVqawfE",
+      "url": "https://www.craigslist.org/view/d/petaluma-wanted-vintage-guitar/dcvPX5nJp9spSSuQVqawfE",
+      "title": "Wanted vintage guitar , amplifier , synthesizer, mic",
+      "price_text": "$500,000",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ozwQQwFarz3Bn9pLjm6o7s",
+      "url": "https://www.craigslist.org/view/d/petaluma-wanted-vintage-guitar/ozwQQwFarz3Bn9pLjm6o7s",
+      "title": "Wanted Vintage guitar, amplifier , synthesizer ,keyboard",
+      "price_text": "$500,000",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7Nc7ykWcLWLUtrfkuJhE4R",
+      "url": "https://www.craigslist.org/view/d/corte-madera-opcode-systems-inc-midi/7Nc7ykWcLWLUtrfkuJhE4R",
+      "title": "Opcode Systems Inc. MIDI Translator II with serial cable",
+      "price_text": "$25",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qaVtNnVidsgm9iBFt2dRM5",
+      "url": "https://www.craigslist.org/view/d/napa-roland-55-sound-canvas-midi-piano/qaVtNnVidsgm9iBFt2dRM5",
+      "title": "Roland P-55 Sound Canvas MIDI Piano Module",
+      "price_text": "$79",
+      "location_text": "city of san francisco"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "f83Mg6ZfXQ31D93gp65w3Z",
+      "url": "https://www.craigslist.org/view/d/kentfield-ibanez-gio-gax-70-upgraded/f83Mg6ZfXQ31D93gp65w3Z",
+      "title": "Ibanez Gio GAX 70 W/ Upgraded Pickups & Electronics. Sale or Trade",
+      "price_text": "$175",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "haoewqXNgRsRCwE6w1mLf4",
+      "url": "https://www.craigslist.org/view/d/petaluma-speakers-eminence-carvin/haoewqXNgRsRCwE6w1mLf4",
+      "title": "Speakers Eminence Carvin Goldwood 8in 10in 12in",
+      "price_text": "$100",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "e9TmJbgdAQFDpZeXuv1Jn9",
+      "url": "https://www.craigslist.org/view/d/san-rafael-peavey-kb300-combo-amp/e9TmJbgdAQFDpZeXuv1Jn9",
+      "title": "Peavey KB300 Combo Amp",
+      "price_text": "$1",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bfqcAWyGbtEUMdKqVmq9Ld",
+      "url": "https://www.craigslist.org/view/d/san-rafael-roland-fantom-g8-keyboard/bfqcAWyGbtEUMdKqVmq9Ld",
+      "title": "Roland Fantom G8 Keyboard",
+      "price_text": "$1",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5q1hDZ7jp3xmB8HiDshNjb",
+      "url": "https://www.craigslist.org/view/d/san-rafael-single-tier-style-keyboard/5q1hDZ7jp3xmB8HiDshNjb",
+      "title": "Single tier X style Keyboard Stand",
+      "price_text": "$1",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ve2f9UBdkJVHzbdHk1rTkw",
+      "url": "https://www.craigslist.org/view/d/woodacre-impact-lx49-keyboard-controller/ve2f9UBdkJVHzbdHk1rTkw",
+      "title": "Impact LX49+ keyboard controller",
+      "price_text": "$70",
+      "location_text": "fairfax"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2TwNDwKn8nVUvAy6hx318G",
+      "url": "https://www.craigslist.org/view/d/sausalito-arturia-keystep-pro-midi-and/2TwNDwKn8nVUvAy6hx318G",
+      "title": "Arturia Keystep Pro midi and CV sequencer",
+      "price_text": "$375",
+      "location_text": "sausalito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4hnTtX8QmpUuxNbrNowmYg",
+      "url": "https://www.craigslist.org/view/d/el-cerrito-vintage-keyboard-yamaha/4hnTtX8QmpUuxNbrNowmYg",
+      "title": "Vintage Keyboard Yamaha Portasound PSS-140",
+      "price_text": "$120",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7DdNfuCm92LZeuNMamFGLJ",
+      "url": "https://www.craigslist.org/view/d/vallejo-casio-ct-x700-keyboard/7DdNfuCm92LZeuNMamFGLJ",
+      "title": "Casio CT-X700 Keyboard",
+      "price_text": "$180",
+      "location_text": "Vallejo"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jWeg2awKtBTWzxXAqwnw15",
+      "url": "https://www.craigslist.org/view/d/rohnert-park-steinway-1880-model-a1/jWeg2awKtBTWzxXAqwnw15",
+      "title": "Steinway 1880 Model A1 Grand Piano-Brazilian Rosewood Art Case",
+      "price_text": "$45,000",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "u6QNzpgLfcALGNLhbYzGzX",
+      "url": "https://www.craigslist.org/view/d/san-rafael-roland-fp-90x-88-key/u6QNzpgLfcALGNLhbYzGzX",
+      "title": "Roland FP-90X 88-Key weighted Digital Piano with Speakers, cables, ori",
+      "price_text": "$1,900",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "13UEP3uW1saNgNPkR5WZN5",
+      "url": "https://www.craigslist.org/view/d/richmond-keyboard-controller-and-stands/13UEP3uW1saNgNPkR5WZN5",
+      "title": "Keyboard, Controller and Stands",
+      "price_text": "$1,000",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "t7ywrnCuBmpUkuf1bT1ZUB",
+      "url": "https://www.craigslist.org/view/d/novato-skb-keyboard-case/t7ywrnCuBmpUkuf1bT1ZUB",
+      "title": "SKB Keyboard Case",
+      "price_text": "$150",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "iC8kxUHtMJhqpFjwo3nrfk",
+      "url": "https://www.craigslist.org/view/d/novato-roland-rd-key-weighted-stage/iC8kxUHtMJhqpFjwo3nrfk",
+      "title": "Roland RD-700 88-Key Weighted Stage Piano Keyboard",
+      "price_text": "$899",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ebp96baaJCxC76gKAY6Gqd",
+      "url": "https://www.craigslist.org/view/d/el-verano-digital-piano/ebp96baaJCxC76gKAY6Gqd",
+      "title": "Digital piano",
+      "price_text": "$450",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "58y8VPLqehhmx9xh8xx7TV",
+      "url": "https://www.craigslist.org/view/d/sausalito-keeley-neutrino-envelope/58y8VPLqehhmx9xh8xx7TV",
+      "title": "Keeley Neutrino Envelope Filter V.2",
+      "price_text": "$119",
+      "location_text": "sausalito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7rh2yW3W6qdd37KRBacfZp",
+      "url": "https://www.craigslist.org/view/d/ross-kurzweil-k2500xs-88-key/7rh2yW3W6qdd37KRBacfZp",
+      "title": "Kurzweil K2500XS 88-Key Professional Weighted Keyboard/Workstation",
+      "price_text": "$750",
+      "location_text": "kentfield / ross"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "vyJLBrkm8etokncMWfcGo3",
+      "url": "https://www.craigslist.org/view/d/san-rafael-casio-ctk-1000-electronic/vyJLBrkm8etokncMWfcGo3",
+      "title": "Casio CTK-1000 Electronic Keyboard",
+      "price_text": "$20",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "tVjStot3sQoaQhLXGyYqCX",
+      "url": "https://www.craigslist.org/view/d/crockett-arturia-keylab-49-midi/tVjStot3sQoaQhLXGyYqCX",
+      "title": "Arturia keylab 49 midi Keyboard/Controller Black",
+      "price_text": "$120",
+      "location_text": "concord / pleasant hill / martinez"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "76TwigmY2m6o6SAByRUm7P",
+      "url": "https://www.craigslist.org/view/d/novato-roland-jv/76TwigmY2m6o6SAByRUm7P",
+      "title": "Roland JV-1000 – 100$",
+      "price_text": "$250",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kYVFYvFTN99QBwK7BZEgAa",
+      "url": "https://www.craigslist.org/view/d/nicasio-takamine-4588-top-of-the-line/kYVFYvFTN99QBwK7BZEgAa",
+      "title": "Takamine 4588 Top of the line",
+      "price_text": "$2,500",
+      "location_text": "west marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hi8cxK6aGd9EhHcdBc52wL",
+      "url": "https://www.craigslist.org/view/d/corte-madera-mu-xl-command-station-with/hi8cxK6aGd9EhHcdBc52wL",
+      "title": "E-MU XL-7 Command Station with manual",
+      "price_text": "$750",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jH1dgGbUjUVNhZgQz8sRha",
+      "url": "https://www.craigslist.org/view/d/fairfax-music-gear-guitars-amps-dj-gear/jH1dgGbUjUVNhZgQz8sRha",
+      "title": "Music Gear: Guitars, Amps, DJ Gear, etc",
+      "price_text": "$100",
+      "location_text": "fairfax"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uc2JzaFEKV4oT1M1eNDCd8",
+      "url": "https://www.craigslist.org/view/d/mill-valley-komplete-m32-midi-keyboard/uc2JzaFEKV4oT1M1eNDCd8",
+      "title": "Komplete M32 Midi Keyboard",
+      "price_text": "$60",
+      "location_text": "Mill Valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "38WCRUCJHaVUUtZp4y1xAN",
+      "url": "https://www.craigslist.org/view/d/vallejo-mixer-peavy-14at-auto-tune/38WCRUCJHaVUUtZp4y1xAN",
+      "title": "Mixer: Peavy 14AT w/ auto-tune, built-in FX, USB, bluetooth, XLR outs",
+      "price_text": "$520",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9Lwa9CuaJ32xNGfyMRhvBq",
+      "url": "https://www.craigslist.org/view/d/san-rafael-prs-se-dgt-goldtop/9Lwa9CuaJ32xNGfyMRhvBq",
+      "title": "prs se dgt goldtop",
+      "price_text": "$800",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "j5dNMwmNCGCvgaU6KUtML9",
+      "url": "https://www.craigslist.org/view/d/richmond-elysia-museq-class-high-end/j5dNMwmNCGCvgaU6KUtML9",
+      "title": "Elysia Museq, Class A, High End 2-Channel 5-Band Parametric Equalizer",
+      "price_text": "$3,500",
+      "location_text": "albany / el cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1TZYohxkUqX9iuPmRqGyJH",
+      "url": "https://www.craigslist.org/view/d/novato-furman-it-reference-15-new-in/1TZYohxkUqX9iuPmRqGyJH",
+      "title": "Furman IT-Reference 15 NEW IN BOX Power Conditioner (Audiophile Grade)",
+      "price_text": "$1,295",
+      "location_text": "Novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "aVJPzrJaSuCka91Z5MBMzQ",
+      "url": "https://www.craigslist.org/view/d/sausalito-crumar-seven-electric-piano/aVJPzrJaSuCka91Z5MBMzQ",
+      "title": "Crumar Seven Electric Piano (vintage modelling)",
+      "price_text": "$1,750",
+      "location_text": "sausalito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9Hq3dsHzbJN3z7ibztwAZq",
+      "url": "https://www.craigslist.org/view/d/san-rafael-fender-rumble-15-1x8-bass-amp/9Hq3dsHzbJN3z7ibztwAZq",
+      "title": "Fender Rumble 15 1x8 Bass Amp",
+      "price_text": "$65",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9wZeHWrbg3kN6BQnZYpj3c",
+      "url": "https://www.craigslist.org/view/d/vallejo-warm-audio-wa-251-studio-tube/9wZeHWrbg3kN6BQnZYpj3c",
+      "title": "Warm Audio WA-251 studio tube microphone",
+      "price_text": "$600",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "9WzNuLPFXXj7rp9Qtbdk4V",
+      "url": "https://www.craigslist.org/view/d/san-rafael-schafer-sons-grand-piano/9WzNuLPFXXj7rp9Qtbdk4V",
+      "title": "Schafer & Sons Grand Piano – High Gloss Finish w/ Bench",
+      "price_text": "$5,000",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "eX3za7gMgMyyN2KNtEykP8",
+      "url": "https://www.craigslist.org/view/d/san-rafael-soundcraft-mfxi-12-for-sale/eX3za7gMgMyyN2KNtEykP8",
+      "title": "Soundcraft MFXi 12 for Sale $295 OBO",
+      "price_text": "$295",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "85eRQFhdKRcUnUU6ZkWzcK",
+      "url": "https://www.craigslist.org/view/d/san-rafael-guitar-pedals-for-sale/85eRQFhdKRcUnUU6ZkWzcK",
+      "title": "Guitar Pedals for Sale",
+      "price_text": "$100",
+      "location_text": "san rafael"
+    }
+  ]
+}

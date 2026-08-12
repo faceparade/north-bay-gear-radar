@@ -1,0 +1,215 @@
+{
+  "as_of": "2026-08-12T11:20:25.785811-07:00",
+  "limitations": [
+    "Used ranges are the central 20th-80th percentile of conservatively filtered exact-model eBay completed listings; shipping is not included.",
+    "Sparse samples remain low-confidence. PreSonus monitor and subwoofer component ranges are combined; incomparable complete bundles are excluded.",
+    "Live asking prices are not treated as completed-sale prices."
+  ],
+  "entries": [
+    {
+      "model": "Line 6 POD Studio UX2",
+      "release_year": 2008,
+      "msrp": 199.99,
+      "used_low": 21.99,
+      "used_high": 39.99,
+      "sources": [
+        "https://line6.com/software/index.html?hardware",
+        "https://reverb.com/p/line-6-pod-studio-ux2",
+        "https://applink.reverb.com/item/90606891-line-6-pod-studio-ux2-usb-audio-interface-2010s-black?show_sold",
+        "https://line6.com/data/l/0a060b4ddf5e4bb4c0e1e7d68/application/pdf/POD_Farm_2_Basic_User_Guide.pdf"
+      ],
+      "windows_status": "Official download selector lists POD Studio UX2 and Windows 11; verify the current driver on the buyer's exact machine because owner reports still describe legacy-driver friction.",
+      "compatibility_notes": "Two XLR mic preamps, +48 V phantom power, instrument inputs, direct/ToneDirect monitoring. Cheap functional bridge, not a modern long-horizon interface.",
+      "confidence": 0.95,
+      "sample_size": 24,
+      "notes": "Two XLR mic preamps, +48 V phantom power, instrument inputs, direct/ToneDirect monitoring. Cheap functional bridge, not a modern long-horizon interface."
+    },
+    {
+      "model": "Apogee ONE (generation unspecified) bundle",
+      "release_year": 2009,
+      "msrp": 249,
+      "used_low": 29.93,
+      "used_high": 61.99,
+      "sources": [
+        "https://knowledge.apogeedigital.com/legacy-products",
+        "https://apogeedigital.com/pdf/Windows-ONE-User-Guide-Nov-2017.pdf",
+        "https://www.production-expert.com/home-page/2017/10/11/apogee-announce-windows-10-compatibility-for-one-duet-and-quartet-audio-interfaces",
+        "https://reverb.com/item/93472448?show_sold=true"
+      ],
+      "windows_status": "Generation-critical: original 2009 ONE is not Windows 10 compatible; later iPad/Mac/PC ONE has a Windows guide. Treat as incompatible until rear label/generation and breakout cable are verified.",
+      "compatibility_notes": "Only one simultaneous mic/instrument input path; the mixed bundle does not solve the preferred two-preamp foundation. Groove/UA/camera mic value depends on exact models and included cables.",
+      "confidence": 0.8500000000000001,
+      "sample_size": 15,
+      "notes": "Only one simultaneous mic/instrument input path; the mixed bundle does not solve the preferred two-preamp foundation. Groove/UA/camera mic value depends on exact models and included cables."
+    },
+    {
+      "model": "PreSonus Eris 3.5 + Eris Sub 8BT",
+      "release_year": 2023,
+      "msrp": 324.98,
+      "used_low": 199.95,
+      "used_high": 283.16,
+      "sources": [
+        "https://www.presonus.com/products/eris-35-2nd-gen-pair",
+        "https://www.presonus.com/products/eris-sub-8bt",
+        "https://applink.reverb.com/item/74443453-presonus-eris-sub-8bt-compact-8-powered-studio-subwoofer-active-sub-w-bluetooth"
+      ],
+      "windows_status": "Analog monitoring system; no operating-system driver dependency.",
+      "compatibility_notes": "Compact 2.1 system. Official current prices are $114.99 for Eris 3.5 pair and $209.99 for Sub 8BT. Confirm the ad really includes two 3.5 speakers, subwoofer, all power leads, and interconnects.",
+      "confidence": 0.95,
+      "sample_size": 59,
+      "notes": "Compact 2.1 system. Official current prices are $114.99 for Eris 3.5 pair and $209.99 for Sub 8BT. Confirm the ad really includes two 3.5 speakers, subwoofer, all power leads, and interconnects."
+    },
+    {
+      "model": "Rockville RPG12",
+      "release_year": null,
+      "msrp": 192.45,
+      "used_low": 115.12,
+      "used_high": 164.68,
+      "sources": [
+        "https://rockvilleaudio.com/products/rpg12",
+        "https://reverb.com/item/2395480-pair-rockville-power-gig-rpg12-12-powered-active-1600-watt-2-way-dj-pa-speakers",
+        "https://www.guitarcenter.com/Used/Rockville/PA-Speakers.gc"
+      ],
+      "windows_status": "Analog powered PA speaker; no operating-system driver dependency.",
+      "compatibility_notes": "200 W RMS / 800 W peak single powered PA. Useful for rehearsal/live reinforcement, but one PA box is not a neutral stereo studio-monitor solution.",
+      "confidence": 0.6100000000000001,
+      "sample_size": 3,
+      "notes": "200 W RMS / 800 W peak single powered PA. Useful for rehearsal/live reinforcement, but one PA box is not a neutral stereo studio-monitor solution."
+    },
+    {
+      "model": "Mackie ProFX10v3",
+      "release_year": 2019,
+      "msrp": 269.99,
+      "used_low": 138.5,
+      "used_high": 224.99,
+      "sources": [
+        "https://mackie.com/en/products/mixers/profxv3-series/ProFX10v3.html",
+        "https://reverb.com/item/97064142?show_sold=true",
+        "https://applink.reverb.com/item/91228900-mackie-profx10v3-10-channel-mixer-used"
+      ],
+      "windows_status": "Official product page provides a Windows ASIO driver and documents high-resolution USB recording; verify driver installation and round-trip recording on Windows 11.",
+      "compatibility_notes": "Four Onyx mic preamps, phantom power, direct monitoring, effects, and 2x4 USB I/O. Excellent jam hub; USB records a stereo mix rather than every channel independently.",
+      "confidence": 0.95,
+      "sample_size": 36,
+      "notes": "Four Onyx mic preamps, phantom power, direct monitoring, effects, and 2x4 USB I/O. Excellent jam hub; USB records a stereo mix rather than every channel independently."
+    },
+    {
+      "model": "AudioThingies MicroMonsta 1",
+      "release_year": 2016,
+      "msrp": 300,
+      "used_low": 300.0,
+      "used_high": 300.0,
+      "sources": [
+        "https://www.audiothingies.com/micromonsta/",
+        "https://reverb.com/item/82719453-audiothingies-micromonsta"
+      ],
+      "windows_status": "Standalone MIDI synth; audio is analog and editor dependence is not required for normal use.",
+      "compatibility_notes": "Compact eight-voice polyphonic desktop synth. Creative and scarce, but requires the Akai controller and does not close the recording/monitoring gap.",
+      "confidence": 0.7,
+      "sample_size": 1,
+      "notes": "Compact eight-voice polyphonic desktop synth. Creative and scarce, but requires the Akai controller and does not close the recording/monitoring gap."
+    },
+    {
+      "model": "Elektron Digitone (original)",
+      "release_year": 2018,
+      "msrp": 759,
+      "used_low": 400.0,
+      "used_high": 539.8,
+      "sources": [
+        "https://www.elektron.se/support-downloads/digitone",
+        "https://macprovideo.com/article/audio-hardware/elektron-releases-759-digitone-polyphonic-digital-synthesizer",
+        "https://reverb.com/news/video-the-best-synths-to-buy-this-year"
+      ],
+      "windows_status": "Standalone synth/sequencer with class-specific Elektron software support; analog audio works independently. Test USB/Overbridge only if that workflow matters.",
+      "compatibility_notes": "Eight-voice FM synth with four synth tracks, four MIDI tracks, sequencer and effects. Best self-contained creative instrument in this shortlist, but foundation comes first.",
+      "confidence": 0.8,
+      "sample_size": 12,
+      "notes": "Eight-voice FM synth with four synth tracks, four MIDI tracks, sequencer and effects. Best self-contained creative instrument in this shortlist, but foundation comes first."
+    },
+    {
+      "model": "Roland MS-1 Sampler",
+      "release_year": 1994,
+      "msrp": 650,
+      "used_low": 90.79,
+      "used_high": 125.99,
+      "sources": [
+        "https://articles.roland.com/a-history-of-roland-samplers/",
+        "https://www.soundonsound.com/reviews/roland-ms1",
+        "https://reverb.com/item/97301456?show_sold=true"
+      ],
+      "windows_status": "Standalone 1994 phrase sampler; no modern driver dependency for analog use.",
+      "compatibility_notes": "Characterful lo-fi phrase sampler with short memory and optional PCMCIA expansion. Case adds value; verify pads, recording, memory retention and card slot.",
+      "confidence": 0.75,
+      "sample_size": 4,
+      "notes": "Characterful lo-fi phrase sampler with short memory and optional PCMCIA expansion. Case adds value; verify pads, recording, memory retention and card slot."
+    },
+    {
+      "model": "Roland AIRA TR-8",
+      "release_year": 2014,
+      "msrp": 499,
+      "used_low": 294.02,
+      "used_high": 367.8,
+      "sources": [
+        "https://www.roland.com/us/products/tr-8/",
+        "https://www.roland.com/us/support/by_product/tr-8/updates_drivers/28aa060d-69f8-42c3-9296-220cbda7d653/",
+        "https://reverb.com/item/98276886?show_sold=true",
+        "https://reverb.com/item/97666464?show_sold=true"
+      ],
+      "windows_status": "Roland publishes TR-8 driver 1.5.1 for Windows 10/11.",
+      "compatibility_notes": "Strong hands-on 808/909 performer, but this unit has a repaired kick fader, non-working closed-hat decay, and non-original volume knob. Defects overwhelm the modest discount.",
+      "confidence": 0.8500000000000001,
+      "sample_size": 15,
+      "notes": "Strong hands-on 808/909 performer, but this unit has a repaired kick fader, non-working closed-hat decay, and non-original volume knob. Defects overwhelm the modest discount."
+    },
+    {
+      "model": "Casio CT-X700",
+      "release_year": 2018,
+      "msrp": 199.99,
+      "used_low": 120.4,
+      "used_high": 202.71,
+      "sources": [
+        "https://www.casio.com/ca-en/electronic-musical-instruments/product.CT-X700/",
+        "https://www.guitarcenter.com/Used/Casio/Used-Casio-CTX700-Digital-Piano-122553781.gc",
+        "https://www.guitarcenter.com/Used/Casio/Used-Casio-CT-X700-122352563.gc"
+      ],
+      "windows_status": "Class-compliant-style USB-MIDI use is secondary; normal keyboard/audio operation is standalone.",
+      "compatibility_notes": "Modern 61-key touch-sensitive arranger with AiX sounds. Asking price is at/above common used retailer asks and duplicates the Akai keyboard role.",
+      "confidence": 0.8,
+      "sample_size": 8,
+      "notes": "Modern 61-key touch-sensitive arranger with AiX sounds. Asking price is at/above common used retailer asks and duplicates the Akai keyboard role."
+    },
+    {
+      "model": "Casio CTK-1000",
+      "release_year": 1993,
+      "msrp": null,
+      "used_low": 141.19,
+      "used_high": 204.79,
+      "sources": [
+        "https://sonicstate.com/news/2025/02/25/the-weirdest-casio-ctk-1000/",
+        "https://reverb.com/item/72443749-casio-ctk-1000-with-adapter",
+        "https://reverb.com/item/69332919-casio-ctk-1000"
+      ],
+      "windows_status": "Standalone vintage keyboard; MIDI DIN can be used without a model-specific Windows driver.",
+      "compatibility_notes": "Unusual first-generation CTK with editable IXA sounds. $20 is far below sparse collector comps, but test every key, speaker, button, pitch wheel, MIDI and battery compartment.",
+      "confidence": 0.6,
+      "sample_size": 2,
+      "notes": "Unusual first-generation CTK with editable IXA sounds. $20 is far below sparse collector comps, but test every key, speaker, button, pitch wheel, MIDI and battery compartment."
+    },
+    {
+      "model": "Makala MK-TE",
+      "release_year": null,
+      "msrp": 249,
+      "used_low": 101.35,
+      "used_high": 119.09,
+      "sources": [
+        "https://kalabrand.com/products/mk-te",
+        "https://www.ebay.com/p/3049060902"
+      ],
+      "windows_status": "Acoustic-electric instrument; no driver dependency.",
+      "compatibility_notes": "Very cheap tenor acoustic-electric. Because a ukulele is already owned, buy only for the tenor size/pickup after checking neck, bridge, tuners and output jack.",
+      "confidence": 0.5900000000000001,
+      "sample_size": 2,
+      "notes": "Very cheap tenor acoustic-electric. Because a ukulele is already owned, buy only for the tenor size/pickup after checking neck, bridge, tuners and output jack."
+    }
+  ]
+}

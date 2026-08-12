@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A searchable, evidence-aware dashboard for local music gear listings and exact-model sold comparisons.">
+  <title>North Bay Gear Radar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="eyebrow">READ-ONLY MARKET WATCH · NORTH BAY, CA</div>
+    <div class="hero-grid">
+      <div>
+        <h1>Gear worth<br><em>playing.</em></h1>
+        <p class="lede">Local finds, exact-model sold evidence, and setup-fit scores—without mixing active asking prices with historical sales.</p>
+      </div>
+      <div class="refresh-card">
+        <span>LAST DATA BUILD</span>
+        <strong id="updatedAt">Loading…</strong>
+        <small id="sourceFreshness"></small>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="stats" class="stats" aria-label="Collection statistics"></section>
+
+    <section class="workspace">
+      <aside class="filters" aria-label="Listing filters">
+        <div class="filter-heading">
+          <h2>Filter the crates</h2>
+          <button id="resetFilters" class="text-button" type="button">Reset</button>
+        </div>
+
+        <label class="field search-field">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Model, source, or town…" aria-label="Search listings by model, source, location, or category" autocomplete="off">
+        </label>
+
+        <fieldset>
+          <legend>Listing state</legend>
+          <label><input type="radio" name="listingType" value="active" checked> Active finds</label>
+          <label><input type="radio" name="listingType" value="sold"> Sold evidence</label>
+          <label><input type="radio" name="listingType" value="all"> Everything</label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Source</legend>
+          <div id="sourceFilters"></div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Category</legend>
+          <div id="categoryFilters" class="check-list"></div>
+        </fieldset>
+
+        <div class="price-row">
+          <label class="field"><span>Min $</span><input id="minPrice" type="number" min="0" step="10" placeholder="0"></label>
+          <label class="field"><span>Max $</span><input id="maxPrice" type="number" min="0" step="10" placeholder="500"></label>
+        </div>
+
+        <label class="toggle"><input id="newOnly" type="checkbox"> New expanded-pass finds only</label>
+        <label class="toggle"><input id="scoredOnly" type="checkbox"> Scored shortlist only</label>
+      </aside>
+
+      <section class="results" aria-live="polite">
+        <div class="results-bar">
+          <div>
+            <span class="eyebrow dark">RESULTS</span>
+            <h2><span id="resultCount">0</span> records</h2>
+          </div>
+          <label class="sort-field">Sort
+            <select id="sortSelect">
+              <option value="score-desc">Best fit score</option>
+              <option value="price-asc">Price: low to high</option>
+              <option value="price-desc">Price: high to low</option>
+              <option value="title-asc">Name: A–Z</option>
+              <option value="source-asc">Source</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="activeFilterChips" class="chips"></div>
+        <div id="listingGrid" class="listing-grid"></div>
+        <button id="showMore" class="show-more" type="button" hidden>Show 40 more</button>
+        <div id="emptyState" class="empty" hidden>
+          <strong>No records match.</strong>
+          <p>Clear a category or widen the price range.</p>
+        </div>
+      </section>
+    </section>
+
+    <section class="method">
+      <span class="eyebrow">HOW TO READ THIS</span>
+      <h2>Asks are not sales.</h2>
+      <div class="method-grid">
+        <p><strong>Active finds</strong> are current Facebook Marketplace and Craigslist asking prices. Availability must be confirmed with the seller.</p>
+        <p><strong>Sold evidence</strong> is conservatively filtered eBay exact-model history. It supports valuation; it is not inventory.</p>
+        <p><strong>Fit scores</strong> combine setup utility, compatibility, condition, completeness, fun factor, resale safety, and market position.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>North Bay Gear Radar</span>
+    <span>Read-only research · no seller contact or purchase automation</span>
+  </footer>
+
+  <template id="listingTemplate">
+    <article class="listing-card">
+      <div class="card-topline">
+        <span class="source-badge"></span>
+        <span class="category-label"></span>
+      </div>
+      <h3></h3>
+      <p class="model-line"></p>
+      <div class="price-block">
+        <strong class="price"></strong>
+        <span class="price-kind"></span>
+      </div>
+      <div class="score-block" hidden>
+        <span>SETUP FIT</span>
+        <strong class="score"></strong>
+      </div>
+      <dl class="facts"></dl>
+      <p class="notes"></p>
+      <div class="risk-flags"></div>
+      <a class="listing-link" target="_blank" rel="noopener noreferrer">Open original listing <span aria-hidden="true">↗</span></a>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

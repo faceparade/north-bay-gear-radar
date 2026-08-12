@@ -1,0 +1,98 @@
+{
+  "as_of": "2026-08-12T10:01:01-07:00",
+  "source": "facebook",
+  "kind": "active_asking_comparisons",
+  "not_sold_evidence": true,
+  "listings": [
+    {
+      "matched_query": "Line 6 POD Studio UX2",
+      "source": "facebook",
+      "listing_id": "1727114118226620",
+      "url": "https://www.facebook.com/marketplace/item/1727114118226620/",
+      "title": "Line 6 UX2 POD studio",
+      "price_text": "$50",
+      "location_text": ""
+    },
+    {
+      "matched_query": "Apogee ONE",
+      "source": "facebook",
+      "listing_id": "2265895834146075",
+      "url": "https://www.facebook.com/marketplace/item/2265895834146075/",
+      "title": "Apogee One Audio Interface Bundle",
+      "price_text": "$50",
+      "location_text": ""
+    },
+    {
+      "matched_query": "Apogee ONE",
+      "source": "facebook",
+      "listing_id": "1580133380177121",
+      "url": "https://www.facebook.com/marketplace/item/1580133380177121/",
+      "title": "Apogee one recording audio interface",
+      "price_text": "$100",
+      "location_text": ""
+    },
+    {
+      "matched_query": "Apogee ONE",
+      "source": "facebook",
+      "listing_id": "2780095459020675",
+      "url": "https://www.facebook.com/marketplace/item/2780095459020675/",
+      "title": "Apogee ONE Audio Interface (1st Gen)",
+      "price_text": "$75",
+      "location_text": ""
+    },
+    {
+      "matched_query": "PreSonus Eris",
+      "source": "facebook",
+      "listing_id": "1335978678698399",
+      "url": "https://www.facebook.com/marketplace/item/1335978678698399/",
+      "title": "Presonus Eris E5 pair of powered studio monitors",
+      "price_text": "$100",
+      "location_text": "San Rafael, CA"
+    },
+    {
+      "matched_query": "PreSonus Eris",
+      "source": "facebook",
+      "listing_id": "2113057612891548",
+      "url": "https://www.facebook.com/marketplace/item/2113057612891548/",
+      "title": "PreSonus Eris E8 XT Studio Monitors",
+      "price_text": "$300",
+      "location_text": "San Rafael, CA"
+    },
+    {
+      "matched_query": "Mackie ProFX10v3",
+      "source": "facebook",
+      "listing_id": "935138739612756",
+      "url": "https://www.facebook.com/marketplace/item/935138739612756/",
+      "title": "Mackie ProFX10v3 10-Channel Professional Effects Mixer With USB",
+      "price_text": "$199",
+      "location_text": ""
+    },
+    {
+      "matched_query": "Roland AIRA TR-8",
+      "source": "facebook",
+      "listing_id": "1625822282482327",
+      "url": "https://www.facebook.com/marketplace/item/1625822282482327/",
+      "title": "Roland AIRA TR-8 Rhythm Performer Drum Machine 808 909 \u2013 Near Mint",
+      "price_text": "$425",
+      "location_text": ""
+    },
+    {
+      "matched_query": "Roland AIRA TR-8",
+      "source": "facebook",
+      "listing_id": "28055529767414876",
+      "url": "https://www.facebook.com/marketplace/item/28055529767414876/",
+      "title": "Roland TR-8 Drum Machine",
+      "price_text": "$400",
+      "location_text": ""
+    },
+    {
+      "matched_query": "Casio CT-X700",
+      "source": "facebook",
+      "listing_id": "1008340704971074",
+      "url": "https://www.facebook.com/marketplace/item/1008340704971074/",
+      "title": "Casio CT-X700 61 Key Keyboard",
+      "price_text": "$200",
+      "location_text": ""
+    }
+  ]
+}

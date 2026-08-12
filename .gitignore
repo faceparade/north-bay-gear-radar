@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+site-qa.png
+site-qa-dom.html
+*.log
+.DS_Store
+
+# Never commit local browser/authentication state
+browser-profiles/
+*.cookie
+*.cookies
+.env
+.env.*

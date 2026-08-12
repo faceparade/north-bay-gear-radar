@@ -1,0 +1,333 @@
+{
+  "read_only": true,
+  "shortlist": [
+    {
+      "identification": {
+        "title": "Line 6 UX2 USB Audio Interface",
+        "model": "Line 6 POD Studio UX2",
+        "role": "audio_interface",
+        "confidence": 0.96,
+        "risk_flags": [
+          "legacy_driver_risk"
+        ]
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "p7AM2pygzjzJpjgborjiET",
+        "url": "https://www.craigslist.org/view/d/petaluma-line-ux2-usb-audio-interface/p7AM2pygzjzJpjgborjiET",
+        "title": "Line 6 UX2 USB Audio Interface",
+        "asking_price": 25.0,
+        "price_text": "$25",
+        "location_text": "petaluma",
+        "description": "Great audio interface with XLR and 1/4\" inputs.  Includes USB cable.  $25, cash only.",
+        "condition": "",
+        "posted_at": "2026-08-07T10:58:09-07:00",
+        "updated_at": null,
+        "latitude": 38.214688,
+        "longitude": -122.629652,
+        "distance_miles": 8.096848991164558,
+        "included_items": [
+          "USB cable"
+        ]
+      }
+    },
+    {
+      "identification": {
+        "title": "Apogee One Apogee Groove UA Canon Camera Mic",
+        "model": "Apogee ONE (generation unspecified) bundle",
+        "role": "audio_interface",
+        "confidence": 0.68,
+        "risk_flags": [
+          "exact_revision_unknown"
+        ]
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "mwYEAqUBp5XijRcNu67P11",
+        "url": "https://www.craigslist.org/view/d/san-anselmo-apogee-one-apogee-groove-ua/mwYEAqUBp5XijRcNu67P11",
+        "title": "Apogee One Apogee Groove UA Canon Camera Mic",
+        "asking_price": 100.0,
+        "price_text": "$100",
+        "location_text": "North Bay Marin Fairfax",
+        "description": "Apogee One with cables Apogee Groove Canon Camera Mic and UA Hardware for sale",
+        "condition": "",
+        "posted_at": "2026-06-30T19:48:42-07:00",
+        "updated_at": "2026-08-12T06:43:53-07:00",
+        "latitude": 37.9846,
+        "longitude": -122.5711,
+        "distance_miles": 8.485013810533712,
+        "included_items": []
+      }
+    },
+    {
+      "identification": {
+        "title": "Persons Eris 3.5 and Sub 8BT studio monitor system",
+        "model": "PreSonus Eris 3.5 + Eris Sub 8BT",
+        "role": "studio_monitor_system",
+        "confidence": 0.92,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "4hcETVjcFkd5fN1vdnNt1H",
+        "url": "https://www.craigslist.org/view/d/sausalito-persons-eris-35-and-sub-8bt/4hcETVjcFkd5fN1vdnNt1H",
+        "title": "Persons Eris 3.5 and Sub 8BT studio monitor system",
+        "asking_price": 225.0,
+        "price_text": "$225",
+        "location_text": "sausalito",
+        "description": "Perfect condition. Studio use only. Never abused. At 50 watts, PreSonus' Eris 3.5 studio monitors and sub are a prime option for producers, gamers, and audiophiles working in condensed spaces. Each speaker is fit with a 3.5-inch transducer and 1-inch silk-dome tweeter, generating crystal-clear, adjustable playback. Eris 3.5 and Sub studio monitors fit into nearly any pre-existing setup with little to no intrusion.",
+        "condition": "",
+        "posted_at": "2026-08-02T15:57:58-07:00",
+        "updated_at": null,
+        "latitude": 37.8601,
+        "longitude": -122.4946,
+        "distance_miles": 17.569446012457465,
+        "included_items": []
+      }
+    },
+    {
+      "identification": {
+        "title": "Rockville Power Gig RPG12-12\" powered monitor/speaker",
+        "model": "Rockville RPG12",
+        "role": "powered_pa_speaker",
+        "confidence": 0.96,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "3eXKsKAVdQDff9ZK9JfxyP",
+        "url": "https://www.craigslist.org/view/d/petaluma-rockville-power-gig-rpg12-12/3eXKsKAVdQDff9ZK9JfxyP",
+        "title": "Rockville Power Gig RPG12-12\" powered monitor/speaker",
+        "asking_price": 100.0,
+        "price_text": "$100",
+        "location_text": "Petaluma",
+        "description": "This Rockville RPG12 powered speaker is in great condition. The 12\" woofer and 2.5\" aluminum voice coil combine to produce accurate live/recorded sound. Rated 200W RMS/ 400W Program Power/ 800W Peak.  Inputs include Mic In (XLR and 1/4\"), Line In (RCA and XLR), with a Line Out (XLR and 1/4\"). I've used this speaker as both a floor monitor and a main speaker.  $100, cash only, includes power cable, users manual, and brackets when using as a floor monitor.",
+        "condition": "",
+        "posted_at": "2026-07-27T09:16:42-07:00",
+        "updated_at": "2026-08-07T08:15:34-07:00",
+        "latitude": 38.2376,
+        "longitude": -122.6493,
+        "distance_miles": 9.981074576802524,
+        "included_items": [
+          "brackets",
+          "manual",
+          "power cable"
+        ]
+      }
+    },
+    {
+      "identification": {
+        "title": "Mackie ProFX10v3 Professional Mixer w/ USB",
+        "model": "Mackie ProFX10v3",
+        "role": "usb_mixer",
+        "confidence": 0.98,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "4DRtwaeZR9BS2jrqkWfV7F",
+        "url": "https://www.craigslist.org/view/d/vallejo-mackie-profx10v3-professional/4DRtwaeZR9BS2jrqkWfV7F",
+        "title": "Mackie ProFX10v3 Professional Mixer w/ USB",
+        "asking_price": 190.0,
+        "price_text": "$190",
+        "location_text": "vallejo / benicia",
+        "description": "Selling a Mackie ProFX10v3 10-channel professional analog mixer in excellent working condition. Perfect for: * Live bands * Solo musicians * DJs * Podcasting * Home recording * Church or PA systems Features: * 10-channel mixer * Built-in GigFX effects engine * USB audio interface for recording and streaming * Onyx microphone preamps * 48V phantom power * Compression on channels 1 & 2 * 3-band EQ * Headphone output * Main XLR outputs * Very clean and fully functional Great sounding mixer that\u2019s easy to use and built like a tank. Only selling because I\u2019m downsizing some gear.",
+        "condition": "",
+        "posted_at": "2026-07-21T10:35:34-07:00",
+        "updated_at": null,
+        "latitude": 38.0985,
+        "longitude": -122.2124,
+        "distance_miles": 19.436060627452896,
+        "included_items": []
+      }
+    },
+    {
+      "identification": {
+        "title": "Audiothingies MicroMonsta 1 (poly synth module)",
+        "model": "AudioThingies MicroMonsta 1",
+        "role": "standalone_synth",
+        "confidence": 0.95,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "4jy4aodqV772GUsZkXePJH",
+        "url": "https://www.craigslist.org/view/d/vallejo-audiothingies-micromonsta-poly/4jy4aodqV772GUsZkXePJH",
+        "title": "Audiothingies MicroMonsta 1 (poly synth module)",
+        "asking_price": 320.0,
+        "price_text": "$320",
+        "location_text": "vallejo / benicia",
+        "description": "8-voice polyphonic desktop synthesizer with: Arp pattern randomization options Drone Mode About $350 on reverb.com https://reverb.com/item/94895736-audiothingies-micromonsta-i Manufacturer's page: https://www.audiothingies.com/micromonsta/",
+        "condition": "",
+        "posted_at": "2026-07-19T09:28:18-07:00",
+        "updated_at": "2026-08-08T07:36:29-07:00",
+        "latitude": 38.1053,
+        "longitude": -122.2474,
+        "distance_miles": 17.523174614080673,
+        "included_items": []
+      }
+    },
+    {
+      "identification": {
+        "title": "Elektron Digitone 8-Voice FM Synth Polyphonic FM Synthesizer Excellent",
+        "model": "Elektron Digitone (original)",
+        "role": "standalone_synth",
+        "confidence": 0.92,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "btgsmrCzpgenW5Cb3wiEBq",
+        "url": "https://www.craigslist.org/view/d/mill-valley-elektron-digitone-voice-fm/btgsmrCzpgenW5Cb3wiEBq",
+        "title": "Elektron Digitone 8-Voice FM Synth Polyphonic FM Synthesizer Excellent",
+        "asking_price": 400.0,
+        "price_text": "$400",
+        "location_text": "north bay / marin",
+        "description": "Elektron Digitone 8-Voice FM Synth Polyphonic FM Synthesizer Excellent",
+        "condition": "",
+        "posted_at": "2026-07-07T14:06:32-07:00",
+        "updated_at": "2026-07-25T21:04:29-07:00",
+        "latitude": 37.8958,
+        "longitude": -122.5339,
+        "distance_miles": 14.749522686624422,
+        "included_items": []
+      }
+    },
+    {
+      "identification": {
+        "title": "Roland MS-1 Sampler",
+        "model": "Roland MS-1 Sampler",
+        "role": "sampler",
+        "confidence": 0.98,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "vKitRhaoxTGxs1cvsV9Pvj",
+        "url": "https://www.craigslist.org/view/d/richmond-roland-ms-sampler/vKitRhaoxTGxs1cvsV9Pvj",
+        "title": "Roland MS-1 Sampler",
+        "asking_price": 100.0,
+        "price_text": "$100",
+        "location_text": "albany / el cerrito",
+        "description": "This is the first portable sampler from Roland made in 1994. This is the precursor to the SP series which are still produced today. It was followed up by the JS-30 less than a year later, which I have another post for (8bit/16bit) The Roland MS-1 is a compact 16-bit digital phrase sampler produced from 1994 to 1997, featuring 8 rubber trigger pads, internal flash memory, and a lightweight design popular for lo-fi beats. Key Specifications & Memory Internal Memory: 384 KB holding roughly 17.8 seconds in \"High\" mode up to 49.2 seconds in \"Long2\" mode (mono). Expansion: Optional PCMCIA ATA Type II Flash RAM cards add banks C, D, and E to the built-in A and B banks. Audio Quality: Selectable sample rates/grades ranging from high fidelity down to gritty lo-fi settings. Power: Runs on 6 AA batteries or a standard DC 9V AC adapter. Workflow, Pads & Banks: 8 physical pads span 5 total banks (40 sounds maximum with a memory card inserted). Editing: Offers numerical editing for start, end, and loop points rather than visual wave markers. Sequencer: Features a basic built-in sequencer mode for real-time loop recording. This comes with the hard to find expansion card and protective pelican case. Standard 9v adapter and batteries not included. Sampler, Synthesizer, Drum Machine",
+        "condition": "",
+        "posted_at": "2026-07-27T14:13:45-07:00",
+        "updated_at": "2026-08-07T12:48:10-07:00",
+        "latitude": 37.9265,
+        "longitude": -122.3342,
+        "distance_miles": 17.904055314474657,
+        "included_items": [
+          "case"
+        ]
+      }
+    },
+    {
+      "identification": {
+        "title": "Roland AIRA TR-8 Drum Machine",
+        "model": "Roland AIRA TR-8",
+        "role": "drum_machine",
+        "confidence": 0.98,
+        "risk_flags": [
+          "seller_disclosed_defect"
+        ]
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "hTjBzoeRWf6NS362SP6xWd",
+        "url": "https://www.craigslist.org/view/d/petaluma-roland-aira-tr-drum-machine/hTjBzoeRWf6NS362SP6xWd",
+        "title": "Roland AIRA TR-8 Drum Machine",
+        "asking_price": 240.0,
+        "price_text": "$240",
+        "location_text": "petaluma",
+        "description": "Repaired Roland TR-8 drum machine for sale. I was able to repair a broken 'bass drum' slider. The closed hi-hat decay control does not seem to be working. I missed that while I had it apart, unfortunately. Not too much of a deal-breaker on the closed hi only (each drum is individually tunable with multiple parameters). Volume control knob is not original. All patterns and settings have been reset to the factory settings. Includes original Roland-branded power supply. Cash pickup in Petaluma. Open to offers, as well as trades for broken musical equipment or other niche electronics (I am not usually interested in anything working). I buy broken synths! I fix broken synths! I also repair many other types of electronic equipment; stereos and electronic musical instruments, keyboards, guitar and bass amplifiers, effects pedals, and recording equipment, pinball machines, and jukeboxes. I do all types of circuit board-level component repair; new electrolytic capacitors, repair diagnosis, upgrades, and full electronic restoration of vintage electronics. Check out my work: https://www.fixitpetaluma.com/vintage-electronic-repairs",
+        "condition": "",
+        "posted_at": "2026-08-02T13:42:30-07:00",
+        "updated_at": "2026-08-10T08:13:14-07:00",
+        "latitude": 38.232923,
+        "longitude": -122.614459,
+        "distance_miles": 9.007158173378409,
+        "included_items": []
+      }
+    },
+    {
+      "identification": {
+        "title": "Casio CT-X700 Keyboard",
+        "model": "Casio CT-X700",
+        "role": "arranger_keyboard",
+        "confidence": 0.98,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "7DdNfuCm92LZeuNMamFGLJ",
+        "url": "https://www.craigslist.org/view/d/vallejo-casio-ct-x700-keyboard/7DdNfuCm92LZeuNMamFGLJ",
+        "title": "Casio CT-X700 Keyboard",
+        "asking_price": 180.0,
+        "price_text": "$180",
+        "location_text": "Vallejo",
+        "description": "Lightly Used Keyboard, in great condition! 180 OBO AiX SOUND SOURCE: The Casio CT-X700 features AiX Sound Source that produces a wide range of expressive tones, from powerful bass to clear highs, replicating the natural charm of acoustic instruments TOUCH SENSITIVE KEYBOARD: Experience expressive performances with a touch-sensitive keyboard that varies sound levels based on key pressure, mimicking the feel of an acoustic piano USER-FRIENDLY LCD SCREEN: The high-visibility backlit LCD screen provides helpful information for performances and lessons, enhancing usability for both beginners and experienced players COMPREHENSIVE LESSON SYSTEM: The CT-X700 comes with 'Step-Up Lessons' feature that includes graded lessons, finger positioning prompts, and a chord dictionary, making it easy for beginners to learn and improve their skills",
+        "condition": "",
+        "posted_at": "2026-07-29T16:06:42-07:00",
+        "updated_at": "2026-07-29T16:07:24-07:00",
+        "latitude": 38.1275,
+        "longitude": -122.2123,
+        "distance_miles": 19.47748435010106,
+        "included_items": []
+      }
+    },
+    {
+      "identification": {
+        "title": "Casio CTK-1000 Electronic Keyboard",
+        "model": "Casio CTK-1000",
+        "role": "arranger_keyboard",
+        "confidence": 0.98,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "vyJLBrkm8etokncMWfcGo3",
+        "url": "https://www.craigslist.org/view/d/san-rafael-casio-ctk-1000-electronic/vyJLBrkm8etokncMWfcGo3",
+        "title": "Casio CTK-1000 Electronic Keyboard",
+        "asking_price": 20.0,
+        "price_text": "$20",
+        "location_text": "san rafael",
+        "description": "Casio CTK-1000 Electronic Keyboard with power cord",
+        "condition": "",
+        "posted_at": "2026-07-17T20:16:51-07:00",
+        "updated_at": "2026-07-17T20:17:21-07:00",
+        "latitude": 37.9691,
+        "longitude": -122.5105,
+        "distance_miles": 10.08405631925445,
+        "included_items": [
+          "power cord"
+        ]
+      }
+    },
+    {
+      "identification": {
+        "title": "Makala Ukulele, Model: MK-TE",
+        "model": "Makala MK-TE",
+        "role": "acoustic_instrument",
+        "confidence": 0.96,
+        "risk_flags": []
+      },
+      "listing": {
+        "source": "craigslist",
+        "listing_id": "mX42qbvU8hTauQgdtiF28k",
+        "url": "https://www.craigslist.org/view/d/san-rafael-makala-ukulele-model-mk-te/mX42qbvU8hTauQgdtiF28k",
+        "title": "Makala Ukulele, Model: MK-TE",
+        "asking_price": 25.0,
+        "price_text": "$25",
+        "location_text": "san rafael",
+        "description": "Makala Ukulele, Model: MK-TE My daughter used this for a few weeks for an after school program. Works great! Venmo or cash accepted.",
+        "condition": "",
+        "posted_at": "2026-07-11T14:12:07-07:00",
+        "updated_at": "2026-08-12T07:09:21-07:00",
+        "latitude": 38.03211,
+        "longitude": -122.545795,
+        "distance_miles": 5.362092806010973,
+        "included_items": []
+      }
+    }
+  ]
+}

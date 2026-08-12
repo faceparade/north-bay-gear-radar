@@ -1,0 +1,4343 @@
+{
+  "source": "ebay",
+  "read_only": true,
+  "searches_completed": 11,
+  "metadata": {
+    "kind": "sold",
+    "queries": [
+      "Line 6 POD Studio UX2",
+      "Apogee ONE audio interface",
+      "PreSonus Eris 3.5 Sub 8BT",
+      "Rockville RPG12",
+      "Mackie ProFX10v3",
+      "AudioThingies MicroMonsta",
+      "Elektron Digitone original",
+      "Roland MS-1 Sampler",
+      "Roland AIRA TR-8",
+      "Casio CT-X700",
+      "Casio CTK-1000",
+      "Makala MK-TE"
+    ],
+    "cdp_port": 9223,
+    "failures": [
+      {
+        "url": "https://www.ebay.com/sch/i.html?_nkw=Apogee+ONE+audio+interface&_sacat=619&LH_Sold=1&LH_Complete=1&_sop=13",
+        "error": "RuntimeError: TypeError: Cannot read properties of null (reading 'scrollHeight')\n    at <anonymous>:22:44\n    at <anonymous>:23:3"
+      }
+    ]
+  },
+  "listings": [
+    {
+      "source": "ebay",
+      "listing_id": "136959204355",
+      "url": "https://www.ebay.com/itm/136959204355",
+      "title": "Sold Aug 7, 2026",
+      "price_text": "$199.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "404488928200",
+      "url": "https://www.ebay.com/itm/404488928200",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$209.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336718792409",
+      "url": "https://www.ebay.com/itm/336718792409",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$110.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137250427323",
+      "url": "https://www.ebay.com/itm/137250427323",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$209.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158119257291",
+      "url": "https://www.ebay.com/itm/158119257291",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$160.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227440557212",
+      "url": "https://www.ebay.com/itm/227440557212",
+      "title": "Sold Jul 22, 2026",
+      "price_text": "$67.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "196003823415",
+      "url": "https://www.ebay.com/itm/196003823415",
+      "title": "Sold Jul 21, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407075480275",
+      "url": "https://www.ebay.com/itm/407075480275",
+      "title": "Sold Jul 16, 2026",
+      "price_text": "$149.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "197443949221",
+      "url": "https://www.ebay.com/itm/197443949221",
+      "title": "Sold Jul 5, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "306984210483",
+      "url": "https://www.ebay.com/itm/306984210483",
+      "title": "Sold Jun 25, 2026",
+      "price_text": "$129.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257504870823",
+      "url": "https://www.ebay.com/itm/257504870823",
+      "title": "Sold Jun 7, 2026",
+      "price_text": "$179.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "406937935432",
+      "url": "https://www.ebay.com/itm/406937935432",
+      "title": "Sold Jun 5, 2026",
+      "price_text": "$67.89",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "306976963539",
+      "url": "https://www.ebay.com/itm/306976963539",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$160.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267680489529",
+      "url": "https://www.ebay.com/itm/267680489529",
+      "title": "Sold May 28, 2026",
+      "price_text": "$110.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178145921890",
+      "url": "https://www.ebay.com/itm/178145921890",
+      "title": "Sold May 18, 2026",
+      "price_text": "$149.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358773840348",
+      "url": "https://www.ebay.com/itm/358773840348",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$105.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358120399328",
+      "url": "https://www.ebay.com/itm/358120399328",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$189.90",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "134727515041",
+      "url": "https://www.ebay.com/itm/134727515041",
+      "title": "Sold Aug 12, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800434607544",
+      "url": "https://www.ebay.com/itm/800434607544",
+      "title": "Sold Aug 1, 2026",
+      "price_text": "$49.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "306999615627",
+      "url": "https://www.ebay.com/itm/306999615627",
+      "title": "Sold Jun 24, 2026",
+      "price_text": "$189.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298450773204",
+      "url": "https://www.ebay.com/itm/298450773204",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$189.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800368922919",
+      "url": "https://www.ebay.com/itm/800368922919",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$166.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257673076005",
+      "url": "https://www.ebay.com/itm/257673076005",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$44.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267742389645",
+      "url": "https://www.ebay.com/itm/267742389645",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$93.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407075480277",
+      "url": "https://www.ebay.com/itm/407075480277",
+      "title": "Sold Jul 15, 2026",
+      "price_text": "$74.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318589986627",
+      "url": "https://www.ebay.com/itm/318589986627",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$50.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267681538770",
+      "url": "https://www.ebay.com/itm/267681538770",
+      "title": "Sold May 28, 2026",
+      "price_text": "$44.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "128001145310",
+      "url": "https://www.ebay.com/itm/128001145310",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "404488928105",
+      "url": "https://www.ebay.com/itm/404488928105",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267734726860",
+      "url": "https://www.ebay.com/itm/267734726860",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$74.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366569471686",
+      "url": "https://www.ebay.com/itm/366569471686",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$30.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366315967422",
+      "url": "https://www.ebay.com/itm/366315967422",
+      "title": "Sold Apr 3, 2026",
+      "price_text": "$69.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307088214445",
+      "url": "https://www.ebay.com/itm/307088214445",
+      "title": "Sold Jul 27, 2026",
+      "price_text": "$49.97",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168563281862",
+      "url": "https://www.ebay.com/itm/168563281862",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "128002395513",
+      "url": "https://www.ebay.com/itm/128002395513",
+      "title": "Sold Aug 1, 2026",
+      "price_text": "$64.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206439976993",
+      "url": "https://www.ebay.com/itm/206439976993",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$50.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127981004362",
+      "url": "https://www.ebay.com/itm/127981004362",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$54.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236880988485",
+      "url": "https://www.ebay.com/itm/236880988485",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278189075871",
+      "url": "https://www.ebay.com/itm/278189075871",
+      "title": "Sold Jul 16, 2026",
+      "price_text": "$49.97",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178258188044",
+      "url": "https://www.ebay.com/itm/178258188044",
+      "title": "Sold Jun 26, 2026",
+      "price_text": "$79.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267743399453",
+      "url": "https://www.ebay.com/itm/267743399453",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358630984997",
+      "url": "https://www.ebay.com/itm/358630984997",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$80.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157826448460",
+      "url": "https://www.ebay.com/itm/157826448460",
+      "title": "Sold May 17, 2026",
+      "price_text": "$59.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "406878543285",
+      "url": "https://www.ebay.com/itm/406878543285",
+      "title": "Sold May 26, 2026",
+      "price_text": "$70.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227407028711",
+      "url": "https://www.ebay.com/itm/227407028711",
+      "title": "Sold Jul 6, 2026",
+      "price_text": "$68.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168439953872",
+      "url": "https://www.ebay.com/itm/168439953872",
+      "title": "Sold Jun 10, 2026",
+      "price_text": "$74.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267661939055",
+      "url": "https://www.ebay.com/itm/267661939055",
+      "title": "Sold May 18, 2026",
+      "price_text": "$89.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117223698686",
+      "url": "https://www.ebay.com/itm/117223698686",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188247701160",
+      "url": "https://www.ebay.com/itm/188247701160",
+      "title": "Sold Jun 8, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298327184592",
+      "url": "https://www.ebay.com/itm/298327184592",
+      "title": "Sold May 22, 2026",
+      "price_text": "$49.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227410687492",
+      "url": "https://www.ebay.com/itm/227410687492",
+      "title": "Sold Jul 3, 2026",
+      "price_text": "$69.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188650002687",
+      "url": "https://www.ebay.com/itm/188650002687",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158071504175",
+      "url": "https://www.ebay.com/itm/158071504175",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$79.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "355033510519",
+      "url": "https://www.ebay.com/itm/355033510519",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318674966071",
+      "url": "https://www.ebay.com/itm/318674966071",
+      "title": "Sold Aug 12, 2026",
+      "price_text": "$52.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178267112100",
+      "url": "https://www.ebay.com/itm/178267112100",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$71.24",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "116416324375",
+      "url": "https://www.ebay.com/itm/116416324375",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$114.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366442852787",
+      "url": "https://www.ebay.com/itm/366442852787",
+      "title": "Sold Jun 11, 2026",
+      "price_text": "$68.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158100260738",
+      "url": "https://www.ebay.com/itm/158100260738",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$45.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327202878691",
+      "url": "https://www.ebay.com/itm/327202878691",
+      "title": "Sold Jun 9, 2026",
+      "price_text": "$103.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157890333377",
+      "url": "https://www.ebay.com/itm/157890333377",
+      "title": "Sold May 15, 2026",
+      "price_text": "$39.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227309683149",
+      "url": "https://www.ebay.com/itm/227309683149",
+      "title": "Sold Aug 7, 2026",
+      "price_text": "$65.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158026655139",
+      "url": "https://www.ebay.com/itm/158026655139",
+      "title": "Sold Jun 26, 2026",
+      "price_text": "$80.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "195994519355",
+      "url": "https://www.ebay.com/itm/195994519355",
+      "title": "Sold Jun 6, 2026",
+      "price_text": "$199.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257527022513",
+      "url": "https://www.ebay.com/itm/257527022513",
+      "title": "Sold May 26, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287370226022",
+      "url": "https://www.ebay.com/itm/287370226022",
+      "title": "Sold Jun 9, 2026",
+      "price_text": "$59.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298506548969",
+      "url": "https://www.ebay.com/itm/298506548969",
+      "title": "Samsung SpinPoint SP0411N 40GB 2.5in IDE 7200RPM 2MB Internal Laptop HDD",
+      "price_text": "$19.88",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "392364089939",
+      "url": "https://www.ebay.com/itm/392364089939",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$112.35",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303408817486",
+      "url": "https://www.ebay.com/itm/303408817486",
+      "title": "Sold Jul 14, 2026",
+      "price_text": "$384.90",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "397730953061",
+      "url": "https://www.ebay.com/itm/397730953061",
+      "title": "Sold Jul 4, 2026",
+      "price_text": "$119.28",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303240866625",
+      "url": "https://www.ebay.com/itm/303240866625",
+      "title": "Sold Jul 2, 2026",
+      "price_text": "$194.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352739573340",
+      "url": "https://www.ebay.com/itm/352739573340",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$63.27",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352777792462",
+      "url": "https://www.ebay.com/itm/352777792462",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$299.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "305815803817",
+      "url": "https://www.ebay.com/itm/305815803817",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$191.30",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "302939908357",
+      "url": "https://www.ebay.com/itm/302939908357",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$103.73",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352768247687",
+      "url": "https://www.ebay.com/itm/352768247687",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$112.33",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800173457213",
+      "url": "https://www.ebay.com/itm/800173457213",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$250.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "354230026523",
+      "url": "https://www.ebay.com/itm/354230026523",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$176.51",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "396157710855",
+      "url": "https://www.ebay.com/itm/396157710855",
+      "title": "Sold Jul 12, 2026",
+      "price_text": "$276.66",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "304010771552",
+      "url": "https://www.ebay.com/itm/304010771552",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$66.89",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "392138921934",
+      "url": "https://www.ebay.com/itm/392138921934",
+      "title": "Sold Jul 3, 2026",
+      "price_text": "$299.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "296829151085",
+      "url": "https://www.ebay.com/itm/296829151085",
+      "title": "Sold Aug 1, 2026",
+      "price_text": "$20.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "354120969661",
+      "url": "https://www.ebay.com/itm/354120969661",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$63.54",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "353082786389",
+      "url": "https://www.ebay.com/itm/353082786389",
+      "title": "Sold Jun 28, 2026",
+      "price_text": "$162.66",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352739571313",
+      "url": "https://www.ebay.com/itm/352739571313",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$131.94",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352800127617",
+      "url": "https://www.ebay.com/itm/352800127617",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$228.66",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358530534004",
+      "url": "https://www.ebay.com/itm/358530534004",
+      "title": "Sold Jul 14, 2026",
+      "price_text": "$62.96",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352764736201",
+      "url": "https://www.ebay.com/itm/352764736201",
+      "title": "Sold Jul 2, 2026",
+      "price_text": "$64.67",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303120593752",
+      "url": "https://www.ebay.com/itm/303120593752",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$130.98",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "392368342561",
+      "url": "https://www.ebay.com/itm/392368342561",
+      "title": "Sold Jun 11, 2026",
+      "price_text": "$76.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352700269666",
+      "url": "https://www.ebay.com/itm/352700269666",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$91.86",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157874628390",
+      "url": "https://www.ebay.com/itm/157874628390",
+      "title": "Sold May 17, 2026",
+      "price_text": "$220.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "304875961260",
+      "url": "https://www.ebay.com/itm/304875961260",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$180.11",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303276108040",
+      "url": "https://www.ebay.com/itm/303276108040",
+      "title": "Sold Jul 6, 2026",
+      "price_text": "$140.46",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303492172589",
+      "url": "https://www.ebay.com/itm/303492172589",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$469.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407063666571",
+      "url": "https://www.ebay.com/itm/407063666571",
+      "title": "Sold Jul 22, 2026",
+      "price_text": "$165.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "397922405212",
+      "url": "https://www.ebay.com/itm/397922405212",
+      "title": "Sold Jul 13, 2026",
+      "price_text": "$106.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "392912617807",
+      "url": "https://www.ebay.com/itm/392912617807",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$107.16",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307011482265",
+      "url": "https://www.ebay.com/itm/307011482265",
+      "title": "Sold Jun 21, 2026",
+      "price_text": "$150.77",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117185465510",
+      "url": "https://www.ebay.com/itm/117185465510",
+      "title": "Sold May 15, 2026",
+      "price_text": "$149.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352739232028",
+      "url": "https://www.ebay.com/itm/352739232028",
+      "title": "Sold Jun 29, 2026",
+      "price_text": "$264.90",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "355559584140",
+      "url": "https://www.ebay.com/itm/355559584140",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$109.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "302527196623",
+      "url": "https://www.ebay.com/itm/302527196623",
+      "title": "Sold Jun 23, 2026",
+      "price_text": "$165.98",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "305900556660",
+      "url": "https://www.ebay.com/itm/305900556660",
+      "title": "Sold May 29, 2026",
+      "price_text": "$367.65",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236839964144",
+      "url": "https://www.ebay.com/itm/236839964144",
+      "title": "Sold Jul 26, 2026",
+      "price_text": "$112.46",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147395586460",
+      "url": "https://www.ebay.com/itm/147395586460",
+      "title": "Sold Jul 16, 2026",
+      "price_text": "$59.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "396162108346",
+      "url": "https://www.ebay.com/itm/396162108346",
+      "title": "Sold Jul 21, 2026",
+      "price_text": "$269.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "392363645692",
+      "url": "https://www.ebay.com/itm/392363645692",
+      "title": "Sold Jul 10, 2026",
+      "price_text": "$119.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303241166730",
+      "url": "https://www.ebay.com/itm/303241166730",
+      "title": "Sold Jul 2, 2026",
+      "price_text": "$176.36",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358030465498",
+      "url": "https://www.ebay.com/itm/358030465498",
+      "title": "Sold Jun 12, 2026",
+      "price_text": "$258.68",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352752306791",
+      "url": "https://www.ebay.com/itm/352752306791",
+      "title": "Sold May 31, 2026",
+      "price_text": "$194.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800064030714",
+      "url": "https://www.ebay.com/itm/800064030714",
+      "title": "Sold Jun 15, 2026",
+      "price_text": "$180.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398124522067",
+      "url": "https://www.ebay.com/itm/398124522067",
+      "title": "Sold Jul 6, 2026",
+      "price_text": "$399.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327094030785",
+      "url": "https://www.ebay.com/itm/327094030785",
+      "title": "Sold May 20, 2026",
+      "price_text": "$183.16",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147360392760",
+      "url": "https://www.ebay.com/itm/147360392760",
+      "title": "Sold Jun 12, 2026",
+      "price_text": "$76.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "277996322721",
+      "url": "https://www.ebay.com/itm/277996322721",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$115.85",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "353145220300",
+      "url": "https://www.ebay.com/itm/353145220300",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$84.19",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358721719509",
+      "url": "https://www.ebay.com/itm/358721719509",
+      "title": "Sold Jul 12, 2026",
+      "price_text": "$372.67",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "353392772046",
+      "url": "https://www.ebay.com/itm/353392772046",
+      "title": "Sold Jul 11, 2026",
+      "price_text": "$299.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137446186036",
+      "url": "https://www.ebay.com/itm/137446186036",
+      "title": "Sold Jul 6, 2026",
+      "price_text": "$48.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303892112093",
+      "url": "https://www.ebay.com/itm/303892112093",
+      "title": "Sold May 29, 2026",
+      "price_text": "$119.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "392363654012",
+      "url": "https://www.ebay.com/itm/392363654012",
+      "title": "Sold Jun 10, 2026",
+      "price_text": "$294.90",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307036557981",
+      "url": "https://www.ebay.com/itm/307036557981",
+      "title": "Sold Jul 2, 2026",
+      "price_text": "$155.98",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "305773605381",
+      "url": "https://www.ebay.com/itm/305773605381",
+      "title": "Sold Jul 21, 2026",
+      "price_text": "$474.90",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "397668048273",
+      "url": "https://www.ebay.com/itm/397668048273",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$499.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236815258574",
+      "url": "https://www.ebay.com/itm/236815258574",
+      "title": "Sold May 21, 2026",
+      "price_text": "$30.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303240908206",
+      "url": "https://www.ebay.com/itm/303240908206",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$84.90",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "396210672666",
+      "url": "https://www.ebay.com/itm/396210672666",
+      "title": "Sold Jul 8, 2026",
+      "price_text": "$127.35",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407104974328",
+      "url": "https://www.ebay.com/itm/407104974328",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$150.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307052228649",
+      "url": "https://www.ebay.com/itm/307052228649",
+      "title": "Sold Jul 14, 2026",
+      "price_text": "$269.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "305650521143",
+      "url": "https://www.ebay.com/itm/305650521143",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$274.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407089764141",
+      "url": "https://www.ebay.com/itm/407089764141",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$154.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "395184766207",
+      "url": "https://www.ebay.com/itm/395184766207",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$24.88",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "196392884062",
+      "url": "https://www.ebay.com/itm/196392884062",
+      "title": "Sold Aug 12, 2025",
+      "price_text": "$269.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227434400138",
+      "url": "https://www.ebay.com/itm/227434400138",
+      "title": "Sold Jul 26, 2026",
+      "price_text": "$81.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "324128528962",
+      "url": "https://www.ebay.com/itm/324128528962",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318591997017",
+      "url": "https://www.ebay.com/itm/318591997017",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$263.98",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "375577509080",
+      "url": "https://www.ebay.com/itm/375577509080",
+      "title": "Sold Jul 22, 2026",
+      "price_text": "$29.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407036288402",
+      "url": "https://www.ebay.com/itm/407036288402",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$259.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307073105788",
+      "url": "https://www.ebay.com/itm/307073105788",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$135.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307066237497",
+      "url": "https://www.ebay.com/itm/307066237497",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$135.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157477873856",
+      "url": "https://www.ebay.com/itm/157477873856",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$239.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "306109076704",
+      "url": "https://www.ebay.com/itm/306109076704",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$183.35",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "404812617404",
+      "url": "https://www.ebay.com/itm/404812617404",
+      "title": "Sold Jul 16, 2026",
+      "price_text": "$254.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257609942536",
+      "url": "https://www.ebay.com/itm/257609942536",
+      "title": "Sold Jul 9, 2026",
+      "price_text": "$223.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267711218377",
+      "url": "https://www.ebay.com/itm/267711218377",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$190.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336583825033",
+      "url": "https://www.ebay.com/itm/336583825033",
+      "title": "Sold Jun 23, 2026",
+      "price_text": "$135.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336665463724",
+      "url": "https://www.ebay.com/itm/336665463724",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$169.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188551809945",
+      "url": "https://www.ebay.com/itm/188551809945",
+      "title": "Sold Jun 30, 2026",
+      "price_text": "$165.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188577379532",
+      "url": "https://www.ebay.com/itm/188577379532",
+      "title": "Sold Jun 30, 2026",
+      "price_text": "$160.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327188631305",
+      "url": "https://www.ebay.com/itm/327188631305",
+      "title": "Sold Jun 28, 2026",
+      "price_text": "$128.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278096290205",
+      "url": "https://www.ebay.com/itm/278096290205",
+      "title": "Sold Jun 26, 2026",
+      "price_text": "$135.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318496788391",
+      "url": "https://www.ebay.com/itm/318496788391",
+      "title": "Sold Jun 24, 2026",
+      "price_text": "$152.12",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398088369049",
+      "url": "https://www.ebay.com/itm/398088369049",
+      "title": "Sold Jun 21, 2026",
+      "price_text": "$140.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227383072842",
+      "url": "https://www.ebay.com/itm/227383072842",
+      "title": "Sold Jun 18, 2026",
+      "price_text": "$175.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127904713717",
+      "url": "https://www.ebay.com/itm/127904713717",
+      "title": "Sold Jun 16, 2026",
+      "price_text": "$175.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "406989171968",
+      "url": "https://www.ebay.com/itm/406989171968",
+      "title": "Sold Jun 15, 2026",
+      "price_text": "$155.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800001764367",
+      "url": "https://www.ebay.com/itm/800001764367",
+      "title": "Sold Jun 14, 2026",
+      "price_text": "$71.60",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127906816275",
+      "url": "https://www.ebay.com/itm/127906816275",
+      "title": "Sold Jun 13, 2026",
+      "price_text": "$59.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327183489649",
+      "url": "https://www.ebay.com/itm/327183489649",
+      "title": "Sold Jun 11, 2026",
+      "price_text": "$159.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127911524926",
+      "url": "https://www.ebay.com/itm/127911524926",
+      "title": "Sold Jun 9, 2026",
+      "price_text": "$169.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257540012002",
+      "url": "https://www.ebay.com/itm/257540012002",
+      "title": "Sold Jun 9, 2026",
+      "price_text": "$199.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227362584484",
+      "url": "https://www.ebay.com/itm/227362584484",
+      "title": "Sold Jun 5, 2026",
+      "price_text": "$159.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227362594518",
+      "url": "https://www.ebay.com/itm/227362594518",
+      "title": "Sold May 30, 2026",
+      "price_text": "$159.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227362599187",
+      "url": "https://www.ebay.com/itm/227362599187",
+      "title": "Sold Jun 2, 2026",
+      "price_text": "$159.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206270354658",
+      "url": "https://www.ebay.com/itm/206270354658",
+      "title": "Sold Jun 4, 2026",
+      "price_text": "$249.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327174414648",
+      "url": "https://www.ebay.com/itm/327174414648",
+      "title": "Sold May 31, 2026",
+      "price_text": "$175.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278010145072",
+      "url": "https://www.ebay.com/itm/278010145072",
+      "title": "Sold May 28, 2026",
+      "price_text": "$123.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336588519269",
+      "url": "https://www.ebay.com/itm/336588519269",
+      "title": "Sold May 26, 2026",
+      "price_text": "$180.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "393130760874",
+      "url": "https://www.ebay.com/itm/393130760874",
+      "title": "Sold May 25, 2026",
+      "price_text": "$269.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "177954217388",
+      "url": "https://www.ebay.com/itm/177954217388",
+      "title": "Sold May 24, 2026",
+      "price_text": "$185.24",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "406929518625",
+      "url": "https://www.ebay.com/itm/406929518625",
+      "title": "Sold May 22, 2026",
+      "price_text": "$138.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227348165743",
+      "url": "https://www.ebay.com/itm/227348165743",
+      "title": "Sold May 20, 2026",
+      "price_text": "$250.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147311237070",
+      "url": "https://www.ebay.com/itm/147311237070",
+      "title": "Sold May 19, 2026",
+      "price_text": "$125.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377163873215",
+      "url": "https://www.ebay.com/itm/377163873215",
+      "title": "Sold May 16, 2026",
+      "price_text": "$224.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377163873374",
+      "url": "https://www.ebay.com/itm/377163873374",
+      "title": "Sold May 16, 2026",
+      "price_text": "$177.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157763611722",
+      "url": "https://www.ebay.com/itm/157763611722",
+      "title": "Sold May 15, 2026",
+      "price_text": "$172.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147486737813",
+      "url": "https://www.ebay.com/itm/147486737813",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$2.69",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147338789999",
+      "url": "https://www.ebay.com/itm/147338789999",
+      "title": "Sold Jun 17, 2026",
+      "price_text": "$236.36",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168418825420",
+      "url": "https://www.ebay.com/itm/168418825420",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$189.10",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366594348394",
+      "url": "https://www.ebay.com/itm/366594348394",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$138.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318684229831",
+      "url": "https://www.ebay.com/itm/318684229831",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$199.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398238996160",
+      "url": "https://www.ebay.com/itm/398238996160",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$249.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318595095558",
+      "url": "https://www.ebay.com/itm/318595095558",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$150.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147465354121",
+      "url": "https://www.ebay.com/itm/147465354121",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$249.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398245558492",
+      "url": "https://www.ebay.com/itm/398245558492",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$139.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127982710598",
+      "url": "https://www.ebay.com/itm/127982710598",
+      "title": "Sold Jul 27, 2026",
+      "price_text": "$111.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377389447133",
+      "url": "https://www.ebay.com/itm/377389447133",
+      "title": "Sold Aug 7, 2026",
+      "price_text": "$125.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227412366737",
+      "url": "https://www.ebay.com/itm/227412366737",
+      "title": "Sold Jul 4, 2026",
+      "price_text": "$119.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127877837354",
+      "url": "https://www.ebay.com/itm/127877837354",
+      "title": "Sold May 28, 2026",
+      "price_text": "$165.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257615863358",
+      "url": "https://www.ebay.com/itm/257615863358",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$137.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "198547329061",
+      "url": "https://www.ebay.com/itm/198547329061",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158148035471",
+      "url": "https://www.ebay.com/itm/158148035471",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$193.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287468358305",
+      "url": "https://www.ebay.com/itm/287468358305",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$125.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137561100694",
+      "url": "https://www.ebay.com/itm/137561100694",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$125.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227412325605",
+      "url": "https://www.ebay.com/itm/227412325605",
+      "title": "Sold Jul 22, 2026",
+      "price_text": "$104.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188698306266",
+      "url": "https://www.ebay.com/itm/188698306266",
+      "title": "Sold Aug 1, 2026",
+      "price_text": "$165.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "297649424620",
+      "url": "https://www.ebay.com/itm/297649424620",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$100.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127950607389",
+      "url": "https://www.ebay.com/itm/127950607389",
+      "title": "Sold Jul 12, 2026",
+      "price_text": "$150.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "305980470326",
+      "url": "https://www.ebay.com/itm/305980470326",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$114.86",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236966489740",
+      "url": "https://www.ebay.com/itm/236966489740",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$111.20",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117329546537",
+      "url": "https://www.ebay.com/itm/117329546537",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$100.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168304599034",
+      "url": "https://www.ebay.com/itm/168304599034",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$167.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147458728919",
+      "url": "https://www.ebay.com/itm/147458728919",
+      "title": "Sold Aug 7, 2026",
+      "price_text": "$219.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "177092287928",
+      "url": "https://www.ebay.com/itm/177092287928",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$249.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137386896613",
+      "url": "https://www.ebay.com/itm/137386896613",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$120.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "306976964910",
+      "url": "https://www.ebay.com/itm/306976964910",
+      "title": "Sold Jun 25, 2026",
+      "price_text": "$125.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "305650521635",
+      "url": "https://www.ebay.com/itm/305650521635",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$319.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377350521503",
+      "url": "https://www.ebay.com/itm/377350521503",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$110.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227464951385",
+      "url": "https://www.ebay.com/itm/227464951385",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$290.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137439229235",
+      "url": "https://www.ebay.com/itm/137439229235",
+      "title": "Sold Jun 23, 2026",
+      "price_text": "$199.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278121612390",
+      "url": "https://www.ebay.com/itm/278121612390",
+      "title": "Sold Jul 13, 2026",
+      "price_text": "$500.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278121610730",
+      "url": "https://www.ebay.com/itm/278121610730",
+      "title": "Sold Jul 10, 2026",
+      "price_text": "$300.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236851170955",
+      "url": "https://www.ebay.com/itm/236851170955",
+      "title": "Sold Jun 10, 2026",
+      "price_text": "$450.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188743426167",
+      "url": "https://www.ebay.com/itm/188743426167",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$724.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227434282454",
+      "url": "https://www.ebay.com/itm/227434282454",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$899.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257585201375",
+      "url": "https://www.ebay.com/itm/257585201375",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$499.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127836610424",
+      "url": "https://www.ebay.com/itm/127836610424",
+      "title": "Sold Jun 6, 2026",
+      "price_text": "$550.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287367440195",
+      "url": "https://www.ebay.com/itm/287367440195",
+      "title": "Sold Jun 2, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "406951176868",
+      "url": "https://www.ebay.com/itm/406951176868",
+      "title": "Sold May 30, 2026",
+      "price_text": "$899.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "389892103019",
+      "url": "https://www.ebay.com/itm/389892103019",
+      "title": "Sold May 20, 2026",
+      "price_text": "$405.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336569222179",
+      "url": "https://www.ebay.com/itm/336569222179",
+      "title": "Sold May 19, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800391292000",
+      "url": "https://www.ebay.com/itm/800391292000",
+      "title": "Sold Jul 22, 2026",
+      "price_text": "$500.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158121699230",
+      "url": "https://www.ebay.com/itm/158121699230",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in Canada"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147402696429",
+      "url": "https://www.ebay.com/itm/147402696429",
+      "title": "Sold Jun 28, 2026",
+      "price_text": "$600.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336557496526",
+      "url": "https://www.ebay.com/itm/336557496526",
+      "title": "Sold May 28, 2026",
+      "price_text": "$425.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147322367012",
+      "url": "https://www.ebay.com/itm/147322367012",
+      "title": "Sold May 22, 2026",
+      "price_text": "$499.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257544710749",
+      "url": "https://www.ebay.com/itm/257544710749",
+      "title": "Sold Jun 8, 2026",
+      "price_text": "$525.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "389981504805",
+      "url": "https://www.ebay.com/itm/389981504805",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$19.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "125140534816",
+      "url": "https://www.ebay.com/itm/125140534816",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$699.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "335644297240",
+      "url": "https://www.ebay.com/itm/335644297240",
+      "title": "Sold Jun 7, 2026",
+      "price_text": "$1,149.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158059262736",
+      "url": "https://www.ebay.com/itm/158059262736",
+      "title": "Sold Jul 6, 2026",
+      "price_text": "$848.32",
+      "location_text": "Located in Australia"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157546558303",
+      "url": "https://www.ebay.com/itm/157546558303",
+      "title": "Sold Dec 29, 2025",
+      "price_text": "$389.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117273285002",
+      "url": "https://www.ebay.com/itm/117273285002",
+      "title": "Sold Jul 5, 2026",
+      "price_text": "$370.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227070538194",
+      "url": "https://www.ebay.com/itm/227070538194",
+      "title": "Sold Jul 12, 2026",
+      "price_text": "$14.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "146374755957",
+      "url": "https://www.ebay.com/itm/146374755957",
+      "title": "Sold Jun 10, 2026",
+      "price_text": "$31.80",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158002707966",
+      "url": "https://www.ebay.com/itm/158002707966",
+      "title": "Sold Jun 20, 2026",
+      "price_text": "$840.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "334669236366",
+      "url": "https://www.ebay.com/itm/334669236366",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$36.49",
+      "location_text": "Located in Hungary"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "167698736781",
+      "url": "https://www.ebay.com/itm/167698736781",
+      "title": "Sold Jun 16, 2026",
+      "price_text": "$23.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127420391533",
+      "url": "https://www.ebay.com/itm/127420391533",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$22.49",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147330764064",
+      "url": "https://www.ebay.com/itm/147330764064",
+      "title": "Sold Jun 5, 2026",
+      "price_text": "$285.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307055131897",
+      "url": "https://www.ebay.com/itm/307055131897",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$385.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "334896525346",
+      "url": "https://www.ebay.com/itm/334896525346",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$27.03",
+      "location_text": "Located in Hungary"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "334845812537",
+      "url": "https://www.ebay.com/itm/334845812537",
+      "title": "Sold Jul 26, 2026",
+      "price_text": "$32.06",
+      "location_text": "Located in Hungary"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "167991652192",
+      "url": "https://www.ebay.com/itm/167991652192",
+      "title": "Sold Jun 20, 2026",
+      "price_text": "$3,900.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287511889131",
+      "url": "https://www.ebay.com/itm/287511889131",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$300.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "384725674712",
+      "url": "https://www.ebay.com/itm/384725674712",
+      "title": "Sold Jul 12, 2026",
+      "price_text": "$26.99",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "334006035331",
+      "url": "https://www.ebay.com/itm/334006035331",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$38.70",
+      "location_text": "Located in Hungary"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127677361670",
+      "url": "https://www.ebay.com/itm/127677361670",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$979.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298302260834",
+      "url": "https://www.ebay.com/itm/298302260834",
+      "title": "Sold Jun 10, 2026",
+      "price_text": "$1,099.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "296838568668",
+      "url": "https://www.ebay.com/itm/296838568668",
+      "title": "Sold Jun 12, 2026",
+      "price_text": "$1,099.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366358610829",
+      "url": "https://www.ebay.com/itm/366358610829",
+      "title": "Sold Jun 14, 2026",
+      "price_text": "$25.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800120468890",
+      "url": "https://www.ebay.com/itm/800120468890",
+      "title": "Sold Jun 7, 2026",
+      "price_text": "$19.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168561158322",
+      "url": "https://www.ebay.com/itm/168561158322",
+      "title": "Sold Jul 24, 2026",
+      "price_text": "$65.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307067693485",
+      "url": "https://www.ebay.com/itm/307067693485",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$77.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "134648665423",
+      "url": "https://www.ebay.com/itm/134648665423",
+      "title": "Sold Jul 13, 2026",
+      "price_text": "$136.04",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236880166255",
+      "url": "https://www.ebay.com/itm/236880166255",
+      "title": "Sold Jul 10, 2026",
+      "price_text": "$149.98",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147383515413",
+      "url": "https://www.ebay.com/itm/147383515413",
+      "title": "Sold Jun 25, 2026",
+      "price_text": "$165.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157936796308",
+      "url": "https://www.ebay.com/itm/157936796308",
+      "title": "Sold Jun 12, 2026",
+      "price_text": "$199.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257558788276",
+      "url": "https://www.ebay.com/itm/257558788276",
+      "title": "Sold Jun 11, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278061835887",
+      "url": "https://www.ebay.com/itm/278061835887",
+      "title": "Sold Jun 6, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117353092482",
+      "url": "https://www.ebay.com/itm/117353092482",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$190.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147487494118",
+      "url": "https://www.ebay.com/itm/147487494118",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$375.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147494241885",
+      "url": "https://www.ebay.com/itm/147494241885",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$375.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267727909994",
+      "url": "https://www.ebay.com/itm/267727909994",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$358.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407106348032",
+      "url": "https://www.ebay.com/itm/407106348032",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$205.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "198564426059",
+      "url": "https://www.ebay.com/itm/198564426059",
+      "title": "Sold Aug 12, 2026",
+      "price_text": "$299.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267745238914",
+      "url": "https://www.ebay.com/itm/267745238914",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$215.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377401909337",
+      "url": "https://www.ebay.com/itm/377401909337",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407118100643",
+      "url": "https://www.ebay.com/itm/407118100643",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257673232659",
+      "url": "https://www.ebay.com/itm/257673232659",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$285.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206465082433",
+      "url": "https://www.ebay.com/itm/206465082433",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$379.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318668550744",
+      "url": "https://www.ebay.com/itm/318668550744",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$350.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358867537712",
+      "url": "https://www.ebay.com/itm/358867537712",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227440295866",
+      "url": "https://www.ebay.com/itm/227440295866",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$178.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407091395666",
+      "url": "https://www.ebay.com/itm/407091395666",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$239.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307073676547",
+      "url": "https://www.ebay.com/itm/307073676547",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$200.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298439679107",
+      "url": "https://www.ebay.com/itm/298439679107",
+      "title": "Sold Jun 21, 2026",
+      "price_text": "$255.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407122800307",
+      "url": "https://www.ebay.com/itm/407122800307",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$85.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227361546591",
+      "url": "https://www.ebay.com/itm/227361546591",
+      "title": "Sold Jun 15, 2026",
+      "price_text": "$299.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307114425731",
+      "url": "https://www.ebay.com/itm/307114425731",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$888.00",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137376266043",
+      "url": "https://www.ebay.com/itm/137376266043",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$200.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178377905420",
+      "url": "https://www.ebay.com/itm/178377905420",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$389.49",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168267418712",
+      "url": "https://www.ebay.com/itm/168267418712",
+      "title": "Sold Jun 5, 2026",
+      "price_text": "$259.98",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278068603125",
+      "url": "https://www.ebay.com/itm/278068603125",
+      "title": "Sold Jun 8, 2026",
+      "price_text": "$150.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147429504425",
+      "url": "https://www.ebay.com/itm/147429504425",
+      "title": "Sold Jul 11, 2026",
+      "price_text": "$370.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287469207471",
+      "url": "https://www.ebay.com/itm/287469207471",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$275.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227410025493",
+      "url": "https://www.ebay.com/itm/227410025493",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$76.03",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278189956401",
+      "url": "https://www.ebay.com/itm/278189956401",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$150.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800025086147",
+      "url": "https://www.ebay.com/itm/800025086147",
+      "title": "Sold May 20, 2026",
+      "price_text": "$455.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800402454168",
+      "url": "https://www.ebay.com/itm/800402454168",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$325.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127920333438",
+      "url": "https://www.ebay.com/itm/127920333438",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$215.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137551010769",
+      "url": "https://www.ebay.com/itm/137551010769",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$399.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800294157565",
+      "url": "https://www.ebay.com/itm/800294157565",
+      "title": "Sold Jul 8, 2026",
+      "price_text": "$382.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206408190049",
+      "url": "https://www.ebay.com/itm/206408190049",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$332.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168553085537",
+      "url": "https://www.ebay.com/itm/168553085537",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$215.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137347464510",
+      "url": "https://www.ebay.com/itm/137347464510",
+      "title": "Sold May 27, 2026",
+      "price_text": "$249.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "198545036417",
+      "url": "https://www.ebay.com/itm/198545036417",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$250.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158021251103",
+      "url": "https://www.ebay.com/itm/158021251103",
+      "title": "Sold Jun 24, 2026",
+      "price_text": "$180.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358863086782",
+      "url": "https://www.ebay.com/itm/358863086782",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$289.98",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206309762161",
+      "url": "https://www.ebay.com/itm/206309762161",
+      "title": "Sold May 31, 2026",
+      "price_text": "$194.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "397955083030",
+      "url": "https://www.ebay.com/itm/397955083030",
+      "title": "Sold May 16, 2026",
+      "price_text": "$285.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236905003815",
+      "url": "https://www.ebay.com/itm/236905003815",
+      "title": "Sold Jun 30, 2026",
+      "price_text": "$180.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358851092948",
+      "url": "https://www.ebay.com/itm/358851092948",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$298.84",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206283129923",
+      "url": "https://www.ebay.com/itm/206283129923",
+      "title": "Sold Jul 16, 2026",
+      "price_text": "$225.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318700911349",
+      "url": "https://www.ebay.com/itm/318700911349",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$270.00",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307069250744",
+      "url": "https://www.ebay.com/itm/307069250744",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$275.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336697389251",
+      "url": "https://www.ebay.com/itm/336697389251",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$229.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157891410857",
+      "url": "https://www.ebay.com/itm/157891410857",
+      "title": "Sold Jul 24, 2026",
+      "price_text": "$289.99",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318658617798",
+      "url": "https://www.ebay.com/itm/318658617798",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$420.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800424001924",
+      "url": "https://www.ebay.com/itm/800424001924",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227442736350",
+      "url": "https://www.ebay.com/itm/227442736350",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$149.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257057096392",
+      "url": "https://www.ebay.com/itm/257057096392",
+      "title": "Sold Feb 7, 2026",
+      "price_text": "$899.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "266459669073",
+      "url": "https://www.ebay.com/itm/266459669073",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$799.99",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168406977709",
+      "url": "https://www.ebay.com/itm/168406977709",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$17.55",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "397627227756",
+      "url": "https://www.ebay.com/itm/397627227756",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$743.99",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327293011048",
+      "url": "https://www.ebay.com/itm/327293011048",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$275.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "304776315790",
+      "url": "https://www.ebay.com/itm/304776315790",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$851.61",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298530783859",
+      "url": "https://www.ebay.com/itm/298530783859",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$270.14",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366552568592",
+      "url": "https://www.ebay.com/itm/366552568592",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$625.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327273518704",
+      "url": "https://www.ebay.com/itm/327273518704",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$232.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318471660456",
+      "url": "https://www.ebay.com/itm/318471660456",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$365.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "363965364969",
+      "url": "https://www.ebay.com/itm/363965364969",
+      "title": "Sold Jul 21, 2026",
+      "price_text": "$269.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "125336903835",
+      "url": "https://www.ebay.com/itm/125336903835",
+      "title": "Sold Jul 21, 2026",
+      "price_text": "$249.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "277952158149",
+      "url": "https://www.ebay.com/itm/277952158149",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$9.18",
+      "location_text": "Located in Italy"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "365672161586",
+      "url": "https://www.ebay.com/itm/365672161586",
+      "title": "Sold Jan 13, 2026",
+      "price_text": "$899.88",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298469434330",
+      "url": "https://www.ebay.com/itm/298469434330",
+      "title": "Sold Jul 5, 2026",
+      "price_text": "$415.99",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168509409702",
+      "url": "https://www.ebay.com/itm/168509409702",
+      "title": "Sold Jul 2, 2026",
+      "price_text": "$475.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227410656518",
+      "url": "https://www.ebay.com/itm/227410656518",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$550.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117270462613",
+      "url": "https://www.ebay.com/itm/117270462613",
+      "title": "Sold Jun 26, 2026",
+      "price_text": "$599.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "304812580368",
+      "url": "https://www.ebay.com/itm/304812580368",
+      "title": "Sold Jun 25, 2026",
+      "price_text": "$212.30",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "376761460225",
+      "url": "https://www.ebay.com/itm/376761460225",
+      "title": "Sold Jun 23, 2026",
+      "price_text": "$350.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "125584303667",
+      "url": "https://www.ebay.com/itm/125584303667",
+      "title": "Sold Jun 20, 2026",
+      "price_text": "$799.99",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "376996973153",
+      "url": "https://www.ebay.com/itm/376996973153",
+      "title": "Sold Jun 19, 2026",
+      "price_text": "$325.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "376712760153",
+      "url": "https://www.ebay.com/itm/376712760153",
+      "title": "Sold Jun 17, 2026",
+      "price_text": "$9.00",
+      "location_text": "Located in Italy"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178164960321",
+      "url": "https://www.ebay.com/itm/178164960321",
+      "title": "Sold Jun 11, 2026",
+      "price_text": "$170.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "276595719987",
+      "url": "https://www.ebay.com/itm/276595719987",
+      "title": "Sold Jun 4, 2026",
+      "price_text": "$9.18",
+      "location_text": "Located in Italy"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318385934320",
+      "url": "https://www.ebay.com/itm/318385934320",
+      "title": "Sold Jun 2, 2026",
+      "price_text": "$183.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "306958716714",
+      "url": "https://www.ebay.com/itm/306958716714",
+      "title": "Sold May 31, 2026",
+      "price_text": "$332.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298041803844",
+      "url": "https://www.ebay.com/itm/298041803844",
+      "title": "Sold May 31, 2026",
+      "price_text": "$229.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227354874069",
+      "url": "https://www.ebay.com/itm/227354874069",
+      "title": "Sold May 26, 2026",
+      "price_text": "$343.25",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "397964590240",
+      "url": "https://www.ebay.com/itm/397964590240",
+      "title": "Sold May 23, 2026",
+      "price_text": "$153.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178105165124",
+      "url": "https://www.ebay.com/itm/178105165124",
+      "title": "Sold May 22, 2026",
+      "price_text": "$224.86",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227321900358",
+      "url": "https://www.ebay.com/itm/227321900358",
+      "title": "Sold May 22, 2026",
+      "price_text": "$304.30",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377131846114",
+      "url": "https://www.ebay.com/itm/377131846114",
+      "title": "Sold May 21, 2026",
+      "price_text": "$350.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318242172125",
+      "url": "https://www.ebay.com/itm/318242172125",
+      "title": "Sold May 18, 2026",
+      "price_text": "$319.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366379455532",
+      "url": "https://www.ebay.com/itm/366379455532",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$64.01",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "256362311661",
+      "url": "https://www.ebay.com/itm/256362311661",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$67.52",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147247832607",
+      "url": "https://www.ebay.com/itm/147247832607",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$27.00",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117284030330",
+      "url": "https://www.ebay.com/itm/117284030330",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$529.78",
+      "location_text": "Located in Germany"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366378038084",
+      "url": "https://www.ebay.com/itm/366378038084",
+      "title": "Sold Jul 14, 2026",
+      "price_text": "$57.53",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147246571268",
+      "url": "https://www.ebay.com/itm/147246571268",
+      "title": "Sold Jul 13, 2026",
+      "price_text": "$27.00",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "304125206544",
+      "url": "https://www.ebay.com/itm/304125206544",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$83.73",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257468379285",
+      "url": "https://www.ebay.com/itm/257468379285",
+      "title": "Sold Jun 18, 2026",
+      "price_text": "$67.52",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117344322542",
+      "url": "https://www.ebay.com/itm/117344322542",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$179.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307118543897",
+      "url": "https://www.ebay.com/itm/307118543897",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$219.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800347017756",
+      "url": "https://www.ebay.com/itm/800347017756",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$200.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398204065193",
+      "url": "https://www.ebay.com/itm/398204065193",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$455.00",
+      "location_text": "Located in Italy"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366574922544",
+      "url": "https://www.ebay.com/itm/366574922544",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$237.59",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336673136301",
+      "url": "https://www.ebay.com/itm/336673136301",
+      "title": "Sold Jul 12, 2026",
+      "price_text": "$420.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158111769139",
+      "url": "https://www.ebay.com/itm/158111769139",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$170.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227427178344",
+      "url": "https://www.ebay.com/itm/227427178344",
+      "title": "Sold Jul 15, 2026",
+      "price_text": "$320.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800456010996",
+      "url": "https://www.ebay.com/itm/800456010996",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$600.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206429552750",
+      "url": "https://www.ebay.com/itm/206429552750",
+      "title": "Sold Jul 27, 2026",
+      "price_text": "$446.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377204291630",
+      "url": "https://www.ebay.com/itm/377204291630",
+      "title": "Sold May 29, 2026",
+      "price_text": "$299.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366577256197",
+      "url": "https://www.ebay.com/itm/366577256197",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$187.29",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278107065982",
+      "url": "https://www.ebay.com/itm/278107065982",
+      "title": "Sold Jun 22, 2026",
+      "price_text": "$350.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327221232558",
+      "url": "https://www.ebay.com/itm/327221232558",
+      "title": "Sold Jul 3, 2026",
+      "price_text": "$334.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298520958248",
+      "url": "https://www.ebay.com/itm/298520958248",
+      "title": "Sold Jul 24, 2026",
+      "price_text": "$189.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800445612464",
+      "url": "https://www.ebay.com/itm/800445612464",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$650.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "316412526101",
+      "url": "https://www.ebay.com/itm/316412526101",
+      "title": "Sold Aug 7, 2026",
+      "price_text": "$196.00",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257343481402",
+      "url": "https://www.ebay.com/itm/257343481402",
+      "title": "Sold Aug 7, 2026",
+      "price_text": "$249.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336701039114",
+      "url": "https://www.ebay.com/itm/336701039114",
+      "title": "Sold Jul 26, 2026",
+      "price_text": "$650.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117342080710",
+      "url": "https://www.ebay.com/itm/117342080710",
+      "title": "Sold Aug 12, 2026",
+      "price_text": "$238.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158020487090",
+      "url": "https://www.ebay.com/itm/158020487090",
+      "title": "Sold Jun 30, 2026",
+      "price_text": "$349.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206339712217",
+      "url": "https://www.ebay.com/itm/206339712217",
+      "title": "Sold Jun 13, 2026",
+      "price_text": "$150.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278247404169",
+      "url": "https://www.ebay.com/itm/278247404169",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$189.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "198417241829",
+      "url": "https://www.ebay.com/itm/198417241829",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$234.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407096565514",
+      "url": "https://www.ebay.com/itm/407096565514",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$799.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236910229979",
+      "url": "https://www.ebay.com/itm/236910229979",
+      "title": "Sold Jul 3, 2026",
+      "price_text": "$320.00",
+      "location_text": "Located in Puerto Rico"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236835567551",
+      "url": "https://www.ebay.com/itm/236835567551",
+      "title": "Sold Jun 4, 2026",
+      "price_text": "$379.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377113777223",
+      "url": "https://www.ebay.com/itm/377113777223",
+      "title": "Sold May 18, 2026",
+      "price_text": "$379.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257547296866",
+      "url": "https://www.ebay.com/itm/257547296866",
+      "title": "Sold Jun 18, 2026",
+      "price_text": "$180.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206356736407",
+      "url": "https://www.ebay.com/itm/206356736407",
+      "title": "Sold Jun 25, 2026",
+      "price_text": "$133.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206438841264",
+      "url": "https://www.ebay.com/itm/206438841264",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$181.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147369792085",
+      "url": "https://www.ebay.com/itm/147369792085",
+      "title": "Sold Jun 17, 2026",
+      "price_text": "$575.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267566893068",
+      "url": "https://www.ebay.com/itm/267566893068",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$239.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188412354117",
+      "url": "https://www.ebay.com/itm/188412354117",
+      "title": "Sold May 24, 2026",
+      "price_text": "$675.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168536060409",
+      "url": "https://www.ebay.com/itm/168536060409",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$248.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "316972850982",
+      "url": "https://www.ebay.com/itm/316972850982",
+      "title": "Sold May 25, 2026",
+      "price_text": "$749.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "157933001692",
+      "url": "https://www.ebay.com/itm/157933001692",
+      "title": "Sold May 24, 2026",
+      "price_text": "$660.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206364270494",
+      "url": "https://www.ebay.com/itm/206364270494",
+      "title": "Sold Jun 23, 2026",
+      "price_text": "$180.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "177097649822",
+      "url": "https://www.ebay.com/itm/177097649822",
+      "title": "Sold Dec 13, 2025",
+      "price_text": "$258.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278201635929",
+      "url": "https://www.ebay.com/itm/278201635929",
+      "title": "Sold Jul 29, 2026",
+      "price_text": "$185.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800260246934",
+      "url": "https://www.ebay.com/itm/800260246934",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$7.81",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168535332435",
+      "url": "https://www.ebay.com/itm/168535332435",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$99.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366503207357",
+      "url": "https://www.ebay.com/itm/366503207357",
+      "title": "Sold Jun 29, 2026",
+      "price_text": "$211.19",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236897012065",
+      "url": "https://www.ebay.com/itm/236897012065",
+      "title": "Sold Jun 27, 2026",
+      "price_text": "$12.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188540143433",
+      "url": "https://www.ebay.com/itm/188540143433",
+      "title": "Sold Jun 26, 2026",
+      "price_text": "$110.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "115634063341",
+      "url": "https://www.ebay.com/itm/115634063341",
+      "title": "Sold Jun 24, 2026",
+      "price_text": "$54.88",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267694559393",
+      "url": "https://www.ebay.com/itm/267694559393",
+      "title": "Sold Jun 14, 2026",
+      "price_text": "$120.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287363243120",
+      "url": "https://www.ebay.com/itm/287363243120",
+      "title": "Sold Jun 1, 2026",
+      "price_text": "$58.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336250272747",
+      "url": "https://www.ebay.com/itm/336250272747",
+      "title": "Sold May 22, 2026",
+      "price_text": "$189.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267669575183",
+      "url": "https://www.ebay.com/itm/267669575183",
+      "title": "Sold May 17, 2026",
+      "price_text": "$134.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137288120563",
+      "url": "https://www.ebay.com/itm/137288120563",
+      "title": "Sold May 14, 2026",
+      "price_text": "$120.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "206254097434",
+      "url": "https://www.ebay.com/itm/206254097434",
+      "title": "Sold May 14, 2026",
+      "price_text": "$219.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "164441651122",
+      "url": "https://www.ebay.com/itm/164441651122",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$12.14",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307050616507",
+      "url": "https://www.ebay.com/itm/307050616507",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$225.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257614113350",
+      "url": "https://www.ebay.com/itm/257614113350",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$149.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366501857736",
+      "url": "https://www.ebay.com/itm/366501857736",
+      "title": "Sold Jul 3, 2026",
+      "price_text": "$200.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "198142843785",
+      "url": "https://www.ebay.com/itm/198142843785",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$400.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287405625608",
+      "url": "https://www.ebay.com/itm/287405625608",
+      "title": "Sold Jun 19, 2026",
+      "price_text": "$364.27",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "224584473789",
+      "url": "https://www.ebay.com/itm/224584473789",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$409.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168183135920",
+      "url": "https://www.ebay.com/itm/168183135920",
+      "title": "Sold Jul 9, 2026",
+      "price_text": "$499.99",
+      "location_text": "Located in India"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352175799200",
+      "url": "https://www.ebay.com/itm/352175799200",
+      "title": "Sold Aug 4, 2026",
+      "price_text": "$7.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "352391561884",
+      "url": "https://www.ebay.com/itm/352391561884",
+      "title": "Sold May 15, 2026",
+      "price_text": "$7.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "234888992412",
+      "url": "https://www.ebay.com/itm/234888992412",
+      "title": "Sold Jun 7, 2026",
+      "price_text": "$9.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "355087432345",
+      "url": "https://www.ebay.com/itm/355087432345",
+      "title": "Sold Dec 22, 2024",
+      "price_text": "$39.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "162046754903",
+      "url": "https://www.ebay.com/itm/162046754903",
+      "title": "Sold May 22, 2026",
+      "price_text": "$10.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "128016096795",
+      "url": "https://www.ebay.com/itm/128016096795",
+      "title": "Sold Aug 8, 2026",
+      "price_text": "$87.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "303107451309",
+      "url": "https://www.ebay.com/itm/303107451309",
+      "title": "Sold Jul 23, 2026",
+      "price_text": "$13.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267706812212",
+      "url": "https://www.ebay.com/itm/267706812212",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$39.85",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257594863449",
+      "url": "https://www.ebay.com/itm/257594863449",
+      "title": "Sold Jun 30, 2026",
+      "price_text": "$119.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137462187733",
+      "url": "https://www.ebay.com/itm/137462187733",
+      "title": "Sold Jun 28, 2026",
+      "price_text": "$60.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327220369815",
+      "url": "https://www.ebay.com/itm/327220369815",
+      "title": "Sold Jun 25, 2026",
+      "price_text": "$225.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188485029204",
+      "url": "https://www.ebay.com/itm/188485029204",
+      "title": "Sold Jun 15, 2026",
+      "price_text": "$24.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "196965509585",
+      "url": "https://www.ebay.com/itm/196965509585",
+      "title": "Sold Jun 11, 2026",
+      "price_text": "$275.41",
+      "location_text": "Located in Japan"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188435922179",
+      "url": "https://www.ebay.com/itm/188435922179",
+      "title": "Sold Jun 4, 2026",
+      "price_text": "$24.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168401479927",
+      "url": "https://www.ebay.com/itm/168401479927",
+      "title": "Sold Jun 4, 2026",
+      "price_text": "$7.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398271316813",
+      "url": "https://www.ebay.com/itm/398271316813",
+      "title": "Sold Aug 11, 2026",
+      "price_text": "$38.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800480341913",
+      "url": "https://www.ebay.com/itm/800480341913",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$29.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307028603128",
+      "url": "https://www.ebay.com/itm/307028603128",
+      "title": "Sold Jul 4, 2026",
+      "price_text": "$14.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168552922536",
+      "url": "https://www.ebay.com/itm/168552922536",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$10.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398123796560",
+      "url": "https://www.ebay.com/itm/398123796560",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366390163103",
+      "url": "https://www.ebay.com/itm/366390163103",
+      "title": "Sold May 15, 2026",
+      "price_text": "$49.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227364266163",
+      "url": "https://www.ebay.com/itm/227364266163",
+      "title": "Sold Jun 5, 2026",
+      "price_text": "$41.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147400176178",
+      "url": "https://www.ebay.com/itm/147400176178",
+      "title": "Sold Jul 3, 2026",
+      "price_text": "$7.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "287516012318",
+      "url": "https://www.ebay.com/itm/287516012318",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$299.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267722403675",
+      "url": "https://www.ebay.com/itm/267722403675",
+      "title": "Sold Jul 16, 2026",
+      "price_text": "$29.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147393802489",
+      "url": "https://www.ebay.com/itm/147393802489",
+      "title": "Sold Jun 30, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267674092056",
+      "url": "https://www.ebay.com/itm/267674092056",
+      "title": "Sold May 24, 2026",
+      "price_text": "$26.32",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800403661831",
+      "url": "https://www.ebay.com/itm/800403661831",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$29.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127989588022",
+      "url": "https://www.ebay.com/itm/127989588022",
+      "title": "Sold Jul 22, 2026",
+      "price_text": "$28.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327296840587",
+      "url": "https://www.ebay.com/itm/327296840587",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$100.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398161199497",
+      "url": "https://www.ebay.com/itm/398161199497",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168580025187",
+      "url": "https://www.ebay.com/itm/168580025187",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$30.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168394425711",
+      "url": "https://www.ebay.com/itm/168394425711",
+      "title": "Sold May 29, 2026",
+      "price_text": "$13.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377376462492",
+      "url": "https://www.ebay.com/itm/377376462492",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$25.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377394543145",
+      "url": "https://www.ebay.com/itm/377394543145",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$69.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137534435229",
+      "url": "https://www.ebay.com/itm/137534435229",
+      "title": "Sold Jul 26, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168540091894",
+      "url": "https://www.ebay.com/itm/168540091894",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$29.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188660785822",
+      "url": "https://www.ebay.com/itm/188660785822",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$24.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327154752998",
+      "url": "https://www.ebay.com/itm/327154752998",
+      "title": "Sold May 19, 2026",
+      "price_text": "$28.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398009162736",
+      "url": "https://www.ebay.com/itm/398009162736",
+      "title": "Sold Jun 6, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267743519253",
+      "url": "https://www.ebay.com/itm/267743519253",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$31.97",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358791181701",
+      "url": "https://www.ebay.com/itm/358791181701",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$80.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257654370272",
+      "url": "https://www.ebay.com/itm/257654370272",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$45.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147309304658",
+      "url": "https://www.ebay.com/itm/147309304658",
+      "title": "Sold May 20, 2026",
+      "price_text": "$20.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398124879345",
+      "url": "https://www.ebay.com/itm/398124879345",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$40.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "389923010993",
+      "url": "https://www.ebay.com/itm/389923010993",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$8.38",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "198559060032",
+      "url": "https://www.ebay.com/itm/198559060032",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$60.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267706298959",
+      "url": "https://www.ebay.com/itm/267706298959",
+      "title": "Sold Jun 29, 2026",
+      "price_text": "$21.06",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358859898011",
+      "url": "https://www.ebay.com/itm/358859898011",
+      "title": "Sold Aug 6, 2026",
+      "price_text": "$100.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178194076687",
+      "url": "https://www.ebay.com/itm/178194076687",
+      "title": "Sold Jun 6, 2026",
+      "price_text": "$55.56",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407099982378",
+      "url": "https://www.ebay.com/itm/407099982378",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "137041393632",
+      "url": "https://www.ebay.com/itm/137041393632",
+      "title": "Sold May 27, 2026",
+      "price_text": "$97.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168544530453",
+      "url": "https://www.ebay.com/itm/168544530453",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$25.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267717821929",
+      "url": "https://www.ebay.com/itm/267717821929",
+      "title": "Sold Jul 7, 2026",
+      "price_text": "$39.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188594642178",
+      "url": "https://www.ebay.com/itm/188594642178",
+      "title": "Sold Jul 10, 2026",
+      "price_text": "$24.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "397968207100",
+      "url": "https://www.ebay.com/itm/397968207100",
+      "title": "Sold May 26, 2026",
+      "price_text": "$7.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127991166709",
+      "url": "https://www.ebay.com/itm/127991166709",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147439266934",
+      "url": "https://www.ebay.com/itm/147439266934",
+      "title": "Sold Jul 18, 2026",
+      "price_text": "$7.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407103392686",
+      "url": "https://www.ebay.com/itm/407103392686",
+      "title": "Sold Jul 28, 2026",
+      "price_text": "$69.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267729729501",
+      "url": "https://www.ebay.com/itm/267729729501",
+      "title": "Sold Jul 17, 2026",
+      "price_text": "$29.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398171517947",
+      "url": "https://www.ebay.com/itm/398171517947",
+      "title": "Sold Jul 20, 2026",
+      "price_text": "$7.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158090658056",
+      "url": "https://www.ebay.com/itm/158090658056",
+      "title": "Sold Jul 25, 2026",
+      "price_text": "$429.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398107927324",
+      "url": "https://www.ebay.com/itm/398107927324",
+      "title": "Sold Jul 2, 2026",
+      "price_text": "$5.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168470034761",
+      "url": "https://www.ebay.com/itm/168470034761",
+      "title": "Sold Jun 28, 2026",
+      "price_text": "$7.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "406935198640",
+      "url": "https://www.ebay.com/itm/406935198640",
+      "title": "Sold May 25, 2026",
+      "price_text": "$190.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "198521887343",
+      "url": "https://www.ebay.com/itm/198521887343",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$125.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158083690362",
+      "url": "https://www.ebay.com/itm/158083690362",
+      "title": "Sold Jul 21, 2026",
+      "price_text": "$95.44",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "396313676984",
+      "url": "https://www.ebay.com/itm/396313676984",
+      "title": "Sold May 16, 2026",
+      "price_text": "$80.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "336724016028",
+      "url": "https://www.ebay.com/itm/336724016028",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$9.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127862903551",
+      "url": "https://www.ebay.com/itm/127862903551",
+      "title": "Sold May 20, 2026",
+      "price_text": "$25.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188737451551",
+      "url": "https://www.ebay.com/itm/188737451551",
+      "title": "Sold Aug 10, 2026",
+      "price_text": "$1.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257663026435",
+      "url": "https://www.ebay.com/itm/257663026435",
+      "title": "Sold Aug 5, 2026",
+      "price_text": "$25.64",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "127994074652",
+      "url": "https://www.ebay.com/itm/127994074652",
+      "title": "Sold Aug 1, 2026",
+      "price_text": "$10.27",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398005584306",
+      "url": "https://www.ebay.com/itm/398005584306",
+      "title": "Sold Jun 5, 2026",
+      "price_text": "$16.58",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "188461197877",
+      "url": "https://www.ebay.com/itm/188461197877",
+      "title": "Sold Jun 19, 2026",
+      "price_text": "$35.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178171085899",
+      "url": "https://www.ebay.com/itm/178171085899",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$22.75",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307022386640",
+      "url": "https://www.ebay.com/itm/307022386640",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$54.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358777956341",
+      "url": "https://www.ebay.com/itm/358777956341",
+      "title": "Sold Jul 14, 2026",
+      "price_text": "$8.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147431451022",
+      "url": "https://www.ebay.com/itm/147431451022",
+      "title": "Sold Jul 30, 2026",
+      "price_text": "$89.80",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267680231812",
+      "url": "https://www.ebay.com/itm/267680231812",
+      "title": "Sold Jul 3, 2026",
+      "price_text": "$39.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "278028761244",
+      "url": "https://www.ebay.com/itm/278028761244",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$44.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377234581133",
+      "url": "https://www.ebay.com/itm/377234581133",
+      "title": "Sold Jun 6, 2026",
+      "price_text": "$59.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "256886432979",
+      "url": "https://www.ebay.com/itm/256886432979",
+      "title": "Sold Jul 19, 2026",
+      "price_text": "$39.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327232643972",
+      "url": "https://www.ebay.com/itm/327232643972",
+      "title": "Sold Jul 2, 2026",
+      "price_text": "$29.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398082064550",
+      "url": "https://www.ebay.com/itm/398082064550",
+      "title": "Sold Jun 25, 2026",
+      "price_text": "$12.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307069982124",
+      "url": "https://www.ebay.com/itm/307069982124",
+      "title": "Sold Jul 24, 2026",
+      "price_text": "$18.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358818091226",
+      "url": "https://www.ebay.com/itm/358818091226",
+      "title": "Sold Jul 24, 2026",
+      "price_text": "$8.09",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257497667726",
+      "url": "https://www.ebay.com/itm/257497667726",
+      "title": "Sold May 15, 2026",
+      "price_text": "$22.79",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "306966888644",
+      "url": "https://www.ebay.com/itm/306966888644",
+      "title": "Sold Jun 3, 2026",
+      "price_text": "$15.50",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267693712234",
+      "url": "https://www.ebay.com/itm/267693712234",
+      "title": "Sold Jun 9, 2026",
+      "price_text": "$135.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178325576575",
+      "url": "https://www.ebay.com/itm/178325576575",
+      "title": "Sold Aug 2, 2026",
+      "price_text": "$53.95",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168242088643",
+      "url": "https://www.ebay.com/itm/168242088643",
+      "title": "Sold May 16, 2026",
+      "price_text": "$28.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "407115051644",
+      "url": "https://www.ebay.com/itm/407115051644",
+      "title": "Sold Aug 3, 2026",
+      "price_text": "$19.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800254123670",
+      "url": "https://www.ebay.com/itm/800254123670",
+      "title": "Sold Jun 30, 2026",
+      "price_text": "$18.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "377231003249",
+      "url": "https://www.ebay.com/itm/377231003249",
+      "title": "Sold Jun 10, 2026",
+      "price_text": "$44.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366104298851",
+      "url": "https://www.ebay.com/itm/366104298851",
+      "title": "Sold Jun 21, 2026",
+      "price_text": "$19.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "178255537981",
+      "url": "https://www.ebay.com/itm/178255537981",
+      "title": "Sold Jun 29, 2026",
+      "price_text": "$23.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "307048096433",
+      "url": "https://www.ebay.com/itm/307048096433",
+      "title": "Sold Jul 13, 2026",
+      "price_text": "$30.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257464923389",
+      "url": "https://www.ebay.com/itm/257464923389",
+      "title": "Sold May 15, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257532063276",
+      "url": "https://www.ebay.com/itm/257532063276",
+      "title": "Sold May 28, 2026",
+      "price_text": "$22.49",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "298400433689",
+      "url": "https://www.ebay.com/itm/298400433689",
+      "title": "Sold Jun 16, 2026",
+      "price_text": "$25.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "358848387599",
+      "url": "https://www.ebay.com/itm/358848387599",
+      "title": "Sold Jul 31, 2026",
+      "price_text": "$8.09",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147260506321",
+      "url": "https://www.ebay.com/itm/147260506321",
+      "title": "Sold May 15, 2026",
+      "price_text": "$22.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "236843258919",
+      "url": "https://www.ebay.com/itm/236843258919",
+      "title": "Sold Jul 21, 2026",
+      "price_text": "$34.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168251457440",
+      "url": "https://www.ebay.com/itm/168251457440",
+      "title": "Sold Jun 4, 2026",
+      "price_text": "$117.77",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "267750664902",
+      "url": "https://www.ebay.com/itm/267750664902",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$300.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "257522464365",
+      "url": "https://www.ebay.com/itm/257522464365",
+      "title": "Sold May 24, 2026",
+      "price_text": "$354.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "277925836424",
+      "url": "https://www.ebay.com/itm/277925836424",
+      "title": "Sold May 23, 2026",
+      "price_text": "$12.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318560096832",
+      "url": "https://www.ebay.com/itm/318560096832",
+      "title": "Sold Jul 15, 2026",
+      "price_text": "$16.57",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "227433106174",
+      "url": "https://www.ebay.com/itm/227433106174",
+      "title": "Sold Jul 22, 2026",
+      "price_text": "$20.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "366288349700",
+      "url": "https://www.ebay.com/itm/366288349700",
+      "title": "Sold May 5, 2026",
+      "price_text": "$189.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "256512769002",
+      "url": "https://www.ebay.com/itm/256512769002",
+      "title": "Sold May 14, 2026",
+      "price_text": "$20.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "406840993291",
+      "url": "https://www.ebay.com/itm/406840993291",
+      "title": "Sold May 17, 2026",
+      "price_text": "$10.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "168235998266",
+      "url": "https://www.ebay.com/itm/168235998266",
+      "title": "Sold May 24, 2026",
+      "price_text": "$25.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "147387136617",
+      "url": "https://www.ebay.com/itm/147387136617",
+      "title": "Sold Jun 24, 2026",
+      "price_text": "$34.39",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "318400963976",
+      "url": "https://www.ebay.com/itm/318400963976",
+      "title": "Sold Jun 5, 2026",
+      "price_text": "$399.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117059915912",
+      "url": "https://www.ebay.com/itm/117059915912",
+      "title": "Sold Jun 14, 2026",
+      "price_text": "$121.50",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "327101461860",
+      "url": "https://www.ebay.com/itm/327101461860",
+      "title": "Sold May 31, 2026",
+      "price_text": "$49.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117260422689",
+      "url": "https://www.ebay.com/itm/117260422689",
+      "title": "Sold Jul 1, 2026",
+      "price_text": "$140.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "117192121599",
+      "url": "https://www.ebay.com/itm/117192121599",
+      "title": "Sold Jul 14, 2026",
+      "price_text": "$129.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "158141227169",
+      "url": "https://www.ebay.com/itm/158141227169",
+      "title": "Sold Aug 9, 2026",
+      "price_text": "$18.99",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "398050261121",
+      "url": "https://www.ebay.com/itm/398050261121",
+      "title": "Sold Jun 16, 2026",
+      "price_text": "$320.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "164147956205",
+      "url": "https://www.ebay.com/itm/164147956205",
+      "title": "Sold Jul 16, 2020",
+      "price_text": "$65.00",
+      "location_text": "Located in United States"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "135614930375",
+      "url": "https://www.ebay.com/itm/135614930375",
+      "title": "Sold Jun 28, 2026",
+      "price_text": "$74.27",
+      "location_text": "Located in United Kingdom"
+    },
+    {
+      "source": "ebay",
+      "listing_id": "800158280120",
+      "url": "https://www.ebay.com/itm/800158280120",
+      "title": "Sold Jun 11, 2026",
+      "price_text": "$18.99",
+      "location_text": "Located in United States"
+    }
+  ]
+}
