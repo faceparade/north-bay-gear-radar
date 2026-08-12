@@ -1,10 +1,19 @@
 .venv/
+node_modules/
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .pytest-output.txt
 site-qa.png
 site-qa-dom.html
+site-qa.spec.js
+test-results/
+playwright-report/
+qa-*.txt
+diff-*.txt
+marketplace-candidates.json
+oldfb.json
+tmp-candidate-images/
 *.log
 .DS_Store
 

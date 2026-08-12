@@ -43,3 +43,13 @@ uv run python scripts/refresh_and_publish.py --publish
 ```
 
 It refuses to overwrite good data if a collector fails, rebuilds the dashboard, runs the full regression suite, commits only changed research/site artifacts, and pushes when GitHub authentication is available.
+
+## Local schedule
+
+Windows Task Scheduler runs `scripts/run_scheduled_refresh.cmd` daily at 10:00 AM under the local user. The wrapper is silent on success, writes `data/refresh-failure.log` on failure, and shows a local actionable failure notification. Check prerequisites without collecting or publishing:
+
+```bash
+uv run python scripts/scheduled_refresh.py --check
+```
+
+The public dashboard also links to `site/buying-guide.html`, a budget-aware Windows 11 guide grounded in verified listing photos, seller disclosures, official compatibility pages, and separately labeled market evidence.

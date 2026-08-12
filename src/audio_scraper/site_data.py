@@ -155,12 +155,37 @@ def _attach_scores(records: Iterable[dict[str, Any]], shortlist: dict[str, Any])
         )
 
 
+def _attach_marketplace_triage(
+    records: Iterable[dict[str, Any]], triage: dict[str, Any]
+) -> None:
+    by_id = triage.get("listings", {})
+    for record in records:
+        if record.get("source") != "facebook":
+            continue
+        finding = by_id.get(record.get("listing_id"))
+        if not finding:
+            continue
+        record.update(
+            {
+                "model": finding.get("model") or record.get("model"),
+                "condition": finding.get("condition"),
+                "accessories": finding.get("accessories"),
+                "windows_status": finding.get("windows_status"),
+                "market": finding.get("market") or {},
+                "research_notes": finding.get("research_notes"),
+                "risk_flags": list(finding.get("risk_flags") or []),
+                "recommendation": finding.get("recommendation"),
+            }
+        )
+
+
 def build_site_payload(
     *,
     facebook: dict[str, Any],
     craigslist: dict[str, Any],
     shortlist: dict[str, Any],
     sold: dict[str, Any],
+    marketplace_triage: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     fb_all = [normalize_facebook_listing(row, facebook.get("as_of")) for row in facebook.get("listings", [])]
     excluded_fb = sum(row["category"] == "excluded" for row in fb_all)
@@ -172,6 +197,7 @@ def build_site_payload(
     )
     sold_rows = [normalize_sold_listing(row, sold.get("as_of")) for row in sold.get("listings", [])]
     _attach_scores(active, shortlist)
+    _attach_marketplace_triage(active, marketplace_triage or {})
     listings = sorted(
         active + sold_rows,
         key=lambda row: (
@@ -212,4 +238,5 @@ def build_site_payload_from_files(root: Path) -> dict[str, Any]:
         craigslist=load("data/normalized/craigslist.json"),
         shortlist=load("data/normalized/scored_shortlist.json"),
         sold=load("data/research/ebay_sold_exact_comparisons.json"),
+        marketplace_triage=load("data/research/marketplace_triage.json"),
     )

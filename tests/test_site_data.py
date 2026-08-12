@@ -5,6 +5,37 @@ from audio_scraper.site_data import (
 )
 
 
+def test_verified_marketplace_triage_is_attached_to_matching_listing():
+    payload = build_site_payload(
+        facebook={
+            "as_of": "2026-08-12T00:00:00Z",
+            "listings": [{"listing_id": "abc", "title": "Steinberg audio interface", "price_text": "$30"}],
+        },
+        craigslist={"accepted": []},
+        shortlist={"scored": []},
+        sold={"listings": []},
+        marketplace_triage={
+            "listings": {
+                "abc": {
+                    "model": "Steinberg UR22mkII",
+                    "condition": "Used-like-new",
+                    "accessories": "Cable unconfirmed",
+                    "windows_status": "Windows 11 supported",
+                    "market": {"used_low": 38, "used_high": 69},
+                    "research_notes": "Exact model confirmed from photos.",
+                    "risk_flags": ["accessories_unconfirmed"],
+                    "recommendation": "buy",
+                }
+            }
+        },
+    )
+    row = payload["listings"][0]
+    assert row["model"] == "Steinberg UR22mkII"
+    assert row["market"]["used_low"] == 38
+    assert row["recommendation"] == "buy"
+    assert row["risk_flags"] == ["accessories_unconfirmed"]
+
+
 def test_categorize_title_prefers_audio_interface_over_generic_recording_terms():
     assert categorize_title("Native Instruments Komplete Audio 2 USB Audio Interface") == "interfaces"
 

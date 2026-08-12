@@ -3,7 +3,12 @@ from pathlib import Path
 
 import pytest
 
-from scripts.refresh_and_publish import collection_is_healthy, refresh_craigslist, refresh_facebook
+from scripts.refresh_and_publish import (
+    collection_is_healthy,
+    publish_if_changed,
+    refresh_craigslist,
+    refresh_facebook,
+)
 
 
 def write_payload(path: Path, listings: int, failures: int = 0) -> None:
@@ -62,3 +67,24 @@ def test_facebook_refresh_restores_previous_data_on_failed_health_check(tmp_path
         refresh_facebook()
     assert json.loads(target.read_text(encoding="utf-8")) == original
     assert not target.with_suffix(".json.previous").exists()
+
+
+def test_publish_stages_catalog_and_scored_shortlist(monkeypatch, tmp_path):
+    import scripts.refresh_and_publish as module
+
+    monkeypatch.setattr(module, "ROOT", tmp_path)
+    commands = []
+
+    def fake_run(command):
+        commands.append(command)
+
+    class Changed:
+        returncode = 1
+
+    monkeypatch.setattr(module, "run", fake_run)
+    monkeypatch.setattr(module.subprocess, "run", lambda *args, **kwargs: Changed())
+    publish_if_changed()
+    add = commands[0]
+    assert add[:2] == ["git", "add"]
+    assert "data/research/catalog.json" in add
+    assert "data/normalized/scored_shortlist.json" in add

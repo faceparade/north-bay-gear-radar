@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12T11:20:25.785811-07:00",
+  "as_of": "2026-08-12T11:26:17.036845-07:00",
   "limitations": [
     "Used ranges are the central 20th-80th percentile of conservatively filtered exact-model eBay completed listings; shipping is not included.",
     "Sparse samples remain low-confidence. PreSonus monitor and subwoofer component ranges are combined; incomparable complete bundles are excluded.",
@@ -10,8 +10,8 @@
       "model": "Line 6 POD Studio UX2",
       "release_year": 2008,
       "msrp": 199.99,
-      "used_low": 21.99,
-      "used_high": 39.99,
+      "used_low": 32,
+      "used_high": 52,
       "sources": [
         "https://line6.com/software/index.html?hardware",
         "https://reverb.com/p/line-6-pod-studio-ux2",
@@ -20,8 +20,8 @@
       ],
       "windows_status": "Official download selector lists POD Studio UX2 and Windows 11; verify the current driver on the buyer's exact machine because owner reports still describe legacy-driver friction.",
       "compatibility_notes": "Two XLR mic preamps, +48 V phantom power, instrument inputs, direct/ToneDirect monitoring. Cheap functional bridge, not a modern long-horizon interface.",
-      "confidence": 0.95,
-      "sample_size": 24,
+      "confidence": 0.9,
+      "sample_size": 0,
       "notes": "Two XLR mic preamps, +48 V phantom power, instrument inputs, direct/ToneDirect monitoring. Cheap functional bridge, not a modern long-horizon interface."
     },
     {
@@ -47,7 +47,7 @@
       "release_year": 2023,
       "msrp": 324.98,
       "used_low": 199.95,
-      "used_high": 283.16,
+      "used_high": 269.97,
       "sources": [
         "https://www.presonus.com/products/eris-35-2nd-gen-pair",
         "https://www.presonus.com/products/eris-sub-8bt",
@@ -56,7 +56,7 @@
       "windows_status": "Analog monitoring system; no operating-system driver dependency.",
       "compatibility_notes": "Compact 2.1 system. Official current prices are $114.99 for Eris 3.5 pair and $209.99 for Sub 8BT. Confirm the ad really includes two 3.5 speakers, subwoofer, all power leads, and interconnects.",
       "confidence": 0.95,
-      "sample_size": 59,
+      "sample_size": 56,
       "notes": "Compact 2.1 system. Official current prices are $114.99 for Eris 3.5 pair and $209.99 for Sub 8BT. Confirm the ad really includes two 3.5 speakers, subwoofer, all power leads, and interconnects."
     },
     {

@@ -120,9 +120,11 @@ function renderCard(row) {
     fact("Market", market.used_low != null ? `${currency.format(market.used_low)}–${currency.format(market.used_high)}` : null),
     fact("Evidence", market.sample_size ? `${market.sample_size} sold comps` : null),
     fact("Rank", row.rank ? `#${row.rank}` : null),
+    fact("Verdict", row.recommendation ? titleCase(row.recommendation) : null),
+    fact("Condition", row.condition),
   ].join("");
   const notes = fragment.querySelector(".notes");
-  notes.textContent = row.research_notes || row.description || "";
+  notes.textContent = [row.research_notes || row.description, row.accessories ? `Accessories: ${row.accessories}` : ""].filter(Boolean).join(" ");
   notes.hidden = !notes.textContent;
   fragment.querySelector(".risk-flags").innerHTML = (row.risk_flags || []).map(flag => `<span class="risk">${flag.replaceAll("_", " ")}</span>`).join("");
   const link = fragment.querySelector(".listing-link");

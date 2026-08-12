@@ -97,6 +97,8 @@ def publish_if_changed() -> None:
         "data/normalized/craigslist.json",
         "data/checkpoints/facebook_expanded_discovery.json",
         "data/research/ebay_sold_exact_comparisons.json",
+        "data/research/catalog.json",
+        "data/normalized/scored_shortlist.json",
         "data/normalized/listings.json",
         "site/data/listings.json",
     ]

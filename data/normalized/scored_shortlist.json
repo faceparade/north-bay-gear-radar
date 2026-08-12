@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12T11:20:25.785811-07:00",
+  "as_of": "2026-08-12T11:26:17.036845-07:00",
   "scored": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "risk_flags": [],
       "market": {
         "used_low": 199.95,
-        "used_high": 283.16,
+        "used_high": 269.97,
         "confidence": 0.95,
-        "sample_size": 59
+        "sample_size": 56
       },
       "score_inputs": {
         "gap_fit": 25,
@@ -27,14 +27,14 @@
         "asking_price": 225.0,
         "pricing": {
           "used_low": 199.95,
-          "used_high": 283.16,
+          "used_high": 269.97,
           "confidence": 0.95
         },
         "risk_flags": []
       },
       "score": {
-        "total": 93.8,
-        "value_points": 14.8,
+        "total": 93.24,
+        "value_points": 14.24,
         "penalty_points": 0.0,
         "notes": []
       },
@@ -48,6 +48,56 @@
     },
     {
       "rank": 2,
+      "model": "Line 6 POD Studio UX2",
+      "role": "audio_interface",
+      "asking_price": 25.0,
+      "listing_url": "https://www.craigslist.org/view/d/petaluma-line-ux2-usb-audio-interface/p7AM2pygzjzJpjgborjiET",
+      "distance_miles": 8.096848991164558,
+      "posted_at": "2026-08-07T10:58:09-07:00",
+      "risk_flags": [
+        "legacy_driver_risk"
+      ],
+      "market": {
+        "used_low": 32,
+        "used_high": 52,
+        "confidence": 0.9,
+        "sample_size": 0
+      },
+      "score_inputs": {
+        "gap_fit": 30,
+        "condition": 10,
+        "compatibility": 6,
+        "completeness": 8,
+        "freshness_proximity": 9,
+        "fun_factor": 6,
+        "resale_safety": 6,
+        "asking_price": 25.0,
+        "pricing": {
+          "used_low": 32,
+          "used_high": 52,
+          "confidence": 0.9
+        },
+        "risk_flags": [
+          "legacy_driver_risk"
+        ]
+      },
+      "score": {
+        "total": 90.33,
+        "value_points": 21.33,
+        "penalty_points": 6.0,
+        "notes": []
+      },
+      "research_notes": "Two XLR mic preamps, +48 V phantom power, instrument inputs, direct/ToneDirect monitoring. Cheap functional bridge, not a modern long-horizon interface.",
+      "windows_status": "Official download selector lists POD Studio UX2 and Windows 11; verify the current driver on the buyer's exact machine because owner reports still describe legacy-driver friction.",
+      "sources": [
+        "https://line6.com/software/index.html?hardware",
+        "https://reverb.com/p/line-6-pod-studio-ux2",
+        "https://applink.reverb.com/item/90606891-line-6-pod-studio-ux2-usb-audio-interface-2010s-black?show_sold",
+        "https://line6.com/data/l/0a060b4ddf5e4bb4c0e1e7d68/application/pdf/POD_Farm_2_Basic_User_Guide.pdf"
+      ]
+    },
+    {
+      "rank": 3,
       "model": "Elektron Digitone (original)",
       "role": "standalone_synth",
       "asking_price": 400.0,
@@ -92,7 +142,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "model": "Mackie ProFX10v3",
       "role": "usb_mixer",
       "asking_price": 190.0,
@@ -134,56 +184,6 @@
         "https://mackie.com/en/products/mixers/profxv3-series/ProFX10v3.html",
         "https://reverb.com/item/97064142?show_sold=true",
         "https://applink.reverb.com/item/91228900-mackie-profx10v3-10-channel-mixer-used"
-      ]
-    },
-    {
-      "rank": 4,
-      "model": "Line 6 POD Studio UX2",
-      "role": "audio_interface",
-      "asking_price": 25.0,
-      "listing_url": "https://www.craigslist.org/view/d/petaluma-line-ux2-usb-audio-interface/p7AM2pygzjzJpjgborjiET",
-      "distance_miles": 8.096848991164558,
-      "posted_at": "2026-08-07T10:58:09-07:00",
-      "risk_flags": [
-        "legacy_driver_risk"
-      ],
-      "market": {
-        "used_low": 21.99,
-        "used_high": 39.99,
-        "confidence": 0.95,
-        "sample_size": 24
-      },
-      "score_inputs": {
-        "gap_fit": 30,
-        "condition": 10,
-        "compatibility": 6,
-        "completeness": 8,
-        "freshness_proximity": 9,
-        "fun_factor": 6,
-        "resale_safety": 6,
-        "asking_price": 25.0,
-        "pricing": {
-          "used_low": 21.99,
-          "used_high": 39.99,
-          "confidence": 0.95
-        },
-        "risk_flags": [
-          "legacy_driver_risk"
-        ]
-      },
-      "score": {
-        "total": 85.12,
-        "value_points": 16.12,
-        "penalty_points": 6.0,
-        "notes": []
-      },
-      "research_notes": "Two XLR mic preamps, +48 V phantom power, instrument inputs, direct/ToneDirect monitoring. Cheap functional bridge, not a modern long-horizon interface.",
-      "windows_status": "Official download selector lists POD Studio UX2 and Windows 11; verify the current driver on the buyer's exact machine because owner reports still describe legacy-driver friction.",
-      "sources": [
-        "https://line6.com/software/index.html?hardware",
-        "https://reverb.com/p/line-6-pod-studio-ux2",
-        "https://applink.reverb.com/item/90606891-line-6-pod-studio-ux2-usb-audio-interface-2010s-black?show_sold",
-        "https://line6.com/data/l/0a060b4ddf5e4bb4c0e1e7d68/application/pdf/POD_Farm_2_Basic_User_Guide.pdf"
       ]
     },
     {

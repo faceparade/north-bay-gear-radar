@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:26:17.261229+00:00",
+  "generated_at": "2026-08-12T19:02:55.124576+00:00",
   "source_as_of": {
     "facebook": "2026-08-12T11:25:27.805444-07:00",
     "ebay_sold": "2026-08-12T11:26:16.740994-07:00"
@@ -495,7 +495,23 @@
       "discovery_queries": [
         "USB audio interface",
         "2 input audio interface"
-      ]
+      ],
+      "model": "Steinberg UR22mkII",
+      "condition": "Seller describes it as used-like-new and barely used; photos show light surface dust/wear but no obvious impact damage.",
+      "accessories": "No USB cable, box, or power supply is shown or promised. It normally works over USB bus power; verify a USB-A-to-USB-B cable is included or budget for one.",
+      "windows_status": "Official Steinberg specifications include Windows 11 64-bit. Two D-PRE mic preamps, two combo inputs, direct monitoring, MIDI I/O, and 24-bit/192 kHz make it the best fit of these interface listings for simultaneous jam recording.",
+      "market": {
+        "used_low": 38,
+        "used_high": 69,
+        "source": "Reverb price guide",
+        "url": "https://reverb.com/p/steinberg-ur22mkii-2x2-usb-2-dot-0-audio-interface"
+      },
+      "research_notes": "Exact model confirmed from the front-panel UR22mkII marking and rear USB 2.0/MIDI layout. At $30 it is below the current $38–$69 Reverb used estimate. Strong buy only after testing both inputs, headphone output, monitor outputs, MIDI, gain knobs, and USB connection.",
+      "risk_flags": [
+        "accessories_unconfirmed",
+        "test_before_buy"
+      ],
+      "recommendation": "buy"
     },
     {
       "source": "facebook",
@@ -1006,7 +1022,24 @@
         "home recording studio",
         "audio interphase",
         "mezcladora audio"
-      ]
+      ],
+      "model": "Focusrite Scarlett Solo 2nd Gen",
+      "condition": "Seller describes it as used-good but explicitly says the headphone jack is finicky/broken and direct headphone monitoring may be unreliable. Photos show cosmetic scratches on the red shell.",
+      "accessories": "Original USB cable and box are included.",
+      "windows_status": "Focusrite currently provides a Windows 10/11 driver for Scarlett Solo 2nd Gen. It has one microphone preamp plus one instrument/line input, so it cannot record two microphones at once.",
+      "market": {
+        "used_low": 54,
+        "used_high": 75,
+        "source": "Current used listing/market context for working units",
+        "url": "https://equipboard.com/items/focusrite-scarlett-solo-2nd-gen"
+      },
+      "research_notes": "Photos identify the 2nd Gen layout (no Air control and older USB-B generation), not a 3rd Gen. A working unit around $50 would be reasonable, but $50 with a broken headphone jack is poor value. Pass unless it tests perfectly through monitor outputs and the price falls near $20–$25.",
+      "risk_flags": [
+        "seller_disclosed_defect",
+        "one_mic_preamp",
+        "not_third_gen"
+      ],
+      "recommendation": "pass"
     },
     {
       "source": "facebook",
@@ -1091,7 +1124,25 @@
       ],
       "discovery_queries": [
         "audio interphase"
-      ]
+      ],
+      "model": "MOTU UltraLite (original / Mk1, FireWire only)",
+      "condition": "Seller marks it fair and discloses damage to the main volume knob while claiming the unit still works. Photos show a heavily worn/dusty enclosure and visible control-area wear.",
+      "accessories": "No power adapter or FireWire cable is shown or promised. The rear photo shows FireWire ports and no USB port.",
+      "windows_status": "This is the original 24-bit/96 kHz FireWire-only UltraLite, not the later Mk3 Hybrid. MOTU's current Windows 11 installer support cited for the Mk3 Hybrid does not establish support for this original model. A modern Windows laptop would also need a compatible FireWire host/adapter chain.",
+      "market": {
+        "used_low": 65,
+        "used_high": 144,
+        "source": "Current eBay ask and archived Reverb listing context; not an exact sold range",
+        "url": "https://www.ebay.com/b/MOTU-FireWire-Audio-Interface-Audio-MIDI-Interfaces/123445/bn_7438252"
+      },
+      "research_notes": "The $50 price is explained by the original FireWire-only generation, fair condition, and damaged volume control. It is not a practical Windows 11 foundation for this setup; pass unless buying as a repair/legacy-computer experiment.",
+      "risk_flags": [
+        "firewire_only",
+        "seller_disclosed_defect",
+        "power_supply_unconfirmed",
+        "windows_11_support_unconfirmed"
+      ],
+      "recommendation": "pass"
     },
     {
       "source": "facebook",
@@ -1483,7 +1534,24 @@
       ],
       "discovery_queries": [
         "audio interphase"
-      ]
+      ],
+      "model": "Native Instruments Komplete Audio 2",
+      "condition": "Seller describes it as used-like-new, excellent working order, and minimally worn. The listing includes a short demo video and multiple photos.",
+      "accessories": "USB cable/box inclusion is not clearly promised in the description; confirm before buying.",
+      "windows_status": "Native Instruments lists PC compatibility through ASIO/DirectSound/WASAPI. The official page names Windows 10 rather than Windows 11, so current Windows 11 operation should be confirmed with the seller or NI support. It provides two mic/line/instrument inputs and balanced monitor outputs.",
+      "market": {
+        "used_low": 55.99,
+        "used_high": 60,
+        "source": "Recent Reverb final-price examples (June–July 2026)",
+        "url": "https://reverb.com/item/98423924-native-instruments-komplete-audio-2-usb-audio-interface-2019-present-black"
+      },
+      "research_notes": "The $70 firm ask plus $7.60 shipping is above the two recent Reverb sale examples. Good two-preamp design, but not compelling beside the local $30 UR22mkII. Offer about $55–$60 delivered, otherwise pass.",
+      "risk_flags": [
+        "windows_11_not_explicit_on_product_page",
+        "accessories_unconfirmed",
+        "shipped_listing"
+      ],
+      "recommendation": "offer"
     },
     {
       "source": "craigslist",
