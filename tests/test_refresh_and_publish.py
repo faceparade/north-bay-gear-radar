@@ -5,6 +5,7 @@ import pytest
 
 from scripts.refresh_and_publish import (
     collection_is_healthy,
+    facebook_details_are_healthy,
     publish_if_changed,
     prune_unreferenced_public_thumbnails,
     refresh_craigslist,
@@ -25,6 +26,41 @@ def test_collection_health_requires_minimum_rows_and_no_failures(tmp_path):
     assert not collection_is_healthy(target, minimum=40)
     write_payload(target, 50, failures=1)
     assert not collection_is_healthy(target, minimum=40)
+
+
+def test_facebook_detail_health_requires_broad_detail_coverage(tmp_path):
+    target = tmp_path / "facebook.json"
+    target.write_text(json.dumps({
+        "detail_collection_scope": "placeholder_prices",
+        "details_attempted": 100,
+        "details_fetched_current": 75,
+    }), encoding="utf-8")
+    assert facebook_details_are_healthy(target)
+    payload = {
+        "detail_collection_scope": "placeholder_prices",
+        "details_attempted": 100,
+        "details_fetched_current": 74,
+    }
+    target.write_text(json.dumps(payload), encoding="utf-8")
+    assert not facebook_details_are_healthy(target)
+
+    target.write_text(json.dumps({
+        "detail_collection_scope": "placeholder_prices",
+        "details_attempted": 0,
+        "details_fetched_current": 0,
+    }), encoding="utf-8")
+    assert facebook_details_are_healthy(target)
+
+
+def test_gallery_does_not_clamp_notes_and_displays_price_and_time_provenance():
+    root = Path(__file__).resolve().parents[1]
+    css = (root / "site" / "styles.css").read_text(encoding="utf-8")
+    app = (root / "site" / "app.js").read_text(encoding="utf-8")
+    assert "line-clamp" not in css
+    assert "white-space: pre-line" in css
+    assert 'fact(row.listing_type === "sold" ? "Observed" : "Listed"' in app
+    assert 'multiple_prices: "Multiple prices"' in app
+    assert "reconcileSavedPrices();" in app
 
 
 def test_craigslist_refresh_runs_collection_and_inspection(monkeypatch, tmp_path):

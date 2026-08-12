@@ -11,7 +11,7 @@ _FACEBOOK = r'''(()=>{
     if(!text) continue;
     seen.add(m[1]);
     const lines=text.split('\n').map(x=>x.trim()).filter(Boolean);
-    const price=(text.match(/\$[\d,.]+/)||[])[0]||'';
+    const price=(text.match(/\$[\d,.]+|\bFREE\b/i)||[])[0]||'';
     const title=lines.filter(x=>x!==price)[0]||text;
     const location=lines.find(x=>/\b(mi|miles|Novato|San Rafael|Petaluma|Sonoma|Marin)\b/i.test(x))||'';
     const image=a.querySelector('img');

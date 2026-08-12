@@ -45,6 +45,34 @@ function listingPrice(row) {
   return row.listing_type === "sold" ? row.sold_price : row.asking_price;
 }
 
+function listingTime(row) {
+  if (row.posted_at) return localDate(row.posted_at);
+  if (row.listing_age_text) return `${row.listing_age_text} (source-reported)`;
+  return "Not available from source";
+}
+
+function activePricePresentation(row) {
+  if (row.asking_price != null) {
+    const kinds = {
+      verified_detail: "verified detail price",
+      verified_description: "verified description price",
+      verified_detail_free: "confirmed free listing",
+    };
+    return {
+      value: currency.format(row.asking_price),
+      kind: kinds[row.price_status] || "headline asking price",
+    };
+  }
+  const labels = {
+    multiple_prices: "Multiple prices",
+    make_offer: "Make offer",
+    unclear_arrangement: "Trade / unclear price",
+    placeholder_unverified: "Price unknown",
+    missing: "Price unknown",
+  };
+  return { value: labels[row.price_status] || "Price unknown", kind: "headline is a placeholder" };
+}
+
 function localDate(value) {
   if (!value) return "Not recorded";
   const date = new Date(value);
@@ -120,6 +148,20 @@ function toggleSaved(row) {
   render();
 }
 
+function reconcileSavedPrices() {
+  const live = new Map(state.data.listings.map(row => [keyFor(row), row]));
+  let changed = false;
+  Object.entries(state.saved).forEach(([key, saved]) => {
+    const row = live.get(key);
+    const verifiedPrice = row?.listing_type === "active" && row.asking_price != null ? row.asking_price : null;
+    if (saved.price !== verifiedPrice) {
+      saved.price = verifiedPrice;
+      changed = true;
+    }
+  });
+  if (changed) persistSaved();
+}
+
 function renderCard(row) {
   const fragment = $("#listingTemplate").content.cloneNode(true);
   const article = fragment.querySelector("article");
@@ -137,9 +179,11 @@ function renderCard(row) {
   }
   fragment.querySelector("h3").textContent = row.title;
   fragment.querySelector(".model-line").textContent = row.model && row.model !== row.title ? row.model : "";
-  const price = listingPrice(row);
-  fragment.querySelector(".price").textContent = price == null ? "Ask seller" : currency.format(price);
-  fragment.querySelector(".price-kind").textContent = row.listing_type === "sold" ? "sold price" : "asking price";
+  const presentation = row.listing_type === "sold"
+    ? { value: row.sold_price == null ? "Price unavailable" : currency.format(row.sold_price), kind: "sold price" }
+    : activePricePresentation(row);
+  fragment.querySelector(".price").textContent = presentation.value;
+  fragment.querySelector(".price-kind").textContent = presentation.kind;
   if (row.score != null) {
     fragment.querySelector(".score-block").hidden = false;
     fragment.querySelector(".score").textContent = row.score.toFixed(1);
@@ -147,12 +191,19 @@ function renderCard(row) {
   const market = row.market || {};
   fragment.querySelector(".facts").innerHTML = [
     fact("Location", row.location_text), fact("Distance", row.distance_miles != null ? `${row.distance_miles.toFixed(1)} mi` : null),
+    fact(row.listing_type === "sold" ? "Observed" : "Listed", row.listing_type === "sold" ? localDate(row.observed_at) : listingTime(row)),
+    fact("Updated", row.updated_at ? localDate(row.updated_at) : null),
     fact("Market", market.used_low != null ? `${currency.format(market.used_low)}–${currency.format(market.used_high)}` : null),
     fact("Evidence", market.sample_size ? `${market.sample_size} sold comps` : null), fact("Rank", row.rank ? `#${row.rank}` : null),
     fact("Verdict", row.recommendation ? titleCase(row.recommendation) : null), fact("Condition", row.condition),
   ].join("");
   const notes = fragment.querySelector(".notes");
-  notes.textContent = [row.research_notes || row.description, row.accessories ? `Accessories: ${row.accessories}` : ""].filter(Boolean).join(" ");
+  notes.textContent = [
+    row.price_note,
+    row.research_notes,
+    row.description,
+    row.accessories ? `Accessories: ${row.accessories}` : "",
+  ].filter(Boolean).join("\n\n");
   notes.hidden = !notes.textContent;
   fragment.querySelector(".risk-flags").innerHTML = (row.risk_flags || []).map(flag => `<span class="risk">${escapeHtml(String(flag).replaceAll("_", " "))}</span>`).join("");
   const save = fragment.querySelector(".save-button");
@@ -233,6 +284,7 @@ async function boot() {
     const response = await fetch("data/listings.json", { cache: "no-store" });
     if (!response.ok) throw new Error(`Data request failed: ${response.status}`);
     state.data = await response.json();
+    reconcileSavedPrices();
     renderStats(); renderFilters(); wireControls(); render();
   } catch (error) {
     $("#listingGrid").innerHTML = `<div class="empty"><strong>Could not load listing data.</strong><p>${escapeHtml(error.message)}</p></div>`;

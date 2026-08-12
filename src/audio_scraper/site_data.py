@@ -51,6 +51,116 @@ def parse_price(value: Any) -> float | None:
     return float(match.group(1).replace(",", "")) if match else None
 
 
+PLACEHOLDER_PRICES = {0.0, 1.0, 123.0, 1234.0, 12345.0}
+
+
+def _money_values(value: Any) -> list[float]:
+    return [
+        float(match.replace(",", ""))
+        for match in re.findall(r"\$\s*([0-9][0-9,]*(?:\.[0-9]{1,2})?)", _text(value))
+    ]
+
+
+def _facebook_price_evidence(row: dict[str, Any]) -> dict[str, Any]:
+    """Separate a Marketplace search-card number from a credible asking price."""
+
+    headline = parse_price(row.get("price_text"))
+    detail = parse_price(row.get("detail_price_text"))
+    description = _text(row.get("description")).strip()
+    description_prices = list(dict.fromkeys(_money_values(description)))
+    free_headline = bool(re.search(r"\bfree\b", _text(row.get("price_text")), flags=re.I))
+    placeholder = headline in PLACEHOLDER_PRICES or free_headline
+    offer_only = bool(re.search(
+        r"\b(?:make|send|shoot|message me with)\s+(?:me\s+)?(?:an?\s+)?offers?\b|\baccepting\s+(?:real\s+)?offers?\b",
+        f"{row.get('title', '')} {description}",
+        flags=re.I,
+    ))
+    trade_or_unclear = bool(re.search(
+        r"\b(?:trade(?:s|d)?|swap|deposit|down payment|per item|each item|starting at)\b",
+        description,
+        flags=re.I,
+    ))
+    explicit_ask = bool(re.search(
+        r"(?:\b(?:asking|ask|price(?:\s+is)?|selling(?:\s+it)?\s+for|sell(?:\s+it)?\s+for|take)\b[^$\n]{0,24}\$\s*[0-9])"
+        r"|(?:\$\s*[0-9][0-9,]*(?:\.[0-9]{1,2})?\s*(?:obo|firm)\b)",
+        description,
+        flags=re.I,
+    ))
+    actual_free = (
+        free_headline
+        and bool(re.search(r"\b(?:actually free|free to (?:a )?good home|giving (?:it|this|them) away|no charge|curb alert)\b", description, flags=re.I))
+        and not re.search(r"\b(?:not free|want something for free)\b", description, flags=re.I)
+        and not offer_only
+        and not description_prices
+    )
+
+    if headline is None and not free_headline:
+        return {
+            "headline_price": None,
+            "asking_price": None,
+            "price_status": "missing",
+            "price_note": "The source did not provide a usable asking price.",
+        }
+    if not placeholder:
+        return {
+            "headline_price": headline,
+            "asking_price": detail if detail is not None and detail != headline else headline,
+            "price_status": "verified_detail" if detail is not None and detail != headline else "headline",
+            "price_note": "Price shown on the listing detail page." if detail is not None and detail != headline else "Headline asking price; detail text was not required for placeholder validation.",
+        }
+    if actual_free:
+        return {
+            "headline_price": headline,
+            "asking_price": 0.0,
+            "price_status": "verified_detail_free",
+            "price_note": "The detail description confirms that the item is actually free.",
+        }
+    if detail is not None and detail not in PLACEHOLDER_PRICES:
+        return {
+            "headline_price": headline,
+            "asking_price": detail,
+            "price_status": "verified_detail",
+            "price_note": f"Detail page shows ${detail:,.0f}; the search card's ${headline:,.0f} was stale or promotional.",
+        }
+    if len(description_prices) > 1:
+        shown = ", ".join(f"${price:,.0f}" for price in description_prices[:6])
+        return {
+            "headline_price": headline,
+            "asking_price": None,
+            "price_status": "multiple_prices",
+            "price_note": f"Placeholder headline. Description lists separate prices ({shown}); no single asking price.",
+        }
+    if offer_only:
+        return {
+            "headline_price": headline,
+            "asking_price": None,
+            "price_status": "make_offer",
+            "price_note": "Placeholder headline. Seller requests offers; no fixed asking price is stated.",
+        }
+    if trade_or_unclear:
+        return {
+            "headline_price": headline,
+            "asking_price": None,
+            "price_status": "unclear_arrangement",
+            "price_note": "Placeholder headline. The description describes a trade or unclear price arrangement.",
+        }
+    if len(description_prices) == 1 and explicit_ask:
+        supported = description_prices[0]
+        return {
+            "headline_price": headline,
+            "asking_price": supported,
+            "price_status": "verified_description",
+            "price_note": f"Description states one unambiguous asking price: ${supported:,.0f}.",
+        }
+    displayed = "FREE" if free_headline else f"${headline:,.0f}"
+    return {
+        "headline_price": headline,
+        "asking_price": None,
+        "price_status": "placeholder_unverified",
+        "price_note": f"The {displayed} headline may be promotional and is not a verified asking price.",
+    }
+
+
 def categorize_title(title: str) -> str:
     lowered = " ".join(title.lower().split())
     if not lowered or lowered in {"just listed", "partner listing"}:
@@ -72,7 +182,7 @@ def categorize_title(title: str) -> str:
 
 
 def normalize_facebook_listing(row: dict[str, Any], as_of: str | None) -> dict[str, Any]:
-    title = _text(row.get("title")).strip()
+    title = _text(row.get("detail_title") or row.get("title")).strip()
     category = categorize_title(title)
     record: dict[str, Any] = {
         "source": "facebook",
@@ -81,8 +191,11 @@ def normalize_facebook_listing(row: dict[str, Any], as_of: str | None) -> dict[s
         "url": _text(row.get("url")),
         "title": title,
         "category": category,
-        "asking_price": parse_price(row.get("price_text")),
         "price_text": _text(row.get("price_text")),
+        "detail_price_text": _text(row.get("detail_price_text")),
+        "description": _text(row.get("description")),
+        "condition": _text(row.get("condition")),
+        "listing_age_text": _text(row.get("listing_age_text")),
         "location_text": _text(row.get("location_text")),
         "thumbnail_url": _text(row.get("thumbnail_path")),
         "observed_at": as_of,
@@ -90,6 +203,7 @@ def normalize_facebook_listing(row: dict[str, Any], as_of: str | None) -> dict[s
         "discovery_groups": list(row.get("discovery_groups") or []),
         "discovery_queries": list(row.get("discovery_queries") or []),
     }
+    record.update(_facebook_price_evidence(row))
     return record
 
 
@@ -182,6 +296,19 @@ def _attach_marketplace_triage(
         )
 
 
+def _remove_price_dependent_guidance(records: Iterable[dict[str, Any]]) -> None:
+    """Never rank or recommend an active listing whose real ask is unknown."""
+    for record in records:
+        if record.get("listing_type") != "active" or record.get("asking_price") is not None:
+            continue
+        for field in ("rank", "score", "market", "recommendation", "research_notes"):
+            record.pop(field, None)
+        flags = list(record.get("risk_flags") or [])
+        if "unverified_asking_price" not in flags:
+            flags.append("unverified_asking_price")
+        record["risk_flags"] = flags
+
+
 def build_site_payload(
     *,
     facebook: dict[str, Any],
@@ -201,6 +328,7 @@ def build_site_payload(
     sold_rows = [normalize_sold_listing(row, sold.get("as_of")) for row in sold.get("listings", [])]
     _attach_scores(active, shortlist)
     _attach_marketplace_triage(active, marketplace_triage or {})
+    _remove_price_dependent_guidance(active)
     listings = sorted(
         active + sold_rows,
         key=lambda row: (

@@ -86,6 +86,212 @@ def test_normalize_facebook_listing_preserves_link_and_marks_discovery_state():
     assert record["new_discovery"] is True
 
 
+def test_placeholder_facebook_price_is_not_treated_as_an_asking_price_without_detail_evidence():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "bait",
+            "title": "DJ equipment - message with offers",
+            "price_text": "$1",
+            "location_text": "Novato, CA",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["headline_price"] == 1.0
+    assert record["asking_price"] is None
+    assert record["price_status"] == "placeholder_unverified"
+    assert "not a verified asking price" in record["price_note"]
+
+
+def test_detail_page_replacement_price_supersedes_stale_placeholder_headline():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "reduced",
+            "title": "Alesis Strike Multi Pad bundle",
+            "price_text": "$1",
+            "detail_price_text": "$1,500",
+            "description": "Alesis Strike Multi Pad with three speakers and stands.",
+            "listing_age_text": "31 weeks ago",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["headline_price"] == 1.0
+    assert record["asking_price"] == 1500.0
+    assert record["price_status"] == "verified_detail"
+    assert record["listing_age_text"] == "31 weeks ago"
+
+
+def test_one_unambiguous_description_price_can_validate_a_placeholder():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "description-price",
+            "title": "Rack effects unit",
+            "price_text": "$1",
+            "detail_price_text": "$1",
+            "description": "Clean and fully working. Asking $500 OBO.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] == 500.0
+    assert record["price_status"] == "verified_description"
+
+
+def test_trade_or_unclear_single_description_amount_stays_unpriced():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "trade",
+            "title": "Synth trade",
+            "price_text": "$123",
+            "description": "Trade for another synth plus $300 cash.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] is None
+    assert record["price_status"] == "unclear_arrangement"
+
+
+def test_offer_request_with_a_non_ask_amount_stays_unpriced():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "offer-with-value",
+            "title": "Audio lot",
+            "price_text": "$1",
+            "description": "Paid $500 new. Make me an offer.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] is None
+    assert record["price_status"] == "make_offer"
+
+
+def test_single_historical_amount_without_ask_language_stays_unpriced():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "historical-value",
+            "title": "Audio interface",
+            "price_text": "$1",
+            "description": "Paid $500 new. Barely used.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] is None
+    assert record["price_status"] == "placeholder_unverified"
+
+
+def test_unpriced_placeholder_cannot_inherit_rank_or_buying_guidance():
+    payload = build_site_payload(
+        facebook={
+            "as_of": "2026-08-12T12:00:00-07:00",
+            "listings": [{
+                "listing_id": "bait",
+                "url": "https://www.facebook.com/marketplace/item/bait",
+                "title": "Audio interface",
+                "price_text": "$1",
+                "description": "Message for the price.",
+            }],
+        },
+        craigslist={"accepted": []},
+        shortlist={"scored": [{
+            "listing_url": "https://www.facebook.com/marketplace/item/bait",
+            "rank": 1,
+            "score": {"total": 9.8},
+            "market": {"used_low": 100, "used_high": 200},
+            "research_notes": "Old bargain guidance based on the $1 headline.",
+        }]},
+        sold={"as_of": "2026-08-12T12:00:00-07:00", "listings": []},
+        marketplace_triage={"listings": {"bait": {
+            "recommendation": "strong-buy",
+            "research_notes": "Buy immediately.",
+            "market": {"used_low": 100, "used_high": 200},
+        }}},
+    )
+    row = payload["listings"][0]
+    assert row["asking_price"] is None
+    assert row.get("score") is None
+    assert row.get("rank") is None
+    assert row.get("market") is None
+    assert row.get("recommendation") is None
+    assert row.get("research_notes") is None
+    assert "unverified_asking_price" in row["risk_flags"]
+
+
+def test_placeholder_lot_with_multiple_description_prices_stays_unpriced():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "lot",
+            "title": "Guitar effects pedals",
+            "price_text": "$1",
+            "detail_price_text": "$1",
+            "description": "Mooer pedal $30. Boost pedal $60. Ditto pedal $80 or $150 for all 3.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] is None
+    assert record["price_status"] == "multiple_prices"
+    assert "$30" in record["price_note"]
+
+
+def test_offer_only_placeholder_stays_unpriced():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "offer",
+            "title": "DJ equipment - message with offers",
+            "price_text": "$1",
+            "description": "Everything works. Shoot me an offer for everything or individual items.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] is None
+    assert record["price_status"] == "make_offer"
+
+
+def test_sequential_1234_detail_price_with_offer_language_stays_unpriced():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "drum-lot",
+            "title": "Tons of drums and cymbals",
+            "price_text": "$1",
+            "detail_price_text": "$1,234",
+            "description": "Five drum sets, cymbals, and racks. Accepting real offers.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] is None
+    assert record["price_status"] == "make_offer"
+
+
+def test_non_placeholder_facebook_value_is_labeled_as_a_headline_price():
+    record = normalize_facebook_listing(
+        {"listing_id": "normal", "title": "Audio interface", "price_text": "$60"},
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] == 60.0
+    assert record["price_status"] == "headline"
+
+
+def test_free_facebook_headline_is_not_assumed_to_be_a_real_zero_dollar_ask():
+    record = normalize_facebook_listing(
+        {"listing_id": "free", "title": "Free keyboard", "price_text": "FREE"},
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] is None
+    assert record["price_status"] == "placeholder_unverified"
+    assert "not a verified asking price" in record["price_note"]
+
+
+def test_free_facebook_headline_requires_explicit_detail_confirmation():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "actually-free",
+            "title": "Keyboard",
+            "price_text": "FREE",
+            "description": "Giving it away to a good home. No charge.",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["asking_price"] == 0.0
+    assert record["price_status"] == "verified_detail_free"
+
+
 def test_build_site_payload_keeps_active_asks_and_sold_values_distinct():
     payload = build_site_payload(
         facebook={

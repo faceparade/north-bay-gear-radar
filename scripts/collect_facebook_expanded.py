@@ -9,7 +9,8 @@ from pathlib import Path
 from urllib.parse import quote_plus
 
 from audio_scraper.cdp_browser import CdpPage, cdp_targets, choose_page_target, collect_search
-from audio_scraper.site_data import categorize_title
+from audio_scraper.facebook_detail import collect_facebook_detail
+from audio_scraper.site_data import PLACEHOLDER_PRICES, categorize_title, parse_price
 from audio_scraper.thumbnails import sync_listing_thumbnails
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -62,12 +63,24 @@ def search_url(query: str) -> str:
     return f"https://www.facebook.com/marketplace/search/?query={quote_plus(query)}"
 
 
+def requires_detail_evidence(row: dict) -> bool:
+    price_text = str(row.get("price_text", ""))
+    return "free" in price_text.lower() or parse_price(price_text) in PLACEHOLDER_PRICES
+
+
 def main() -> None:
     target = choose_page_target(cdp_targets(9223), "facebook.com")
     if target is None:
         raise SystemExit("no open Facebook page on CDP port 9223")
     page = CdpPage(str(target["webSocketDebuggerUrl"]))
 
+    output = ROOT / "data" / "checkpoints" / "facebook_expanded_discovery.json"
+    previous_expanded = json.loads(output.read_text(encoding="utf-8")) if output.exists() else {}
+    previous_details = {
+        str(row.get("listing_id")): row
+        for row in previous_expanded.get("listings", [])
+        if row.get("listing_id")
+    }
     previous_path = ROOT / "data" / "checkpoints" / "facebook_exact_models.json"
     previous = json.loads(previous_path.read_text(encoding="utf-8"))
     known_ids = {str(row["listing_id"]) for row in previous.get("listings", [])}
@@ -123,6 +136,30 @@ def main() -> None:
     )
     photo_rows = [row for row in rows if categorize_title(row["title"]) != "excluded"]
     thumbnail_summary = sync_listing_thumbnails(photo_rows, site_root=ROOT / "site")
+    detail_failures: list[dict[str, object]] = []
+    details_fetched_current = 0
+    detail_fields = ("detail_title", "detail_price_text", "listing_age_text", "condition", "description", "detail_checked_at")
+    for row in photo_rows:
+        old = previous_details.get(str(row.get("listing_id")), {})
+        for field in detail_fields:
+            if old.get(field) not in (None, ""):
+                row[field] = old[field]
+    detail_rows = [row for row in photo_rows if requires_detail_evidence(row)]
+    for index, row in enumerate(detail_rows, start=1):
+        try:
+            row.update(collect_facebook_detail(page, row, settle_seconds=.25))
+            row["detail_checked_at"] = datetime.now().astimezone().isoformat()
+            details_fetched_current += 1
+            print(f"DETAIL {index:3}/{len(detail_rows)} {row['listing_id']} {row.get('listing_age_text') or 'age unavailable'}")
+        except Exception as exc:
+            old = previous_details.get(str(row.get("listing_id")), {})
+            detail_failures.append({
+                "listing_id": str(row.get("listing_id", "")),
+                "url": str(row.get("url", "")),
+                "error": f"{type(exc).__name__}: {exc}",
+                "preserved_previous_detail": bool(old.get("detail_checked_at")),
+            })
+            print(f"DETAIL FAIL {index:3}/{len(detail_rows)} {row['listing_id']}: {type(exc).__name__}: {exc}")
     for row in rows:
         row.pop("image_url", None)
     payload = {
@@ -133,17 +170,21 @@ def main() -> None:
         "query_groups": {key: list(value) for key, value in QUERY_GROUPS.items()},
         "searches_completed": len(searches),
         "failures": failures,
+        "detail_failures": detail_failures,
+        "details_checked": sum(bool(row.get("detail_checked_at")) for row in photo_rows),
+        "detail_collection_scope": "placeholder_prices",
+        "details_attempted": len(detail_rows),
+        "details_fetched_current": details_fetched_current,
         "searches": searches,
         "unique_listings": len(rows),
         "new_listings": sum(bool(row["new_vs_exact_checkpoint"]) for row in rows),
         "thumbnails": thumbnail_summary,
         "listings": rows,
     }
-    output = ROOT / "data" / "checkpoints" / "facebook_expanded_discovery.json"
     output.write_text(json.dumps(payload, indent=2), encoding="utf-8")
     print(
         f"wrote {len(rows)} unique listings ({payload['new_listings']} new) "
-        f"to {output}; failures={len(failures)}"
+        f"to {output}; search_failures={len(failures)}; detail_failures={len(detail_failures)}"
     )
 
 

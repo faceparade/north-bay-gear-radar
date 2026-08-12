@@ -47,6 +47,18 @@ def collection_is_healthy(path: Path, *, minimum: int, max_failures: int = 0) ->
     return len(payload.get("listings", [])) >= minimum and len(payload.get("failures", [])) <= max_failures
 
 
+def facebook_details_are_healthy(path: Path, *, minimum_ratio: float = 0.75) -> bool:
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return False
+    if payload.get("detail_collection_scope") != "placeholder_prices":
+        return False
+    attempted = int(payload.get("details_attempted", 0))
+    fetched = int(payload.get("details_fetched_current", 0))
+    return attempted == 0 or fetched / attempted >= minimum_ratio
+
+
 def refresh_craigslist() -> None:
     raw = ROOT / "data" / "raw" / "craigslist.json"
     normalized = ROOT / "data" / "normalized" / "craigslist.json"
@@ -90,6 +102,8 @@ def refresh_facebook() -> None:
         run([str(PYTHON), "scripts/collect_facebook_expanded.py"])
         if not collection_is_healthy(target, minimum=40):
             raise RuntimeError("Facebook refresh failed health checks")
+        if not facebook_details_are_healthy(target):
+            raise RuntimeError("Facebook detail coverage failed health checks")
     except Exception:
         if backup.exists():
             shutil.copy2(backup, target)

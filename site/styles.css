@@ -107,7 +107,7 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--signal); width
 .facts div { display: grid; grid-template-columns: 80px 1fr; padding: 5px 0; border-top: 1px solid var(--line); }
 .facts dt { color: var(--muted); }
 .facts dd { margin: 0; }
-.notes { display: -webkit-box; overflow: hidden; margin: 0 0 16px; color: #4f4c46; font-size: .78rem; line-height: 1.5; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }
+.notes { margin: 0 0 16px; color: #4f4c46; font-size: .78rem; line-height: 1.5; white-space: pre-line; }
 .risk-flags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 16px; }
 .risk { padding: 4px 7px; color: #9b2c17; background: #ffe3da; font-size: .62rem; font-weight: 800; }
 .listing-link { margin-top: auto; padding-top: 14px; border-top: 1px solid var(--ink); color: var(--ink); font-size: .79rem; font-weight: 850; text-decoration: none; }

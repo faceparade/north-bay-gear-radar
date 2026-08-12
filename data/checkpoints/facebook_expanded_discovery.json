@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12T12:29:45.643523-07:00",
+  "as_of": "2026-08-12T13:53:24.303864-07:00",
   "source": "facebook",
   "read_only": true,
   "cdp_port": 9223,
@@ -47,6 +47,11 @@
   },
   "searches_completed": 30,
   "failures": [],
+  "detail_failures": [],
+  "details_checked": 5,
+  "detail_collection_scope": "placeholder_prices",
+  "details_attempted": 5,
+  "details_fetched_current": 5,
   "searches": [
     {
       "group": "recording_foundation",
@@ -76,7 +81,7 @@
       "group": "recording_foundation",
       "query": "studio monitor pair",
       "url": "https://www.facebook.com/marketplace/search/?query=studio+monitor+pair",
-      "results": 19
+      "results": 16
     },
     {
       "group": "recording_foundation",
@@ -106,19 +111,19 @@
       "group": "creative_instruments",
       "query": "groovebox",
       "url": "https://www.facebook.com/marketplace/search/?query=groovebox",
-      "results": 11
+      "results": 9
     },
     {
       "group": "creative_instruments",
       "query": "sampler music",
       "url": "https://www.facebook.com/marketplace/search/?query=sampler+music",
-      "results": 17
+      "results": 16
     },
     {
       "group": "creative_instruments",
       "query": "synth module",
       "url": "https://www.facebook.com/marketplace/search/?query=synth+module",
-      "results": 17
+      "results": 18
     },
     {
       "group": "creative_instruments",
@@ -148,31 +153,31 @@
       "group": "playable_instruments",
       "query": "digital piano keyboard",
       "url": "https://www.facebook.com/marketplace/search/?query=digital+piano+keyboard",
-      "results": 15
+      "results": 16
     },
     {
       "group": "playable_instruments",
       "query": "vintage electronic keyboard",
       "url": "https://www.facebook.com/marketplace/search/?query=vintage+electronic+keyboard",
-      "results": 16
+      "results": 17
     },
     {
       "group": "playable_instruments",
       "query": "electronic drum kit",
       "url": "https://www.facebook.com/marketplace/search/?query=electronic+drum+kit",
-      "results": 13
+      "results": 12
     },
     {
       "group": "playable_instruments",
       "query": "percussion instrument",
       "url": "https://www.facebook.com/marketplace/search/?query=percussion+instrument",
-      "results": 17
+      "results": 16
     },
     {
       "group": "bundles_and_lots",
       "query": "home recording studio",
       "url": "https://www.facebook.com/marketplace/search/?query=home+recording+studio",
-      "results": 17
+      "results": 16
     },
     {
       "group": "bundles_and_lots",
@@ -196,13 +201,13 @@
       "group": "seller_language_and_misspellings",
       "query": "audio interphase",
       "url": "https://www.facebook.com/marketplace/search/?query=audio+interphase",
-      "results": 20
+      "results": 22
     },
     {
       "group": "seller_language_and_misspellings",
       "query": "studio moniter speakers",
       "url": "https://www.facebook.com/marketplace/search/?query=studio+moniter+speakers",
-      "results": 18
+      "results": 19
     },
     {
       "group": "seller_language_and_misspellings",
@@ -220,7 +225,7 @@
       "group": "seller_language_and_misspellings",
       "query": "mezcladora audio",
       "url": "https://www.facebook.com/marketplace/search/?query=mezcladora+audio",
-      "results": 15
+      "results": 16
     },
     {
       "group": "seller_language_and_misspellings",
@@ -229,57 +234,15 @@
       "results": 7
     }
   ],
-  "unique_listings": 284,
-  "new_listings": 151,
+  "unique_listings": 290,
+  "new_listings": 156,
   "thumbnails": {
-    "saved": 284,
+    "saved": 189,
     "retained": 0,
     "failed": 0,
-    "pruned": 0
+    "pruned": 47
   },
   "listings": [
-    {
-      "source": "facebook",
-      "listing_id": "1335171362109451",
-      "url": "https://www.facebook.com/marketplace/item/1335171362109451/",
-      "title": "Casio LK-100 Key Lighting System Keyboard",
-      "price_text": "$80",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "synth module",
-        "digital piano keyboard",
-        "vintage electronic keyboard",
-        "synthasizer keyboard"
-      ],
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1335171362109451.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1467697608114778",
-      "url": "https://www.facebook.com/marketplace/item/1467697608114778/",
-      "title": "Free",
-      "price_text": "",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "studio monitor pair",
-        "home recording studio",
-        "audio interphase",
-        "studio moniter speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1467697608114778.webp"
-    },
     {
       "source": "facebook",
       "listing_id": "1032711415783247",
@@ -289,23 +252,21 @@
       "location_text": "San Rafael, CA",
       "discovery_queries": [
         "drum machine",
-        "recording equipment lot",
+        "sampler music",
         "drum mashine"
       ],
       "discovery_groups": [
         "creative_instruments",
-        "bundles_and_lots",
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1032711415783247.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1821642932550368",
-      "url": "https://www.facebook.com/marketplace/item/1821642932550368/",
-      "title": "$350",
-      "price_text": "$250",
+      "listing_id": "1006623198794917",
+      "url": "https://www.facebook.com/marketplace/item/1006623198794917/",
+      "title": "Alesis Strike Pro Special Edition Electronic Drum Kit",
+      "price_text": "$1,800",
       "location_text": "San Rafael, CA",
       "discovery_queries": [
         "drum machine",
@@ -318,7 +279,52 @@
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1821642932550368.webp"
+      "thumbnail_path": "images/listings/facebook-1006623198794917.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1335171362109451",
+      "url": "https://www.facebook.com/marketplace/item/1335171362109451/",
+      "title": "Casio LK-100 Key Lighting System Keyboard",
+      "price_text": "$80",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "synth module",
+        "digital piano keyboard",
+        "vintage electronic keyboard"
+      ],
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1335171362109451.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1467697608114778",
+      "url": "https://www.facebook.com/marketplace/item/1467697608114778/",
+      "title": "Free\ud83d\udd0a Mackie CR Studio Monitors \u2013 Pair (Matching Speakers)Novato, CA",
+      "price_text": "Free",
+      "location_text": "Free\ud83d\udd0a Mackie CR Studio Monitors \u2013 Pair (Matching Speakers)Novato, CA",
+      "discovery_queries": [
+        "studio monitor pair",
+        "home recording studio",
+        "studio moniter speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1467697608114778.webp",
+      "detail_price_text": "$0",
+      "listing_age_text": "30 weeks ago",
+      "condition": "Used - Good",
+      "description": "Selling a pair of Mackie CR studio monitors in good working condition.\nThey have been used in a home studio and sound great \u2014 ideal for music production, DJing, or general audio use.\n\u26a0\ufe0f Listed at $0 only to receive offers.\n\ud83d\udcb0 Best offer takes them.\nDetails:\n\u2022\tMackie CR series\n\u2022\tStereo pair (both speakers same size)\n\u2022\tFully working\n\u2022\tNormal cosmetic wear from use\n\u2022\tGreat for home studios, beginners, or small setups\nPickup preferred.\nMessage me with your offer \u2014 serious buyers only.",
+      "detail_title": "\ud83d\udd0a Mackie CR Studio Monitors \u2013 Pair (Matching Speakers)",
+      "detail_checked_at": "2026-08-12T13:53:09.737993-07:00"
     },
     {
       "source": "facebook",
@@ -336,7 +342,32 @@
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-888093423789381.webp"
+      "thumbnail_path": "images/listings/facebook-888093423789381.webp",
+      "detail_price_text": "$1",
+      "listing_age_text": "4 weeks ago",
+      "condition": "Used - like new",
+      "description": "Mooer \u201cmod factory\u201d pedal 30$\nLunastone \u201cthe pusher\u201d boost pedal 60$\nTc electronics \u201cditto\u201d stereo loop pedal 80$ or 150 for all 3.",
+      "detail_title": "Guitar effects pedals",
+      "detail_checked_at": "2026-08-12T13:53:13.651438-07:00"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1333447815263888",
+      "url": "https://www.facebook.com/marketplace/item/1333447815263888/",
+      "title": "Pacific Drums and Percussion (PDP) 700 Series double bass drum pedal",
+      "price_text": "$115",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "loop station",
+        "electronic drum kit",
+        "percussion instrument"
+      ],
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1333447815263888.webp"
     },
     {
       "source": "facebook",
@@ -355,60 +386,7 @@
         "playable_instruments",
         "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1074980691764329.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1006623198794917",
-      "url": "https://www.facebook.com/marketplace/item/1006623198794917/",
-      "title": "$1,800Alesis Strike Pro Special Edition Electronic Drum KitSan Rafael, CA",
-      "price_text": "$1,800",
-      "location_text": "",
-      "discovery_queries": [
-        "electronic drum kit",
-        "drum mashine"
-      ],
-      "discovery_groups": [
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1006623198794917.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "2025787671635307",
-      "url": "https://www.facebook.com/marketplace/item/2025787671635307/",
-      "title": "$100",
-      "price_text": "$80",
-      "location_text": "",
-      "discovery_queries": [
-        "studio monitor pair",
-        "powered monitor speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2025787671635307.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1624342312093126",
-      "url": "https://www.facebook.com/marketplace/item/1624342312093126/",
-      "title": "$30Steinberg audio interfacePetaluma, CA",
-      "price_text": "$30",
-      "location_text": "",
-      "discovery_queries": [
-        "USB audio interface",
-        "2 input audio interface"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1624342312093126.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -425,8 +403,7 @@
         "creative_instruments",
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2101268174604866.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -443,8 +420,7 @@
         "playable_instruments",
         "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1295540972787160.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -468,8 +444,8 @@
       "source": "facebook",
       "listing_id": "2137563733770447",
       "url": "https://www.facebook.com/marketplace/item/2137563733770447/",
-      "title": "Free",
-      "price_text": "",
+      "title": "Logitech Full-Size Wireless Keyboard \u2013 No USB Receiver",
+      "price_text": "Free",
       "location_text": "Novato, CA",
       "discovery_queries": [
         "vintage electronic keyboard",
@@ -479,8 +455,7 @@
         "playable_instruments",
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2137563733770447.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -497,59 +472,92 @@
         "playable_instruments",
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1835140877896538.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1370537987784185",
-      "url": "https://www.facebook.com/marketplace/item/1370537987784185/",
-      "title": "Mackie MR5-MKIII Active Studio Monitor Speakers PAIR",
-      "price_text": "$150",
-      "location_text": "",
+      "listing_id": "1339214891735033",
+      "url": "https://www.facebook.com/marketplace/item/1339214891735033/",
+      "title": "Logitech keyboard",
+      "price_text": "$10",
+      "location_text": "Novato, CA",
       "discovery_queries": [
-        "studio monitor pair",
-        "powered monitor speakers"
+        "vintage electronic keyboard",
+        "synthasizer keyboard"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "playable_instruments",
+        "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1370537987784185.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1333447815263888",
-      "url": "https://www.facebook.com/marketplace/item/1333447815263888/",
-      "title": "Pacific Drums and Percussion (PDP) 700 Series double bass drum pedal",
-      "price_text": "$115",
-      "location_text": "San Rafael, CA",
+      "listing_id": "1433373475470941",
+      "url": "https://www.facebook.com/marketplace/item/1433373475470941/",
+      "title": "Miscellaneous drum hardware",
+      "price_text": "$25",
+      "location_text": "Sonoma, CA",
       "discovery_queries": [
-        "loop station",
-        "electronic drum kit"
+        "drum machine",
+        "drum mashine"
       ],
       "discovery_groups": [
         "creative_instruments",
-        "playable_instruments"
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1333447815263888.webp"
+      "thumbnail_path": "images/listings/facebook-1433373475470941.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "2154668465446038",
-      "url": "https://www.facebook.com/marketplace/item/2154668465446038/",
-      "title": "$1,000Weather Guard 121-52-04 Truck Tool BoxSonoma, CA",
-      "price_text": "$1,000",
-      "location_text": "",
+      "listing_id": "2211855049646697",
+      "url": "https://www.facebook.com/marketplace/item/2211855049646697/",
+      "title": "Rhythm Tech Eclipse Bongos",
+      "price_text": "$100",
+      "location_text": "Novato, CA",
       "discovery_queries": [
-        "groovebox"
+        "percussion instrument",
+        "equipo de grabacion"
       ],
       "discovery_groups": [
-        "creative_instruments"
+        "playable_instruments",
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2154668465446038.webp"
+      "thumbnail_path": "images/listings/facebook-2211855049646697.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "4579392812349263",
+      "url": "https://www.facebook.com/marketplace/item/4579392812349263/",
+      "title": "Shuttle Keyboard Bag by Third Planet",
+      "price_text": "$30",
+      "location_text": "Petaluma, CA",
+      "discovery_queries": [
+        "digital piano keyboard",
+        "synthasizer keyboard"
+      ],
+      "discovery_groups": [
+        "playable_instruments",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1474533924699540",
+      "url": "https://www.facebook.com/marketplace/item/1474533924699540/",
+      "title": "$1,206",
+      "price_text": "$120",
+      "location_text": "Petaluma, CA",
+      "discovery_queries": [
+        "electronic drum kit"
+      ],
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -564,8 +572,7 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-4283796638554181.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -580,40 +587,22 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1496568285817998.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "912009435277193",
-      "url": "https://www.facebook.com/marketplace/item/912009435277193/",
-      "title": "$10",
-      "price_text": "$5",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "music multi effects"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-912009435277193.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1560165605505699",
-      "url": "https://www.facebook.com/marketplace/item/1560165605505699/",
+      "listing_id": "1538394687794257",
+      "url": "https://www.facebook.com/marketplace/item/1538394687794257/",
       "title": "$100",
-      "price_text": "$85",
-      "location_text": "",
+      "price_text": "$35",
+      "location_text": "San Rafael, CA",
       "discovery_queries": [
-        "powered monitor speakers"
+        "music gear bundle"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1560165605505699.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -628,40 +617,23 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-815897208259834.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "2211855049646697",
-      "url": "https://www.facebook.com/marketplace/item/2211855049646697/",
-      "title": "$100Rhythm Tech Eclipse BongosNovato, CA",
+      "listing_id": "1777922426385297",
+      "url": "https://www.facebook.com/marketplace/item/1777922426385297/",
+      "title": "$100$150Technics Dj HeadphonesPetaluma, CA",
       "price_text": "$100",
       "location_text": "",
       "discovery_queries": [
-        "equipo de grabacion"
+        "DJ equipment lot"
       ],
       "discovery_groups": [
-        "seller_language_and_misspellings"
+        "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2211855049646697.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1033779322762745",
-      "url": "https://www.facebook.com/marketplace/item/1033779322762745/",
-      "title": "$10KeyboardSan Rafael, CA",
-      "price_text": "$10",
-      "location_text": "",
-      "discovery_queries": [
-        "synthasizer keyboard"
-      ],
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1033779322762745.webp"
+      "thumbnail_path": "images/listings/facebook-1777922426385297.webp"
     },
     {
       "source": "facebook",
@@ -676,24 +648,7 @@
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1395238182450102.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1474533924699540",
-      "url": "https://www.facebook.com/marketplace/item/1474533924699540/",
-      "title": "$120$1,206SPL Kicker Pro 5-Piece Drum Kit \u2013 Silver Sparkle \u2013 Like NewPetaluma, CA",
-      "price_text": "$120",
-      "location_text": "",
-      "discovery_queries": [
-        "electronic drum kit"
-      ],
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1474533924699540.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -713,35 +668,19 @@
     },
     {
       "source": "facebook",
-      "listing_id": "2150137452213072",
-      "url": "https://www.facebook.com/marketplace/item/2150137452213072/",
-      "title": "$145$270Mackie 1402VLZ4, 14-channel Compact Mixer with High Quality Onyx PreampsShips to you",
-      "price_text": "$145",
+      "listing_id": "1706948863685822",
+      "url": "https://www.facebook.com/marketplace/item/1706948863685822/",
+      "title": "$130$160Control DJ Hercules Inpulse 200 MK2 / With Storage bagSan Anselmo, CA",
+      "price_text": "$130",
       "location_text": "",
       "discovery_queries": [
-        "compact audio mixer"
+        "DJ equipment lot"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2150137452213072.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1353416189569190",
-      "url": "https://www.facebook.com/marketplace/item/1353416189569190/",
-      "title": "$15$25Children\u2019s wooden open top toy box/chestFairfax, CA",
-      "price_text": "$15",
-      "location_text": "",
-      "discovery_queries": [
-        "groovebox"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1353416189569190.webp"
+      "thumbnail_path": "images/listings/facebook-1706948863685822.webp"
     },
     {
       "source": "facebook",
@@ -756,8 +695,7 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1834281567955665.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -772,40 +710,39 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1004831899011781.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "3314827048676898",
-      "url": "https://www.facebook.com/marketplace/item/3314827048676898/",
-      "title": "$15Keepsake boxPetaluma, CA",
-      "price_text": "$15",
+      "listing_id": "1454441572944960",
+      "url": "https://www.facebook.com/marketplace/item/1454441572944960/",
+      "title": "$150$250Surround Sound Preamp - Anthem AVM-20 Surround Sound Processor/PreampSan Rafael, CA",
+      "price_text": "$150",
       "location_text": "",
       "discovery_queries": [
-        "groovebox"
+        "microphone preamp"
       ],
       "discovery_groups": [
-        "creative_instruments"
+        "recording_foundation"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-3314827048676898.webp"
+      "thumbnail_path": "images/listings/facebook-1454441572944960.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "1780980329979971",
-      "url": "https://www.facebook.com/marketplace/item/1780980329979971/",
-      "title": "$165",
-      "price_text": "$105",
-      "location_text": "San Rafael, CA",
+      "listing_id": "1370537987784185",
+      "url": "https://www.facebook.com/marketplace/item/1370537987784185/",
+      "title": "$150Mackie MR5-MKIII Active Studio Monitor Speakers PAIRShips to you",
+      "price_text": "$150",
+      "location_text": "",
       "discovery_queries": [
-        "loop station"
+        "powered monitor speakers"
       ],
       "discovery_groups": [
-        "creative_instruments"
+        "recording_foundation"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1780980329979971.webp"
+      "thumbnail_path": "images/listings/facebook-1370537987784185.webp"
     },
     {
       "source": "facebook",
@@ -820,8 +757,22 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27404664489233243.webp"
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1803817917644112",
+      "url": "https://www.facebook.com/marketplace/item/1803817917644112/",
+      "title": "$18",
+      "price_text": "$15",
+      "location_text": "Novato, CA",
+      "discovery_queries": [
+        "digital piano keyboard"
+      ],
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -836,8 +787,23 @@
       "discovery_groups": [
         "bundles_and_lots"
       ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2213048522565799",
+      "url": "https://www.facebook.com/marketplace/item/2213048522565799/",
+      "title": "$200Studio Music EquipmentShips to you",
+      "price_text": "$200",
+      "location_text": "",
+      "discovery_queries": [
+        "DJ equipment lot"
+      ],
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-803479655956699.webp"
+      "thumbnail_path": "images/listings/facebook-2213048522565799.webp"
     },
     {
       "source": "facebook",
@@ -857,22 +823,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "2129634331266874",
-      "url": "https://www.facebook.com/marketplace/item/2129634331266874/",
-      "title": "$20Small toy boxNovato, CA",
-      "price_text": "$20",
-      "location_text": "",
-      "discovery_queries": [
-        "groovebox"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2129634331266874.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1366431175400699",
       "url": "https://www.facebook.com/marketplace/item/1366431175400699/",
       "title": "$220",
@@ -884,40 +834,37 @@
       "discovery_groups": [
         "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1366431175400699.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "2549109782200647",
-      "url": "https://www.facebook.com/marketplace/item/2549109782200647/",
+      "listing_id": "1353416189569190",
+      "url": "https://www.facebook.com/marketplace/item/1353416189569190/",
       "title": "$25",
-      "price_text": "$22",
+      "price_text": "$15",
       "location_text": "",
       "discovery_queries": [
-        "headphone amplifier"
+        "groovebox"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2549109782200647.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1454441572944960",
-      "url": "https://www.facebook.com/marketplace/item/1454441572944960/",
-      "title": "$250",
-      "price_text": "$150",
-      "location_text": "San Rafael, CA",
+      "listing_id": "2150137452213072",
+      "url": "https://www.facebook.com/marketplace/item/2150137452213072/",
+      "title": "$270",
+      "price_text": "$145",
+      "location_text": "",
       "discovery_queries": [
-        "microphone preamp"
+        "compact audio mixer"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1454441572944960.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -932,8 +879,7 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1006831269001557.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -948,24 +894,7 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1659072348532938.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1885812608752904",
-      "url": "https://www.facebook.com/marketplace/item/1885812608752904/",
-      "title": "$30",
-      "price_text": "$20",
-      "location_text": "",
-      "discovery_queries": [
-        "loop station"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1885812608752904.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -980,31 +909,60 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2134657057371852.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1383369436609371",
-      "url": "https://www.facebook.com/marketplace/item/1383369436609371/",
-      "title": "$300$450Roland drum set. TD02 + speakersSan Rafael, CA",
-      "price_text": "$300",
+      "listing_id": "1885812608752904",
+      "url": "https://www.facebook.com/marketplace/item/1885812608752904/",
+      "title": "$30",
+      "price_text": "$20",
       "location_text": "",
+      "discovery_queries": [
+        "loop station"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1624342312093126",
+      "url": "https://www.facebook.com/marketplace/item/1624342312093126/",
+      "title": "$30Steinberg audio interfacePetaluma, CA",
+      "price_text": "$30",
+      "location_text": "",
+      "discovery_queries": [
+        "2 input audio interface"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1624342312093126.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1821642932550368",
+      "url": "https://www.facebook.com/marketplace/item/1821642932550368/",
+      "title": "$350",
+      "price_text": "$250",
+      "location_text": "San Rafael, CA",
       "discovery_queries": [
         "electronic drum kit"
       ],
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1383369436609371.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "4579392812349263",
-      "url": "https://www.facebook.com/marketplace/item/4579392812349263/",
-      "title": "$30Shuttle Keyboard Bag by Third PlanetPetaluma, CA",
-      "price_text": "$30",
+      "listing_id": "1316736257290098",
+      "url": "https://www.facebook.com/marketplace/item/1316736257290098/",
+      "title": "$350Korg B1 Keyboard (Like New) with StandPetaluma, CA",
+      "price_text": "$350",
       "location_text": "",
       "discovery_queries": [
         "synthasizer keyboard"
@@ -1013,7 +971,7 @@
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-4579392812349263.webp"
+      "thumbnail_path": "images/listings/facebook-1316736257290098.webp"
     },
     {
       "source": "facebook",
@@ -1028,24 +986,101 @@
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2525935298174344.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "2029453741272047",
-      "url": "https://www.facebook.com/marketplace/item/2029453741272047/",
-      "title": "$450",
-      "price_text": "$400",
-      "location_text": "Novato, CA",
+      "listing_id": "884800398027279",
+      "url": "https://www.facebook.com/marketplace/item/884800398027279/",
+      "title": "$40$90M-Audio AIR 192|4 Vocal Studio ProShips to you",
+      "price_text": "$40",
+      "location_text": "",
       "discovery_queries": [
-        "loop station"
+        "2 input audio interface"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-884800398027279.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1470668657866208",
+      "url": "https://www.facebook.com/marketplace/item/1470668657866208/",
+      "title": "$40Digitech Digital Multi Chorus PedalFairfax, CA",
+      "price_text": "$40",
+      "location_text": "",
+      "discovery_queries": [
+        "music multi effects"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2029453741272047.webp"
+      "thumbnail_path": "images/listings/facebook-1470668657866208.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1383369436609371",
+      "url": "https://www.facebook.com/marketplace/item/1383369436609371/",
+      "title": "$450",
+      "price_text": "$300",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "electronic drum kit"
+      ],
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2052974812092954",
+      "url": "https://www.facebook.com/marketplace/item/2052974812092954/",
+      "title": "$46",
+      "price_text": "$42",
+      "location_text": "",
+      "discovery_queries": [
+        "audio interphase"
+      ],
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "912009435277193",
+      "url": "https://www.facebook.com/marketplace/item/912009435277193/",
+      "title": "$5$10Mini music machineNovato, CA",
+      "price_text": "$5",
+      "location_text": "",
+      "discovery_queries": [
+        "music multi effects"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-912009435277193.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2764893200556033",
+      "url": "https://www.facebook.com/marketplace/item/2764893200556033/",
+      "title": "$50$75Sonic M15/SCF400 Stage Monitor SpeakerShips to you",
+      "price_text": "$50",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-2764893200556033.webp"
     },
     {
       "source": "facebook",
@@ -1060,56 +1095,23 @@
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2003281003612795.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1588717889552352",
-      "url": "https://www.facebook.com/marketplace/item/1588717889552352/",
-      "title": "$550Antique 1879 Loft\u2019s Patent Check Till \u2014 Victorian English Mechanical Shop Cash Box \u2014 Cambridge, PateNovato, CA",
-      "price_text": "$550",
+      "listing_id": "2532260373900113",
+      "url": "https://www.facebook.com/marketplace/item/2532260373900113/",
+      "title": "$500E-MU B-3 Midi Sound ModuleShips to you",
+      "price_text": "$500",
       "location_text": "",
       "discovery_queries": [
-        "groovebox"
+        "MIDI sound module"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1588717889552352.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "2167384970723195",
-      "url": "https://www.facebook.com/marketplace/item/2167384970723195/",
-      "title": "$550Knaack Job box 4830Petaluma, CA",
-      "price_text": "$550",
-      "location_text": "",
-      "discovery_queries": [
-        "groovebox"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2167384970723195.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1349845753845886",
-      "url": "https://www.facebook.com/marketplace/item/1349845753845886/",
-      "title": "$60US NAVY 75cal. ammo boxPetaluma, CA",
-      "price_text": "$60",
-      "location_text": "",
-      "discovery_queries": [
-        "groovebox"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1349845753845886.webp"
+      "thumbnail_path": "images/listings/facebook-2532260373900113.webp"
     },
     {
       "source": "facebook",
@@ -1140,24 +1142,55 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1300631648816946.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "2764893200556033",
-      "url": "https://www.facebook.com/marketplace/item/2764893200556033/",
-      "title": "$75",
-      "price_text": "$50",
+      "listing_id": "3985648108396593",
+      "url": "https://www.facebook.com/marketplace/item/3985648108396593/",
+      "title": "$650Black Lion Audio Bluey 1176 CompressorSan Rafael, CA",
+      "price_text": "$650",
       "location_text": "",
       "discovery_queries": [
-        "powered monitor speakers"
+        "2 input audio interface"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2764893200556033.webp"
+      "thumbnail_path": "images/listings/facebook-3985648108396593.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2253465195429920",
+      "url": "https://www.facebook.com/marketplace/item/2253465195429920/",
+      "title": "$695Yamaha S80 Professional 88-Key Weighted KeyboardSan Rafael, CA",
+      "price_text": "$695",
+      "location_text": "",
+      "discovery_queries": [
+        "synthasizer keyboard"
+      ],
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-2253465195429920.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1537424878114152",
+      "url": "https://www.facebook.com/marketplace/item/1537424878114152/",
+      "title": "$70Art Tube MP Studio Microphone PreampShips to you",
+      "price_text": "$70",
+      "location_text": "",
+      "discovery_queries": [
+        "microphone preamp"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1537424878114152.webp"
     },
     {
       "source": "facebook",
@@ -1172,8 +1205,7 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1576540413913511.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1188,8 +1220,7 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2961655800842278.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1204,8 +1235,23 @@
       "discovery_groups": [
         "recording_foundation"
       ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2025787671635307",
+      "url": "https://www.facebook.com/marketplace/item/2025787671635307/",
+      "title": "$80$100PreSonus Eris 5 Studio Monitor Speaker \u2013 PoweredShips to you",
+      "price_text": "$80",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2533008540483132.webp"
+      "thumbnail_path": "images/listings/facebook-2025787671635307.webp"
     },
     {
       "source": "facebook",
@@ -1225,35 +1271,113 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1309643357656075",
-      "url": "https://www.facebook.com/marketplace/item/1309643357656075/",
-      "title": "$80Handcrafted Moroccan Thuya",
-      "price_text": "$80",
+      "listing_id": "1631430154839460",
+      "url": "https://www.facebook.com/marketplace/item/1631430154839460/",
+      "title": "$800Sound system with klipsch speakersNovato, CA",
+      "price_text": "$800",
       "location_text": "",
+      "discovery_queries": [
+        "MIDI sound module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1631430154839460.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1560165605505699",
+      "url": "https://www.facebook.com/marketplace/item/1560165605505699/",
+      "title": "$85$100Mackie home studio monitorsShips to you",
+      "price_text": "$85",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1560165605505699.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "877006048594110",
+      "url": "https://www.facebook.com/marketplace/item/877006048594110/",
+      "title": "$90 two brand-new LG 27\" monitors, model 27MK60TM, still factory sealed in the original unopened boxesNovato, CA",
+      "price_text": "$90",
+      "location_text": "",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1069172072437454",
+      "url": "https://www.facebook.com/marketplace/item/1069172072437454/",
+      "title": "$95Pioneer DJ DDJ-200 Smart DJ ControllerGreenbrae, CA",
+      "price_text": "$95",
+      "location_text": "",
+      "discovery_queries": [
+        "DJ equipment lot"
+      ],
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1069172072437454.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "897637210069041",
+      "url": "https://www.facebook.com/marketplace/item/897637210069041/",
+      "title": "$99Behringer MS16 Monitor SpeakersShips to you",
+      "price_text": "$99",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-897637210069041.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1588717889552352",
+      "url": "https://www.facebook.com/marketplace/item/1588717889552352/",
+      "title": "Antique 1879 Loft\u2019s Patent Check Till \u2014 Victorian English Mechanical Shop Cash Box \u2014 Cambridge, Pate",
+      "price_text": "$550",
+      "location_text": "Novato, CA",
       "discovery_queries": [
         "groovebox"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1309643357656075.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1537424878114152",
-      "url": "https://www.facebook.com/marketplace/item/1537424878114152/",
-      "title": "Art Tube MP Studio Microphone Preamp",
-      "price_text": "$70",
+      "listing_id": "1264605118678811",
+      "url": "https://www.facebook.com/marketplace/item/1264605118678811/",
+      "title": "Audio Technica ATH-M3X headphones super quality (2)",
+      "price_text": "$20",
       "location_text": "",
       "discovery_queries": [
-        "microphone preamp"
+        "audio interphase"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1537424878114152.webp"
+      "thumbnail_path": "images/listings/facebook-1264605118678811.webp"
     },
     {
       "source": "facebook",
@@ -1289,22 +1413,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1077994327998454",
-      "url": "https://www.facebook.com/marketplace/item/1077994327998454/",
-      "title": "Bass drum pedals/snare",
-      "price_text": "$50",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "drum mashine"
-      ],
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1077994327998454.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1714042519810605",
       "url": "https://www.facebook.com/marketplace/item/1714042519810605/",
       "title": "Behringer HA8000 V2 8-channel Headphone Mixing/Distribution Amplifier",
@@ -1318,38 +1426,6 @@
       ],
       "new_vs_exact_checkpoint": true,
       "thumbnail_path": "images/listings/facebook-1714042519810605.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "897637210069041",
-      "url": "https://www.facebook.com/marketplace/item/897637210069041/",
-      "title": "Behringer MS16 Monitor Speakers",
-      "price_text": "$99",
-      "location_text": "",
-      "discovery_queries": [
-        "powered monitor speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-897637210069041.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "3985648108396593",
-      "url": "https://www.facebook.com/marketplace/item/3985648108396593/",
-      "title": "Black Lion Audio Bluey 1176 Compressor",
-      "price_text": "$650",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "2 input audio interface"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-3985648108396593.webp"
     },
     {
       "source": "facebook",
@@ -1444,8 +1520,7 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-4330332330443717.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1460,8 +1535,7 @@
       "discovery_groups": [
         "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1916678459289283.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1513,6 +1587,22 @@
     },
     {
       "source": "facebook",
+      "listing_id": "1366036505067901",
+      "url": "https://www.facebook.com/marketplace/item/1366036505067901/",
+      "title": "Crest Consoles Century Mixing Console",
+      "price_text": "$680",
+      "location_text": "Petaluma, CA",
+      "discovery_queries": [
+        "mezcladora audio"
+      ],
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1366036505067901.webp"
+    },
+    {
+      "source": "facebook",
       "listing_id": "952894703736139",
       "url": "https://www.facebook.com/marketplace/item/952894703736139/",
       "title": "Digital Recording, Studio",
@@ -1545,22 +1635,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1470668657866208",
-      "url": "https://www.facebook.com/marketplace/item/1470668657866208/",
-      "title": "Digitech Digital Multi Chorus Pedal",
-      "price_text": "$40",
-      "location_text": "",
-      "discovery_queries": [
-        "music multi effects"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1470668657866208.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1490755668904603",
       "url": "https://www.facebook.com/marketplace/item/1490755668904603/",
       "title": "Diving equipment - wrist computer with receiver Suunto",
@@ -1577,22 +1651,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1650087186094312",
-      "url": "https://www.facebook.com/marketplace/item/1650087186094312/",
-      "title": "DJ EQUIPMENT. Message me with offers",
-      "price_text": "$1",
-      "location_text": "",
-      "discovery_queries": [
-        "DJ equipment lot"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1650087186094312.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1746117210062324",
       "url": "https://www.facebook.com/marketplace/item/1746117210062324/",
       "title": "Dog Gear Bundle \u2013 Jackets, Harnesses, Bandanas & More (see ad for details!)",
@@ -1604,8 +1662,23 @@
       "discovery_groups": [
         "bundles_and_lots"
       ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "965046959730510",
+      "url": "https://www.facebook.com/marketplace/item/965046959730510/",
+      "title": "Drum Kit- Sonar 503 Series",
+      "price_text": "$400",
+      "location_text": "Petaluma, CA",
+      "discovery_queries": [
+        "drum mashine"
+      ],
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1746117210062324.webp"
+      "thumbnail_path": "images/listings/facebook-965046959730510.webp"
     },
     {
       "source": "facebook",
@@ -1641,22 +1714,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "2532260373900113",
-      "url": "https://www.facebook.com/marketplace/item/2532260373900113/",
-      "title": "E-MU B-3 Midi Sound Module",
-      "price_text": "$500",
-      "location_text": "",
-      "discovery_queries": [
-        "MIDI sound module"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2532260373900113.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1744844020299910",
       "url": "https://www.facebook.com/marketplace/item/1744844020299910/",
       "title": "Fiio a1 portable headphone amplifier",
@@ -1670,22 +1727,6 @@
       ],
       "new_vs_exact_checkpoint": true,
       "thumbnail_path": "images/listings/facebook-1744844020299910.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1967266993947921",
-      "url": "https://www.facebook.com/marketplace/item/1967266993947921/",
-      "title": "Free",
-      "price_text": "",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "digital piano keyboard"
-      ],
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1967266993947921.webp"
     },
     {
       "source": "facebook",
@@ -1705,51 +1746,49 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1715527399721213",
-      "url": "https://www.facebook.com/marketplace/item/1715527399721213/",
-      "title": "Handpan, B Ursa, Isthmus Instruments, 8 notes, deep blue patina, nitrided steel",
-      "price_text": "$2,000",
-      "location_text": "San Rafael, CA",
+      "listing_id": "1309643357656075",
+      "url": "https://www.facebook.com/marketplace/item/1309643357656075/",
+      "title": "Handcrafted Moroccan Thuya Wood Box",
+      "price_text": "$80",
+      "location_text": "Novato, CA",
       "discovery_queries": [
-        "percussion instrument"
+        "groovebox"
       ],
       "discovery_groups": [
-        "playable_instruments"
+        "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1715527399721213.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "2193097121251822",
-      "url": "https://www.facebook.com/marketplace/item/2193097121251822/",
-      "title": "Handpan, E Integral, \u00c6ther by Xenith, 11 notes, nitrided steel",
-      "price_text": "$3,000",
-      "location_text": "San Rafael, CA",
+      "listing_id": "1563131665485086",
+      "url": "https://www.facebook.com/marketplace/item/1563131665485086/",
+      "title": "Headphones",
+      "price_text": "$10",
+      "location_text": "Novato, CA",
       "discovery_queries": [
-        "percussion instrument"
-      ],
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2193097121251822.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1777562980158104",
-      "url": "https://www.facebook.com/marketplace/item/1777562980158104/",
-      "title": "Just listed",
-      "price_text": "$900",
-      "location_text": "Sonoma, CA",
-      "discovery_queries": [
-        "studio monitor pair"
+        "headphone amplifier"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1777562980158104.webp"
+      "thumbnail_path": "images/listings/facebook-1563131665485086.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1035690185998538",
+      "url": "https://www.facebook.com/marketplace/item/1035690185998538/",
+      "title": "Just listed",
+      "price_text": "$150",
+      "location_text": "",
+      "discovery_queries": [
+        "groovebox"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1764,24 +1803,86 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2276589489837037.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1035690185998538",
-      "url": "https://www.facebook.com/marketplace/item/1035690185998538/",
-      "title": "Just listed$15012 inch soft plyo box brand new in boxLarkspur, CA",
-      "price_text": "$15012",
+      "listing_id": "1755384862154398",
+      "url": "https://www.facebook.com/marketplace/item/1755384862154398/",
+      "title": "Just listed$30Fender Frontman reverb practice ampNovato, CA",
+      "price_text": "$30",
       "location_text": "",
+      "discovery_queries": [
+        "music multi effects"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1755384862154398.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "28029351173397352",
+      "url": "https://www.facebook.com/marketplace/item/28029351173397352/",
+      "title": "Just listed$50KRK Systems Rokit 5 Powered Active Studio Monitor Speaker, Single!Ships to you",
+      "price_text": "$50",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-28029351173397352.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1777562980158104",
+      "url": "https://www.facebook.com/marketplace/item/1777562980158104/",
+      "title": "Just listed$900HEDD Studio Monitors Type 05 A-CoreSonoma, CA",
+      "price_text": "$900",
+      "location_text": "",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-1777562980158104.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2112669009660813",
+      "url": "https://www.facebook.com/marketplace/item/2112669009660813/",
+      "title": "Just listed$900HEDD Studio MonitorsSonoma, CA",
+      "price_text": "$900",
+      "location_text": "",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-2112669009660813.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "3314827048676898",
+      "url": "https://www.facebook.com/marketplace/item/3314827048676898/",
+      "title": "Keepsake box",
+      "price_text": "$15",
+      "location_text": "Petaluma, CA",
       "discovery_queries": [
         "groovebox"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1035690185998538.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1796,8 +1897,7 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1550339186451553.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1812,40 +1912,7 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1040277972223098.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1339214891735033",
-      "url": "https://www.facebook.com/marketplace/item/1339214891735033/",
-      "title": "Logitech keyboard",
-      "price_text": "$10",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "vintage electronic keyboard"
-      ],
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1339214891735033.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1057358063334301",
-      "url": "https://www.facebook.com/marketplace/item/1057358063334301/",
-      "title": "Loupedeck photo editing keyboard",
-      "price_text": "$100",
-      "location_text": "",
-      "discovery_queries": [
-        "vintage electronic keyboard"
-      ],
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1057358063334301.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -1881,22 +1948,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "4547900682198586",
-      "url": "https://www.facebook.com/marketplace/item/4547900682198586/",
-      "title": "Mackie CR3 Studio Monitor Speakers Pair with Bluetooth \u2013 Tested - Great Condition",
-      "price_text": "$90",
-      "location_text": "",
-      "discovery_queries": [
-        "powered monitor speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-4547900682198586.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "943084075483834",
       "url": "https://www.facebook.com/marketplace/item/943084075483834/",
       "title": "Mackie MR5 Active Studio Monitor",
@@ -1929,19 +1980,19 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1433373475470941",
-      "url": "https://www.facebook.com/marketplace/item/1433373475470941/",
-      "title": "Miscellaneous drum hardware",
-      "price_text": "$25",
-      "location_text": "Sonoma, CA",
+      "listing_id": "4590785117820024",
+      "url": "https://www.facebook.com/marketplace/item/4590785117820024/",
+      "title": "Melonare MB-1S Wireless Audio XLR Receiver",
+      "price_text": "$28",
+      "location_text": "",
       "discovery_queries": [
-        "drum machine"
+        "audio interphase"
       ],
       "discovery_groups": [
-        "creative_instruments"
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1433373475470941.webp"
+      "thumbnail_path": "images/listings/facebook-4590785117820024.webp"
     },
     {
       "source": "facebook",
@@ -1961,6 +2012,21 @@
     },
     {
       "source": "facebook",
+      "listing_id": "1515497963127074",
+      "url": "https://www.facebook.com/marketplace/item/1515497963127074/",
+      "title": "Music Industry Resource Book/Guide: The Music Powers That Be",
+      "price_text": "$20",
+      "location_text": "Novato, CA",
+      "discovery_queries": [
+        "music gear bundle"
+      ],
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
       "listing_id": "2021195761823060",
       "url": "https://www.facebook.com/marketplace/item/2021195761823060/",
       "title": "Native Instruments Komplete Audio 2 - USB Audio Interface",
@@ -1977,6 +2043,22 @@
     },
     {
       "source": "facebook",
+      "listing_id": "922784984180349",
+      "url": "https://www.facebook.com/marketplace/item/922784984180349/",
+      "title": "NEW - Two (2) 30ft each Gear Aid Reflective 1100 Paracord with Carabiner",
+      "price_text": "$12",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "loop station"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-922784984180349.webp"
+    },
+    {
+      "source": "facebook",
       "listing_id": "1556705916136272",
       "url": "https://www.facebook.com/marketplace/item/1556705916136272/",
       "title": "Old lps for sale/trade",
@@ -1988,8 +2070,7 @@
       "discovery_groups": [
         "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1556705916136272.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2004,40 +2085,7 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-3542534815906529.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "2086568048603497",
-      "url": "https://www.facebook.com/marketplace/item/2086568048603497/",
-      "title": "Pair of Behringer Monitor 1C Studio Speakers + Wall Mount Brackets",
-      "price_text": "$75",
-      "location_text": "",
-      "discovery_queries": [
-        "studio monitor pair"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2086568048603497.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "27918211531101651",
-      "url": "https://www.facebook.com/marketplace/item/27918211531101651/",
-      "title": "Partner listing",
-      "price_text": "$38.24",
-      "location_text": "",
-      "discovery_queries": [
-        "2 input audio interface"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27918211531101651.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2052,24 +2100,22 @@
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-37454097944236676.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "27943817388568560",
-      "url": "https://www.facebook.com/marketplace/item/27943817388568560/",
+      "listing_id": "27695023333440351",
+      "url": "https://www.facebook.com/marketplace/item/27695023333440351/",
       "title": "Partner listing",
-      "price_text": "$129",
+      "price_text": "$66",
       "location_text": "",
       "discovery_queries": [
-        "studio monitor pair"
+        "compact audio mixer"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27943817388568560.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2084,24 +2130,7 @@
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27529683346654365.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "27206134775705520",
-      "url": "https://www.facebook.com/marketplace/item/27206134775705520/",
-      "title": "Partner listing",
-      "price_text": "$296",
-      "location_text": "",
-      "discovery_queries": [
-        "microphone preamp"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27206134775705520.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2116,8 +2145,7 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27835504716109583.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2132,8 +2160,22 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27903802549258858.webp"
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "28143027901967180",
+      "url": "https://www.facebook.com/marketplace/item/28143027901967180/",
+      "title": "Partner listing",
+      "price_text": "$39.99",
+      "location_text": "",
+      "discovery_queries": [
+        "synth module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2148,24 +2190,7 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-28185155787739088.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "37110126525269494",
-      "url": "https://www.facebook.com/marketplace/item/37110126525269494/",
-      "title": "Partner listing",
-      "price_text": "$179.99",
-      "location_text": "",
-      "discovery_queries": [
-        "MIDI sound module"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-37110126525269494.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2180,15 +2205,14 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-28082553038077439.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "37885038741110044",
-      "url": "https://www.facebook.com/marketplace/item/37885038741110044/",
+      "listing_id": "28329055426698285",
+      "url": "https://www.facebook.com/marketplace/item/28329055426698285/",
       "title": "Partner listing",
-      "price_text": "$851.99",
+      "price_text": "$79.99",
       "location_text": "",
       "discovery_queries": [
         "loop station"
@@ -2196,24 +2220,7 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-37885038741110044.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "27873079352293382",
-      "url": "https://www.facebook.com/marketplace/item/27873079352293382/",
-      "title": "Partner listing",
-      "price_text": "$450",
-      "location_text": "",
-      "discovery_queries": [
-        "music multi effects"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27873079352293382.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2228,8 +2235,7 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-26957379673949104.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2244,15 +2250,29 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-26102345549449033.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "27674612258885581",
-      "url": "https://www.facebook.com/marketplace/item/27674612258885581/",
+      "listing_id": "34449978987949203",
+      "url": "https://www.facebook.com/marketplace/item/34449978987949203/",
       "title": "Partner listing",
-      "price_text": "$38.69",
+      "price_text": "$150",
+      "location_text": "",
+      "discovery_queries": [
+        "vintage electronic keyboard"
+      ],
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "38577414925190929",
+      "url": "https://www.facebook.com/marketplace/item/38577414925190929/",
+      "title": "Partner listing",
+      "price_text": "$20.99",
       "location_text": "",
       "discovery_queries": [
         "percussion instrument"
@@ -2260,24 +2280,7 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27674612258885581.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "26263218306703558",
-      "url": "https://www.facebook.com/marketplace/item/26263218306703558/",
-      "title": "Partner listing",
-      "price_text": "$249.99",
-      "location_text": "",
-      "discovery_queries": [
-        "home recording studio"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-26263218306703558.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2292,8 +2295,7 @@
       "discovery_groups": [
         "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-26119740954369662.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2308,24 +2310,37 @@
       "discovery_groups": [
         "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27475110002097109.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "27434843989531392",
-      "url": "https://www.facebook.com/marketplace/item/27434843989531392/",
-      "title": "Partner listing$1,200Alesis Strike Pro Special Edition Electronic Drum KitCitrus Heights, CA",
-      "price_text": "$1,200",
+      "listing_id": "28618800834390040",
+      "url": "https://www.facebook.com/marketplace/item/28618800834390040/",
+      "title": "Partner listing",
+      "price_text": "$134.99",
       "location_text": "",
       "discovery_queries": [
-        "electronic drum kit"
+        "mezcladora audio"
       ],
       "discovery_groups": [
-        "playable_instruments"
+        "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-27434843989531392.webp"
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "27943817388568560",
+      "url": "https://www.facebook.com/marketplace/item/27943817388568560/",
+      "title": "Partner listing$129Pair Of Roland Rsm-90 Studio Monitor CrossoversCitrus Heights, CA",
+      "price_text": "$129",
+      "location_text": "",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2340,24 +2355,67 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-37248292364818077.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "28309383848667925",
-      "url": "https://www.facebook.com/marketplace/item/28309383848667925/",
-      "title": "Partner listing$59.99Mackie Mix5 5-channel Compact Mixer Analog Desktop Dj Audio Interface BlackCitrus Heights, CA",
-      "price_text": "$59.99",
+      "listing_id": "37110126525269494",
+      "url": "https://www.facebook.com/marketplace/item/37110126525269494/",
+      "title": "Partner listing$179.99Roland U-220 Rs-pcm Synthesizer Sound Module Rackmount Midi Sound ModuleCitrus Heights, CA",
+      "price_text": "$179.99",
       "location_text": "",
       "discovery_queries": [
-        "compact audio mixer"
+        "MIDI sound module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "27206134775705520",
+      "url": "https://www.facebook.com/marketplace/item/27206134775705520/",
+      "title": "Partner listing$296$329Golden Age Pre 573 Microphone Preamp (b33005612)Citrus Heights, CA",
+      "price_text": "$296",
+      "location_text": "",
+      "discovery_queries": [
+        "microphone preamp"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-28309383848667925.webp"
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "27321897790779333",
+      "url": "https://www.facebook.com/marketplace/item/27321897790779333/",
+      "title": "Partner listing$34.99Tascam Us-144mkii Usb 2.0 Audio Midi Analog Stereo Recording 1/4\" InterfaceCitrus Heights, CA",
+      "price_text": "$34.99",
+      "location_text": "",
+      "discovery_queries": [
+        "2 input audio interface"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "27873079352293382",
+      "url": "https://www.facebook.com/marketplace/item/27873079352293382/",
+      "title": "Partner listing$450Better Music Builder Ex-8a 8-channel Multi Effects MixerCitrus Heights, CA",
+      "price_text": "$450",
+      "location_text": "",
+      "discovery_queries": [
+        "music multi effects"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2372,8 +2430,7 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1318920506976684.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
@@ -2393,22 +2450,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1595740828808865",
-      "url": "https://www.facebook.com/marketplace/item/1595740828808865/",
-      "title": "Percussion Glockenspiel w/Stands",
-      "price_text": "$60",
-      "location_text": "",
-      "discovery_queries": [
-        "percussion instrument"
-      ],
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1595740828808865.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1395354665673750",
       "url": "https://www.facebook.com/marketplace/item/1395354665673750/",
       "title": "Piano Pedal Extender for kids",
@@ -2420,24 +2461,23 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1395354665673750.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "1069172072437454",
-      "url": "https://www.facebook.com/marketplace/item/1069172072437454/",
-      "title": "Pioneer DJ DDJ-200 Smart DJ Controller",
-      "price_text": "$95",
+      "listing_id": "911638021461950",
+      "url": "https://www.facebook.com/marketplace/item/911638021461950/",
+      "title": "Polk Audio Speaker Set",
+      "price_text": "$40",
       "location_text": "",
       "discovery_queries": [
-        "DJ equipment lot"
+        "audio interphase"
       ],
       "discovery_groups": [
-        "bundles_and_lots"
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1069172072437454.webp"
+      "thumbnail_path": "images/listings/facebook-911638021461950.webp"
     },
     {
       "source": "facebook",
@@ -2489,19 +2529,19 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1975052476469555",
-      "url": "https://www.facebook.com/marketplace/item/1975052476469555/",
-      "title": "Samson MediaOne M30 Powered Studio Monitors (Pair)",
-      "price_text": "$50",
+      "listing_id": "1314346573736670",
+      "url": "https://www.facebook.com/marketplace/item/1314346573736670/",
+      "title": "Samson QH4 4-Channel Headphone Amplifier",
+      "price_text": "$35",
       "location_text": "",
       "discovery_queries": [
-        "studio monitor pair"
+        "headphone amplifier"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1975052476469555.webp"
+      "thumbnail_path": "images/listings/facebook-1314346573736670.webp"
     },
     {
       "source": "facebook",
@@ -2521,10 +2561,41 @@
     },
     {
       "source": "facebook",
-      "listing_id": "903686542789860",
-      "url": "https://www.facebook.com/marketplace/item/903686542789860/",
-      "title": "Shiit Audio Modi 3",
-      "price_text": "$90",
+      "listing_id": "4675253329376987",
+      "url": "https://www.facebook.com/marketplace/item/4675253329376987/",
+      "title": "Shure Vocal Master Vintage PA",
+      "price_text": "$350",
+      "location_text": "",
+      "discovery_queries": [
+        "sampler music"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true,
+      "thumbnail_path": "images/listings/facebook-4675253329376987.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2129634331266874",
+      "url": "https://www.facebook.com/marketplace/item/2129634331266874/",
+      "title": "Small toy box",
+      "price_text": "$20",
+      "location_text": "Novato, CA",
+      "discovery_queries": [
+        "groovebox"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": true
+    },
+    {
+      "source": "facebook",
+      "listing_id": "914373167678179",
+      "url": "https://www.facebook.com/marketplace/item/914373167678179/",
+      "title": "Sterling Harmony H22 Audio Interface",
+      "price_text": "$45",
       "location_text": "",
       "discovery_queries": [
         "audio interphase"
@@ -2533,23 +2604,7 @@
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-903686542789860.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1631430154839460",
-      "url": "https://www.facebook.com/marketplace/item/1631430154839460/",
-      "title": "Sound system with klipsch speakers",
-      "price_text": "$800",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "MIDI sound module"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1631430154839460.webp"
+      "thumbnail_path": "images/listings/facebook-914373167678179.webp"
     },
     {
       "source": "facebook",
@@ -2564,40 +2619,45 @@
       "discovery_groups": [
         "creative_instruments"
       ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-977164441526739.webp"
+      "new_vs_exact_checkpoint": true
     },
     {
       "source": "facebook",
-      "listing_id": "965061876513876",
-      "url": "https://www.facebook.com/marketplace/item/965061876513876/",
-      "title": "Tractor dj controller",
-      "price_text": "$150",
+      "listing_id": "1580638100309526",
+      "url": "https://www.facebook.com/marketplace/item/1580638100309526/",
+      "title": "Surly Moloko Adjunct Personal Effects Receptacle",
+      "price_text": "$60",
       "location_text": "San Rafael, CA",
       "discovery_queries": [
-        "DJ equipment lot"
+        "loop station"
       ],
       "discovery_groups": [
-        "bundles_and_lots"
+        "creative_instruments"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-965061876513876.webp"
+      "thumbnail_path": "images/listings/facebook-1580638100309526.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "877006048594110",
-      "url": "https://www.facebook.com/marketplace/item/877006048594110/",
-      "title": "two brand-new LG 27\" monitors, model 27MK60TM, still factory sealed in the original unopened boxes",
-      "price_text": "$90",
-      "location_text": "Novato, CA",
+      "listing_id": "1967266993947921",
+      "url": "https://www.facebook.com/marketplace/item/1967266993947921/",
+      "title": "Upright Piano Kohler & Chase vertical grand French repeating action",
+      "price_text": "Free",
+      "location_text": "Petaluma, CA",
       "discovery_queries": [
-        "studio monitor pair"
+        "digital piano keyboard"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "playable_instruments"
       ],
       "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-877006048594110.webp"
+      "thumbnail_path": "images/listings/facebook-1967266993947921.webp",
+      "detail_price_text": "$0",
+      "listing_age_text": "",
+      "condition": "Used - Good",
+      "description": "Do you need some Fancy French Action? In an upright form?  This piano is for you!!\nRecently played by a relative, who plays piano, and when asked if it needed to be tuned they stated \"It's not bad.\". A couple striker hammers are needing repair.\nI will help move but please bring help too.\n43 1/2\" tall x 58 1/2\" wide x 22 1/2\" deep",
+      "detail_title": "Upright Piano Kohler & Chase vertical grand French repeating action",
+      "detail_checked_at": "2026-08-12T13:53:17.453571-07:00"
     },
     {
       "source": "facebook",
@@ -2614,22 +2674,6 @@
       ],
       "new_vs_exact_checkpoint": true,
       "thumbnail_path": "images/listings/facebook-981646568256023.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "2126820381202561",
-      "url": "https://www.facebook.com/marketplace/item/2126820381202561/",
-      "title": "Yamaha Outdoor Speakers",
-      "price_text": "$30",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "studio moniter speakers"
-      ],
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-2126820381202561.webp"
     },
     {
       "source": "facebook",
@@ -2665,22 +2709,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1004946368669379",
-      "url": "https://www.facebook.com/marketplace/item/1004946368669379/",
-      "title": "Yamaha psr-29 292",
-      "price_text": "$89",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "digital piano keyboard"
-      ],
-      "discovery_groups": [
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": true,
-      "thumbnail_path": "images/listings/facebook-1004946368669379.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1542078001042652",
       "url": "https://www.facebook.com/marketplace/item/1542078001042652/",
       "title": "Zildjian 16\u201d dark S crash",
@@ -2697,51 +2725,20 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1350904093908112",
-      "url": "https://www.facebook.com/marketplace/item/1350904093908112/",
-      "title": "DJ equipment",
-      "price_text": "$12,345",
-      "location_text": "Novato, CA",
+      "listing_id": "4515411762035359",
+      "url": "https://www.facebook.com/marketplace/item/4515411762035359/",
+      "title": "$40Behringer power play pro headphone distribution 1U   4 headphone distribution with auxNovato, CA",
+      "price_text": "$40",
+      "location_text": "",
       "discovery_queries": [
-        "recording mixer USB",
+        "2 input audio interface",
         "compact audio mixer",
         "headphone amplifier",
+        "microphone preamp",
         "sampler music",
-        "synth module",
-        "desktop synthesizer",
-        "MIDI sound module",
         "home recording studio",
         "recording equipment lot",
         "DJ equipment lot",
-        "audio interphase",
-        "mezcladora audio",
-        "equipo de grabacion"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1350904093908112.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1335978678698399",
-      "url": "https://www.facebook.com/marketplace/item/1335978678698399/",
-      "title": "$100Presonus Eris E5 pair of powered studio monitorsSan Rafael, CA",
-      "price_text": "$100",
-      "location_text": "",
-      "discovery_queries": [
-        "USB audio interface",
-        "recording mixer USB",
-        "studio monitor pair",
-        "powered monitor speakers",
-        "music multi effects",
-        "home recording studio",
-        "recording equipment lot",
-        "audio interphase",
         "studio moniter speakers"
       ],
       "discovery_groups": [
@@ -2751,85 +2748,33 @@
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1335978678698399.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1404816891519408",
-      "url": "https://www.facebook.com/marketplace/item/1404816891519408/",
-      "title": "$199$249MAudio BX8a Deluxe Studio Monitor Speakers PairPetaluma, CA",
-      "price_text": "$199",
-      "location_text": "",
-      "discovery_queries": [
-        "USB audio interface",
-        "2 input audio interface",
-        "studio monitor pair",
-        "powered monitor speakers",
-        "home recording studio",
-        "recording equipment lot",
-        "audio interphase",
-        "studio moniter speakers",
-        "mezcladora audio"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1404816891519408.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "4515411762035359",
-      "url": "https://www.facebook.com/marketplace/item/4515411762035359/",
-      "title": "Behringer power play pro headphone distribution 1U 4 headphone distribution with aux",
-      "price_text": "$40",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "2 input audio interface",
-        "recording mixer USB",
-        "compact audio mixer",
-        "headphone amplifier",
-        "microphone preamp",
-        "sampler music",
-        "home recording studio",
-        "recording equipment lot",
-        "DJ equipment lot"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments",
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
       "thumbnail_path": "images/listings/facebook-4515411762035359.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "1534243414282284",
-      "url": "https://www.facebook.com/marketplace/item/1534243414282284/",
-      "title": "Novation Impulse 25 MIDI Controller",
-      "price_text": "$80",
-      "location_text": "Petaluma, CA",
+      "listing_id": "1496535865334631",
+      "url": "https://www.facebook.com/marketplace/item/1496535865334631/",
+      "title": "$275$395M-Audio Venom 49-Key 12-Voice Virtual Analog Synthesizer / USB Audio Interface $275 OBOSan Rafael, CA",
+      "price_text": "$275",
+      "location_text": "",
       "discovery_queries": [
-        "drum machine",
-        "sampler music",
-        "synth module",
+        "USB audio interface",
+        "2 input audio interface",
+        "desktop synthesizer",
         "MIDI sound module",
         "music multi effects",
-        "digital piano keyboard",
         "percussion instrument",
         "synthasizer keyboard",
         "equipo de grabacion"
       ],
       "discovery_groups": [
+        "recording_foundation",
         "creative_instruments",
         "playable_instruments",
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1534243414282284.webp"
+      "thumbnail_path": "images/listings/facebook-1496535865334631.webp"
     },
     {
       "source": "facebook",
@@ -2858,19 +2803,20 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1496535865334631",
-      "url": "https://www.facebook.com/marketplace/item/1496535865334631/",
-      "title": "$275$395M-Audio Venom 49-Key 12-Voice Virtual Analog Synthesizer / USB Audio Interface $275 OBOSan Rafael, CA",
-      "price_text": "$275",
+      "listing_id": "1047148001334224",
+      "url": "https://www.facebook.com/marketplace/item/1047148001334224/",
+      "title": "$40M-Audio USB MIDI Encoder KeyboardPetaluma, CA",
+      "price_text": "$40",
       "location_text": "",
       "discovery_queries": [
         "USB audio interface",
-        "2 input audio interface",
-        "desktop synthesizer",
+        "recording mixer USB",
+        "sampler music",
         "MIDI sound module",
-        "music multi effects",
-        "percussion instrument",
-        "equipo de grabacion"
+        "digital piano keyboard",
+        "vintage electronic keyboard",
+        "synthasizer keyboard",
+        "mezcladora audio"
       ],
       "discovery_groups": [
         "recording_foundation",
@@ -2879,23 +2825,24 @@
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1496535865334631.webp"
+      "thumbnail_path": "images/listings/facebook-1047148001334224.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "911094842057293",
-      "url": "https://www.facebook.com/marketplace/item/911094842057293/",
-      "title": "$50Focusrite Scarlett Solo USB Audio InterfacePetaluma, CA",
-      "price_text": "$50",
-      "location_text": "",
+      "listing_id": "1350904093908112",
+      "url": "https://www.facebook.com/marketplace/item/1350904093908112/",
+      "title": "DJ equipment",
+      "price_text": "$12,345",
+      "location_text": "Novato, CA",
       "discovery_queries": [
-        "USB audio interface",
-        "2 input audio interface",
-        "recording mixer USB",
         "compact audio mixer",
+        "headphone amplifier",
         "home recording studio",
+        "recording equipment lot",
+        "DJ equipment lot",
         "audio interphase",
-        "mezcladora audio"
+        "mezcladora audio",
+        "equipo de grabacion"
       ],
       "discovery_groups": [
         "recording_foundation",
@@ -2903,7 +2850,61 @@
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-911094842057293.webp"
+      "thumbnail_path": "images/listings/facebook-1350904093908112.webp",
+      "detail_price_text": "$12,345",
+      "listing_age_text": "4 weeks ago",
+      "condition": "Used - Good",
+      "description": "PHONIC PowerPod 820 Powered 8 Channel Audio Mixer.      Used good condition.  $120\nOdyssey DJ laptop stand rack case with cortex Mix-R1U  DJ mixer and 2U Rack drawer.    Used fair condition.   Everything works.    Will consider selling items separately.  $250\nJBL EON-518S Powered Subwoofer  500w continuous 1000w peak.   Used fair condition.  Shows cosmetic wear but functionaly works well.\nJBL EON515XT Portable Active 15\u201d 600W Two-Way Loudspeaker with 2 soft cases.    Good condition.\nShure wireless Lavilier microphone with body pack transmitter and receiver.  BLX series  $150.  Good condition.\n2 Quik lok amp stands.  Used-fair condition.   One of them is missing its rubber feet.   $50 for both or $30 for one.",
+      "detail_title": "DJ equipment",
+      "detail_checked_at": "2026-08-12T13:53:20.303763-07:00"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1335978678698399",
+      "url": "https://www.facebook.com/marketplace/item/1335978678698399/",
+      "title": "$100Presonus Eris E5 pair of powered studio monitorsSan Rafael, CA",
+      "price_text": "$100",
+      "location_text": "",
+      "discovery_queries": [
+        "USB audio interface",
+        "recording mixer USB",
+        "studio monitor pair",
+        "powered monitor speakers",
+        "home recording studio",
+        "recording equipment lot",
+        "studio moniter speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1335978678698399.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1404816891519408",
+      "url": "https://www.facebook.com/marketplace/item/1404816891519408/",
+      "title": "$199$249MAudio BX8a Deluxe Studio Monitor Speakers PairPetaluma, CA",
+      "price_text": "$199",
+      "location_text": "",
+      "discovery_queries": [
+        "USB audio interface",
+        "studio monitor pair",
+        "powered monitor speakers",
+        "home recording studio",
+        "recording equipment lot",
+        "audio interphase",
+        "studio moniter speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1404816891519408.webp"
     },
     {
       "source": "facebook",
@@ -2931,49 +2932,26 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1047148001334224",
-      "url": "https://www.facebook.com/marketplace/item/1047148001334224/",
-      "title": "M-Audio USB MIDI Encoder Keyboard",
-      "price_text": "$40",
+      "listing_id": "1534243414282284",
+      "url": "https://www.facebook.com/marketplace/item/1534243414282284/",
+      "title": "Novation Impulse 25 MIDI Controller",
+      "price_text": "$80",
       "location_text": "Petaluma, CA",
       "discovery_queries": [
+        "drum machine",
         "sampler music",
         "synth module",
         "desktop synthesizer",
         "MIDI sound module",
         "digital piano keyboard",
-        "vintage electronic keyboard",
-        "synthasizer keyboard"
+        "percussion instrument"
       ],
       "discovery_groups": [
         "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
+        "playable_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1047148001334224.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1608519980623657",
-      "url": "https://www.facebook.com/marketplace/item/1608519980623657/",
-      "title": "$260",
-      "price_text": "$240",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "drum machine",
-        "desktop synthesizer",
-        "music multi effects",
-        "electronic drum kit",
-        "drum mashine"
-      ],
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1608519980623657.webp"
+      "thumbnail_path": "images/listings/facebook-1534243414282284.webp"
     },
     {
       "source": "facebook",
@@ -2986,50 +2964,8 @@
         "USB audio interface",
         "2 input audio interface",
         "recording mixer USB",
+        "home recording studio",
         "audio interphase",
-        "mezcladora audio"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1360356092258784.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1085863420552992",
-      "url": "https://www.facebook.com/marketplace/item/1085863420552992/",
-      "title": "PHONIC PowerPod 820 Powered 8 Channel Audio Mixer. Used good condition.",
-      "price_text": "$120",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "headphone amplifier",
-        "sampler music",
-        "mezcladora audio"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1085863420552992.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1355083293180600",
-      "url": "https://www.facebook.com/marketplace/item/1355083293180600/",
-      "title": "Yamaha Pro Mic 01 audio mixer",
-      "price_text": "$120",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "headphone amplifier",
-        "recording equipment lot",
         "mezcladora audio"
       ],
       "discovery_groups": [
@@ -3038,16 +2974,61 @@
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1355083293180600.webp"
+      "thumbnail_path": "images/listings/facebook-1360356092258784.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2221909011982068",
+      "url": "https://www.facebook.com/marketplace/item/2221909011982068/",
+      "title": "Feedback Destroyer, Behringer",
+      "price_text": "$45",
+      "location_text": "Novato, CA",
+      "discovery_queries": [
+        "compact audio mixer",
+        "desktop synthesizer",
+        "MIDI sound module",
+        "DJ equipment lot",
+        "mezcladora audio"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "creative_instruments",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-2221909011982068.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1070109149038146",
+      "url": "https://www.facebook.com/marketplace/item/1070109149038146/",
+      "title": "Just listed$100M-Audio BX5 Pair Powered Monitor SpeakersPetaluma, CA",
+      "price_text": "$100",
+      "location_text": "",
+      "discovery_queries": [
+        "USB audio interface",
+        "studio monitor pair",
+        "powered monitor speakers",
+        "audio interphase",
+        "studio moniter speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1070109149038146.webp"
     },
     {
       "source": "facebook",
       "listing_id": "1001242149557418",
       "url": "https://www.facebook.com/marketplace/item/1001242149557418/",
-      "title": "$100Numark MixMeister Control USB DJ MIDI Controller \u2014 used good condition.Novato, CA",
+      "title": "Numark MixMeister Control USB DJ MIDI Controller \u2014 used good condition.",
       "price_text": "$100",
-      "location_text": "$100Numark MixMeister Control USB DJ MIDI Controller \u2014 used good condition.Novato, CA",
+      "location_text": "Novato, CA",
       "discovery_queries": [
+        "recording mixer USB",
         "compact audio mixer",
         "MIDI sound module",
         "DJ equipment lot",
@@ -3061,6 +3042,67 @@
       ],
       "new_vs_exact_checkpoint": false,
       "thumbnail_path": "images/listings/facebook-1001242149557418.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "925509123243361",
+      "url": "https://www.facebook.com/marketplace/item/925509123243361/",
+      "title": "Roland GC 405combo amp mini stack",
+      "price_text": "$250",
+      "location_text": "",
+      "discovery_queries": [
+        "drum machine",
+        "sampler music",
+        "synth module",
+        "desktop synthesizer",
+        "MIDI sound module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-925509123243361.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1021801677315080",
+      "url": "https://www.facebook.com/marketplace/item/1021801677315080/",
+      "title": "$1,200Apogee Symphony I/O Audio Interface",
+      "price_text": "$1,200",
+      "location_text": "",
+      "discovery_queries": [
+        "USB audio interface",
+        "2 input audio interface",
+        "home recording studio",
+        "audio interphase"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1021801677315080.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1525713702570743",
+      "url": "https://www.facebook.com/marketplace/item/1525713702570743/",
+      "title": "$110",
+      "price_text": "$80",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "synth module",
+        "digital piano keyboard",
+        "vintage electronic keyboard",
+        "synthasizer keyboard"
+      ],
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -3084,46 +3126,83 @@
     },
     {
       "source": "facebook",
-      "listing_id": "2271586373601393",
-      "url": "https://www.facebook.com/marketplace/item/2271586373601393/",
-      "title": "$250",
-      "price_text": "$230",
-      "location_text": "San Rafael, CA",
+      "listing_id": "1608519980623657",
+      "url": "https://www.facebook.com/marketplace/item/1608519980623657/",
+      "title": "$260",
+      "price_text": "$240",
+      "location_text": "Petaluma, CA",
+      "discovery_queries": [
+        "drum machine",
+        "music multi effects",
+        "electronic drum kit",
+        "drum mashine"
+      ],
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1834226491359078",
+      "url": "https://www.facebook.com/marketplace/item/1834226491359078/",
+      "title": "$325Event Studio Precision 8 (SP8) Powered Studio Monitors \u2014 Pair \u2014 Work PerfectlyPetaluma, CA",
+      "price_text": "$325",
+      "location_text": "",
       "discovery_queries": [
         "studio monitor pair",
         "powered monitor speakers",
         "home recording studio",
+        "recording equipment lot"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1834226491359078.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1716401169599070",
+      "url": "https://www.facebook.com/marketplace/item/1716401169599070/",
+      "title": "$50$75Electronic KeyboardNovato, CA",
+      "price_text": "$50",
+      "location_text": "",
+      "discovery_queries": [
+        "desktop synthesizer",
+        "digital piano keyboard",
+        "vintage electronic keyboard",
+        "synthasizer keyboard"
+      ],
+      "discovery_groups": [
+        "creative_instruments",
+        "playable_instruments",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1672894263782928",
+      "url": "https://www.facebook.com/marketplace/item/1672894263782928/",
+      "title": "$89Behringer MS20 Near Field Monitor Speakers Set W/  Digital Input SpeakersNovato, CA",
+      "price_text": "$89",
+      "location_text": "",
+      "discovery_queries": [
+        "2 input audio interface",
+        "studio monitor pair",
+        "powered monitor speakers",
         "studio moniter speakers"
       ],
       "discovery_groups": [
         "recording_foundation",
-        "bundles_and_lots",
         "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2271586373601393.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "2221909011982068",
-      "url": "https://www.facebook.com/marketplace/item/2221909011982068/",
-      "title": "$45Feedback Destroyer, BehringerNovato, CA",
-      "price_text": "$45",
-      "location_text": "",
-      "discovery_queries": [
-        "compact audio mixer",
-        "MIDI sound module",
-        "DJ equipment lot",
-        "mezcladora audio"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2221909011982068.webp"
+      "thumbnail_path": "images/listings/facebook-1672894263782928.webp"
     },
     {
       "source": "facebook",
@@ -3147,43 +3226,61 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1672894263782928",
-      "url": "https://www.facebook.com/marketplace/item/1672894263782928/",
-      "title": "Behringer MS20 Near Field Monitor Speakers Set W/ Digital Input Speakers",
-      "price_text": "$89",
-      "location_text": "Novato, CA",
+      "listing_id": "1846195989675277",
+      "url": "https://www.facebook.com/marketplace/item/1846195989675277/",
+      "title": "Electronics",
+      "price_text": "$100",
+      "location_text": "",
       "discovery_queries": [
-        "2 input audio interface",
-        "studio monitor pair",
-        "powered monitor speakers",
-        "studio moniter speakers"
+        "recording mixer USB",
+        "headphone amplifier",
+        "microphone preamp",
+        "vintage electronic keyboard"
       ],
       "discovery_groups": [
         "recording_foundation",
-        "seller_language_and_misspellings"
+        "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1672894263782928.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
-      "listing_id": "1715746383078368",
-      "url": "https://www.facebook.com/marketplace/item/1715746383078368/",
-      "title": "R.E. Stage bug active 48v phantom powered DI",
-      "price_text": "$50",
+      "listing_id": "1078304105154632",
+      "url": "https://www.facebook.com/marketplace/item/1078304105154632/",
+      "title": "Just listed",
+      "price_text": "$45",
       "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer",
+        "DJ equipment lot",
+        "mezcladora audio"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1322843872965387",
+      "url": "https://www.facebook.com/marketplace/item/1322843872965387/",
+      "title": "Korg i30 EX 61-Key Interactive Music Workstation / Synthesizer with Padded Gig Bag",
+      "price_text": "$500",
+      "location_text": "Novato, CA",
       "discovery_queries": [
         "sampler music",
         "synth module",
-        "MIDI sound module",
-        "music gear bundle"
+        "desktop synthesizer",
+        "music multi effects"
       ],
       "discovery_groups": [
-        "creative_instruments",
-        "bundles_and_lots"
+        "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1715746383078368.webp"
+      "thumbnail_path": "images/listings/facebook-1322843872965387.webp"
     },
     {
       "source": "facebook",
@@ -3207,6 +3304,27 @@
     },
     {
       "source": "facebook",
+      "listing_id": "1355083293180600",
+      "url": "https://www.facebook.com/marketplace/item/1355083293180600/",
+      "title": "Yamaha Pro Mic 01 audio mixer",
+      "price_text": "$120",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer",
+        "recording equipment lot",
+        "mezcladora audio"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1355083293180600.webp"
+    },
+    {
+      "source": "facebook",
       "listing_id": "827269056970244",
       "url": "https://www.facebook.com/marketplace/item/827269056970244/",
       "title": "$1,500",
@@ -3222,65 +3340,65 @@
         "playable_instruments",
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-827269056970244.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
-      "listing_id": "1525713702570743",
-      "url": "https://www.facebook.com/marketplace/item/1525713702570743/",
-      "title": "$110",
-      "price_text": "$80",
-      "location_text": "San Rafael, CA",
+      "listing_id": "839358415811446",
+      "url": "https://www.facebook.com/marketplace/item/839358415811446/",
+      "title": "$100SM Pro Audio PR8 Mark 2 PreampSan Rafael, CA",
+      "price_text": "$100",
+      "location_text": "",
       "discovery_queries": [
-        "digital piano keyboard",
-        "vintage electronic keyboard",
-        "synthasizer keyboard"
-      ],
-      "discovery_groups": [
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1525713702570743.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1709737213613836",
-      "url": "https://www.facebook.com/marketplace/item/1709737213613836/",
-      "title": "$400",
-      "price_text": "$300",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "recording equipment lot"
+        "microphone preamp",
+        "audio interphase",
+        "mezcladora audio"
       ],
       "discovery_groups": [
         "recording_foundation",
-        "bundles_and_lots"
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1709737213613836.webp"
+      "thumbnail_path": "images/listings/facebook-839358415811446.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "1538433204451812",
-      "url": "https://www.facebook.com/marketplace/item/1538433204451812/",
-      "title": "$40Motu 896 Firewire InterfacePetaluma, CA",
-      "price_text": "$40",
+      "listing_id": "1782766999565484",
+      "url": "https://www.facebook.com/marketplace/item/1782766999565484/",
+      "title": "$150Shure BETA 52A Supercardioid Dynamic Bass Drum MicrophoneNovato, CA",
+      "price_text": "$150",
       "location_text": "",
       "discovery_queries": [
-        "USB audio interface",
-        "2 input audio interface",
-        "sampler music"
+        "microphone preamp",
+        "drum machine",
+        "MIDI sound module"
       ],
       "discovery_groups": [
         "recording_foundation",
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1538433204451812.webp"
+      "thumbnail_path": "images/listings/facebook-1782766999565484.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2271586373601393",
+      "url": "https://www.facebook.com/marketplace/item/2271586373601393/",
+      "title": "$230$250Yamaha HS50M powered studio monitors (pair)San Rafael, CA",
+      "price_text": "$230",
+      "location_text": "$230$250Yamaha HS50M powered studio monitors (pair)San Rafael, CA",
+      "discovery_queries": [
+        "studio monitor pair",
+        "home recording studio",
+        "studio moniter speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-2271586373601393.webp"
     },
     {
       "source": "facebook",
@@ -3298,8 +3416,7 @@
         "playable_instruments",
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1058092873632394.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -3322,6 +3439,25 @@
     },
     {
       "source": "facebook",
+      "listing_id": "1520177352782589",
+      "url": "https://www.facebook.com/marketplace/item/1520177352782589/",
+      "title": "$60Steinberg Midex 8 Midi Interface 8PortSan Rafael, CA",
+      "price_text": "$60",
+      "location_text": "",
+      "discovery_queries": [
+        "USB audio interface",
+        "home recording studio",
+        "recording equipment lot"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1520177352782589.webp"
+    },
+    {
+      "source": "facebook",
       "listing_id": "1893886061998881",
       "url": "https://www.facebook.com/marketplace/item/1893886061998881/",
       "title": "$7,800",
@@ -3336,27 +3472,7 @@
         "bundles_and_lots",
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1893886061998881.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1716401169599070",
-      "url": "https://www.facebook.com/marketplace/item/1716401169599070/",
-      "title": "$75",
-      "price_text": "$50",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "digital piano keyboard",
-        "vintage electronic keyboard",
-        "synthasizer keyboard"
-      ],
-      "discovery_groups": [
-        "playable_instruments",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1716401169599070.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -3374,8 +3490,26 @@
         "playable_instruments",
         "seller_language_and_misspellings"
       ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1351028543807775",
+      "url": "https://www.facebook.com/marketplace/item/1351028543807775/",
+      "title": "Arturia MicroBrute Creation Edition",
+      "price_text": "$220",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "sampler music",
+        "desktop synthesizer",
+        "equipo de grabacion"
+      ],
+      "discovery_groups": [
+        "creative_instruments",
+        "seller_language_and_misspellings"
+      ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-990066620533693.webp"
+      "thumbnail_path": "images/listings/facebook-1351028543807775.webp"
     },
     {
       "source": "facebook",
@@ -3417,182 +3551,31 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1579504226961828",
-      "url": "https://www.facebook.com/marketplace/item/1579504226961828/",
-      "title": "Digidesign Digi 002 Mixer/Controller",
-      "price_text": "$100",
-      "location_text": "",
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer",
-        "sampler music"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1579504226961828.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1846195989675277",
-      "url": "https://www.facebook.com/marketplace/item/1846195989675277/",
-      "title": "Electronics",
-      "price_text": "$100",
-      "location_text": "",
-      "discovery_queries": [
-        "headphone amplifier",
-        "microphone preamp",
-        "vintage electronic keyboard"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1846195989675277.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1834226491359078",
-      "url": "https://www.facebook.com/marketplace/item/1834226491359078/",
-      "title": "Event Studio Precision 8 (SP8) Powered Studio Monitors \u2014 Pair \u2014 Work Perfectly",
-      "price_text": "$325",
+      "listing_id": "1562103548932856",
+      "url": "https://www.facebook.com/marketplace/item/1562103548932856/",
+      "title": "Korg DW-6000 Hybrid Analog Synthesizer",
+      "price_text": "$300",
       "location_text": "Petaluma, CA",
       "discovery_queries": [
-        "studio monitor pair",
-        "powered monitor speakers",
-        "home recording studio"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1834226491359078.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1070109149038146",
-      "url": "https://www.facebook.com/marketplace/item/1070109149038146/",
-      "title": "Just listed$100M-Audio BX5 Pair Powered Monitor SpeakersPetaluma, CA",
-      "price_text": "$100",
-      "location_text": "",
-      "discovery_queries": [
-        "USB audio interface",
-        "studio monitor pair",
-        "powered monitor speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1070109149038146.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1322843872965387",
-      "url": "https://www.facebook.com/marketplace/item/1322843872965387/",
-      "title": "Korg i30 EX 61-Key Interactive Music Workstation / Synthesizer with Padded Gig Bag",
-      "price_text": "$500",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "sampler music",
         "synth module",
-        "desktop synthesizer"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1322843872965387.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1946661526041861",
-      "url": "https://www.facebook.com/marketplace/item/1946661526041861/",
-      "title": "Mackie SRM 350 2-way Active Loudspeaker (one)",
-      "price_text": "$250",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "powered monitor speakers",
-        "recording equipment lot",
-        "DJ equipment lot"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1946661526041861.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1782766999565484",
-      "url": "https://www.facebook.com/marketplace/item/1782766999565484/",
-      "title": "Shure BETA 52A Supercardioid Dynamic Bass Drum Microphone",
-      "price_text": "$150",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "microphone preamp",
-        "drum machine",
+        "desktop synthesizer",
         "MIDI sound module"
       ],
       "discovery_groups": [
-        "recording_foundation",
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1782766999565484.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "839358415811446",
-      "url": "https://www.facebook.com/marketplace/item/839358415811446/",
-      "title": "SM Pro Audio PR8 Mark 2 Preamp",
-      "price_text": "$100",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "microphone preamp",
-        "audio interphase",
-        "mezcladora audio"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-839358415811446.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "928956000233564",
-      "url": "https://www.facebook.com/marketplace/item/928956000233564/",
-      "title": "\u2705\u2705Alto Pro TS412 12\" 2-Way Powered Active DJ PA Speaker w Bluetooth Pair & Bags",
-      "price_text": "$750",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "powered monitor speakers",
-        "DJ equipment lot",
-        "studio moniter speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-928956000233564.webp"
+      "thumbnail_path": "images/listings/facebook-1562103548932856.webp"
     },
     {
       "source": "facebook",
       "listing_id": "1494279182380456",
       "url": "https://www.facebook.com/marketplace/item/1494279182380456/",
-      "title": "$176Mackie 1402-VLZ PRO 14-channel mixerSan Anselmo, CA",
+      "title": "Mackie 1402-VLZ PRO 14-channel mixer",
       "price_text": "$176",
       "location_text": "",
       "discovery_queries": [
+        "recording mixer USB",
         "compact audio mixer",
         "mezcladora audio"
       ],
@@ -3605,21 +3588,127 @@
     },
     {
       "source": "facebook",
-      "listing_id": "28628862663367037",
-      "url": "https://www.facebook.com/marketplace/item/28628862663367037/",
-      "title": "$2,000V-Drums By Roland 2024",
-      "price_text": "$2,000",
+      "listing_id": "1085863420552992",
+      "url": "https://www.facebook.com/marketplace/item/1085863420552992/",
+      "title": "PHONIC PowerPod 820 Powered 8 Channel Audio Mixer. Used good condition.",
+      "price_text": "$120",
+      "location_text": "Novato, CA",
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer",
+        "mezcladora audio"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1085863420552992.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1715746383078368",
+      "url": "https://www.facebook.com/marketplace/item/1715746383078368/",
+      "title": "R.E. Stage bug active 48v phantom powered DI",
+      "price_text": "$50",
+      "location_text": "San Rafael, CA",
+      "discovery_queries": [
+        "sampler music",
+        "synth module",
+        "MIDI sound module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1715746383078368.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "27730248339961337",
+      "url": "https://www.facebook.com/marketplace/item/27730248339961337/",
+      "title": "Vintage Yamaha MC1202 12-Channel Mixing Console - Very Good Condition - Teste",
+      "price_text": "$300",
+      "location_text": "Novato, CA",
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer",
+        "recording equipment lot"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-27730248339961337.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "918701630640276",
+      "url": "https://www.facebook.com/marketplace/item/918701630640276/",
+      "title": "$100",
+      "price_text": "$80",
       "location_text": "",
       "discovery_queries": [
-        "groovebox",
-        "electronic drum kit"
+        "compact audio mixer",
+        "headphone amplifier"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1051586687270254",
+      "url": "https://www.facebook.com/marketplace/item/1051586687270254/",
+      "title": "$100Bose 301v SpeakersNovato, CA",
+      "price_text": "$100",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers",
+        "studio moniter speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1647772216487475",
+      "url": "https://www.facebook.com/marketplace/item/1647772216487475/",
+      "title": "$10Cannon School of Music-Sonoma-Open Mic and Vinyl Swap MeetSonoma, CA",
+      "price_text": "$10",
+      "location_text": "$10Cannon School of Music-Sonoma-Open Mic and Vinyl Swap MeetSonoma, CA",
+      "discovery_queries": [
+        "music multi effects",
+        "music gear bundle"
       ],
       "discovery_groups": [
         "creative_instruments",
-        "playable_instruments"
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1811843113527055",
+      "url": "https://www.facebook.com/marketplace/item/1811843113527055/",
+      "title": "$150B&W 601 s3 speakersPetaluma, CA",
+      "price_text": "$150",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers",
+        "studio moniter speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation",
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-28628862663367037.webp"
+      "thumbnail_path": "images/listings/facebook-1811843113527055.webp"
     },
     {
       "source": "facebook",
@@ -3640,73 +3729,90 @@
     },
     {
       "source": "facebook",
-      "listing_id": "990719060540668",
-      "url": "https://www.facebook.com/marketplace/item/990719060540668/",
-      "title": "$300$400Yamaha MM6 61-Key Music Synthesizer Workstation w/ Power Supply \u2013 Tested & WorkingSonoma, CA",
-      "price_text": "$300",
+      "listing_id": "4090345797932369",
+      "url": "https://www.facebook.com/marketplace/item/4090345797932369/",
+      "title": "$25Musician's Gear brand microphone standNovato, CA",
+      "price_text": "$25",
       "location_text": "",
       "discovery_queries": [
-        "desktop synthesizer",
-        "synthasizer keyboard"
+        "microphone preamp",
+        "music gear bundle"
       ],
       "discovery_groups": [
-        "creative_instruments",
-        "seller_language_and_misspellings"
+        "recording_foundation",
+        "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-990719060540668.webp"
+      "thumbnail_path": "images/listings/facebook-4090345797932369.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "875036255301369",
-      "url": "https://www.facebook.com/marketplace/item/875036255301369/",
-      "title": "$350",
-      "price_text": "$250",
-      "location_text": "Petaluma, CA",
+      "listing_id": "1709737213613836",
+      "url": "https://www.facebook.com/marketplace/item/1709737213613836/",
+      "title": "$400",
+      "price_text": "$300",
+      "location_text": "San Rafael, CA",
       "discovery_queries": [
-        "audio interphase",
-        "mezcladora audio"
+        "compact audio mixer",
+        "recording equipment lot"
       ],
       "discovery_groups": [
-        "seller_language_and_misspellings"
+        "recording_foundation",
+        "bundles_and_lots"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-875036255301369.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
-      "listing_id": "1364758381742717",
-      "url": "https://www.facebook.com/marketplace/item/1364758381742717/",
-      "title": "$50$75AMC H/E/C Control Center PRO7Sonoma, CA",
-      "price_text": "$50",
+      "listing_id": "1538433204451812",
+      "url": "https://www.facebook.com/marketplace/item/1538433204451812/",
+      "title": "$40Motu 896 Firewire InterfacePetaluma, CA",
+      "price_text": "$40",
       "location_text": "",
       "discovery_queries": [
         "USB audio interface",
-        "audio interphase"
+        "2 input audio interface"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1538433204451812.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1790382438976789",
+      "url": "https://www.facebook.com/marketplace/item/1790382438976789/",
+      "title": "$52Edifier R1280T Powered Bookshelf SpeakersSan Rafael, CA",
+      "price_text": "$52",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers",
+        "studio moniter speakers"
       ],
       "discovery_groups": [
         "recording_foundation",
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1364758381742717.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
-      "listing_id": "1356063946448639",
-      "url": "https://www.facebook.com/marketplace/item/1356063946448639/",
-      "title": "$75",
-      "price_text": "$60",
+      "listing_id": "928956000233564",
+      "url": "https://www.facebook.com/marketplace/item/928956000233564/",
+      "title": "$750\u2705\u2705Alto Pro TS412 12\" 2-Way Powered Active DJ PA Speaker w Bluetooth Pair & BagsNovato, CA",
+      "price_text": "$750",
       "location_text": "",
       "discovery_queries": [
-        "recording equipment lot",
+        "powered monitor speakers",
         "DJ equipment lot"
       ],
       "discovery_groups": [
+        "recording_foundation",
         "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1356063946448639.webp"
+      "thumbnail_path": "images/listings/facebook-928956000233564.webp"
     },
     {
       "source": "facebook",
@@ -3722,61 +3828,7 @@
       "discovery_groups": [
         "recording_foundation"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-3463197660506958.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "918701630640276",
-      "url": "https://www.facebook.com/marketplace/item/918701630640276/",
-      "title": "$80$100Samson S-Phone Headphone Mixer / AmplifierLarkspur, CA",
-      "price_text": "$80",
-      "location_text": "",
-      "discovery_queries": [
-        "compact audio mixer",
-        "headphone amplifier"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-918701630640276.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1021801677315080",
-      "url": "https://www.facebook.com/marketplace/item/1021801677315080/",
-      "title": "Apogee Symphony I/O Audio Interface + Apogee Symphony 64 | ThunderBridge",
-      "price_text": "$1,200",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "home recording studio",
-        "audio interphase"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1021801677315080.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1051586687270254",
-      "url": "https://www.facebook.com/marketplace/item/1051586687270254/",
-      "title": "Bose 301v Speakers",
-      "price_text": "$100",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "powered monitor speakers",
-        "studio moniter speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1051586687270254.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -3814,6 +3866,40 @@
     },
     {
       "source": "facebook",
+      "listing_id": "927652920106268",
+      "url": "https://www.facebook.com/marketplace/item/927652920106268/",
+      "title": "Dave Smith - Mopho X4 Synthesizer",
+      "price_text": "$600",
+      "location_text": "Sonoma, CA",
+      "discovery_queries": [
+        "groovebox",
+        "synth module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-927652920106268.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1579504226961828",
+      "url": "https://www.facebook.com/marketplace/item/1579504226961828/",
+      "title": "Digidesign Digi 002 Mixer/Controller",
+      "price_text": "$100",
+      "location_text": "",
+      "discovery_queries": [
+        "recording mixer USB",
+        "compact audio mixer"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1579504226961828.webp"
+    },
+    {
+      "source": "facebook",
       "listing_id": "1567214128465203",
       "url": "https://www.facebook.com/marketplace/item/1567214128465203/",
       "title": "Drum Throne",
@@ -3832,24 +3918,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1790382438976789",
-      "url": "https://www.facebook.com/marketplace/item/1790382438976789/",
-      "title": "Edifier R1280T Powered Bookshelf Speakers",
-      "price_text": "$52",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "powered monitor speakers",
-        "studio moniter speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1790382438976789.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1387626363311631",
       "url": "https://www.facebook.com/marketplace/item/1387626363311631/",
       "title": "Ensoniq EPS Performance Sampler Vintage Synth",
@@ -3864,77 +3932,6 @@
       ],
       "new_vs_exact_checkpoint": false,
       "thumbnail_path": "images/listings/facebook-1387626363311631.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1043277825235290",
-      "url": "https://www.facebook.com/marketplace/item/1043277825235290/",
-      "title": "Just listed",
-      "price_text": "$75",
-      "location_text": "",
-      "discovery_queries": [
-        "2 input audio interface",
-        "studio moniter speakers"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1043277825235290.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1078304105154632",
-      "url": "https://www.facebook.com/marketplace/item/1078304105154632/",
-      "title": "Just listed$45Numark Performance Series DM1260X DJ MixerSan Rafael, CA",
-      "price_text": "$45",
-      "location_text": "",
-      "discovery_queries": [
-        "compact audio mixer",
-        "mezcladora audio"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1078304105154632.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1391532906199580",
-      "url": "https://www.facebook.com/marketplace/item/1391532906199580/",
-      "title": "Kat KT-150 Electronic Drums",
-      "price_text": "$350",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "drum machine",
-        "electronic drum kit"
-      ],
-      "discovery_groups": [
-        "creative_instruments",
-        "playable_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1391532906199580.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1562103548932856",
-      "url": "https://www.facebook.com/marketplace/item/1562103548932856/",
-      "title": "Korg DW-6000 Hybrid Analog Synthesizer",
-      "price_text": "$300",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "synth module",
-        "desktop synthesizer"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1562103548932856.webp"
     },
     {
       "source": "facebook",
@@ -3956,13 +3953,13 @@
     },
     {
       "source": "facebook",
-      "listing_id": "4090345797932369",
-      "url": "https://www.facebook.com/marketplace/item/4090345797932369/",
-      "title": "Musician's Gear brand microphone stand",
-      "price_text": "$25",
-      "location_text": "Novato, CA",
+      "listing_id": "2075431843050785",
+      "url": "https://www.facebook.com/marketplace/item/2075431843050785/",
+      "title": "Pedal Lot",
+      "price_text": "$50",
+      "location_text": "Petaluma, CA",
       "discovery_queries": [
-        "sampler music",
+        "synth module",
         "music gear bundle"
       ],
       "discovery_groups": [
@@ -3970,25 +3967,7 @@
         "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-4090345797932369.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1029775083274374",
-      "url": "https://www.facebook.com/marketplace/item/1029775083274374/",
-      "title": "Phoenix Audio DRS-8 Mk2 8-Channel Mic Preamp",
-      "price_text": "$2,750",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "microphone preamp",
-        "music multi effects"
-      ],
-      "discovery_groups": [
-        "recording_foundation",
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1029775083274374.webp"
+      "thumbnail_path": "images/listings/facebook-2075431843050785.webp"
     },
     {
       "source": "facebook",
@@ -4009,23 +3988,6 @@
     },
     {
       "source": "facebook",
-      "listing_id": "925509123243361",
-      "url": "https://www.facebook.com/marketplace/item/925509123243361/",
-      "title": "Roland GC 405combo amp mini stack",
-      "price_text": "$250",
-      "location_text": "",
-      "discovery_queries": [
-        "synth module",
-        "MIDI sound module"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-925509123243361.webp"
-    },
-    {
-      "source": "facebook",
       "listing_id": "1283454000615950",
       "url": "https://www.facebook.com/marketplace/item/1283454000615950/",
       "title": "Roland JV 1010",
@@ -4043,37 +4005,21 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1520177352782589",
-      "url": "https://www.facebook.com/marketplace/item/1520177352782589/",
-      "title": "Steinberg Midex 8 Midi Interface 8Port",
-      "price_text": "$60",
+      "listing_id": "28628862663367037",
+      "url": "https://www.facebook.com/marketplace/item/28628862663367037/",
+      "title": "V-Drums By Roland 2024 2025 Roland PM-100 Personal Monitor Tascam Head Phones Read description",
+      "price_text": "$2,000",
       "location_text": "San Rafael, CA",
       "discovery_queries": [
-        "home recording studio",
-        "recording equipment lot"
+        "groovebox",
+        "electronic drum kit"
       ],
       "discovery_groups": [
-        "bundles_and_lots"
+        "creative_instruments",
+        "playable_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1520177352782589.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "2096433927640779",
-      "url": "https://www.facebook.com/marketplace/item/2096433927640779/",
-      "title": "Yamaha integrated mixer EM series model 150 II.",
-      "price_text": "$125",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "recording mixer USB",
-        "compact audio mixer"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2096433927640779.webp"
+      "thumbnail_path": "images/listings/facebook-28628862663367037.webp"
     },
     {
       "source": "facebook",
@@ -4088,16 +4034,63 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1021586293818461.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
-      "listing_id": "2275745109896671",
-      "url": "https://www.facebook.com/marketplace/item/2275745109896671/",
-      "title": "$100",
-      "price_text": "$35",
-      "location_text": "San Rafael, CA",
+      "listing_id": "2140911846467193",
+      "url": "https://www.facebook.com/marketplace/item/2140911846467193/",
+      "title": "$100JBL MR905 Speaker Cabinet Monitor.San Rafael, CA",
+      "price_text": "$100",
+      "location_text": "$100JBL MR905 Speaker Cabinet Monitor.San Rafael, CA",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-2140911846467193.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "988393640684710",
+      "url": "https://www.facebook.com/marketplace/item/988393640684710/",
+      "title": "$11,495ATC SCM45A - Active Studio Monitors - PairSan Rafael, CA",
+      "price_text": "$11,495",
+      "location_text": "",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-988393640684710.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1006954298698015",
+      "url": "https://www.facebook.com/marketplace/item/1006954298698015/",
+      "title": "$120Boss GX-700 Guitar Effects ProcessorBelvedere-Tiburon, CA",
+      "price_text": "$120",
+      "location_text": "",
+      "discovery_queries": [
+        "music multi effects"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1006954298698015.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1357841009812536",
+      "url": "https://www.facebook.com/marketplace/item/1357841009812536/",
+      "title": "$120DJ Tech Tools Midi Fighter controllerSan Rafael, CA",
+      "price_text": "$120",
+      "location_text": "",
       "discovery_queries": [
         "MIDI sound module"
       ],
@@ -4105,31 +4098,15 @@
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2275745109896671.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1518319370024202",
-      "url": "https://www.facebook.com/marketplace/item/1518319370024202/",
-      "title": "$100",
-      "price_text": "$60",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "DJ equipment lot"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1518319370024202.webp"
+      "thumbnail_path": "images/listings/facebook-1357841009812536.webp"
     },
     {
       "source": "facebook",
       "listing_id": "2555252204905328",
       "url": "https://www.facebook.com/marketplace/item/2555252204905328/",
-      "title": "$160",
+      "title": "$130$160Line 6 HD500 Multi Effects Guitar Pedal BoardNovato, CA",
       "price_text": "$130",
-      "location_text": "Novato, CA",
+      "location_text": "",
       "discovery_queries": [
         "music multi effects"
       ],
@@ -4157,35 +4134,121 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1593810002269979",
-      "url": "https://www.facebook.com/marketplace/item/1593810002269979/",
-      "title": "$200Roland TD-1 VDRUM Electric Drum SetCorte Madera, CA",
-      "price_text": "$200",
+      "listing_id": "1999942834063566",
+      "url": "https://www.facebook.com/marketplace/item/1999942834063566/",
+      "title": "$180Yamaha BR15 SpeakerNovato, CA",
+      "price_text": "$180",
       "location_text": "",
       "discovery_queries": [
-        "electronic drum kit"
+        "powered monitor speakers"
       ],
       "discovery_groups": [
-        "playable_instruments"
+        "recording_foundation"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1593810002269979.webp"
+      "thumbnail_path": "images/listings/facebook-1999942834063566.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "1351028543807775",
-      "url": "https://www.facebook.com/marketplace/item/1351028543807775/",
-      "title": "$220Arturia MicroBrute Creation EditionSan Rafael, CA",
-      "price_text": "$220",
+      "listing_id": "829020013597889",
+      "url": "https://www.facebook.com/marketplace/item/829020013597889/",
+      "title": "$1Rocktron and lexicon guitar rack effect unitsSonoma, CA",
+      "price_text": "$1",
       "location_text": "",
       "discovery_queries": [
-        "desktop synthesizer"
+        "music multi effects"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1351028543807775.webp"
+      "thumbnail_path": "images/listings/facebook-829020013597889.webp",
+      "detail_price_text": "$1",
+      "listing_age_text": "",
+      "condition": "Used - Good",
+      "description": "Up for grabs is my 90 effects units. Phenomenal sounding\nLexicon MPX1 in good condition, comes in an Anvil 2 space rack with a furman PL plus power conditioner. Everything in good working order. Case is worn and built solid like a tank. Furman has lights which are useful.\n$500\nhttps://youtu.be/wNsGG7nA1Yk\nRocktron intellifex in good working condition.  Comes with power supply in a 5 space semi-soft rack case.  Also comes with a coveted Rockman midi octopus.  The down button sticks a bit on the Rockman but functions well.\n$600\nhttps://youtu.be/guFvs5uldBM",
+      "detail_title": "Rocktron and lexicon guitar rack effect units",
+      "detail_checked_at": "2026-08-12T13:53:24.303864-07:00"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1353064283580519",
+      "url": "https://www.facebook.com/marketplace/item/1353064283580519/",
+      "title": "$2,200Universal Audio Apollo x16 Thunderbolt 3 Audio Interface \u2013 HEXA Core DSP (Gen 1)Petaluma, CA",
+      "price_text": "$2,200",
+      "location_text": "$2,200Universal Audio Apollo x16 Thunderbolt 3 Audio Interface \u2013 HEXA Core DSP (Gen 1)Petaluma, CA",
+      "discovery_queries": [
+        "2 input audio interface"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1353064283580519.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1029775083274374",
+      "url": "https://www.facebook.com/marketplace/item/1029775083274374/",
+      "title": "$2,750Phoenix Audio DRS-8 Mk2 8-Channel Mic PreampPetaluma, CA",
+      "price_text": "$2,750",
+      "location_text": "",
+      "discovery_queries": [
+        "microphone preamp"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1029775083274374.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "4551230851832754",
+      "url": "https://www.facebook.com/marketplace/item/4551230851832754/",
+      "title": "$20$40Sound Research wired speakersMill Valley, CA",
+      "price_text": "$20",
+      "location_text": "",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-4551230851832754.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1483268529855455",
+      "url": "https://www.facebook.com/marketplace/item/1483268529855455/",
+      "title": "$200Digitech GSP 2101 Studio Tube preamp/processorSan Rafael, CA",
+      "price_text": "$200",
+      "location_text": "",
+      "discovery_queries": [
+        "microphone preamp"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1483268529855455.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1359177519688420",
+      "url": "https://www.facebook.com/marketplace/item/1359177519688420/",
+      "title": "$215$250Roland Cube Sound SystemFairfax, CA",
+      "price_text": "$215",
+      "location_text": "",
+      "discovery_queries": [
+        "MIDI sound module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1359177519688420.webp"
     },
     {
       "source": "facebook",
@@ -4200,24 +4263,135 @@
       "discovery_groups": [
         "playable_instruments"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-882995880862313.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
-      "listing_id": "1359177519688420",
-      "url": "https://www.facebook.com/marketplace/item/1359177519688420/",
-      "title": "$250",
-      "price_text": "$215",
+      "listing_id": "2111191752828074",
+      "url": "https://www.facebook.com/marketplace/item/2111191752828074/",
+      "title": "$250AKAI DPS16 SALE!!! $250Ships to you",
+      "price_text": "$250",
       "location_text": "",
       "discovery_queries": [
-        "recording equipment lot"
+        "MIDI sound module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-2111191752828074.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1946661526041861",
+      "url": "https://www.facebook.com/marketplace/item/1946661526041861/",
+      "title": "$250Mackie SRM 350 2-way Active Loudspeaker (one)Petaluma, CA",
+      "price_text": "$250",
+      "location_text": "$250Mackie SRM 350 2-way Active Loudspeaker (one)Petaluma, CA",
+      "discovery_queries": [
+        "powered monitor speakers"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1946661526041861.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1590248469810189",
+      "url": "https://www.facebook.com/marketplace/item/1590248469810189/",
+      "title": "$250Multi-Brand Speaker Sale: Cerwin-Vega, B&W, Yamaha, Klipsch & More!Novato, CA",
+      "price_text": "$250",
+      "location_text": "$250Multi-Brand Speaker Sale: Cerwin-Vega, B&W, Yamaha, Klipsch & More!Novato, CA",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1590248469810189.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1782680182896100",
+      "url": "https://www.facebook.com/marketplace/item/1782680182896100/",
+      "title": "$250Odyssey DJ laptop stand rack case with cortex Mix-R1U  DJ mixer 2U Rack drawerNovato, CA",
+      "price_text": "$250",
+      "location_text": "",
+      "discovery_queries": [
+        "DJ equipment lot"
       ],
       "discovery_groups": [
         "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1359177519688420.webp"
+      "thumbnail_path": "images/listings/facebook-1782680182896100.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1012531221231701",
+      "url": "https://www.facebook.com/marketplace/item/1012531221231701/",
+      "title": "$275Tannoy reveal 802 studio monitorsFairfax, CA",
+      "price_text": "$275",
+      "location_text": "",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1012531221231701.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1007212165434962",
+      "url": "https://www.facebook.com/marketplace/item/1007212165434962/",
+      "title": "$30$50DJ Hero Turntable Kit | Xbox 360Novato, CA",
+      "price_text": "$30",
+      "location_text": "",
+      "discovery_queries": [
+        "DJ equipment lot"
+      ],
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1007212165434962.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "990719060540668",
+      "url": "https://www.facebook.com/marketplace/item/990719060540668/",
+      "title": "$300$400Yamaha MM6 61-Key Music Synthesizer Workstation w/ Power Supply \u2013 Tested & WorkingSonoma, CA",
+      "price_text": "$300",
+      "location_text": "",
+      "discovery_queries": [
+        "synthasizer keyboard"
+      ],
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-990719060540668.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2113057612891548",
+      "url": "https://www.facebook.com/marketplace/item/2113057612891548/",
+      "title": "$300PreSonus Eris E8 XT Studio MonitorsSan Rafael, CA",
+      "price_text": "$300",
+      "location_text": "",
+      "discovery_queries": [
+        "studio monitor pair"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-2113057612891548.webp"
     },
     {
       "source": "facebook",
@@ -4237,51 +4411,66 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1360960825362507",
-      "url": "https://www.facebook.com/marketplace/item/1360960825362507/",
-      "title": "$350$400Korg karmaSan Rafael, CA",
-      "price_text": "$350",
+      "listing_id": "1700210434425354",
+      "url": "https://www.facebook.com/marketplace/item/1700210434425354/",
+      "title": "$30MicrophoneNovato, CA",
+      "price_text": "$30",
       "location_text": "",
       "discovery_queries": [
-        "synthasizer keyboard"
-      ],
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1360960825362507.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "4551230851832754",
-      "url": "https://www.facebook.com/marketplace/item/4551230851832754/",
-      "title": "$40",
-      "price_text": "$20",
-      "location_text": "",
-      "discovery_queries": [
-        "powered monitor speakers"
+        "microphone preamp"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-4551230851832754.webp"
+      "thumbnail_path": "images/listings/facebook-1700210434425354.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "1010328598175550",
-      "url": "https://www.facebook.com/marketplace/item/1010328598175550/",
-      "title": "$400Roland Groovebox Mc-101Petaluma, CA",
-      "price_text": "$400",
+      "listing_id": "890464827054099",
+      "url": "https://www.facebook.com/marketplace/item/890464827054099/",
+      "title": "$330Morley",
+      "price_text": "$330",
       "location_text": "",
       "discovery_queries": [
-        "groovebox"
+        "music multi effects"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1010328598175550.webp"
+      "thumbnail_path": "images/listings/facebook-890464827054099.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "2275745109896671",
+      "url": "https://www.facebook.com/marketplace/item/2275745109896671/",
+      "title": "$35$100ART X-15 Midi Foot ControllerSan Rafael, CA",
+      "price_text": "$35",
+      "location_text": "",
+      "discovery_queries": [
+        "MIDI sound module"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-2275745109896671.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "875036255301369",
+      "url": "https://www.facebook.com/marketplace/item/875036255301369/",
+      "title": "$350",
+      "price_text": "$250",
+      "location_text": "Petaluma, CA",
+      "discovery_queries": [
+        "audio interphase"
+      ],
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -4301,11 +4490,42 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1007212165434962",
-      "url": "https://www.facebook.com/marketplace/item/1007212165434962/",
-      "title": "$50",
-      "price_text": "$30",
-      "location_text": "Novato, CA",
+      "listing_id": "1498897261965032",
+      "url": "https://www.facebook.com/marketplace/item/1498897261965032/",
+      "title": "$50NEW! DJ CONTROLLER CASE - RANE ONE / FLX10 / SX3 / DDJ1000Petaluma, CA",
+      "price_text": "$50",
+      "location_text": "",
+      "discovery_queries": [
+        "DJ equipment lot"
+      ],
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1757470525600747",
+      "url": "https://www.facebook.com/marketplace/item/1757470525600747/",
+      "title": "$525Professional Effects MixerFairfax, CA",
+      "price_text": "$525",
+      "location_text": "",
+      "discovery_queries": [
+        "music multi effects"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1757470525600747.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1518319370024202",
+      "url": "https://www.facebook.com/marketplace/item/1518319370024202/",
+      "title": "$60$100ADJ Quad Phase DJ LightNovato, CA",
+      "price_text": "$60",
+      "location_text": "",
       "discovery_queries": [
         "DJ equipment lot"
       ],
@@ -4313,7 +4533,37 @@
         "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1007212165434962.webp"
+      "thumbnail_path": "images/listings/facebook-1518319370024202.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "964223472944750",
+      "url": "https://www.facebook.com/marketplace/item/964223472944750/",
+      "title": "$60Audio Design Associates ADA Surround Sound PreAmplifier / PreAmp SSD-66(5.1)Petaluma, CA",
+      "price_text": "$60",
+      "location_text": "$60Audio Design Associates ADA Surround Sound PreAmplifier / PreAmp SSD-66(5.1)Petaluma, CA",
+      "discovery_queries": [
+        "microphone preamp"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "865899569712429",
+      "url": "https://www.facebook.com/marketplace/item/865899569712429/",
+      "title": "$60Shockwave 2.0 Wireless Audio for BikingNovato, CA",
+      "price_text": "$60",
+      "location_text": "",
+      "discovery_queries": [
+        "2 input audio interface"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -4365,6 +4615,84 @@
     },
     {
       "source": "facebook",
+      "listing_id": "26331733753143218",
+      "url": "https://www.facebook.com/marketplace/item/26331733753143218/",
+      "title": "$70ART PROFESSIONAL TUBE MIC PREAMPSan Anselmo, CA",
+      "price_text": "$70",
+      "location_text": "",
+      "discovery_queries": [
+        "microphone preamp"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-26331733753143218.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1356063946448639",
+      "url": "https://www.facebook.com/marketplace/item/1356063946448639/",
+      "title": "$75",
+      "price_text": "$60",
+      "location_text": "",
+      "discovery_queries": [
+        "recording equipment lot"
+      ],
+      "discovery_groups": [
+        "bundles_and_lots"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1364758381742717",
+      "url": "https://www.facebook.com/marketplace/item/1364758381742717/",
+      "title": "$75",
+      "price_text": "$50",
+      "location_text": "Sonoma, CA",
+      "discovery_queries": [
+        "audio interphase"
+      ],
+      "discovery_groups": [
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1062976822760046",
+      "url": "https://www.facebook.com/marketplace/item/1062976822760046/",
+      "title": "$750Audient ASP880 8-Channel Mic Preamp & ADCPetaluma, CA",
+      "price_text": "$750",
+      "location_text": "",
+      "discovery_queries": [
+        "microphone preamp"
+      ],
+      "discovery_groups": [
+        "recording_foundation"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1062976822760046.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "907088099096321",
+      "url": "https://www.facebook.com/marketplace/item/907088099096321/",
+      "title": "$90Zoom MS-70CDRPetaluma, CA",
+      "price_text": "$90",
+      "location_text": "",
+      "discovery_queries": [
+        "music multi effects"
+      ],
+      "discovery_groups": [
+        "creative_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-907088099096321.webp"
+    },
+    {
+      "source": "facebook",
       "listing_id": "829898043390031",
       "url": "https://www.facebook.com/marketplace/item/829898043390031/",
       "title": "Active Speaker w/ multiple inputs/Very Loud/Easy to Transport/Karaoke/Live Music/Multiple Available",
@@ -4381,99 +4709,35 @@
     },
     {
       "source": "facebook",
-      "listing_id": "2111191752828074",
-      "url": "https://www.facebook.com/marketplace/item/2111191752828074/",
-      "title": "AKAI DPS16 SALE!!! $250",
-      "price_text": "$250",
-      "location_text": "",
+      "listing_id": "1306090614664753",
+      "url": "https://www.facebook.com/marketplace/item/1306090614664753/",
+      "title": "Adjustable Heavy-Duty Metal Music Stand / Sheet Music Stand",
+      "price_text": "$40",
+      "location_text": "Novato, CA",
       "discovery_queries": [
-        "MIDI sound module"
+        "sampler music"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2111191752828074.webp"
+      "thumbnail_path": "images/listings/facebook-1306090614664753.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "26331733753143218",
-      "url": "https://www.facebook.com/marketplace/item/26331733753143218/",
-      "title": "ART PROFESSIONAL TUBE MIC PREAMP",
-      "price_text": "$70",
+      "listing_id": "2444610569366030",
+      "url": "https://www.facebook.com/marketplace/item/2444610569366030/",
+      "title": "Alesis BRC Master Controller and ADAT Type II 20 Bit Audio Recorder",
+      "price_text": "$160",
       "location_text": "",
       "discovery_queries": [
-        "microphone preamp"
+        "mezcladora audio"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-26331733753143218.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1489085408854878",
-      "url": "https://www.facebook.com/marketplace/item/1489085408854878/",
-      "title": "Arturia Keystep MIDI Controller",
-      "price_text": "$65",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "MIDI sound module"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1489085408854878.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "988393640684710",
-      "url": "https://www.facebook.com/marketplace/item/988393640684710/",
-      "title": "ATC SCM45A - Active Studio Monitors - Pair",
-      "price_text": "$11,495",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "studio monitor pair"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-988393640684710.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1062976822760046",
-      "url": "https://www.facebook.com/marketplace/item/1062976822760046/",
-      "title": "Audient ASP880 8-Channel Mic Preamp & ADC",
-      "price_text": "$750",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "microphone preamp"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1062976822760046.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "964223472944750",
-      "url": "https://www.facebook.com/marketplace/item/964223472944750/",
-      "title": "Audio Design Associates ADA Surround Sound PreAmplifier / PreAmp SSD-66(5.1)",
-      "price_text": "$60",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "microphone preamp"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-964223472944750.webp"
+      "thumbnail_path": "images/listings/facebook-2444610569366030.webp"
     },
     {
       "source": "facebook",
@@ -4488,8 +4752,7 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1522323099574890.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -4525,83 +4788,19 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1006954298698015",
-      "url": "https://www.facebook.com/marketplace/item/1006954298698015/",
-      "title": "Boss GX-700 Guitar Effects Processor",
-      "price_text": "$120",
-      "location_text": "",
+      "listing_id": "1865819844399419",
+      "url": "https://www.facebook.com/marketplace/item/1865819844399419/",
+      "title": "Creative Sound Blaster Sb1350 Sound Card 7.1 Digital Out",
+      "price_text": "$29",
+      "location_text": "Novato, CA",
       "discovery_queries": [
-        "music multi effects"
+        "audio interphase"
       ],
       "discovery_groups": [
-        "creative_instruments"
+        "seller_language_and_misspellings"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1006954298698015.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1647772216487475",
-      "url": "https://www.facebook.com/marketplace/item/1647772216487475/",
-      "title": "Cannon School of Music-Sonoma-Open Mic and Vinyl Swap Meet",
-      "price_text": "$10",
-      "location_text": "Cannon School of Music-Sonoma-Open Mic and Vinyl Swap Meet",
-      "discovery_queries": [
-        "music gear bundle"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1647772216487475.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "927652920106268",
-      "url": "https://www.facebook.com/marketplace/item/927652920106268/",
-      "title": "Dave Smith - Mopho X4 Synthesizer",
-      "price_text": "$600",
-      "location_text": "Sonoma, CA",
-      "discovery_queries": [
-        "synth module"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-927652920106268.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1483268529855455",
-      "url": "https://www.facebook.com/marketplace/item/1483268529855455/",
-      "title": "Digitech GSP 2101 Studio Tube preamp/processor",
-      "price_text": "$200",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "microphone preamp"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1483268529855455.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1357841009812536",
-      "url": "https://www.facebook.com/marketplace/item/1357841009812536/",
-      "title": "DJ Tech Tools Midi Fighter controller",
-      "price_text": "$120",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "MIDI sound module"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1357841009812536.webp"
+      "thumbnail_path": "images/listings/facebook-1865819844399419.webp"
     },
     {
       "source": "facebook",
@@ -4669,19 +4868,34 @@
     },
     {
       "source": "facebook",
-      "listing_id": "2140911846467193",
-      "url": "https://www.facebook.com/marketplace/item/2140911846467193/",
-      "title": "JBL MR905 Speaker Cabinet Monitor.",
-      "price_text": "$100",
-      "location_text": "San Rafael, CA",
+      "listing_id": "1043277825235290",
+      "url": "https://www.facebook.com/marketplace/item/1043277825235290/",
+      "title": "Just listed",
+      "price_text": "$75",
+      "location_text": "",
       "discovery_queries": [
-        "powered monitor speakers"
+        "studio moniter speakers"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "seller_language_and_misspellings"
+      ],
+      "new_vs_exact_checkpoint": false
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1391532906199580",
+      "url": "https://www.facebook.com/marketplace/item/1391532906199580/",
+      "title": "Kat KT-150 Electronic Drums",
+      "price_text": "$350",
+      "location_text": "Petaluma, CA",
+      "discovery_queries": [
+        "electronic drum kit"
+      ],
+      "discovery_groups": [
+        "playable_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2140911846467193.webp"
+      "thumbnail_path": "images/listings/facebook-1391532906199580.webp"
     },
     {
       "source": "facebook",
@@ -4733,51 +4947,19 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1700210434425354",
-      "url": "https://www.facebook.com/marketplace/item/1700210434425354/",
-      "title": "Microphone",
-      "price_text": "$30",
-      "location_text": "Novato, CA",
+      "listing_id": "1025017176606245",
+      "url": "https://www.facebook.com/marketplace/item/1025017176606245/",
+      "title": "LUMI Keys MIDI Keyboard with Snapcase",
+      "price_text": "$200",
+      "location_text": "",
       "discovery_queries": [
-        "microphone preamp"
+        "vintage electronic keyboard"
       ],
       "discovery_groups": [
-        "recording_foundation"
+        "playable_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1700210434425354.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "890464827054099",
-      "url": "https://www.facebook.com/marketplace/item/890464827054099/",
-      "title": "Morley Analog Multi Effects",
-      "price_text": "$330",
-      "location_text": "Sonoma, CA",
-      "discovery_queries": [
-        "music multi effects"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-890464827054099.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1590248469810189",
-      "url": "https://www.facebook.com/marketplace/item/1590248469810189/",
-      "title": "Multi-Brand Speaker Sale: Cerwin-Vega, B&W, Yamaha, Klipsch & More!",
-      "price_text": "$250",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "studio monitor pair"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1590248469810189.webp"
+      "thumbnail_path": "images/listings/facebook-1025017176606245.webp"
     },
     {
       "source": "facebook",
@@ -4797,115 +4979,35 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1498897261965032",
-      "url": "https://www.facebook.com/marketplace/item/1498897261965032/",
-      "title": "NEW! DJ CONTROLLER CASE - RANE ONE / FLX10 / SX3 / DDJ1000",
-      "price_text": "$50",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "DJ equipment lot"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1498897261965032.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1570431111191419",
-      "url": "https://www.facebook.com/marketplace/item/1570431111191419/",
-      "title": "Nobsound MS-10D hybrid tube integrated",
-      "price_text": "$100",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "microphone preamp"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1570431111191419.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1782680182896100",
-      "url": "https://www.facebook.com/marketplace/item/1782680182896100/",
-      "title": "Odyssey DJ laptop stand rack case with cortex Mix-R1U DJ mixer 2U Rack drawer",
-      "price_text": "$250",
+      "listing_id": "1315142427275828",
+      "url": "https://www.facebook.com/marketplace/item/1315142427275828/",
+      "title": "Pair of Microphones Audio-Technica ATM41",
+      "price_text": "$70",
       "location_text": "Novato, CA",
       "discovery_queries": [
-        "DJ equipment lot"
+        "recording equipment lot"
       ],
       "discovery_groups": [
         "bundles_and_lots"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1782680182896100.webp"
+      "thumbnail_path": "images/listings/facebook-1315142427275828.webp"
     },
     {
       "source": "facebook",
-      "listing_id": "2075431843050785",
-      "url": "https://www.facebook.com/marketplace/item/2075431843050785/",
-      "title": "Pedal Lot",
-      "price_text": "$50",
+      "listing_id": "1010328598175550",
+      "url": "https://www.facebook.com/marketplace/item/1010328598175550/",
+      "title": "Roland Groovebox Mc-101",
+      "price_text": "$400",
       "location_text": "Petaluma, CA",
       "discovery_queries": [
-        "music gear bundle"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2075431843050785.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "2113057612891548",
-      "url": "https://www.facebook.com/marketplace/item/2113057612891548/",
-      "title": "PreSonus Eris E8 XT Studio Monitors",
-      "price_text": "$300",
-      "location_text": "San Rafael, CA",
-      "discovery_queries": [
-        "studio monitor pair"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-2113057612891548.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1757470525600747",
-      "url": "https://www.facebook.com/marketplace/item/1757470525600747/",
-      "title": "Professional Effects Mixer",
-      "price_text": "$525",
-      "location_text": "",
-      "discovery_queries": [
-        "music multi effects"
+        "groovebox"
       ],
       "discovery_groups": [
         "creative_instruments"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1757470525600747.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "829020013597889",
-      "url": "https://www.facebook.com/marketplace/item/829020013597889/",
-      "title": "Rocktron and lexicon guitar rack effect units",
-      "price_text": "$1",
-      "location_text": "Sonoma, CA",
-      "discovery_queries": [
-        "music multi effects"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-829020013597889.webp"
+      "thumbnail_path": "images/listings/facebook-1010328598175550.webp"
     },
     {
       "source": "facebook",
@@ -4925,67 +5027,35 @@
     },
     {
       "source": "facebook",
-      "listing_id": "865899569712429",
-      "url": "https://www.facebook.com/marketplace/item/865899569712429/",
-      "title": "Shockwave 2.0 Wireless Audio for Biking",
-      "price_text": "$60",
-      "location_text": "Novato, CA",
+      "listing_id": "1593810002269979",
+      "url": "https://www.facebook.com/marketplace/item/1593810002269979/",
+      "title": "Roland TD-1 VDRUM Electric Drum Set",
+      "price_text": "$200",
+      "location_text": "",
       "discovery_queries": [
-        "2 input audio interface"
+        "electronic drum kit"
+      ],
+      "discovery_groups": [
+        "playable_instruments"
+      ],
+      "new_vs_exact_checkpoint": false,
+      "thumbnail_path": "images/listings/facebook-1593810002269979.webp"
+    },
+    {
+      "source": "facebook",
+      "listing_id": "1755880715446913",
+      "url": "https://www.facebook.com/marketplace/item/1755880715446913/",
+      "title": "Sennheiser HDR 120 Wireless Headphones",
+      "price_text": "$35",
+      "location_text": "",
+      "discovery_queries": [
+        "headphone amplifier"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-865899569712429.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1026636933585292",
-      "url": "https://www.facebook.com/marketplace/item/1026636933585292/",
-      "title": "Some Music Gear - Synths, Bugbrand, Drum Machines",
-      "price_text": "$500",
-      "location_text": "",
-      "discovery_queries": [
-        "sampler music"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1026636933585292.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1568195221496360",
-      "url": "https://www.facebook.com/marketplace/item/1568195221496360/",
-      "title": "Sonos Amp Digital Music System - Set of 6",
-      "price_text": "$30",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "audio interphase"
-      ],
-      "discovery_groups": [
-        "seller_language_and_misspellings"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1568195221496360.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1012531221231701",
-      "url": "https://www.facebook.com/marketplace/item/1012531221231701/",
-      "title": "Tannoy reveal 802 studio monitors",
-      "price_text": "$275",
-      "location_text": "",
-      "discovery_queries": [
-        "studio monitor pair"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1012531221231701.webp"
+      "thumbnail_path": "images/listings/facebook-1755880715446913.webp"
     },
     {
       "source": "facebook",
@@ -5000,40 +5070,7 @@
       "discovery_groups": [
         "seller_language_and_misspellings"
       ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1583395966864374.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "1457222289771098",
-      "url": "https://www.facebook.com/marketplace/item/1457222289771098/",
-      "title": "Vintage Analog Audio",
-      "price_text": "$100",
-      "location_text": "",
-      "discovery_queries": [
-        "music gear bundle"
-      ],
-      "discovery_groups": [
-        "bundles_and_lots"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1457222289771098.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "27730248339961337",
-      "url": "https://www.facebook.com/marketplace/item/27730248339961337/",
-      "title": "Vintage Yamaha MC1202 12-Channel Mixing Console - Very Good Condition - Teste",
-      "price_text": "$300",
-      "location_text": "Novato, CA",
-      "discovery_queries": [
-        "recording mixer USB"
-      ],
-      "discovery_groups": [
-        "recording_foundation"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-27730248339961337.webp"
+      "new_vs_exact_checkpoint": false
     },
     {
       "source": "facebook",
@@ -5053,35 +5090,19 @@
     },
     {
       "source": "facebook",
-      "listing_id": "1999942834063566",
-      "url": "https://www.facebook.com/marketplace/item/1999942834063566/",
-      "title": "Yamaha BR15 Speaker",
-      "price_text": "$180",
+      "listing_id": "2096433927640779",
+      "url": "https://www.facebook.com/marketplace/item/2096433927640779/",
+      "title": "Yamaha integrated mixer EM series model 150 II.",
+      "price_text": "$125",
       "location_text": "Novato, CA",
       "discovery_queries": [
-        "powered monitor speakers"
+        "compact audio mixer"
       ],
       "discovery_groups": [
         "recording_foundation"
       ],
       "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-1999942834063566.webp"
-    },
-    {
-      "source": "facebook",
-      "listing_id": "907088099096321",
-      "url": "https://www.facebook.com/marketplace/item/907088099096321/",
-      "title": "Zoom MS-70CDR",
-      "price_text": "$90",
-      "location_text": "Petaluma, CA",
-      "discovery_queries": [
-        "music multi effects"
-      ],
-      "discovery_groups": [
-        "creative_instruments"
-      ],
-      "new_vs_exact_checkpoint": false,
-      "thumbnail_path": "images/listings/facebook-907088099096321.webp"
+      "thumbnail_path": "images/listings/facebook-2096433927640779.webp"
     }
   ]
 }
