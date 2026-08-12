@@ -5,9 +5,43 @@
     "latitude": 38.1074,
     "longitude": -122.5697
   },
-  "prefiltered": 56,
-  "inspected": 56,
+  "prefiltered": 57,
+  "inspected": 57,
   "accepted": [
+    {
+      "source": "craigslist",
+      "listing_id": "hTjBzoeRWf6NS362SP6xWd",
+      "url": "https://www.craigslist.org/view/d/petaluma-roland-aira-tr-drum-machine/hTjBzoeRWf6NS362SP6xWd",
+      "title": "Roland AIRA TR-8 Drum Machine",
+      "asking_price": 240.0,
+      "price_text": "$240",
+      "location_text": "petaluma",
+      "description": "Repaired Roland TR-8 drum machine for sale. I was able to repair a broken 'bass drum' slider. The closed hi-hat decay control does not seem to be working. I missed that while I had it apart, unfortunately. Not too much of a deal-breaker on the closed hi only (each drum is individually tunable with multiple parameters). Volume control knob is not original. All patterns and settings have been reset to the factory settings. Includes original Roland-branded power supply. Cash pickup in Petaluma. Open to offers, as well as trades for broken musical equipment or other niche electronics (I am not usually interested in anything working). I buy broken synths! I fix broken synths! I also repair many other types of electronic equipment; stereos and electronic musical instruments, keyboards, guitar and bass amplifiers, effects pedals, and recording equipment, pinball machines, and jukeboxes. I do all types of circuit board-level component repair; new electrolytic capacitors, repair diagnosis, upgrades, and full electronic restoration of vintage electronics. Check out my work: https://www.fixitpetaluma.com/vintage-electronic-repairs",
+      "condition": "",
+      "posted_at": "2026-08-02T13:42:30-07:00",
+      "updated_at": "2026-08-12T08:50:26-07:00",
+      "latitude": 38.232923,
+      "longitude": -122.614459,
+      "distance_miles": 9.007158173378409,
+      "included_items": []
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qFZzCTqu5k7kTP62DCL64R",
+      "url": "https://www.craigslist.org/view/d/richmond-focusrite-saffire-pro-40/qFZzCTqu5k7kTP62DCL64R",
+      "title": "Focusrite Saffire Pro 40",
+      "asking_price": 60.0,
+      "price_text": "$60",
+      "location_text": "richmond / point / annex",
+      "description": "Focusrite Saffire Pro 40 firewire interface, excellent condition.",
+      "condition": "",
+      "posted_at": "2026-08-12T08:41:15-07:00",
+      "updated_at": null,
+      "latitude": 37.9417,
+      "longitude": -122.3238,
+      "distance_miles": 17.61255894948518,
+      "included_items": []
+    },
     {
       "source": "craigslist",
       "listing_id": "mwYEAqUBp5XijRcNu67P11",
@@ -163,23 +197,6 @@
       "latitude": 37.9358,
       "longitude": -122.3477,
       "distance_miles": 16.928859247841984,
-      "included_items": []
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "hTjBzoeRWf6NS362SP6xWd",
-      "url": "https://www.craigslist.org/view/d/petaluma-roland-aira-tr-drum-machine/hTjBzoeRWf6NS362SP6xWd",
-      "title": "Roland AIRA TR-8 Drum Machine",
-      "asking_price": 240.0,
-      "price_text": "$240",
-      "location_text": "petaluma",
-      "description": "Repaired Roland TR-8 drum machine for sale. I was able to repair a broken 'bass drum' slider. The closed hi-hat decay control does not seem to be working. I missed that while I had it apart, unfortunately. Not too much of a deal-breaker on the closed hi only (each drum is individually tunable with multiple parameters). Volume control knob is not original. All patterns and settings have been reset to the factory settings. Includes original Roland-branded power supply. Cash pickup in Petaluma. Open to offers, as well as trades for broken musical equipment or other niche electronics (I am not usually interested in anything working). I buy broken synths! I fix broken synths! I also repair many other types of electronic equipment; stereos and electronic musical instruments, keyboards, guitar and bass amplifiers, effects pedals, and recording equipment, pinball machines, and jukeboxes. I do all types of circuit board-level component repair; new electrolytic capacitors, repair diagnosis, upgrades, and full electronic restoration of vintage electronics. Check out my work: https://www.fixitpetaluma.com/vintage-electronic-repairs",
-      "condition": "",
-      "posted_at": "2026-08-02T13:42:30-07:00",
-      "updated_at": "2026-08-10T08:13:14-07:00",
-      "latitude": 38.232923,
-      "longitude": -122.614459,
-      "distance_miles": 9.007158173378409,
       "included_items": []
     },
     {
@@ -634,6 +651,94 @@
       "reason": "outside_freshness_window",
       "detail": {
         "source": "craigslist",
+        "listing_id": "4CKWcC3UDLGBATK9Fn4S1f",
+        "url": "https://www.craigslist.org/view/d/larkspur-warm-audio-wa-84-condenser/4CKWcC3UDLGBATK9Fn4S1f",
+        "title": "Warm Audio WA-84 Condenser Microphone",
+        "asking_price": 250.0,
+        "price_text": "$250",
+        "location_text": "larkspur",
+        "description": "Original owner of this WA-84 small diaphragm condenser. Purchased for recording acoustic guitar. I am trimming my gear down so unfortunately this must go. Comes as a full kit with the case, manual, shock mount, mic clip, mic, and windscreen. In like-new condition. $250 firm. Cash/Venmo. You must meet locally.",
+        "condition": "",
+        "posted_at": "2026-05-23T09:01:52-07:00",
+        "updated_at": "2026-08-12T10:55:23-07:00",
+        "latitude": 37.9367,
+        "longitude": -122.5362,
+        "distance_miles": 11.934364248130645,
+        "included_items": [
+          "case",
+          "manual",
+          "mic clip",
+          "shock mount",
+          "windscreen"
+        ]
+      }
+    },
+    {
+      "reason": "outside_freshness_window",
+      "detail": {
+        "source": "craigslist",
+        "listing_id": "edywABU3PT5rf5gFWxVHsW",
+        "url": "https://www.craigslist.org/view/d/larkspur-radial-engineering-extc-500/edywABU3PT5rf5gFWxVHsW",
+        "title": "RADIAL ENGINEERING EXTC 500 SERIES GUITAR PEDAL INTERFACE",
+        "asking_price": 260.0,
+        "price_text": "$260",
+        "location_text": "larkspur",
+        "description": "I am the original owner of the Radial EXTC 500 series module. I racked this a couple of times, but really never had much use for it. If you have a pedal collection it would be a really cool addition. Sadly, I am letting it go. Comes in the original packaging. You must meet locally. DESCRIPTION The easy way to incorporate guitar effects Guitar effects on vocals, drums, and more? Sure, it’s been done. But not like this. The Radial EXTC guitar effects interface lets you easily incorporate the pedals you want, while maintaining the utmost sound quality. Wah on vocals? Tremolo on violin? The EXTC makes it happen, opening up creative possibilities while keeping sound quality central, all in the convenient 500 Series format. Balanced interface for guitar effects pedals Optimized signal path preserves your sound quality Convenient 500 Series format Balanced interface for guitar effects pedals With the Radial EXTC, you can easily tap into the wild world of effects pedals at any phase of the recording process, while maintaining the signal quality your professional recording rig demands. Just connect a line-level audio signal, then let the EXTC work its magic. The EXTC will convert to a hi-Z signal, so you can patch in any stompboxes you want via 1/4\" send and receive connectors on the front panel. Send and Receive knobs are there for setting levels, while a blend control lets you attain just the right amount of the effect. Optimized signal path preserves your sound quality Radial built the EXTC with signal integrity chiefly in mind, opening up the doors to creative stompbox use beyond just lo-fi applications. The EXTC includes Radial’s award-winning, fully discrete Class A guitar buffering as well as transformer isolation to eliminate ground loop buzz and hum. There’s also a 180º polarity reverse to keep your effects and balanced signals in phase. Convenient 500 Series format Canada-based Radial Engineering has embraced the 500 Series format, contributing a range of excellent-sounding (and exceptionally made) tonal tools and sonic options to the popular modular format. The EXTC is another fine example of Radial at its best, ready to go in any 500 Series compatible rack. Radial EXTC Features: Balanced guitar effects interface 500 Series modular format Front-panel 1/4\" send and receive jacks Knobs for Send and Receive level Blend control knob 180º polarity reverse switch Fully discrete Class A guitar buffering Transformer isolation to eliminate ground loop hum",
+        "condition": "",
+        "posted_at": "2026-04-18T15:52:59-07:00",
+        "updated_at": "2026-08-12T10:55:19-07:00",
+        "latitude": 37.9367,
+        "longitude": -122.5362,
+        "distance_miles": 11.934364248130645,
+        "included_items": []
+      }
+    },
+    {
+      "reason": "outside_freshness_window",
+      "detail": {
+        "source": "craigslist",
+        "listing_id": "m5MFnim9NWBSJZsGkyDZ4z",
+        "url": "https://www.craigslist.org/view/d/larkspur-samson-phone-headphone-mixer/m5MFnim9NWBSJZsGkyDZ4z",
+        "title": "Samson S-Phone Headphone Mixer / Amplifier",
+        "asking_price": 80.0,
+        "price_text": "$80",
+        "location_text": "larkspur",
+        "description": "Second owner of this Samson S-Phone Headphone Mixer / Amplifier. It works well. I no longer have a need for this and am going to let it go for $80 Venmo/Cash. You must meet locally. The S-phone is a versatile single rack space four channel headphone amplifier, loaded with advanced features that provide tremendous flexibility for monitor and cue mixing. The Master Input features an input level and LED meter to control and display the overall stereo input. Each of S-phone's four channels includes three Headphone Outputs with an overall Volume control and individual Level meters. A convenient Stereo Auxiliary input is available on each channel so that individual line signals from direct or buss outputs can be mixed with the main stereo input. The Balance control adjusts the ratio of the Main and Auxiliary signal or the left to right balance (based on the setting of the ST/2CH switch) so that each headphone mix can be further tailored for a particular listener's individual needs (\"More Me\"). For greater sonic control, S-phone also features a 2-band equalizer on each of the four channels. A master Stereo Aux input on the front panel is also supplied for inserting a second signal to all headphones. Key Features 4-Channel Headphone Mixer/Amplifier Two Master Stereo Inputs plus Stereo Link Output 8-Segment LED Metering on Each Channel and Master Two Band Equalizer on Each Channel Three Headphone Outputs per Channel (One Front Panel and Two Rear Panel Outputs) Auxiliary Input with Balance Control provides four Channels of \"More Me\" Mixing Mute and Stereo/2 Channel Mode Switches on Each Channel Maximum Output Power on Each Channel (Regardless of Headphone Impedance)",
+        "condition": "",
+        "posted_at": "2026-04-18T16:04:31-07:00",
+        "updated_at": "2026-08-12T10:54:40-07:00",
+        "latitude": 37.9367,
+        "longitude": -122.5362,
+        "distance_miles": 11.934364248130645,
+        "included_items": []
+      }
+    },
+    {
+      "reason": "outside_freshness_window",
+      "detail": {
+        "source": "craigslist",
+        "listing_id": "bkov6UDxTLHT49qMyyyc49",
+        "url": "https://www.craigslist.org/view/d/petaluma-korg-dw-6000-hybrid-analog/bkov6UDxTLHT49qMyyyc49",
+        "title": "Korg DW-6000 Hybrid Analog Synthesizer",
+        "asking_price": 300.0,
+        "price_text": "$300",
+        "location_text": "petaluma",
+        "description": "Very nice, recently serviced Korg DW-6000. Has a new RAM backup battery installed, and it's loaded with the AnalogAudio patch presets. Includes a printout with the names. The power cord was upgraded from the original 2-prong square style to a modern 3-pin IEC socket. The joystick knob is as a replacement and is smaller than the original, but looks nice. Cool sounding hybrid analog synth with some great presets. Everything works great! Cash pickup in Petaluma. Open to offers, as well as trades for broken musical equipment or other electronics (I am not usually interested in anything working). I am frequently down in Oakland/Berkeley/Emeryville and SF so I may be able to meet you near I-680. Possible to deliver elsewhere in the Bay Area for a small additional fee. I buy broken synths! I fix broken synths! I also repair many other types of electronic equipment; stereos and electronic musical instruments, keyboards, guitar and bass amplifiers, effects pedals, and recording equipment, pinball machines, and jukeboxes. I do all types of circuit board-level component repair; new electrolytic capacitors, repair diagnosis, upgrades, and full electronic restoration of vintage electronics. Check out my work: https://www.fixitpetaluma.com/vintage-electronic-repairs",
+        "condition": "",
+        "posted_at": "2026-05-27T23:04:33-07:00",
+        "updated_at": "2026-08-12T08:50:21-07:00",
+        "latitude": 38.232923,
+        "longitude": -122.614459,
+        "distance_miles": 9.007158173378409,
+        "included_items": [
+          "power cord"
+        ]
+      }
+    },
+    {
+      "reason": "outside_freshness_window",
+      "detail": {
+        "source": "craigslist",
         "listing_id": "peD8oGiy4Q5AGrS6VX5FsX",
         "url": "https://www.craigslist.org/view/d/san-pablo-neuzeit-instruments-warp/peD8oGiy4Q5AGrS6VX5FsX",
         "title": "Neuzeit Instruments Warp Additive + Wavetable Synth Voice",
@@ -822,28 +927,6 @@
       "reason": "outside_freshness_window",
       "detail": {
         "source": "craigslist",
-        "listing_id": "bkov6UDxTLHT49qMyyyc49",
-        "url": "https://www.craigslist.org/view/d/petaluma-korg-dw-6000-hybrid-analog/bkov6UDxTLHT49qMyyyc49",
-        "title": "Korg DW-6000 Hybrid Analog Synthesizer",
-        "asking_price": 300.0,
-        "price_text": "$300",
-        "location_text": "petaluma",
-        "description": "Very nice, recently serviced Korg DW-6000. Has a new RAM backup battery installed, and it's loaded with the AnalogAudio patch presets. Includes a printout with the names. The power cord was upgraded from the original 2-prong square style to a modern 3-pin IEC socket. The joystick knob is as a replacement and is smaller than the original, but looks nice. Cool sounding hybrid analog synth with some great presets. Everything works great! Cash pickup in Petaluma. Open to offers, as well as trades for broken musical equipment or other electronics (I am not usually interested in anything working). I am frequently down in Oakland/Berkeley/Emeryville and SF so I may be able to meet you near I-680. Possible to deliver elsewhere in the Bay Area for a small additional fee. I buy broken synths! I fix broken synths! I also repair many other types of electronic equipment; stereos and electronic musical instruments, keyboards, guitar and bass amplifiers, effects pedals, and recording equipment, pinball machines, and jukeboxes. I do all types of circuit board-level component repair; new electrolytic capacitors, repair diagnosis, upgrades, and full electronic restoration of vintage electronics. Check out my work: https://www.fixitpetaluma.com/vintage-electronic-repairs",
-        "condition": "",
-        "posted_at": "2026-05-27T23:04:33-07:00",
-        "updated_at": "2026-08-10T08:13:23-07:00",
-        "latitude": 38.232923,
-        "longitude": -122.614459,
-        "distance_miles": 9.007158173378409,
-        "included_items": [
-          "power cord"
-        ]
-      }
-    },
-    {
-      "reason": "outside_freshness_window",
-      "detail": {
-        "source": "craigslist",
         "listing_id": "n5QxTRZ46SNDqUhW9t2hGM",
         "url": "https://www.craigslist.org/view/d/rohnert-park-johnson-acoustic-guitar/n5QxTRZ46SNDqUhW9t2hGM",
         "title": "Johnson Acoustic Guitar 10-610-R Like New",
@@ -858,72 +941,6 @@
         "longitude": -122.6941,
         "distance_miles": 17.878796553905097,
         "included_items": []
-      }
-    },
-    {
-      "reason": "outside_freshness_window",
-      "detail": {
-        "source": "craigslist",
-        "listing_id": "m5MFnim9NWBSJZsGkyDZ4z",
-        "url": "https://www.craigslist.org/view/d/larkspur-samson-phone-headphone-mixer/m5MFnim9NWBSJZsGkyDZ4z",
-        "title": "Samson S-Phone Headphone Mixer / Amplifier",
-        "asking_price": 80.0,
-        "price_text": "$80",
-        "location_text": "larkspur",
-        "description": "Second owner of this Samson S-Phone Headphone Mixer / Amplifier. It works well. I no longer have a need for this and am going to let it go for $80 Venmo/Cash. You must meet locally. The S-phone is a versatile single rack space four channel headphone amplifier, loaded with advanced features that provide tremendous flexibility for monitor and cue mixing. The Master Input features an input level and LED meter to control and display the overall stereo input. Each of S-phone's four channels includes three Headphone Outputs with an overall Volume control and individual Level meters. A convenient Stereo Auxiliary input is available on each channel so that individual line signals from direct or buss outputs can be mixed with the main stereo input. The Balance control adjusts the ratio of the Main and Auxiliary signal or the left to right balance (based on the setting of the ST/2CH switch) so that each headphone mix can be further tailored for a particular listener's individual needs (\"More Me\"). For greater sonic control, S-phone also features a 2-band equalizer on each of the four channels. A master Stereo Aux input on the front panel is also supplied for inserting a second signal to all headphones. Key Features 4-Channel Headphone Mixer/Amplifier Two Master Stereo Inputs plus Stereo Link Output 8-Segment LED Metering on Each Channel and Master Two Band Equalizer on Each Channel Three Headphone Outputs per Channel (One Front Panel and Two Rear Panel Outputs) Auxiliary Input with Balance Control provides four Channels of \"More Me\" Mixing Mute and Stereo/2 Channel Mode Switches on Each Channel Maximum Output Power on Each Channel (Regardless of Headphone Impedance)",
-        "condition": "",
-        "posted_at": "2026-04-18T16:04:31-07:00",
-        "updated_at": "2026-08-08T20:28:59-07:00",
-        "latitude": 37.9367,
-        "longitude": -122.5362,
-        "distance_miles": 11.934364248130645,
-        "included_items": []
-      }
-    },
-    {
-      "reason": "outside_freshness_window",
-      "detail": {
-        "source": "craigslist",
-        "listing_id": "edywABU3PT5rf5gFWxVHsW",
-        "url": "https://www.craigslist.org/view/d/larkspur-radial-engineering-extc-500/edywABU3PT5rf5gFWxVHsW",
-        "title": "RADIAL ENGINEERING EXTC 500 SERIES GUITAR PEDAL INTERFACE",
-        "asking_price": 260.0,
-        "price_text": "$260",
-        "location_text": "larkspur",
-        "description": "I am the original owner of the Radial EXTC 500 series module. I racked this a couple of times, but really never had much use for it. If you have a pedal collection it would be a really cool addition. Sadly, I am letting it go. Comes in the original packaging. You must meet locally. DESCRIPTION The easy way to incorporate guitar effects Guitar effects on vocals, drums, and more? Sure, it’s been done. But not like this. The Radial EXTC guitar effects interface lets you easily incorporate the pedals you want, while maintaining the utmost sound quality. Wah on vocals? Tremolo on violin? The EXTC makes it happen, opening up creative possibilities while keeping sound quality central, all in the convenient 500 Series format. Balanced interface for guitar effects pedals Optimized signal path preserves your sound quality Convenient 500 Series format Balanced interface for guitar effects pedals With the Radial EXTC, you can easily tap into the wild world of effects pedals at any phase of the recording process, while maintaining the signal quality your professional recording rig demands. Just connect a line-level audio signal, then let the EXTC work its magic. The EXTC will convert to a hi-Z signal, so you can patch in any stompboxes you want via 1/4\" send and receive connectors on the front panel. Send and Receive knobs are there for setting levels, while a blend control lets you attain just the right amount of the effect. Optimized signal path preserves your sound quality Radial built the EXTC with signal integrity chiefly in mind, opening up the doors to creative stompbox use beyond just lo-fi applications. The EXTC includes Radial’s award-winning, fully discrete Class A guitar buffering as well as transformer isolation to eliminate ground loop buzz and hum. There’s also a 180º polarity reverse to keep your effects and balanced signals in phase. Convenient 500 Series format Canada-based Radial Engineering has embraced the 500 Series format, contributing a range of excellent-sounding (and exceptionally made) tonal tools and sonic options to the popular modular format. The EXTC is another fine example of Radial at its best, ready to go in any 500 Series compatible rack. Radial EXTC Features: Balanced guitar effects interface 500 Series modular format Front-panel 1/4\" send and receive jacks Knobs for Send and Receive level Blend control knob 180º polarity reverse switch Fully discrete Class A guitar buffering Transformer isolation to eliminate ground loop hum",
-        "condition": "",
-        "posted_at": "2026-04-18T15:52:59-07:00",
-        "updated_at": "2026-08-08T20:27:15-07:00",
-        "latitude": 37.9367,
-        "longitude": -122.5362,
-        "distance_miles": 11.934364248130645,
-        "included_items": []
-      }
-    },
-    {
-      "reason": "outside_freshness_window",
-      "detail": {
-        "source": "craigslist",
-        "listing_id": "4CKWcC3UDLGBATK9Fn4S1f",
-        "url": "https://www.craigslist.org/view/d/larkspur-warm-audio-wa-84-condenser/4CKWcC3UDLGBATK9Fn4S1f",
-        "title": "Warm Audio WA-84 Condenser Microphone",
-        "asking_price": 250.0,
-        "price_text": "$250",
-        "location_text": "larkspur",
-        "description": "Original owner of this WA-84 small diaphragm condenser. Purchased for recording acoustic guitar. I am trimming my gear down so unfortunately this must go. Comes as a full kit with the case, manual, shock mount, mic clip, mic, and windscreen. In like-new condition. $250 firm. Cash/Venmo. You must meet locally.",
-        "condition": "",
-        "posted_at": "2026-05-23T09:01:52-07:00",
-        "updated_at": "2026-08-08T20:25:14-07:00",
-        "latitude": 37.9367,
-        "longitude": -122.5362,
-        "distance_miles": 11.934364248130645,
-        "included_items": [
-          "case",
-          "manual",
-          "mic clip",
-          "shock mount",
-          "windscreen"
-        ]
       }
     },
     {

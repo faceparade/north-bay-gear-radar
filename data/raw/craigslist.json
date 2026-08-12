@@ -10,6 +10,278 @@
   "listings": [
     {
       "source": "craigslist",
+      "listing_id": "87zo3JKB5GMb1moe64qcm2",
+      "url": "https://www.craigslist.org/view/d/napa-oscar-schmidt-autoharp-vintage-1969/87zo3JKB5GMb1moe64qcm2",
+      "title": "Oscar Schmidt Autoharp, Vintage 1969",
+      "price_text": "$50",
+      "location_text": "napa county"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "15jKvKtqzHqYeomcm43DN1",
+      "url": "https://www.craigslist.org/view/d/novato-tokai-tst-62-vintage-series-strat/15jKvKtqzHqYeomcm43DN1",
+      "title": "Tokai TST 62 Vintage series \"Strat\"",
+      "price_text": "$725",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1kiu9L4srA4S34Fsjzm6Gk",
+      "url": "https://www.craigslist.org/view/d/vineburg-bogner-ecstasy-3534-in/1kiu9L4srA4S34Fsjzm6Gk",
+      "title": "Bogner Ecstasy 3534 in excellent condition F/S",
+      "price_text": "$1,700",
+      "location_text": "sonoma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "v7Z5ta9stizh2GkAFfCuXx",
+      "url": "https://www.craigslist.org/view/d/novato-amplifier-and-guitar-repair/v7Z5ta9stizh2GkAFfCuXx",
+      "title": "Amplifier and guitar repair",
+      "price_text": "$100",
+      "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "366njCr1m2HWD1oiUFHQBJ",
+      "url": "https://www.craigslist.org/view/d/petaluma-berg-larsen-tenor-sax/366njCr1m2HWD1oiUFHQBJ",
+      "title": "Berg Larsen 120/0 Tenor Sax Mouthpiece",
+      "price_text": "$150",
+      "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "2Fi3mYvL9eiZoHQCLWjQWk",
+      "url": "https://www.craigslist.org/view/d/larkspur-alan-smart-smart-research-c2/2Fi3mYvL9eiZoHQCLWjQWk",
+      "title": "Alan Smart - Smart Research C2",
+      "price_text": "$1,700",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "8NGdopisiHCzrWNgB6WaAn",
+      "url": "https://www.craigslist.org/view/d/larkspur-acme-audio-opticom-xla-500/8NGdopisiHCzrWNgB6WaAn",
+      "title": "Acme Audio Opticom XLA-500 Series Tube Optical Limiter",
+      "price_text": "$700",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kjYDzKZDZGXLCexgSRPuJA",
+      "url": "https://www.craigslist.org/view/d/larkspur-universal-audio-uafx-lion-68/kjYDzKZDZGXLCexgSRPuJA",
+      "title": "Universal Audio UAFX Lion '68 Super Lead Amp Pedal",
+      "price_text": "$260",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "dQg37fQN8TR7czHWpoogvq",
+      "url": "https://www.craigslist.org/view/d/larkspur-whirlwind-sc48rj-pro-audio/dQg37fQN8TR7czHWpoogvq",
+      "title": "Whirlwind SC48RJ Pro Audio Cable Tester",
+      "price_text": "$50",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oijGTaf6GLmbqg3W7rtvCr",
+      "url": "https://www.craigslist.org/view/d/larkspur-universal-audio-ruby-63-top/oijGTaf6GLmbqg3W7rtvCr",
+      "title": "Universal Audio Ruby '63 Top Boost Amplifier Pedal",
+      "price_text": "$260",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "4CKWcC3UDLGBATK9Fn4S1f",
+      "url": "https://www.craigslist.org/view/d/larkspur-warm-audio-wa-84-condenser/4CKWcC3UDLGBATK9Fn4S1f",
+      "title": "Warm Audio WA-84 Condenser Microphone",
+      "price_text": "$250",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "edywABU3PT5rf5gFWxVHsW",
+      "url": "https://www.craigslist.org/view/d/larkspur-radial-engineering-extc-500/edywABU3PT5rf5gFWxVHsW",
+      "title": "RADIAL ENGINEERING EXTC 500 SERIES GUITAR PEDAL INTERFACE",
+      "price_text": "$260",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "m5MFnim9NWBSJZsGkyDZ4z",
+      "url": "https://www.craigslist.org/view/d/larkspur-samson-phone-headphone-mixer/m5MFnim9NWBSJZsGkyDZ4z",
+      "title": "Samson S-Phone Headphone Mixer / Amplifier",
+      "price_text": "$80",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7VQYSnYh8cgVFfDxt3A6Gh",
+      "url": "https://www.craigslist.org/view/d/larkspur-mxr-74-vintage-phase-90-pedal/7VQYSnYh8cgVFfDxt3A6Gh",
+      "title": "MXR '74 Vintage Script Phase 90 Pedal",
+      "price_text": "$75",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "uWoJDKfbbvqtwsmGebayuo",
+      "url": "https://www.craigslist.org/view/d/fairfax-2003-ernie-ball-music-man/uWoJDKfbbvqtwsmGebayuo",
+      "title": "2003 Ernie Ball Music Man StingRay Bass",
+      "price_text": "$1,500",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kangfxeJmE6sukAV6eTzHX",
+      "url": "https://www.craigslist.org/view/d/larkspur-middle-atlantic-rack-space/kangfxeJmE6sukAV6eTzHX",
+      "title": "Middle Atlantic 1 Rack Space Utility Shelf",
+      "price_text": "$20",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "g6KCnNFT1LFXKYcFowvihQ",
+      "url": "https://www.craigslist.org/view/d/larkspur-ev-re92l-lavalier-lapel-video/g6KCnNFT1LFXKYcFowvihQ",
+      "title": "EV RE92L Lavalier Lapel Video Mics (Pair)",
+      "price_text": "$100",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "7jQAjuhyBpmiTAq4wKsZ1W",
+      "url": "https://www.craigslist.org/view/d/larkspur-klark-teknik-dn6000-audio/7jQAjuhyBpmiTAq4wKsZ1W",
+      "title": "Klark Teknik DN6000 Audio Analyzer",
+      "price_text": "$100",
+      "location_text": "larkspur"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "ghoLzmi7LAtZsq1jE3nm9S",
+      "url": "https://www.craigslist.org/view/d/san-rafael-fat-jimmy-jr-amp/ghoLzmi7LAtZsq1jE3nm9S",
+      "title": "Fat Jimmy Jr. amp",
+      "price_text": "$2,500",
+      "location_text": "san rafael"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "eWMedUXK6nGiLPd3bqr5fm",
+      "url": "https://www.craigslist.org/view/d/vallejo-drumset-with-amp-and-headphones/eWMedUXK6nGiLPd3bqr5fm",
+      "title": "E-Drumset with amp and headphones",
+      "price_text": "$349",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nVGrKn7DSLUvvsSZPruYqa",
+      "url": "https://www.craigslist.org/view/d/vallejo-ludwig-rare-sizes-element-set/nVGrKn7DSLUvvsSZPruYqa",
+      "title": "Ludwig RARE SIZES Element Set Complete",
+      "price_text": "$499",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "6DoEVBQmAXKRJX7aX2bx9C",
+      "url": "https://www.craigslist.org/view/d/vallejo-tama-rockstar-drum-set-complete/6DoEVBQmAXKRJX7aX2bx9C",
+      "title": "Tama Rockstar Drum Set Complete",
+      "price_text": "$799",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rwvgTxubqVnv3CSHnj6YTA",
+      "url": "https://www.craigslist.org/view/d/vallejo-gretsch-energy-drum-shellpack/rwvgTxubqVnv3CSHnj6YTA",
+      "title": "Gretsch Energy Drum Shellpack",
+      "price_text": "$499",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "njNEJukzu9HdG3dUiaSrXz",
+      "url": "https://www.craigslist.org/view/d/vallejo-dw-3000-pedal/njNEJukzu9HdG3dUiaSrXz",
+      "title": "DW 3000 Pedal",
+      "price_text": "$140",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "oVgHJMDRHf2J8WJFasjDT6",
+      "url": "https://www.craigslist.org/view/d/vallejo-tama-skeleton-drum-set-complete/oVgHJMDRHf2J8WJFasjDT6",
+      "title": "Tama Skeleton Drum Set Complete",
+      "price_text": "$499",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "kXULtmHyEpcpyV1FW87b5a",
+      "url": "https://www.craigslist.org/view/d/vallejo-pacific-drum-shellpack/kXULtmHyEpcpyV1FW87b5a",
+      "title": "Pacific Drum Shellpack",
+      "price_text": "$150",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hKyr2WpijvhtBqZx5a12rs",
+      "url": "https://www.craigslist.org/view/d/el-cerrito-korg-triton-studio/hKyr2WpijvhtBqZx5a12rs",
+      "title": "Korg Triton Studio",
+      "price_text": "$250",
+      "location_text": "El Cerrito"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "hTjBzoeRWf6NS362SP6xWd",
+      "url": "https://www.craigslist.org/view/d/petaluma-roland-aira-tr-drum-machine/hTjBzoeRWf6NS362SP6xWd",
+      "title": "Roland AIRA TR-8 Drum Machine",
+      "price_text": "$240",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bkov6UDxTLHT49qMyyyc49",
+      "url": "https://www.craigslist.org/view/d/petaluma-korg-dw-6000-hybrid-analog/bkov6UDxTLHT49qMyyyc49",
+      "title": "Korg DW-6000 Hybrid Analog Synthesizer",
+      "price_text": "$300",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "rDa24vv6eQ9WBvCU4QJfBp",
+      "url": "https://www.craigslist.org/view/d/petaluma-silvertone-40xl-solid-state-amp/rDa24vv6eQ9WBvCU4QJfBp",
+      "title": "Silvertone 40XL Solid State Amp",
+      "price_text": "$180",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qFZzCTqu5k7kTP62DCL64R",
+      "url": "https://www.craigslist.org/view/d/richmond-focusrite-saffire-pro-40/qFZzCTqu5k7kTP62DCL64R",
+      "title": "Focusrite Saffire Pro 40",
+      "price_text": "$60",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "aA5K8MXmwbcCiH8tFo4CbW",
+      "url": "https://www.craigslist.org/view/d/richmond-rockett-hooligan-fuzz/aA5K8MXmwbcCiH8tFo4CbW",
+      "title": "J. Rockett Hooligan fuzz",
+      "price_text": "$160",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "bLNB4ohfibJDLVQ3kFVpFc",
+      "url": "https://www.craigslist.org/view/d/richmond-altec-421a-15-speaker/bLNB4ohfibJDLVQ3kFVpFc",
+      "title": "Altec 421A 15\" Speaker",
+      "price_text": "$200",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "vAHk5RiYxwWCQbcNf4Zu3Z",
+      "url": "https://www.craigslist.org/view/d/richmond-seymour-duncan-sh2n-jazz-neck/vAHk5RiYxwWCQbcNf4Zu3Z",
+      "title": "Seymour Duncan SH2N Jazz Neck & SH14 Custom 5 Bridge Pickups",
+      "price_text": "$60",
+      "location_text": "richmond / point / annex"
+    },
+    {
+      "source": "craigslist",
       "listing_id": "nw3VKmtz84sfFyg4ZUKhoS",
       "url": "https://www.craigslist.org/view/d/san-rafael-eastman-strings-vl-student/nw3VKmtz84sfFyg4ZUKhoS",
       "title": "Eastman Strings VL80 4/4 student Violin with case and bow",
@@ -26,18 +298,18 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "1U3Z79ZPrBG31yYC921G1K",
-      "url": "https://www.craigslist.org/view/d/vallejo-wren-and-cuff-black-violet/1U3Z79ZPrBG31yYC921G1K",
-      "title": "Wren and Cuff Black-Violet Caprid OG 2021 - Present",
-      "price_text": "$210",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "bDmnk1LCJvK8tnTg45unac",
       "url": "https://www.craigslist.org/view/d/vallejo-source-audio-true-spring-reverb/bDmnk1LCJvK8tnTg45unac",
       "title": "Source Audio True Spring Reverb with SA167 Tap Tempo",
       "price_text": "$175",
+      "location_text": "vallejo / benicia"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "1U3Z79ZPrBG31yYC921G1K",
+      "url": "https://www.craigslist.org/view/d/vallejo-wren-and-cuff-black-violet/1U3Z79ZPrBG31yYC921G1K",
+      "title": "Wren and Cuff Black-Violet Caprid OG 2021 - Present",
+      "price_text": "$210",
       "location_text": "vallejo / benicia"
     },
     {
@@ -442,18 +714,18 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "nHdQG6KNZRHdboPjmqPiaA",
-      "url": "https://www.craigslist.org/view/d/petaluma-marshal-jcm900-combo/nHdQG6KNZRHdboPjmqPiaA",
-      "title": "Marshal JCM900 combo",
-      "price_text": "$600",
-      "location_text": "petaluma"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "6cB9azhb52ucXnkVS5xJeF",
       "url": "https://www.craigslist.org/view/d/petaluma-agop-traditional-jazz-ride-20/6cB9azhb52ucXnkVS5xJeF",
       "title": "Agop traditional jazz ride 20”",
       "price_text": "$400",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "nHdQG6KNZRHdboPjmqPiaA",
+      "url": "https://www.craigslist.org/view/d/petaluma-marshal-jcm900-combo/nHdQG6KNZRHdboPjmqPiaA",
+      "title": "Marshal JCM900 combo",
+      "price_text": "$600",
       "location_text": "petaluma"
     },
     {
@@ -466,18 +738,18 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "v3128y7ZnyNPeUhrZqc5Mc",
-      "url": "https://www.craigslist.org/view/d/petaluma-fender-hot-rod-deville-212-iii/v3128y7ZnyNPeUhrZqc5Mc",
-      "title": "Fender Hot Rod DeVille 212 III",
-      "price_text": "$500",
-      "location_text": "petaluma"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "pEBJwAvwVK6bKavbqZ5T2T",
       "url": "https://www.craigslist.org/view/d/petaluma-vintage-premier-drums/pEBJwAvwVK6bKavbqZ5T2T",
       "title": "Vintage premier drums",
       "price_text": "$1,000",
+      "location_text": "petaluma"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "v3128y7ZnyNPeUhrZqc5Mc",
+      "url": "https://www.craigslist.org/view/d/petaluma-fender-hot-rod-deville-212-iii/v3128y7ZnyNPeUhrZqc5Mc",
+      "title": "Fender Hot Rod DeVille 212 III",
+      "price_text": "$500",
       "location_text": "petaluma"
     },
     {
@@ -722,14 +994,6 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "3nfAvn9BtfjoGALpH4Gtv9",
-      "url": "https://www.craigslist.org/view/d/penngrove-patch-cables/3nfAvn9BtfjoGALpH4Gtv9",
-      "title": "Patch cables",
-      "price_text": "$55",
-      "location_text": "petaluma"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "wkDkztWwrgaouBaXZDHAwe",
       "url": "https://www.craigslist.org/view/d/penngrove-gibson-brand-p90-covers/wkDkztWwrgaouBaXZDHAwe",
       "title": "Gibson brand P90 covers",
@@ -738,10 +1002,10 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "jTj6VWfPRjui5R4VxaYvTY",
-      "url": "https://www.craigslist.org/view/d/penngrove-boss-katana-mini/jTj6VWfPRjui5R4VxaYvTY",
-      "title": "Boss Katana Mini",
-      "price_text": "$82",
+      "listing_id": "3nfAvn9BtfjoGALpH4Gtv9",
+      "url": "https://www.craigslist.org/view/d/penngrove-patch-cables/3nfAvn9BtfjoGALpH4Gtv9",
+      "title": "Patch cables",
+      "price_text": "$55",
       "location_text": "petaluma"
     },
     {
@@ -751,6 +1015,14 @@
       "title": "30 watt Acoustic guitar amplifier",
       "price_text": "$110",
       "location_text": "rohnert pk / cotati"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jTj6VWfPRjui5R4VxaYvTY",
+      "url": "https://www.craigslist.org/view/d/penngrove-boss-katana-mini/jTj6VWfPRjui5R4VxaYvTY",
+      "title": "Boss Katana Mini",
+      "price_text": "$82",
+      "location_text": "petaluma"
     },
     {
       "source": "craigslist",
@@ -1274,14 +1546,6 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "87zo3JKB5GMb1moe64qcm2",
-      "url": "https://www.craigslist.org/view/d/napa-oscar-schmidt-autoharp-vintage-1969/87zo3JKB5GMb1moe64qcm2",
-      "title": "Oscar Schmidt Autoharp, Vintage 1969",
-      "price_text": "$50",
-      "location_text": "napa county"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "ivuRZ3pmDryrXeFQAFHWo3",
       "url": "https://www.craigslist.org/view/d/novato-amp-guitar-repair/ivuRZ3pmDryrXeFQAFHWo3",
       "title": "Amp & Guitar Repair",
@@ -1306,43 +1570,11 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "v7Z5ta9stizh2GkAFfCuXx",
-      "url": "https://www.craigslist.org/view/d/novato-amplifier-and-guitar-repair/v7Z5ta9stizh2GkAFfCuXx",
-      "title": "Amplifier and guitar repair",
-      "price_text": "$100",
-      "location_text": "north bay / marin"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "jB6vAjJccLwxJ4Y5BuXi3B",
       "url": "https://www.craigslist.org/view/d/napa-yamaha-fg-411s-acoustic-guitar/jB6vAjJccLwxJ4Y5BuXi3B",
       "title": "Yamaha FG-411S Acoustic Guitar",
       "price_text": "$300",
       "location_text": "napa county"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "rDa24vv6eQ9WBvCU4QJfBp",
-      "url": "https://www.craigslist.org/view/d/petaluma-silvertone-40xl-solid-state-amp/rDa24vv6eQ9WBvCU4QJfBp",
-      "title": "Silvertone 40XL Solid State Amp",
-      "price_text": "$180",
-      "location_text": "petaluma"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "bkov6UDxTLHT49qMyyyc49",
-      "url": "https://www.craigslist.org/view/d/petaluma-korg-dw-6000-hybrid-analog/bkov6UDxTLHT49qMyyyc49",
-      "title": "Korg DW-6000 Hybrid Analog Synthesizer",
-      "price_text": "$300",
-      "location_text": "petaluma"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "hTjBzoeRWf6NS362SP6xWd",
-      "url": "https://www.craigslist.org/view/d/petaluma-roland-aira-tr-drum-machine/hTjBzoeRWf6NS362SP6xWd",
-      "title": "Roland AIRA TR-8 Drum Machine",
-      "price_text": "$240",
-      "location_text": "petaluma"
     },
     {
       "source": "craigslist",
@@ -1610,18 +1842,18 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "42FQX1ngHcmxkpVNaS2ptF",
-      "url": "https://www.craigslist.org/view/d/novato-italia-rimini-12-string-electric/42FQX1ngHcmxkpVNaS2ptF",
-      "title": "Italia Rimini 12 String Electric. w/Upgrades!",
-      "price_text": "$600",
-      "location_text": "novato"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "g9WUdmExDf7HUy95Mzhhq9",
       "url": "https://www.craigslist.org/view/d/novato-vertex-tone-secret-overdrive/g9WUdmExDf7HUy95Mzhhq9",
       "title": "Vertex Tone Secret Overdrive Pedal",
       "price_text": "$60",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "42FQX1ngHcmxkpVNaS2ptF",
+      "url": "https://www.craigslist.org/view/d/novato-italia-rimini-12-string-electric/42FQX1ngHcmxkpVNaS2ptF",
+      "title": "Italia Rimini 12 String Electric. w/Upgrades!",
+      "price_text": "$600",
       "location_text": "novato"
     },
     {
@@ -1810,18 +2042,18 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "r43sMWvEEDhaTBQZxUDQ4X",
-      "url": "https://www.craigslist.org/view/d/mill-valley-vintage-1965-gibson-melody/r43sMWvEEDhaTBQZxUDQ4X",
-      "title": "Vintage 1965 Gibson Melody Maker dual pickup with Vibrato & hardshell",
-      "price_text": "$2,400",
-      "location_text": "novato"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "uPjyyAKh4bcz94w3nwkoJX",
       "url": "https://www.craigslist.org/view/d/mill-valley-vintage-1964-martin-65/uPjyyAKh4bcz94w3nwkoJX",
       "title": "Vintage 1964 Martin F-65 Electric Martin Bigsby Acrylic Bridge & Case",
       "price_text": "$3,400",
+      "location_text": "novato"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "r43sMWvEEDhaTBQZxUDQ4X",
+      "url": "https://www.craigslist.org/view/d/mill-valley-vintage-1965-gibson-melody/r43sMWvEEDhaTBQZxUDQ4X",
+      "title": "Vintage 1965 Gibson Melody Maker dual pickup with Vibrato & hardshell",
+      "price_text": "$2,400",
       "location_text": "novato"
     },
     {
@@ -1858,19 +2090,19 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "qG1h3nADnyn1WSit4d9wzL",
-      "url": "https://www.craigslist.org/view/d/novato-new-custom-solid-wood-head-for/qG1h3nADnyn1WSit4d9wzL",
-      "title": "New custom solid wood head for Fender Deluxe Reverb amp",
-      "price_text": "$100",
-      "location_text": "novato"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "33KJe5KFF3mPW2LCbBun3R",
       "url": "https://www.craigslist.org/view/d/novato-the-fisher-202-amplifier-fm200/33KJe5KFF3mPW2LCbBun3R",
       "title": "The Fisher X-202-B amplifier & FM200-B Tuner/preamp & Garrard RP",
       "price_text": "$1,100",
       "location_text": "north bay / marin"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "qG1h3nADnyn1WSit4d9wzL",
+      "url": "https://www.craigslist.org/view/d/novato-new-custom-solid-wood-head-for/qG1h3nADnyn1WSit4d9wzL",
+      "title": "New custom solid wood head for Fender Deluxe Reverb amp",
+      "price_text": "$100",
+      "location_text": "novato"
     },
     {
       "source": "craigslist",
@@ -2138,62 +2370,6 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "kXULtmHyEpcpyV1FW87b5a",
-      "url": "https://www.craigslist.org/view/d/vallejo-pacific-drum-shellpack/kXULtmHyEpcpyV1FW87b5a",
-      "title": "Pacific Drum Shellpack",
-      "price_text": "$150",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "oVgHJMDRHf2J8WJFasjDT6",
-      "url": "https://www.craigslist.org/view/d/vallejo-tama-skeleton-drum-set-complete/oVgHJMDRHf2J8WJFasjDT6",
-      "title": "Tama Skeleton Drum Set Complete",
-      "price_text": "$499",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "njNEJukzu9HdG3dUiaSrXz",
-      "url": "https://www.craigslist.org/view/d/vallejo-dw-3000-pedal/njNEJukzu9HdG3dUiaSrXz",
-      "title": "DW 3000 Pedal",
-      "price_text": "$140",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "rwvgTxubqVnv3CSHnj6YTA",
-      "url": "https://www.craigslist.org/view/d/vallejo-gretsch-energy-drum-shellpack/rwvgTxubqVnv3CSHnj6YTA",
-      "title": "Gretsch Energy Drum Shellpack",
-      "price_text": "$499",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "6DoEVBQmAXKRJX7aX2bx9C",
-      "url": "https://www.craigslist.org/view/d/vallejo-tama-rockstar-drum-set-complete/6DoEVBQmAXKRJX7aX2bx9C",
-      "title": "Tama Rockstar Drum Set Complete",
-      "price_text": "$799",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "nVGrKn7DSLUvvsSZPruYqa",
-      "url": "https://www.craigslist.org/view/d/vallejo-ludwig-rare-sizes-element-set/nVGrKn7DSLUvvsSZPruYqa",
-      "title": "Ludwig RARE SIZES Element Set Complete",
-      "price_text": "$499",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "eWMedUXK6nGiLPd3bqr5fm",
-      "url": "https://www.craigslist.org/view/d/vallejo-drumset-with-amp-and-headphones/eWMedUXK6nGiLPd3bqr5fm",
-      "title": "E-Drumset with amp and headphones",
-      "price_text": "$349",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "6jdNDenZW95ULi2HPeqXqC",
       "url": "https://www.craigslist.org/view/d/rohnert-park-tama-hh905d-iron-cobra/6jdNDenZW95ULi2HPeqXqC",
       "title": "Tama HH905D Iron Cobra Lever Glide Hi-hat Stand - 2-leg",
@@ -2362,118 +2538,6 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "7jQAjuhyBpmiTAq4wKsZ1W",
-      "url": "https://www.craigslist.org/view/d/larkspur-klark-teknik-dn6000-audio/7jQAjuhyBpmiTAq4wKsZ1W",
-      "title": "Klark Teknik DN6000 Audio Analyzer",
-      "price_text": "$100",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "g6KCnNFT1LFXKYcFowvihQ",
-      "url": "https://www.craigslist.org/view/d/larkspur-ev-re92l-lavalier-lapel-video/g6KCnNFT1LFXKYcFowvihQ",
-      "title": "EV RE92L Lavalier Lapel Video Mics (Pair)",
-      "price_text": "$100",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "m5MFnim9NWBSJZsGkyDZ4z",
-      "url": "https://www.craigslist.org/view/d/larkspur-samson-phone-headphone-mixer/m5MFnim9NWBSJZsGkyDZ4z",
-      "title": "Samson S-Phone Headphone Mixer / Amplifier",
-      "price_text": "$80",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "7VQYSnYh8cgVFfDxt3A6Gh",
-      "url": "https://www.craigslist.org/view/d/larkspur-mxr-74-vintage-phase-90-pedal/7VQYSnYh8cgVFfDxt3A6Gh",
-      "title": "MXR '74 Vintage Script Phase 90 Pedal",
-      "price_text": "$75",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "uWoJDKfbbvqtwsmGebayuo",
-      "url": "https://www.craigslist.org/view/d/fairfax-2003-ernie-ball-music-man/uWoJDKfbbvqtwsmGebayuo",
-      "title": "2003 Ernie Ball Music Man StingRay Bass",
-      "price_text": "$1,500",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "kangfxeJmE6sukAV6eTzHX",
-      "url": "https://www.craigslist.org/view/d/larkspur-middle-atlantic-rack-space/kangfxeJmE6sukAV6eTzHX",
-      "title": "Middle Atlantic 1 Rack Space Utility Shelf",
-      "price_text": "$20",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "edywABU3PT5rf5gFWxVHsW",
-      "url": "https://www.craigslist.org/view/d/larkspur-radial-engineering-extc-500/edywABU3PT5rf5gFWxVHsW",
-      "title": "RADIAL ENGINEERING EXTC 500 SERIES GUITAR PEDAL INTERFACE",
-      "price_text": "$260",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "dQg37fQN8TR7czHWpoogvq",
-      "url": "https://www.craigslist.org/view/d/larkspur-whirlwind-sc48rj-pro-audio/dQg37fQN8TR7czHWpoogvq",
-      "title": "Whirlwind SC48RJ Pro Audio Cable Tester",
-      "price_text": "$50",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "oijGTaf6GLmbqg3W7rtvCr",
-      "url": "https://www.craigslist.org/view/d/larkspur-universal-audio-ruby-63-top/oijGTaf6GLmbqg3W7rtvCr",
-      "title": "Universal Audio Ruby '63 Top Boost Amplifier Pedal",
-      "price_text": "$260",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "8NGdopisiHCzrWNgB6WaAn",
-      "url": "https://www.craigslist.org/view/d/larkspur-acme-audio-opticom-xla-500/8NGdopisiHCzrWNgB6WaAn",
-      "title": "Acme Audio Opticom XLA-500 Series Tube Optical Limiter",
-      "price_text": "$700",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "2Fi3mYvL9eiZoHQCLWjQWk",
-      "url": "https://www.craigslist.org/view/d/larkspur-alan-smart-smart-research-c2/2Fi3mYvL9eiZoHQCLWjQWk",
-      "title": "Alan Smart - Smart Research C2",
-      "price_text": "$1,700",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "4CKWcC3UDLGBATK9Fn4S1f",
-      "url": "https://www.craigslist.org/view/d/larkspur-warm-audio-wa-84-condenser/4CKWcC3UDLGBATK9Fn4S1f",
-      "title": "Warm Audio WA-84 Condenser Microphone",
-      "price_text": "$250",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "kjYDzKZDZGXLCexgSRPuJA",
-      "url": "https://www.craigslist.org/view/d/larkspur-universal-audio-uafx-lion-68/kjYDzKZDZGXLCexgSRPuJA",
-      "title": "Universal Audio UAFX Lion '68 Super Lead Amp Pedal",
-      "price_text": "$260",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "nT4ZamgPZVGrg9bJ2mNsm3",
-      "url": "https://www.craigslist.org/view/d/fairfax-radial-j48-active-di-box/nT4ZamgPZVGrg9bJ2mNsm3",
-      "title": "Radial J48 Active DI Box",
-      "price_text": "$100",
-      "location_text": "larkspur"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "eJEm9DHUkEC42viGhrC8gg",
       "url": "https://www.craigslist.org/view/d/cotati-oscar-schmidt-autoharp-12-chord/eJEm9DHUkEC42viGhrC8gg",
       "title": "Oscar Schmidt Autoharp 12 Chord 36 String Music Instrument WORKS",
@@ -2530,18 +2594,18 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "5HRT8uDi4yNCa7PFQnUhy3",
-      "url": "https://www.craigslist.org/view/d/mill-valley-1971-gibson-sg-cherry/5HRT8uDi4yNCa7PFQnUhy3",
-      "title": "1971 Gibson SG – Cherry / Bigsby / OHSC – (USA)",
-      "price_text": "$3,500",
-      "location_text": "mill valley"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "c8BfnpjkX5TMCzrmdsQLzG",
       "url": "https://www.craigslist.org/view/d/mill-valley-darbyn-gil-boutique/c8BfnpjkX5TMCzrmdsQLzG",
       "title": "Darbyn Gil Boutique Stratocaster –  flight case and strap included",
       "price_text": "$2,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "5HRT8uDi4yNCa7PFQnUhy3",
+      "url": "https://www.craigslist.org/view/d/mill-valley-1971-gibson-sg-cherry/5HRT8uDi4yNCa7PFQnUhy3",
+      "title": "1971 Gibson SG – Cherry / Bigsby / OHSC – (USA)",
+      "price_text": "$3,500",
       "location_text": "mill valley"
     },
     {
@@ -2602,18 +2666,18 @@
     },
     {
       "source": "craigslist",
-      "listing_id": "jUziVvfBnSDr3nURaT7nnb",
-      "url": "https://www.craigslist.org/view/d/mill-valley-2003-kenny-hill-fleta-model/jUziVvfBnSDr3nURaT7nnb",
-      "title": "2003 Kenny Hill Fleta Model Classical Guitar w case",
-      "price_text": "$4,500",
-      "location_text": "mill valley"
-    },
-    {
-      "source": "craigslist",
       "listing_id": "moecPxH4amBYY7xrMCaZ33",
       "url": "https://www.craigslist.org/view/d/mill-valley-2017-godin-multiac-nylon/moecPxH4amBYY7xrMCaZ33",
       "title": "2017 Godin Multiac Nylon Encore —Brand new/ Mint + original gig bag",
       "price_text": "$1,500",
+      "location_text": "mill valley"
+    },
+    {
+      "source": "craigslist",
+      "listing_id": "jUziVvfBnSDr3nURaT7nnb",
+      "url": "https://www.craigslist.org/view/d/mill-valley-2003-kenny-hill-fleta-model/jUziVvfBnSDr3nURaT7nnb",
+      "title": "2003 Kenny Hill Fleta Model Classical Guitar w case",
+      "price_text": "$4,500",
       "location_text": "mill valley"
     },
     {
@@ -2775,70 +2839,6 @@
       "title": "GRETSCH BROOKLYN DRUMS - EBONY",
       "price_text": "$2,200",
       "location_text": "Fairfax"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "gsQPRVaL9QDSoFQDDrYAps",
-      "url": "https://www.craigslist.org/view/d/fairfax-tama-ergo-rider-throne-with/gsQPRVaL9QDSoFQDDrYAps",
-      "title": "TAMA ERGO RIDER THRONE with BACKREST",
-      "price_text": "$250",
-      "location_text": "Fairfax"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "94bopPv5HfdbVJpXuAwBih",
-      "url": "https://www.craigslist.org/view/d/petaluma-peavey-20-watt-amp-microbass/94bopPv5HfdbVJpXuAwBih",
-      "title": "Peavey 20 watt  amp microbass",
-      "price_text": "$100",
-      "location_text": "Petaluma"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "woajFNqN7XA3AbqKuosHat",
-      "url": "https://www.craigslist.org/view/d/vallejo-vox-guitar-amp-v9159-used-100/woajFNqN7XA3AbqKuosHat",
-      "title": "Vox Guitar Amp v9159 *USED* $100 or best offer",
-      "price_text": "$100",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "iCjX6oq3urMmABRLaaFfy4",
-      "url": "https://www.craigslist.org/view/d/vallejo-marshall-amp-mg15cfr-used-120/iCjX6oq3urMmABRLaaFfy4",
-      "title": "MARSHALL Amp MG15CFR Used $120 or best offer",
-      "price_text": "$120",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "edwgd3hRh8S4gYfELaVvAN",
-      "url": "https://www.craigslist.org/view/d/vallejo-mitchell-mm100-guitar-90-or/edwgd3hRh8S4gYfELaVvAN",
-      "title": "Mitchell MM100 guitar $90 or best offer",
-      "price_text": "$90",
-      "location_text": "vallejo / benicia"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "kXEg1cpVVnHSgAivHDmZ1C",
-      "url": "https://www.craigslist.org/view/d/richmond-prs-se-custom/kXEg1cpVVnHSgAivHDmZ1C",
-      "title": "PRS SE Custom",
-      "price_text": "$450",
-      "location_text": "Richmond"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "u7dyVxxAkQhRiYeNsCFAvj",
-      "url": "https://www.craigslist.org/view/d/novato-visual-sound-route-66-v1/u7dyVxxAkQhRiYeNsCFAvj",
-      "title": "Visual Sound Route 66 V1 Overdrive + Compressor Pedal",
-      "price_text": "$65",
-      "location_text": "novato"
-    },
-    {
-      "source": "craigslist",
-      "listing_id": "nCb9u154C3ut8gkh1M72g3",
-      "url": "https://www.craigslist.org/view/d/novato-1985-ibanez-stl-super-tube/nCb9u154C3ut8gkh1M72g3",
-      "title": "1985 Ibanez STL Super Tube Guitar Effect Pedal",
-      "price_text": "$199",
-      "location_text": "novato"
     },
     {
       "source": "craigslist",
