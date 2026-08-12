@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-12T13:53:35.563511-07:00",
+  "as_of": "2026-08-12T14:33:41.111524-07:00",
   "limitations": [
     "Used ranges are the central 20th-80th percentile of conservatively filtered exact-model eBay completed listings; shipping is not included.",
     "Sparse samples remain low-confidence. PreSonus monitor and subwoofer component ranges are combined; incomparable complete bundles are excluded.",
