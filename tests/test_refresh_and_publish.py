@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pytest
 
-from scripts.refresh_and_publish import collection_is_healthy, refresh_facebook
+from scripts.refresh_and_publish import collection_is_healthy, refresh_craigslist, refresh_facebook
 
 
 def write_payload(path: Path, listings: int, failures: int = 0) -> None:
@@ -19,6 +19,29 @@ def test_collection_health_requires_minimum_rows_and_no_failures(tmp_path):
     assert not collection_is_healthy(target, minimum=40)
     write_payload(target, 50, failures=1)
     assert not collection_is_healthy(target, minimum=40)
+
+
+def test_craigslist_refresh_runs_collection_and_inspection(monkeypatch, tmp_path):
+    import scripts.refresh_and_publish as module
+
+    monkeypatch.setattr(module, "ROOT", tmp_path)
+    monkeypatch.setattr(module, "PYTHON", Path("python.exe"))
+    commands = []
+
+    def fake_run(command):
+        commands.append(command)
+        if "collect" in command:
+            write_payload(tmp_path / "data" / "raw" / "craigslist.json", 50)
+        else:
+            target = tmp_path / "data" / "normalized" / "craigslist.json"
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(json.dumps({"accepted": [{}] * 10, "failures": []}), encoding="utf-8")
+
+    monkeypatch.setattr(module, "run", fake_run)
+    refresh_craigslist()
+    assert len(commands) == 2
+    assert commands[0][1:4] == ["-m", "audio_scraper.cli", "collect"]
+    assert commands[1][1:] == ["scripts/inspect_craigslist.py"]
 
 
 def test_facebook_refresh_restores_previous_data_on_failed_health_check(tmp_path, monkeypatch):
