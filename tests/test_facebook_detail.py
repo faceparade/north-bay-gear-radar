@@ -89,3 +89,11 @@ def test_placeholder_prices_require_detail_evidence(price_text):
 
 def test_ordinary_fixed_price_does_not_require_detail_navigation():
     assert not requires_detail_evidence({"price_text": "$80"})
+
+
+def test_reduced_price_card_with_money_only_title_requires_detail_navigation():
+    assert requires_detail_evidence({
+        "title": "$125",
+        "price_text": "$75",
+        "discovery_groups": ["recording_foundation"],
+    })

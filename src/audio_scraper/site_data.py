@@ -11,7 +11,7 @@ from audio_scraper.scoring import score_category_screening_fit
 
 
 CATEGORY_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
-    ("interfaces", ("audio interface", "audiobox", "audio box", "scarlett", "komplete audio", "studio 26c", "studio 24c", "umc22", "umc202", "umc204", "u-phoria", "firebox", "motu 896", "motu ultralite", "steinberg ci", "steinberg ur", "apogee one", "pod studio ux", "pro tools 002")),
+    ("interfaces", ("audio interface", "audiobox", "audio box", "scarlett", "komplete audio", "studio 26c", "studio 24c", "umc22", "umc202", "umc204", "u-phoria", "firebox", "motu 896", "motu ultralite", "steinberg ci", "steinberg ur", "tascam series", "apogee one", "pod studio ux", "pro tools 002")),
     ("mixers", ("mixer", "mixing console", "profx", "xenyx", "yamaha ag03", "yamaha ag06", "mixing station")),
     ("monitors", ("studio monitor", "powered monitor", "mediaone", "mackie mr", "eris 3.5", "eris 4.5", "monitor speakers")),
     ("subwoofers", ("subwoofer", "sub 8bt", "studio sub")),
@@ -74,6 +74,12 @@ def _facebook_price_evidence(row: dict[str, Any]) -> dict[str, Any]:
 
     headline = parse_price(row.get("price_text"))
     detail = parse_price(row.get("detail_price_text"))
+    title = _text(row.get("title")).strip()
+    struck_through_former_price = (
+        bool(re.fullmatch(r"\$[\d,]+(?:\.\d{1,2})?", title))
+        and parse_price(title) != headline
+        and headline is not None
+    )
     description = _text(row.get("description")).strip()
     description_prices = list(dict.fromkeys(_money_values(description)))
     free_headline = bool(re.search(r"\bfree\b", _text(row.get("price_text")), flags=re.I))
@@ -108,6 +114,18 @@ def _facebook_price_evidence(row: dict[str, Any]) -> dict[str, Any]:
             "asking_price": None,
             "price_status": "missing",
             "price_note": "The source did not provide a usable asking price.",
+        }
+    if struck_through_former_price:
+        former_price = parse_price(title)
+        return {
+            "headline_price": headline,
+            "former_price": former_price,
+            "asking_price": headline,
+            "price_status": "reduced_headline",
+            "price_note": (
+                f"Marketplace shows a reduced asking price of ${headline:,.0f}; "
+                f"the former ${former_price:,.0f} price is struck through."
+            ),
         }
     if not placeholder:
         return {

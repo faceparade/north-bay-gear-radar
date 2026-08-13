@@ -56,6 +56,7 @@ def test_listing_triage_can_supply_an_authoritative_best_fit_score():
 def test_categorize_title_prefers_audio_interface_over_generic_recording_terms():
     assert categorize_title("Native Instruments Komplete Audio 2 USB Audio Interface") == "interfaces"
     assert categorize_title("Presonus Audiobox USB interface") == "interfaces"
+    assert categorize_title("Tascam Series 102i") == "interfaces"
 
 
 def test_categorize_title_rejects_computer_keyboards_from_music_keyboard_category():
@@ -138,6 +139,23 @@ def test_detail_page_replacement_price_supersedes_stale_placeholder_headline():
     assert record["asking_price"] == 1500.0
     assert record["price_status"] == "verified_detail"
     assert record["listing_age_text"] == "31 weeks ago"
+
+
+def test_reduced_marketplace_card_keeps_current_price_when_former_price_is_its_title():
+    record = normalize_facebook_listing(
+        {
+            "listing_id": "reduced-card",
+            "title": "$125",
+            "detail_title": "Tascam Series 102i",
+            "price_text": "$75",
+            "detail_price_text": "$150",
+        },
+        "2026-08-12T12:00:00-07:00",
+    )
+    assert record["title"] == "Tascam Series 102i"
+    assert record["former_price"] == 125.0
+    assert record["asking_price"] == 75.0
+    assert record["price_status"] == "reduced_headline"
 
 
 def test_one_unambiguous_description_price_can_validate_a_placeholder():

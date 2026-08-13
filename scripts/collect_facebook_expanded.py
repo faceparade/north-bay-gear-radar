@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 from dataclasses import asdict
 from datetime import datetime
 from pathlib import Path
@@ -102,12 +103,24 @@ def search_url(query: str) -> str:
 
 
 def requires_detail_evidence(row: dict) -> bool:
-    """Collect detail evidence for ambiguous prices and every interface listing."""
+    """Collect detail evidence for ambiguous prices and every likely interface.
+
+    Marketplace reduced-price cards can expose the struck-through former price as
+    the card title.  Those rows cannot be categorized from the card alone, but a
+    recording-foundation search that produced a money-only title still warrants a
+    detail check before it is discarded.
+    """
     price_text = str(row.get("price_text", ""))
+    title = str(row.get("title", "")).strip()
+    malformed_reduced_price_card = (
+        bool(re.fullmatch(r"\$[\d,]+(?:\.\d{1,2})?", title))
+        and "recording_foundation" in (row.get("discovery_groups") or [])
+    )
     return (
         "free" in price_text.lower()
         or parse_price(price_text) in PLACEHOLDER_PRICES
         or categorize_title(str(row.get("title", ""))) == "interfaces"
+        or malformed_reduced_price_card
     )
 
 
@@ -201,7 +214,14 @@ def main() -> None:
             row["title"].lower(),
         ),
     )
-    photo_rows = [row for row in rows if categorize_title(row["title"]) != "excluded"]
+    # Do not discard a reduced-price card merely because Marketplace placed the
+    # crossed-out former price in its title slot.  It needs detail extraction to
+    # recover its real title before category filtering and thumbnail collection.
+    photo_rows = [
+        row
+        for row in rows
+        if categorize_title(row["title"]) != "excluded" or requires_detail_evidence(row)
+    ]
     thumbnail_summary = sync_listing_thumbnails(photo_rows, site_root=ROOT / "site")
     detail_failures: list[dict[str, object]] = []
     details_fetched_current = 0
