@@ -37,6 +37,12 @@ EXCLUDE_TERMS = (
     "audioengine p4", "edifier r1280", "boston acoustics", "pc speakers", "stero equipment",
     "integrated amp", "nobsound", "pac interface", "metra 95", "kids music instruments",
     "handcrafted moroccan", "music industry resource", "electronics",
+    # Broad Marketplace searches can return unrelated listings that mention a
+    # query word only in passing.  Keep those out of the public music-gear
+    # inventory rather than labeling them as generic audio.
+    "garden hose", "hose reel", "nintendo", "playstation", "iphone", "laptop",
+    "dictionary", "looking for bass", "delivery box", "drop boxes", "vr espn",
+    "package", "tv aquos", "tool/storage", "cash register", "cash drawer",
 )
 
 

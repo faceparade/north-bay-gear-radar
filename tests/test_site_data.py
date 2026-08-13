@@ -71,6 +71,8 @@ def test_categorize_title_filters_malformed_and_non_music_results():
     assert categorize_title("$1,234") == "excluded"
     assert categorize_title("two brand-new LG 27 monitors") == "excluded"
     assert categorize_title("Weather Guard Truck Tool Box") == "excluded"
+    assert categorize_title("Hosemobile Garden Hose Reel") == "excluded"
+    assert categorize_title("Nintendo power A controller (new)") == "excluded"
 
 
 def test_categorize_title_expands_real_instrument_categories():
