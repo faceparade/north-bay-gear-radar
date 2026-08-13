@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:20:27.085145+00:00",
+  "generated_at": "2026-08-13T06:11:17.778776+00:00",
   "source_as_of": {
     "facebook": "2026-08-12T22:00:05.599870-07:00",
     "ebay_sold": "2026-08-12T11:26:16.740994-07:00"
@@ -8,7 +8,7 @@
     "active": 347,
     "sold": 154,
     "new_discoveries": 252,
-    "scored": 347,
+    "scored": 328,
     "excluded_facebook": 195,
     "total": 501
   },
@@ -520,6 +520,7 @@
       ],
       "recommendation": "investigate",
       "score": 45.0,
+      "score_basis": "listing_research",
       "fit_rank": 6
     },
     {
@@ -590,6 +591,7 @@
       "condition": "Listing says it works and includes USB cable; verify all inputs/outputs.",
       "accessories": "USB cable included.",
       "recommendation": "temporary_only",
+      "score_basis": "listing_research",
       "fit_rank": 14
     },
     {
@@ -910,6 +912,7 @@
       ],
       "recommendation": "investigate",
       "score": 42.0,
+      "score_basis": "listing_research",
       "fit_rank": 8
     },
     {
@@ -1231,6 +1234,7 @@
       ],
       "recommendation": "buy",
       "score": 89.0,
+      "score_basis": "listing_research",
       "fit_rank": 2
     },
     {
@@ -1364,12 +1368,9 @@
       "asking_price": 40.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -1594,6 +1595,7 @@
       ],
       "recommendation": "pass",
       "score": 15.0,
+      "score_basis": "listing_research",
       "fit_rank": 16
     },
     {
@@ -1695,12 +1697,9 @@
       "asking_price": 40.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -1729,12 +1728,9 @@
       "asking_price": 40.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -2018,6 +2014,7 @@
       ],
       "recommendation": "pass",
       "score": 28.0,
+      "score_basis": "listing_research",
       "fit_rank": 13
     },
     {
@@ -2422,12 +2419,9 @@
       "asking_price": 50.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -2508,6 +2502,7 @@
       ],
       "recommendation": "pass",
       "score": 12.0,
+      "score_basis": "listing_research",
       "fit_rank": 17
     },
     {
@@ -2891,12 +2886,9 @@
       "asking_price": 60.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -2975,6 +2967,7 @@
       ],
       "recommendation": "pass",
       "score": 30.0,
+      "score_basis": "listing_research",
       "fit_rank": 12
     },
     {
@@ -3054,6 +3047,7 @@
       ],
       "recommendation": "investigate",
       "score": 41.0,
+      "score_basis": "listing_research",
       "fit_rank": 9
     },
     {
@@ -3372,6 +3366,7 @@
       ],
       "recommendation": "offer",
       "score": 60.0,
+      "score_basis": "listing_research",
       "fit_rank": 5
     },
     {
@@ -3504,12 +3499,9 @@
       "asking_price": 75.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -3541,12 +3533,9 @@
       "asking_price": 75.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -3704,12 +3693,9 @@
       "asking_price": 75.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -3738,12 +3724,9 @@
       "asking_price": 75.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -3772,12 +3755,9 @@
       "asking_price": 79.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -4257,12 +4237,9 @@
       "asking_price": 85.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -4358,12 +4335,9 @@
       "asking_price": 90.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -4556,6 +4530,7 @@
       ],
       "recommendation": "buy",
       "score": 91.0,
+      "score_basis": "listing_research",
       "fit_rank": 1
     },
     {
@@ -5173,12 +5148,9 @@
       "asking_price": 100.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -5367,12 +5339,9 @@
       "asking_price": 100.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -5541,12 +5510,9 @@
       "asking_price": 112.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -6225,12 +6191,9 @@
       "asking_price": 149.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -6395,12 +6358,9 @@
       "asking_price": 150.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -6553,6 +6513,7 @@
       ],
       "recommendation": "buy",
       "score": 82.0,
+      "score_basis": "listing_research",
       "fit_rank": 3
     },
     {
@@ -7352,6 +7313,7 @@
       ],
       "recommendation": "investigate",
       "score": 40.0,
+      "score_basis": "listing_research",
       "fit_rank": 10
     },
     {
@@ -7551,6 +7513,7 @@
       ],
       "recommendation": "consider",
       "score": 38.0,
+      "score_basis": "listing_research",
       "fit_rank": 11
     },
     {
@@ -7746,12 +7709,9 @@
       "asking_price": 225.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -8435,12 +8395,9 @@
       "asking_price": 299.0,
       "price_status": "headline",
       "price_note": "Headline asking price; detail text was not required for placeholder validation.",
-      "score": 62.0,
-      "score_basis": "category_screening",
+      "score_basis": "research_required",
       "score_notes": [
-        "category_screening_fit",
-        "exact_model_condition_and_market_value_unverified",
-        "insufficient_price_evidence"
+        "exact_model_condition_compatibility_and_market_value_require_listing_research"
       ]
     },
     {
@@ -8522,6 +8479,7 @@
       ],
       "recommendation": "pass",
       "score": 8.0,
+      "score_basis": "listing_research",
       "fit_rank": 19
     },
     {

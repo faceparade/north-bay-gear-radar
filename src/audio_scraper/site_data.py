@@ -306,14 +306,25 @@ def _attach_marketplace_triage(
         # listing from floating above newly reviewed modern alternatives.
         if "score" in finding:
             record["score"] = _score_value(finding.get("score"))
+            record["score_basis"] = "listing_research"
         if "fit_rank" in finding:
             record["fit_rank"] = finding.get("fit_rank")
 
 
 def _attach_screening_fit_scores(records: Iterable[dict[str, Any]]) -> None:
-    """Ensure every active listing has a transparent, non-invented fit score."""
+    """Attach category-screening scores only where they cannot look like deal research.
+
+    An interface's generation, driver support, I/O, condition, accessories, and
+    market value vary too much for a category baseline to be a deal score.
+    """
     for record in records:
         if record.get("listing_type") != "active" or record.get("score") is not None:
+            continue
+        if record.get("category") == "interfaces":
+            record["score_basis"] = "research_required"
+            record["score_notes"] = [
+                "exact_model_condition_compatibility_and_market_value_require_listing_research",
+            ]
             continue
         result = score_category_screening_fit(
             category=_text(record.get("category")),

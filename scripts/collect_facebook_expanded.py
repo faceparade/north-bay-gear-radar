@@ -102,8 +102,13 @@ def search_url(query: str) -> str:
 
 
 def requires_detail_evidence(row: dict) -> bool:
+    """Collect detail evidence for ambiguous prices and every interface listing."""
     price_text = str(row.get("price_text", ""))
-    return "free" in price_text.lower() or parse_price(price_text) in PLACEHOLDER_PRICES
+    return (
+        "free" in price_text.lower()
+        or parse_price(price_text) in PLACEHOLDER_PRICES
+        or categorize_title(str(row.get("title", ""))) == "interfaces"
+    )
 
 
 def main() -> None:
@@ -243,7 +248,7 @@ def main() -> None:
         "failures": failures,
         "detail_failures": detail_failures,
         "details_checked": sum(bool(row.get("detail_checked_at")) for row in photo_rows),
-        "detail_collection_scope": "placeholder_prices",
+        "detail_collection_scope": "placeholder_prices_and_interfaces",
         "details_attempted": len(detail_rows),
         "details_fetched_current": details_fetched_current,
         "searches": searches,

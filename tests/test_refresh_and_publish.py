@@ -31,13 +31,13 @@ def test_collection_health_requires_minimum_rows_and_no_failures(tmp_path):
 def test_facebook_detail_health_requires_broad_detail_coverage(tmp_path):
     target = tmp_path / "facebook.json"
     target.write_text(json.dumps({
-        "detail_collection_scope": "placeholder_prices",
+        "detail_collection_scope": "placeholder_prices_and_interfaces",
         "details_attempted": 100,
         "details_fetched_current": 75,
     }), encoding="utf-8")
     assert facebook_details_are_healthy(target)
     payload = {
-        "detail_collection_scope": "placeholder_prices",
+        "detail_collection_scope": "placeholder_prices_and_interfaces",
         "details_attempted": 100,
         "details_fetched_current": 74,
     }
@@ -45,7 +45,7 @@ def test_facebook_detail_health_requires_broad_detail_coverage(tmp_path):
     assert not facebook_details_are_healthy(target)
 
     target.write_text(json.dumps({
-        "detail_collection_scope": "placeholder_prices",
+        "detail_collection_scope": "placeholder_prices_and_interfaces",
         "details_attempted": 0,
         "details_fetched_current": 0,
     }), encoding="utf-8")

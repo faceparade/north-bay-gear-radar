@@ -52,7 +52,7 @@ def facebook_details_are_healthy(path: Path, *, minimum_ratio: float = 0.75) -> 
         payload = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return False
-    if payload.get("detail_collection_scope") != "placeholder_prices":
+    if payload.get("detail_collection_scope") != "placeholder_prices_and_interfaces":
         return False
     attempted = int(payload.get("details_attempted", 0))
     fetched = int(payload.get("details_fetched_current", 0))

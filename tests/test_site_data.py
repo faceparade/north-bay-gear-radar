@@ -197,7 +197,7 @@ def test_single_historical_amount_without_ask_language_stays_unpriced():
     assert record["price_status"] == "placeholder_unverified"
 
 
-def test_unpriced_placeholder_keeps_screening_fit_but_cannot_inherit_rank_or_buying_guidance():
+def test_unpriced_interface_is_marked_for_research_and_cannot_inherit_buying_guidance():
     payload = build_site_payload(
         facebook={
             "as_of": "2026-08-12T12:00:00-07:00",
@@ -226,8 +226,8 @@ def test_unpriced_placeholder_keeps_screening_fit_but_cannot_inherit_rank_or_buy
     )
     row = payload["listings"][0]
     assert row["asking_price"] is None
-    assert row["score"] > 0
-    assert row["score_basis"] == "category_screening"
+    assert row.get("score") is None
+    assert row["score_basis"] == "research_required"
     assert row.get("rank") is None
     assert row.get("market") is None
     assert row.get("recommendation") is None
@@ -235,11 +235,11 @@ def test_unpriced_placeholder_keeps_screening_fit_but_cannot_inherit_rank_or_buy
     assert "unverified_asking_price" in row["risk_flags"]
 
 
-def test_every_active_listing_receives_fit_score_when_only_some_have_exact_scoring():
+def test_unresearched_interfaces_are_marked_for_research_not_given_a_deal_score():
     payload = build_site_payload(
         facebook={"as_of": "2026-08-12T00:00:00Z", "listings": [
             {"listing_id": "exact", "url": "https://facebook.example/exact", "title": "Audio interface", "price_text": "$60"},
-            {"listing_id": "screen", "url": "https://facebook.example/screen", "title": "Drum throne", "price_text": "$10"},
+            {"listing_id": "screen", "url": "https://facebook.example/screen", "title": "Audio interface", "price_text": "$10"},
         ]},
         craigslist={"accepted": []},
         shortlist={"scored": [{
@@ -251,11 +251,27 @@ def test_every_active_listing_receives_fit_score_when_only_some_have_exact_scori
     )
     active = [row for row in payload["listings"] if row["listing_type"] == "active"]
     assert len(active) == 2
-    assert all(row["score"] is not None for row in active)
     screened = next(row for row in active if row["listing_id"] == "screen")
-    assert screened["score_basis"] == "category_screening"
-    assert payload["stats"]["scored"] == 2
+    assert screened.get("score") is None
+    assert screened["score_basis"] == "research_required"
+    assert "exact_model_condition_compatibility_and_market_value_require_listing_research" in screened["score_notes"]
+    assert payload["stats"]["scored"] == 1
 
+
+def test_researched_interface_score_is_explicitly_listing_research():
+    payload = build_site_payload(
+        facebook={"as_of": "2026-08-12T00:00:00Z", "listings": [
+            {"listing_id": "reviewed", "title": "Focusrite Scarlett 4i4", "price_text": "$99"},
+        ]},
+        craigslist={"accepted": []}, shortlist={"scored": []}, sold={"listings": []},
+        marketplace_triage={"listings": {"reviewed": {
+            "model": "Focusrite Scarlett 4i4 (3rd Gen)", "score": 91, "fit_rank": 1,
+            "market": {"used_low": 109, "used_high": 165},
+       }}},
+    )
+    row = payload["listings"][0]
+    assert row["score"] == 91.0
+    assert row["score_basis"] == "listing_research"
 
 def test_placeholder_lot_with_multiple_description_prices_stays_unpriced():
     record = normalize_facebook_listing(
