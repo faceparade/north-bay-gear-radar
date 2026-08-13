@@ -186,7 +186,12 @@ function renderCard(row) {
   fragment.querySelector(".price-kind").textContent = presentation.kind;
   if (row.score != null) {
     fragment.querySelector(".score-block").hidden = false;
-    fragment.querySelector(".score").textContent = row.score.toFixed(1);
+    const score = fragment.querySelector(".score");
+    score.textContent = row.score.toFixed(1);
+    if (row.score_basis === "category_screening") {
+      score.title = "Category screening fit; exact model, condition, and market value still need verification.";
+      score.setAttribute("aria-label", `${row.score.toFixed(1)} category screening fit; exact model, condition, and market value still need verification.`);
+    }
   }
   const market = row.market || {};
   fragment.querySelector(".facts").innerHTML = [

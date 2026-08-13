@@ -7,6 +7,8 @@ from typing import Any, Iterable
 import json
 import re
 
+from audio_scraper.scoring import score_category_screening_fit
+
 
 CATEGORY_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("interfaces", ("audio interface", "audiobox", "audio box", "scarlett", "komplete audio", "studio 26c", "studio 24c", "umc22", "umc202", "umc204", "u-phoria", "firebox", "motu 896", "motu ultralite", "steinberg ci", "steinberg ur", "apogee one", "pod studio ux", "pro tools 002")),
@@ -308,12 +310,28 @@ def _attach_marketplace_triage(
             record["fit_rank"] = finding.get("fit_rank")
 
 
+def _attach_screening_fit_scores(records: Iterable[dict[str, Any]]) -> None:
+    """Ensure every active listing has a transparent, non-invented fit score."""
+    for record in records:
+        if record.get("listing_type") != "active" or record.get("score") is not None:
+            continue
+        result = score_category_screening_fit(
+            category=_text(record.get("category")),
+            asking_price=record.get("asking_price"),
+        )
+        record["score"] = result.total
+        record["score_basis"] = "category_screening"
+        record["score_notes"] = list(result.notes)
+
+
 def _remove_price_dependent_guidance(records: Iterable[dict[str, Any]]) -> None:
     """Never rank or recommend an active listing whose real ask is unknown."""
     for record in records:
         if record.get("listing_type") != "active" or record.get("asking_price") is not None:
             continue
-        for field in ("rank", "score", "market", "recommendation", "research_notes"):
+        # Fit remains available for every item. Only price-dependent guidance is
+        # removed when a real ask cannot be verified.
+        for field in ("rank", "fit_rank", "score", "market", "recommendation", "research_notes"):
             record.pop(field, None)
         flags = list(record.get("risk_flags") or [])
         if "unverified_asking_price" not in flags:
@@ -341,6 +359,7 @@ def build_site_payload(
     _attach_scores(active, shortlist)
     _attach_marketplace_triage(active, marketplace_triage or {})
     _remove_price_dependent_guidance(active)
+    _attach_screening_fit_scores(active)
     listings = sorted(
         active + sold_rows,
         key=lambda row: (

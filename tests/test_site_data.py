@@ -197,7 +197,7 @@ def test_single_historical_amount_without_ask_language_stays_unpriced():
     assert record["price_status"] == "placeholder_unverified"
 
 
-def test_unpriced_placeholder_cannot_inherit_rank_or_buying_guidance():
+def test_unpriced_placeholder_keeps_screening_fit_but_cannot_inherit_rank_or_buying_guidance():
     payload = build_site_payload(
         facebook={
             "as_of": "2026-08-12T12:00:00-07:00",
@@ -226,12 +226,35 @@ def test_unpriced_placeholder_cannot_inherit_rank_or_buying_guidance():
     )
     row = payload["listings"][0]
     assert row["asking_price"] is None
-    assert row.get("score") is None
+    assert row["score"] > 0
+    assert row["score_basis"] == "category_screening"
     assert row.get("rank") is None
     assert row.get("market") is None
     assert row.get("recommendation") is None
     assert row.get("research_notes") is None
     assert "unverified_asking_price" in row["risk_flags"]
+
+
+def test_every_active_listing_receives_fit_score_when_only_some_have_exact_scoring():
+    payload = build_site_payload(
+        facebook={"as_of": "2026-08-12T00:00:00Z", "listings": [
+            {"listing_id": "exact", "url": "https://facebook.example/exact", "title": "Audio interface", "price_text": "$60"},
+            {"listing_id": "screen", "url": "https://facebook.example/screen", "title": "Drum throne", "price_text": "$10"},
+        ]},
+        craigslist={"accepted": []},
+        shortlist={"scored": [{
+            "listing_url": "https://facebook.example/exact",
+            "score": {"total": 88.0},
+            "rank": 1,
+        }]},
+        sold={"listings": []},
+    )
+    active = [row for row in payload["listings"] if row["listing_type"] == "active"]
+    assert len(active) == 2
+    assert all(row["score"] is not None for row in active)
+    screened = next(row for row in active if row["listing_id"] == "screen")
+    assert screened["score_basis"] == "category_screening"
+    assert payload["stats"]["scored"] == 2
 
 
 def test_placeholder_lot_with_multiple_description_prices_stays_unpriced():
