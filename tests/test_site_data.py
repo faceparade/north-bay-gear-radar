@@ -55,6 +55,7 @@ def test_listing_triage_can_supply_an_authoritative_best_fit_score():
 
 def test_categorize_title_prefers_audio_interface_over_generic_recording_terms():
     assert categorize_title("Native Instruments Komplete Audio 2 USB Audio Interface") == "interfaces"
+    assert categorize_title("Presonus Audiobox USB interface") == "interfaces"
 
 
 def test_categorize_title_rejects_computer_keyboards_from_music_keyboard_category():

@@ -31,8 +31,13 @@ CATEGORY_URLS = {
     "electronics": "https://www.facebook.com/marketplace/107325029289930/search/?category_id=479353692612078&query=Electronics&exact=false&referral_ui_component=category_menu_item&sortBy=creation_time_descend",
 }
 INITIAL_CATEGORY_SCROLLS = 25
-REFRESH_CATEGORY_SCROLLS = 5
-SEARCH_SCROLLS = 5
+# Five scrolls is too shallow for a recurring inventory pass: Marketplace can
+# interleave promoted and older items ahead of a fresh local listing.  Keep the
+# one-time archive backfill bounded, but use a materially wider newest-first
+# window on every refresh so that a single query's ranking does not decide
+# recall.
+REFRESH_CATEGORY_SCROLLS = 12
+SEARCH_SCROLLS = 12
 
 
 def category_discovery_plan(*, has_completed_initial_backfill: bool) -> list[tuple[str, str, int]]:
@@ -46,6 +51,11 @@ QUERY_GROUPS = {
         # discovery terms for listings sellers describe differently.
         "audio interface",
         "USB audio interface",
+        "PreSonus AudioBox",
+        "Focusrite Scarlett",
+        "Behringer UMC",
+        "Steinberg UR",
+        "M-Audio interface",
         "2 input audio interface",
         "recording mixer USB",
         "compact audio mixer",

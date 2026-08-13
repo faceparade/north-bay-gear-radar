@@ -9,7 +9,7 @@ import re
 
 
 CATEGORY_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
-    ("interfaces", ("audio interface", "scarlett", "komplete audio", "studio 26c", "studio 24c", "umc22", "umc202", "umc204", "u-phoria", "firebox", "motu 896", "motu ultralite", "steinberg ci", "steinberg ur", "apogee one", "pod studio ux", "pro tools 002")),
+    ("interfaces", ("audio interface", "audiobox", "audio box", "scarlett", "komplete audio", "studio 26c", "studio 24c", "umc22", "umc202", "umc204", "u-phoria", "firebox", "motu 896", "motu ultralite", "steinberg ci", "steinberg ur", "apogee one", "pod studio ux", "pro tools 002")),
     ("mixers", ("mixer", "mixing console", "profx", "xenyx", "yamaha ag03", "yamaha ag06", "mixing station")),
     ("monitors", ("studio monitor", "powered monitor", "mediaone", "mackie mr", "eris 3.5", "eris 4.5", "monitor speakers")),
     ("subwoofers", ("subwoofer", "sub 8bt", "studio sub")),
